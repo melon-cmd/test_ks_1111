@@ -1,2600 +1,3915 @@
 # YouTube 视频分析报告（Score >= 30）
 
-**生成时间：** 2026-02-21T20:52:54.391004
-**搜索来源：** UCh0CvdWo_RZzbqpI2OIO7Zg, NocFree
-**总收集：** 56 | **排除不相关：** 11 | **最终保留：** 45
-**有字幕(API)：** 6/45
+**生成时间：** 2026-02-21T22:33:25.212999
+**搜索来源：** UC3g-w83Cb5pEAu5UmRrge-A, Brandon Sanderson secret novels
+**总收集：** 97 | **排除不相关：** 19 | **最终保留：** 78
+**有字幕(API)：** 22/78
 
 ---
 
-## 1. Ergonomic Keyboard, Reinvented | NocFree & Wireless Split Keyboard
+## 1. It&#39;s Time to Come Clean — Brandon Sanderson
 
-- **频道：** NocFree
-- **观看数：** 3,387
-- **点赞数：** 36
-- **评论数：** 19
-- **时长：** 1:04
-- **发布日期：** 2025-08-05T13:00:55Z
-- **链接：** https://www.youtube.com/watch?v=KE_EUIDge6U
-- **来源：** search&channel
+- **频道：** Brandon Sanderson
+- **观看数：** 2,241,626
+- **点赞数：** 121,000
+- **评论数：** 7748
+- **时长：** 16:33
+- **发布日期：** 2022-03-01T16:00:06Z
+- **链接：** https://www.youtube.com/watch?v=6a-k6eaT-jQ
+- **来源：** search
 - **有字幕：** 否
-- **语言：** en-US
-- **缩略图：** https://i.ytimg.com/vi/KE_EUIDge6U/hqdefault.jpg
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/6a-k6eaT-jQ/hqdefault.jpg
 - **简介：**
 
-  > Meet NocFree & — the ergonomic split keyboard built for comfort, style, and an exceptional typing feel.  
+  > This is because something irregular has happened in my career lately, and I need to let you know about it.
   > 
-  > ⚡️ Live on Kickstarter  
-  > ⚡️ Be among the first to back and get our KS Special — 23% OFF.  
-  > 
-  > 🔗 Back us on Kickstarter now: https://www.kickstarter.com/projects/solar-nocfree/nocfree-and-the-wireless-split-keyboard?ref=9202g8
-  > 
-  > #NocFree #MechanicalKeyboard #SplitKeyboard #LowProfileKeyboard #ErgonomicKeyboard
+  > Now on Backerkit: https://secretnovels.backerkit.com/hosted_preorders
 
-- **热门评论（11 条）：**
+- **热门评论（200 条）：**
 
-  > **@wellhellotherekyle** [👍2]：Looks great folks! If I hadn&#39;t bought the Lite already I would definitely get this one... Bluetooth sounds amazing. I love my lite but that&#39;s one major thing I find myself wishing it had.
+  > **@ManCarryingThing** [👍13424]：brandon: &quot;i have lied to you.&quot;<br>me: he&#39;s not a human being, but a lovecraftian creature meant to write at unimaginable speeds<br>brandon: i wrote 5 extra books<br>me: i knew it
   >
-  > **@HABIBMUHD92** [👍1]：Looking good Nocfree team 🎉
+  > **@TheArbiter10** [👍13035]：If you listen very closely to this video, you can hear a clicking sound when Brandon&#39;s seated at his desk talking to us. That&#39;s because he&#39;s got a keyboard under his desk, and he&#39;s typing up a sixth novel with his toes.
   >
-  > **@카트맨-l4z** [👍1]：Pleeaaaase add additional B key to the Right Side..
+  > **@DanielGreeneReviews** [👍11623]：The man is trying to out write his fandoms memes about his writing.
   >
-  > **@randomprog115**：Hi will you have a version that has 2 additional keys in the place of your logo?
+  > **@BrandSanderson** [👍10339]：Hey, all!  I want to give you my thanks, and an apology.  The apology is for being so silent about this.  I’ve learned that you all are really, really good at guessing what I’m up to.  So if I want to preserve a surprise, I have to be extra careful in what I say and how I act.<br><br>At the same time, I wanted to say thank you to all those who worried about me, expressed concern, or otherwise were nervous from yesterday’s video.  (Or from the start of this one.)  Your emotions aren’t misplaced; I really was starting to feel the burnout I imply here.  Only, it started three years ago, and I managed to get through it.<br><br>It was strange to realize, at the start of the pandemic, just how much I was relieved by not being forced to travel--and how much I’d started to dread certain aspects of my job.  By luck, I was able to have the time to take the steps I needed in order to prevent burnout.  Yes, I’m a little strange in that the thing that most helps me most in such situations is writing something completely different, something unexpected.  It probably seems incongruous that I avoid burnout by doing more work--but I truly love telling stories.  So, here we are!<br><br>I realize that many of you would rather I have focused that time on writing the next book in your favorite series, rather than writing something off the wall.  However, this is how I work--and it’s the fact that these were so unexpected that let them pull me back into a healthy (for me) relationship with my job.  <br><br>Regardless, I really did need your positive vibes to help me through this.  I got them, back when the real crisis was happening three years ago.  I appreciate you all, and the way you treat me and my stories.  Thank you.  Not just for that, but for putting up with me doing the occasional overly-dramatic reveal like this.   --Brandon
   >
-  > **@catalpamaple486**：i would buy this
+  > **@XeroShifter** [👍8984]：Brandon Sanderson: &quot;I write as a coping mechanism for stress.&quot;<br>Me: <b>Stares at huge catalogue of books that are his career.</b> &quot;You uh... Ok there buddy?&quot;
   >
-  > **@sandrae7878**：I love the design of this split keyboard! Just wondering, can more than one device be connected at the same time?
+  > **@philiphartshorn** [👍6654]：Brandon Sanderson has reached such a level of dimension bending self awareness that exaggerated jokes we have made about him writing nonstop have vastly underestimated how fast he writes and how many books he makes at the same time 😳 what an absolute Giga colossus of an author.
   >
-  > **@macchimavellian**：Wow it&#39;s low profile even
+  > **@aneonfoxtribute** [👍3461]：&quot;I accidentally wrote an entire novel in secret&quot;<br>I was waiting for the punchline, I knew it was coming. That is the most Brandon Sanderson statement I have ever heard.
   >
-  > **@macchimavellian**：I hope the keycap isn&#39;t blank
+  > **@americancommunist6076** [👍2690]：Brandon: This <b>slams down stack of paper</b> is a new book<br>Us: Dear God<br>Brandon: There&#39;s more<br>Us: NO
   >
-  > **@Youknowthebo**：Looks great. Will it have integrated tenting like the previous version? Still love my noc free split.
+  > **@l00d3r** [👍2685]：What I love about Brandon is that when he is burned out, he does not take a break from writing but instead he simply writes something different. If only my other favorite fantasy author could do the same, but alas! I have been waiting 10 years on that one.
   >
-  > **@pm.caffe-ed_**：no rgb?
+  > **@nmartinez18** [👍2480]：This man wrote more words in 2 years than George R. R. Martin has in the last 10. I&#39;ve already shared this with multiple people. We need to support this madness as much as possible.
   >
-  > **@darthvapor7**：Would be great if you didnt&#39; move the ?/ key..... what a horrible idea that was.
+  > **@ninakrishnamurthy6674** [👍2199]：Most people spent their extra time during the pandemic baking bread or binge-watching Netflix. Brandon Sanderson spent his time pumping out novels like the tree-murdering, story-telling fanatic that he is; and I wouldn’t have it any other way 😆
+  >
+  > **@Joyce-qi2tq** [👍1781]：If he wasn&#39;t before, Brandon is officially a youtuber now: he has mastered the art of clickbait.<br><br>This is amazing!! I&#39;m glad that you&#39;ve found a healthy relationship with your work. It&#39;s just a bonus that we get some new books :)
+  >
+  > **@RayndayGaming** [👍1715]：This might be one of the greatest youtube videos of all time. Not just for the execution, but the impact. So many people are happy right now. Thanks Brandon, keep inspiring us and telling your stories.
+  >
+  > **@Patterrz** [👍1588]：Brandon Sanderson is without a doubt my favourite author just based on his personality
+  >
+  > **@PeruseProject** [👍1379]：This is the only type of lying I will accept
+  >
+  > **@TimeBucks** [👍1324]：This man never disappoint us
+  >
+  > **@17thShard** [👍1221]：If you&#39;re new to the fandom, you might not realize how much Brandon loves to troll with secret projects. He loves it. But FIVE new secret books, THREE COSMERE is a whole new level. I found this video absolutely hilarious, him dumping new manuscripts on the table hahaha. -Eric
+  >
+  > **@AlexanderVRadev** [👍1139]：The world: &quot;He writes so much we are worried for him. He should slow down a bit and take care of himself.&quot;<br>Brandon: Smacks a tower of paper on the desk &quot;I casually wrote 5 new novels just because.&quot;<br>The world: Loughs hysterically &quot;The madman is at it again&quot;. ;)
+  >
+  > **@zemont** [👍1091]：It&#39;s official, Brandon is not human, he&#39;s the ultimate artificial Intelligence that keeps of giving new books and improving in quality and time to write each one. Mesmerizing
+  >
+  > **@pc953** [👍939]：God dammit Brandon. You gave me a near heart attack! I&#39;m glad to hear you are well! And can&#39;t wait to hear more about this novel .<br><br>Edit:  5 Books....kickstarter.... damn you. Off to redo my budget and get to backing
+  >
+  > **@Evyleth** [👍937]：As an aspiring writer, &quot;oh Sanderson can also burn out, it&#39;s ok to take it easy&quot;. Then he smacks up five new books... My heart dropped <br>* laughing in panic, pain and a massiv kick in the butt *
+  >
+  > **@ravenmadd1343** [👍906]：I&#39;ve been suffering from PTSD and depression for a number of years.<br>I needed an anchor, something I could set values by, because what caused the illness was ongoing and constant and I could feel nothing any longer.<br>A friend recommended the Stormlight archive to me to listen to as an audiobook.<br>He didn&#39;t know about the PTSD and I&#39;d never listened to audiobooks before.<br>If someone had told me I would find values I could anchor my life, and my sanity, by in a work of fiction I would say there were mad but I did.<br>There is a plaque in my office at home that I had made.<br>It is in sight at all times and on it it written &quot;Life before Death, Strength before weakness, Journey before destination, The Way of Kings&quot;.<br>It reminds me to live, not just to exist.<br>There is a wisdom and insight to life in your books and I am grateful to you for writing them.<br>Thank you.
+  >
+  > **@alexdessens5439** [👍864]：Omg this guy.  &quot;Oopsie daisy, I tripped and accidentally wrote several novels, check &#39;em out.&quot;  What a legend.
+  >
+  > **@bellyjellybean248** [👍834]：Anyone else watching this again 6 months later just to try and relive the excitement? What an absolute madlad
+  >
+  > **@Mistborn_San** [👍834]：Youknow, I would be shocked, but Brandon &quot;oops I wrote an extra novel&quot; Sanderson is quite on brand.
+  >
+  > **@ShatteredAce** [👍731]：This man was getting up, showing us pie charts after he mentioned he wrote 2 books, and managed to hide his smile knowing he had 3 more by his chair. S-tier acting, Brandon!
+  >
+  > **@cruisingismylife63** [👍729]：As a middle school librarian, I&#39;m super excited about the graphic novel, they fly off our shelves!!
+  >
+  > **@RyanPST88** [👍669]：&quot;No I don&#39;t have 8 more secret novels.&quot;<br><br>Did anyone FEEL a wink?
+  >
+  > **@AyrtonotryA** [👍568]：I like how sanderson describes writing novels like affairs: &quot;one thing lead to another and i wrote another novel!&quot; What a legend.
+  >
+  > **@AigioGamias** [👍532]：Brandon Sanderson was bored with his book&#39;s plot twists, so he started real life plot twists.
+  >
+  > **@naastyaaaaaaaaa** [👍513]：Can&#39;t imagine how the real fans feel if this video made me (someone who&#39;s never read Brandon&#39;s stuff) all sweaty and excited. THIS IS INSANE!
+  >
+  > **@aaronmarko** [👍512]：Brandon Sanderson: I wrote 77 novels while in the pandemic<br><br>Me: ....and I overcame my fear of onions. Mostly.
+  >
+  > **@NilsSpehr** [👍508]：Brandon, I&#39;d like to echo many of the comments on the Kickstarter: Please add an option for International / EU to have a single shipment at the end of the year containing all books and swag boxes. Your &quot;Year of Sanderson&quot; tier doubles in price due to shipping cost for International currently, making it very unattractive for only that reason. I&#39;d love to support and get the full Year of Sanderson experience, but myself, and many others, aren&#39;t quite ready to pay double the price of the tier for that. Please help us with a bundle shipment tier where you ship everything to us with the final shipments in month 12.
+  >
+  > **@BookswithEmilyFox** [👍500]：Wasn&#39;t expecting this... Can&#39;t say I&#39;m disappointed!
+  >
+  > **@AdrianTwarog** [👍444]：I&#39;m proud of the work you do, it inspires me to work and follow my own passions while I get to experience and share your own.
+  >
+  > **@ramirodecono3647** [👍443]：People should understand that not only did Brandon write five secret books while following his other agenda, but he is also the marketing mastermind behind this whole success. Of course implementing his ideas is greatly achieved by the whole team, but let&#39;s go through a few milestones that happened in the last week.<br><br>The dramatic announcement video (his idea btw) has the most views in his channel by far, notwithstanding being one of the most recent ones. He knew he had a silver bullet asking his fans to share, comment and like that video. Why? Because he NEVER does that. Just picture this: before this whole event, his channel had a 15k-50k average views per day.  After it, he has ranged between 230k-700k views per day. In one week he added 42k new suscribers to his channel (12% of his total subscribers).<br><br>That&#39;s not all...<br><br>Scheduling two weekly streams over the course of March has given momentum and expectation to his campaign, adding to the final hype that&#39;s keeping the stats over the roof. This whole success also gets mingled with YouTube&#39;s algorithms, leaving remnant flows of people coming back to his content.<br><br>Let&#39;s go on...<br><br>Not only did he just raised the biggest kickstarter in the history of the platform. He has already covered a year of work in advance (2023). Of course there a lot of details to take care of and edges to sharp, but the fact that he has scheduled more than a year in advance of sales strategy and planning is simply stunning. <br><br>It doesn&#39;t end there...<br><br>This is clearly the most audacious move he has done in his entire career regarding manufacturing, distribution and retailing. He has proven that Dragonsteel can be completely autonomous from any other third parties, and even being more successful. This will also allow his team to experiment a lot, in a different areas of the business. And thus developing a unique expertise in the field, empowering his whole company. He also made it clear that he still wants to support bookshops in his future releases. And guess what? This groundbreaking move will give him a lot of leverage when talking to New York. I honestly believe he might actually revolutionize the way physical books are being sold (being merchandising one of the cornerstones of this revolution). <br><br>And last but not least...<br><br>Brandon keeps delivering high quality content to his readers, keeps building this amazing and complex web of intertwined stories that is the cosmere. His product is not even worth money at this point. He might not realize this now, but he is forging the history of modern twenty-first century writing. And the best of all? He is doing it in an extremely healthy and sure-footed way. I truly think this is unprecedented territory.<br><br>I would really like him to read this. Not because I am saying any novelty. But because I want you to know that we appreciate all of this, Brandon. And that right there, gives our whole writer-reader relationship a pewter boost. Please keep following your instincts, they will keep taking this project to unparallel dimensions.
+  >
+  > **@futbol2105** [👍433]：Oh. My. God. Every aspect of this (performance and the actual news) was perfection. Literally laughed out loud when books 3, 4, and 5 were dropped on the desk. 🤣 Can&#39;t wait for more Sanderson reading material!
+  >
+  > **@TAM-ni1zn** [👍430]：&quot;There&#39;s always another secret.&quot; -Kelsier<br><br>Really excited about the new books! Thanks for all you do for your fans, Brandon!
+  >
+  > **@llamafromspace** [👍428]：This is so wholesome. &quot;The pandemic is tough, but like many it freed me up to over triple my already insanely good writing output.&quot; As a fan, I&#39;m very happy.
+  >
+  > **@laura_h383** [👍427]：I really appreciate the fact that Brandon&#39;s nerdy little fan base is actually so big that he is the number one trending video on YouTube. Like what is this
+  >
+  > **@t14dann18** [👍423]：This is the most un-George RR Martin video ever made
+  >
+  > **@miriduvivie6283** [👍411]：Also: thank you Emily, for encouraging your husband to share the secret books with us! Thank you for letting us read the books dedicated to you!<br>Love to both of you!
+  >
+  > **@splendipulous7389** [👍367]：The fact that this video has been live for only 2 hours and the Kickstarter has reached 5x it&#39;s goal is WILD and just shows how much fan support Brandon has &lt;3
+  >
+  > **@elizabeth-098** [👍358]：BRANDON! I mean - incredible!! Congrats on writing a novel! But my poor heart was pounding!!! Excited to read it though!<br><br>Edit: FOUR? BOOKS?? No. Way.
+  >
+  > **@frankbroussard3952** [👍343]：I have genuinely never been so concerned with a person&#39;s welfare. WAS STRESSING OUT ALL DAY, MR. SANDERSON! Extremely relieved that you&#39;re okay. Keep on keeping on!
+  >
+  > **@aprilw2287** [👍333]：I&#39;m not rolling my eyes, I&#39;m practically crying happy tears. Brandon, you&#39;re a legend. The world needs more happy surprises like this right now. THANK YOU!
+  >
+  > **@supersephiroth** [👍317]：I stumbled on this video by pure accident (followed link out of curiosity) and now have a sudden urge to at least pick up one of this guy&#39;s books. Just comes across as really genuine and personable
+  >
+  > **@jitendradesai1719** [👍316]：Honestly, when Brandon said &quot;don&#39;t roll your eyes at me&quot; I had just finished rolling my eyes. Mostly because I&#39;m friggin jealous of Brandon&#39;s skillset and ability to write so well. Congrats Brandon!
+  >
+  > **@aidenb1304** [👍308]：Each book reveal absolutely cracked me up, without fail. The man has a flare for the dramatic and I can&#39;t help but respect the hell out of that :)
+  >
+  > **@Bridge4wannabe** [👍302]：Mr. Sanderson, I am truly overjoyed that this is what you were ‘hiding.’ Your work has done more good than you know. I work as a mental health counselor for children and teenagers. I have told the dog and dragon story more times than I can count to great and beautiful effect. Your prose is brilliant, accessible and hits me right in the feels. Thank you for all you do.
+  >
+  > **@jacobyoung9981** [👍299]：Brandon must be a publisher’s best friend. Literally writes FIVE additional novels on top of the novels he’s writing that are scheduled. In a YEAR! Insane, you’re actually insane Brandon
+  >
+  > **@Fatboysoontobeslim** [👍295]：Sanderson likely saved my life. <br><br>I was homeless for a time, a long time I guess. One day, I just went into the library and picked up a book I liked the look of. Maybe 7 years ago. I spent the next month sleeping out back the library where they had a small sheltered area, I read every book he&#39;d written up until that point. I was incredibly depressed going into that, but when I finished his last book at that point, I&#39;d decided I wasn&#39;t gonna give up, so I got up and walked. <br><br>It took another 3 years for me to get off the streets, into a crap apartment, into a better apartment, into a better apartment, and then travel to the other side of the world.<br><br>I now live in Japan, I&#39;m the manager of a small growing school, I&#39;m married, I&#39;m happier than I ever thought possible, and I even buy nice things for myself, expensive things, I wear Air goddamn Jordans man.  In fact tonight I bought a 300 dollar pair of Air Jordans for my friend, because I f***ing could.<br><br>Many thing&#39;s helped me get here, luck in largest part I&#39;m sure, but one thing I&#39;ll never forget, is sitting outside that library, it pissing it down with rain inches from the dry space I&#39;d found, with Kal. <br><br>Thanks man. Whatever you do in future, I&#39;ll never forget the extra moments you gave me.
+  >
+  > **@FreelancerTrent962** [👍286]：Way to swing a sledgehammer at my bank account, thanks Brandon...<br>But seriously, I know why you are my favourite author! Consistent quality, great humor and inhuman work ethic. I guess I&#39;ll just have to say: Shut up and take my money!
+  >
+  > **@IceGavel** [👍279]：Kelsier was right. There <i>is</i> always another secret. This hype train has no brakes.<br><br>Also, the Kickstarter getting <i>16</i> times the set funding in the first day? That&#39;s a sign. Adonalsium Approved.
+  >
+  > **@kellyjones4735** [👍277]：Legit got misty-eyed seeing him slap those extra manuscripts on the table. This man is UNREAL. His dedication and passion for storytelling is simply unmatched. I&#39;m in awe of you, sir.
+  >
+  > **@owenf7757** [👍275]：Welp Rhythm of War has sat on my nightstand for almost 2 years now and I just haven’t found the time to start reading it… if you can write 5 books in that timespan i can find the motivation to finally start reading again. You are incredible
+  >
+  > **@atlasprime6193** [👍264]：Me: “Hey, Brando, you ever take a vacation?”<br><br>Brandon: “YES! Vacation is a GREAT time to <b>write</b> a book!”
+  >
+  > **@Casey093** [👍248]：&quot;I felt stressed about not writing enough. So I wrote 5 more books in secret.&quot;<br>Thank you, Brandon. :D
+  >
+  > **@machibutinenglish1468** [👍247]：This guy actually loves what he does
+  >
+  > **@brentobrien378** [👍247]：This is why Brandon is my favorite author.  He is so humble with his emails (I hope to never spam you, I respect that you have trusted me with space in your inbox, etc.) and videos (I don&#39;t usually ask you to like, subscribe, etc.).  He is just the right combination of humble, geeky/awkward, and showman to feel believable, while writing some of the best fiction our world knows.<br><br>Also, I am very happy AND rolling my eyes at you, Brandon.  It can be both.  I wouldn&#39;t have it any other way, in fact.
+  >
+  > **@navelaviator18** [👍243]：I LOVE his writing style, imagination, and character creation but THIS is a huge part of why he&#39;s my favorite author. We&#39;re waiting 11+ years for the next book of Ice and Fire and this guy is putting out FIVE books in TWO FREAKIN&#39; YEARS! Crazy!
+  >
+  > **@Deqnkata** [👍241]：You sir a a total BOSS - was laughing out loud while watching this , esp when the extra scripts started hitting the table. Weirdly enough havent read much more from you than Mistborn and the WoT books you wrote but i guess now its a good time as any to get more into your work . As someone that is waiting for the Winds of winter to pop up i hope GRRM gets a bit of inspiration from this too :D .
+  >
+  > **@jakecarter9920** [👍235]：If you <b>REALLY</b> wanted to come clean, you would tell us what Faustian bargain you made to be able to produce such a high volume of quality content at such an inhumanly fast rate.
+  >
+  > **@sivanneu** [👍218]：His smile when he feels coy about the jokes he wrote for the script is so precious. He is so precious. I adore him.
+  >
+  > **@KMMHealy** [👍217]：I gotta admit, at first I was like, “Sanderson did WHAT?! My creativity DIED in 2020!”<br><br>But then I calmed down, laughed, and landed on being happy that Sanderson wrote all the things he wanted and dedicate them to his wife and kids. ❤️ That’s special.<br><br>Can’t wait to read all the things!
+  >
+  > **@SoundwaveSurfing** [👍209]：I know the phrase “what a legend” gets thrown around a lot but I mean it now in its fullest extent.<br><br>Add to it the amount of engagement he does with his fans and now the implications of the Kickstarter for publishing but I dare say this move will catch more eyes as far as adaptations go. What a genius and even better just a good dude.
+  >
+  > **@bronzmoth** [👍176]：Honestly, when Brandon said &quot;don&#39;t roll your eyes at me&quot; I had just finished rolling my eyes. Mostly because I&#39;m friggin jealous of Brandon&#39;s skillset and ability to write so well. Congrats Brandon!
+  >
+  > **@tgillet1** [👍176]：Showed this to my wife after watching it. It was fun to see her eyes bug out at the second novel, but even better when, as I expected, she rolled her eyes when the next three slapped the table and then Brandon called her out for it 🤣<br>Her response, “he can see us through the YouTube!”
+  >
+  > **@HisAdmiralty** [👍175]：The Enigmatic Inevitabilities of Sanderson:<br>1: He writes faster than you can read. If you train to read faster, he will unconsciously quicken his pace in exact proportions.<br>2: If for 40 consecutive days he does not write, he will perish. However, nothing powerful enough to impede him for this long is known to exist.<br>3: He will surprise you. You may expect this, but preparation is futile. Consider this an omen.
+  >
+  > **@zoobnash** [👍170]：Brandon Sanderson is the last person I expected to do a meme apology video and this is incredible
+  >
+  > **@TheOneWhoSeek** [👍167]：Please up-vote: We need other shipment option for non US fans. This cost alone almost kills high tier support from outside US. Either we need boundling everything at the end of the year or have some printing done in Europe/Australia/etc.
+  >
+  > **@brycelindsay4414** [👍166]：This absolute mad man is my hero. I was blown away with “I accidentally wrote an entire novel,” but when he busted out the rest of those stacks my jaw dropped
+  >
+  > **@shinobikeeton3385** [👍160]：You deserve an Oscar for that performance. I was all sorts of concerned. Very impressive job with not only the writing, but in keeping the secret so well too!
+  >
+  > **@tigerboi9694** [👍157]：This man has literally never disappointed. Been a fan since 2007 when Well of Ascension was released and I&#39;ve been a regular reader ever since.
+  >
+  > **@bswest5** [👍155]：You madman. Here I was thinking you were finally showing human limitations and were going to say Stormlight 5 was delayed a bit… but no, five books?! You absolute madman. Happily threw my support up for the audiobooks, thanks for doing what you do Brandon!
+  >
+  > **@3up3rn0va** [👍154]：Had us in the first half. Not gonna lie. 🤣 Your work ethic is insane. Even writing on your days off. I&#39;ll have to check these out. Been a big fan of your audio book series!
+  >
+  > **@iKaroliina** [👍150]：I was so stressed out and feeling anxious about current events (living next to Russia doesn&#39;t help) but now I&#39;m crying and laughing out loud. Thanks for this stress relief!!! I really needed it! Can&#39;t wait for my books to arrive!
+  >
+  > **@jacobyoung9981** [👍144]：You can’t do this to me, it’s bad enough you torture my emotions in your novels. Not this too. <br><br>In all seriousness, glad you’re ok. Love you and your work.
+  >
+  > **@garfieldfan** [👍142]：I&#39;ve never heard of you (sorry) and this video came up in my feed because the algorithm decided it should, and I was like &quot;this dude is either about to admit to something horrendous or this is a swerve&quot; and you did not disappoint. Thankyou for that entertainment lol
+  >
+  > **@Jojogogogo-b9i** [👍140]：&quot;I think it will make some of you very happy while others are rolling their eyes at me&quot; - Pretty sure we all fall into both categories!<br><br>Thank you as always for the stories. I have now accepted that you write so much faster than I read and so I am hoping for some kind of cyborg tech to give me a chance of keeping up.
+  >
+  > **@orlaithmcg** [👍140]：I&#39;ve never read a Brandon Sanderson book and now I must consume them all.
+  >
+  > **@kla4600** [👍133]：So much energy.  What are the odds that he ends up completing not just The Wheel of Time but also A Song of Ice and Fire...
+  >
+  > **@AndysBrainSnot** [👍129]：Brandon you monster… I looked up to you, but this crosses the line. <br><br>Now you’ve become the benchmark of creative productivity I strive to one day reach the levels of.
+  >
+  > **@Reecman** [👍118]：Happy to back the kickstarter, wish i could afford more than just the ebooks but times are hard. Happy to have more Brando-Sando content and can&#39;t wait to read these new stories, especially anything cosmere related. Don&#39;t feel bad for not seeing fans as often in person, it&#39;s understandable and quite honestly (and selfishly), i&#39;d rather you were writing more stories for us. Keep up the good work, always a pleasure reading your stories.
+  >
+  > **@tyson7417** [👍109]：Showed this to my wife. Her response: “Why don’t you make things for me?“ <br><br>Thanks for that. <br><br>But yeah this is awesome!
+  >
+  > **@ciannacoleman5125** [👍106]：“Stress made me irresponsible, I’m sorry” slaps a secret extra novel on the table. Explains how it happened then: “oh well actually I wrote 5 extra not just one, and I want to give them to you as a subscription box”<br>Lol loved the video and I haven’t even been able to start your books yet although they are on my list
+  >
+  > **@Kelloa791** [👍98]：Damn, Brandon and team, you guys had me a little worried for a whole day! I&#39;m glad everything is okay, and even fantastic!
+  >
+  > **@thegoblinden** [👍96]：I actually discovered Brandons work through his openly published writing lectures and within two and a half years tracked down and read every single piece of peace of writing the man&#39;s ever done, tremendously excited for this
+  >
+  > **@robbieh9873** [👍96]：&quot;This is the mindset that created The Emperor&#39;s Souls and Warbreaker&quot;<br><br>Oh so just my two favourite Sanderson books. This is so exciting
+  >
+  > **@benjaminharrel3518** [👍89]：Everybody waiting for the next Stormlight book. Brandon Sanderson: hey, so yes the next book is coming, but uh, here’s 4000 pages of pure art that you didn’t know you were getting. 😂 I love this man.
+  >
+  > **@GoodmanDevon** [👍87]：Brandon Sanderson is without a doubt my favourite author just based on his personality
+  >
+  > **@minimalphilia** [👍86]：I don&#39;t know who you are, but watching this video and the story of your journey made me absolutely happy.
+  >
+  > **@dubbelusch2176** [👍83]：For me personally, completely selfishly, appreciate that the time to travel is reduced. Yes, I understand that it&#39;s fun and rewarding to meet the fans but for me, who lives in such a way that I will never have the opportunity to meet Mr Sanderson, I appreciate that the time for traveling is instead spent on videos, which I can see, and books, that I can read. Because, truth be told, it is the books that are the big thing and the reason why you, Mr Sanderson, are my hero.
+  >
+  > **@shadedizzy** [👍81]：Every time he put a manuscript on the desk I had that expectation there would be another one he SOMEHOW managed to write, but 5? If this was anyone else I&#39;d think this entire video was satire. Can&#39;t wait to read the pandemic love children when they finally come out.
+  >
+  > **@spencerwilkinson5622** [👍79]：I love that he&#39;s made a graph of his productivity. That is just so Brandon. Never change!
+  >
+  > **@Playsitloud1** [👍79]：As a Utah native I feel comfortable with the following comment:<br><br>You can tell Brandon is a Mormon by the way he is able to sell this as a naughty confession that turns out to be more like a Tupperware sales pitch that actually has me excited.... . <br><br>I love you Brandon. You are the most prolific writer of our time. Truly a Utah treasure.
+  >
+  > **@noone-ld7pt** [👍79]：God I love this guy so much... I&#39;m literally a grown man sitting in my room and tearing up from excitement! <br>I was SO prepared for this being a burned out video and was 100% ready to support you scaling back or taking a break, and then you absolutely blow my mind like this! <br><br>Thank you so much for being you Brandon. You can&#39;t possibly comprehend the joy and excitement you bring to the world with your stories!
+  >
+  > **@SlabakBG** [👍79]：Amazing news, but very sad to see the sheer cost of shipping estimate for international shipping... 1K USD is a big ask when almost half of it is just shipping. I want to see the Hoid box so badly, but yeah... Brandon is amazing as always, so hoping everyone in the position to get the boxes enjoy them to their fullest!
+  >
+  > **@Xavierpng** [👍78]：I&#39;m proud of the work you do, it inspires me to work and follow my own passions while I get to experience and share your own.
+  >
+  > **@IselPehache** [👍76]：I almost had a heart attack, and I was super ready to type a supportive comment in case you needed to step away from writing for a while (completely valid, we all need to rest sometimes) when the plot-twist hit. After the relief of knowing you&#39;re doing okay, it ocurred to me that now I have FOUR unexpected novels to look forward to in 2023. I&#39;m thrilled! Though, most of all, I&#39;m happy you&#39;re fine, Brandom. Keep taking care of yourself :)
+  >
+  > **@lywellyn0** [👍68]：This is truly awesome. The Warbreaker and The Emperor&#39;s Soul novels are some of my favorites. I&#39;m very excited to see what new stories you have written. Signed myself up for the year of Sanderson audiobook edition. :) Glad you&#39;re doing well and the pandemic has allowed you to get back to doing something you were missing.
+  >
+  > **@JW-qd3ol** [👍65]：Bro this is my first time hearing of Brandon Sanderson and I love the guy already. :D<br><br>He reminds me of Gabe Newell circa 2007, where he was like &quot;oh, you want Half Life 2? How about HL2 Ep 1, and HL2 Ep 2 as well! Actually just kidding, here&#39;s Team Fortress 2 to boot! And then the real icing on the cake, if you&#39;ll pardon the lie, here&#39;s Portal as well! And if that&#39;s not enough, they will all cost less than a single AAA game from other developers! Merry frickin&#39; random day in October, fellow gamer!
+  >
+  > **@wyldetimesreviews** [👍65]：And here I am, struggling to get a single project even finished. 🙃I truly envy Brandon&#39;s ability to pump out manuscripts.
+  >
+  > **@penandplugs** [👍63]：You’re an amazing actor. You had me duped.<br>WELL DONE!
+  >
+  > **@melsilva9158** [👍63]：Pledged immediately. Totally jealous. I&#39;m still working on my first novel, and it&#39;s been 20 @#&amp;!@#! years that I&#39;ve been working on it.  I&#39;m an IT guy so it doesn&#39;t come easy, but this story is still haunting me, so I have to write it down.
+  >
+  > **@johannaplockl463** [👍60]：The first video i&#39;m watching from this guy. Finished oathbringer two days ago. And boy oh boy am i getting on a adventure..<br><br>Already a big fan<br>-a 17 year old, german girl
+  >
+  > **@catarina7453** [👍60]：This went from stressful to exhilarating in a matter of minutes! I&#39;m really excited for this!! 2023 was already the Sanderson year for me with the release of Stormlight Archive #5, this just cements it. I&#39;m really glad you are Ok. I was worried there for a minute.
+  >
+  > **@elsecaller-jacob8346** [👍58]：The quick change of jacket and extendable pointer killed me🤣so exited about the news can’t wait to hear more!! Thank you Brandon
+  >
+  > **@nibbs2** [👍53]：This may be the greatest switcheroo of all time! Everyone was concerned there was a major issue and was worried about you. Well played! Hahaha
+  >
+  > **@covya** [👍53]：I like to think that you left a different novel on each person&#39;s desk, so when they start talking about &quot;the secret novel&quot; that you wrote, they all become more and more confused until it becomes apparent that they aren&#39;t talking about the same books
+  >
+  > **@karlemmrich** [👍51]：I can’t believe I thought he was going to announce a break from writing😂 thankful that he’s okay and that my prediction was the furthest thing possible from the truth (FOUR NOVELS???)
+  >
+  > **@mcspazatron240** [👍50]：Turns out it is possible to love this man more than I already did
+  >
+  > **@GordonMancuso** [👍48]：Sometimes I just come back and watch this again, grinning the whole time. Love this so much.
+  >
+  > **@jaredscottabramson7463** [👍45]：You got me good. I was astounded when you pulled out one secret book. When you pulled out the fifth one I was jumping out of my coach shouting for my wife to tell her about how crazy awesome you are.
+  >
+  > **@studium-** [👍44]：I&#39;m really happy you got to increase your family time by ~50%. You&#39;re a great guy, and I&#39;m sure both your wife and children are wonderful people. You getting to spend time together is precious, and I&#39;m happy for you.
+  >
+  > **@althechicken9597** [👍43]：I absolutely love the series you write, but there is nothing like a brand new weird world to get lost in, so I hope you&#39;ll continue to throw these sorts of things at us :) thanks for being the most legendary writer of our time Brandon, we really appreciate it so much.
+  >
+  > **@denitzaraykova4778** [👍42]：I am one of your Bulgarian translators. I&#39;ve translated  Arcanum Unbounded and  the 1st book in  the Alcatraz series, and I simply love them.  At the momement I&#39;m translating  the 2nd book about Alcatraz.And I sincerely hope  you will  go on writing.  Stay well and write on! Greetings from Bulgaria!
+  >
+  > **@victorialee6** [👍42]：Woah Brandon, scaring us to death in that email and at the start of this video 😳😂 You are amazing and hilarious! If you ever get tired of writing you could be an actor 😂 Please take care of yourself, and if that means writing 5 books you won&#39;t hear any complaints from me 😁 Seriously love you! Love from the UK 🇬🇧
+  >
+  > **@TheMiguel9898** [👍41]：Brandon I swear this was the shortest set up and it culminated on a GREAT Sanderlanch. You are the best.
+  >
+  > **@shiven513** [👍41]：What the hell Brandon, thought I had finished every comsmere standalone, Mistborn and Wax and Wayne, and I completed Rhythm Of War.<br>And just finished Towers Midnight. But no, you and your very productive and inventive brain just had to be a workaholic during a Time of influenza. I had a good day Brandon, I was even looking at some memes. I really had a good day Brandon. (Also congrats getting on the 1# trending. You really deserved it)
+  >
+  > **@davidharning5758** [👍39]：Your fans rock dude.  You asked them to share this with everyone who knew anything about your books.  I&#39;ve never even heard of you and I&#39;m going to for sure read all of your books
+  >
+  > **@NadiraJamal** [👍39]：Aw, I love that The Emperor’s Soul and Warbreaker were passion-first projects.  I am very much a series person, but those two are my favorites.
+  >
+  > **@TrevorFlorence** [👍39]：Oh gosh. Happy to hear your mental health is OK! You scared a lot of us though. We were all internally emotionally preparing for a &quot;we need to talk&quot; moment.
+  >
+  > **@Raymond_L** [👍36]：I&#39;m so sad I missed out on this. I just found your work recently. I am whole heartedly enamored by the worlds you have created, and the Cosmere you have weaved. Thank you for sharing your creations.
+  >
+  > **@CatStripes2** [👍36]：You&#39;re one of the few authors who could pull something like this and I just know that they&#39;re going to be fantastic books I want to read.
+  >
+  > **@luxcentric** [👍35]：I just!!! I am laughing, crying, and rolling my eyes. <br><br>Brandon, I have been following you since near the beginning of the Writing Excuses podcast and have enjoyed every book and novella I have read of yours. As with all my favorite authors, I pace myself and don&#39;t read them all right away because I am so sad when I need to wait. I am so glad I can always come back to you and read more stuff.  <br>You have been so amazing in putting out stories of high-quality wonderfulness. I was worried that you weren&#39;t taking time for yourself and your family and am so glad to see that you are. Stay healthy and continue to send out the stories. Bring on the Surprise option!
+  >
+  > **@evettc7887** [👍33]：If traveling less means more books and a happier relaxed Brandon Sanderson am all for it! Cannot wait to read these new books.
+  >
+  > **@dannychan0510** [👍31]：What a mad lad! Legitimately trolled his entire fan base (and he knew exactly what he was doing)! I laughed so much when he got to the punch line. Love this guy so much!
+  >
+  > **@aaya009** [👍30]：Someone cast this man for a movie. His poker face killed me 🤣
+  >
+  > **@Xion136** [👍30]：Brandon. As an aspiring author who has rewatched your BYU lectures and owes my first draft being completed in a large part to you:,<br><br>You&#39;re my hero.<br><br>Just the last three killed me. Please, never change.
+  >
+  > **@calebwillingham6481** [👍27]：I&#39;m pretty new to Sanderson (I&#39;m on my second Sanderson book), and it&#39;s really endearing, as a relative outsider, to see the love and enthusiasm between Brandon and his fanbase with fun things like this
+  >
+  > **@estebancamacho2282** [👍27]：God bless you Mr. Sanderson. We&#39;re in need of good news in these sad times, and you delivered them so unexpectedly. My only regret is that I&#39;m not in a suitable financial situation to buy the whole year of Sanderson, but alas, such is life. My best wishes to you and yours.
+  >
+  > **@xan7292** [👍27]：As a burgeoning, albeit unpublished, writer who one day hopes to be even a tenth as successful an author as you,  you&#39;re an inspiration. The pandemic has, unfortunately, cut down on both my motivation to write and my motivation to read, but seeing all the work you&#39;ve put forth genuinely makes me want to do more too, so sincerely, thank you.
+  >
+  > **@lonebattledroid4474** [👍27]：Don&#39;t scare me like that Brandon! But for real I hope you&#39;re doing ok and I&#39;m excited for the Novels.
+  >
+  > **@zackarypecia3007** [👍24]：My LORD I spent all night and this morning fretting 😂. <br>Mister Professor Sanderson, you are the man. Thank you for all you do!
+  >
+  > **@DariusZenthoefer** [👍23]：I knew about Brandon Sanderson for most of my life, but started reading his books only in 2020. I&#39;m so glad to see how excited about writing this man is
+  >
+  > **@nathankozak4881** [👍23]：I love this man so much! He is the epitome of the nerdy boy who grew up to do what he loved. I&#39;m just glad we all get to benefit from his amazing talents! Thank you Sanderson!
+  >
+  > **@cynthiachou6626** [👍23]：I literally squealed when I heard the news! I&#39;m glad that you are able to spend so much more time writing! Thanks for being willing to share your secret stories, Sanderson! 😆
+  >
+  > **@Remix-tk2pf** [👍21]：Omg, i love this guy
+  >
+  > **@claycook9475** [👍21]：Brilliant, hilarious, and totally had me going. I laughed out loud at the third &quot;beat&quot;; perfect comedic rhythm. Honestly, great acting as well, and really slick production.
+  >
+  > **@dangingerich2559** [👍21]：&quot;Brandon + Time = Stories&quot;  That&#39;s what we love about you, Brandon.  I can&#39;t wait to read those new novels.  :)
+  >
+  > **@laiaal.3324** [👍21]：I can&#39;t believe this, I am crying and laughing at the same time. Crying of happines ofc. <br>Thank you for sharing you amazing stories with us.<br>I have spent the whole day thinking what the news could be and I was still not expecting this!<br>You have no idea (or probably you do tbh) of how happy you just made all of us, even if my wallet is kind of screaming at me right now :)
+  >
+  > **@Arthraxes** [👍21]：Brandon....I can&#39;t even....the emotional roller coaster I just rode from yesterday&#39;s video to today&#39;s is worthy of Rhythm of War!  You deserve a lifetime Hugo Award, a Nobel in Literature, a frickin SAINTHOOD for what you do for us!  By all means, if reducing your travel commitments helps you enjoy writing more (and gets us more books!), make it permanent...I live too far from your usual destinations anyway :)
+  >
+  > **@elenchab2164** [👍18]：I can&#39;t even express how much I adore this man. God bless Brandon and thank God for him. I couldn&#39;t stop laughing. 😄😄😄
+  >
+  > **@drakoan** [👍17]：I used to read dozens of novels a year but over time I read less and less fiction and found myself consuming different materials with one major exception..... your novels.<br>In some ways your works have kept my love of fantasy fiction alive.<br>Thank you for your service, keep up the good work.
+  >
+  > **@Suetvvlogs** [👍17]：Here I am struggling, trying to finish outlining my very first novel, and this man just casually tells us that he wrote 5 more novels while he still is working on the other he currently has out!
+  >
+  > **@Nokus416** [👍16]：This is the most incredible Brandon Sanderson thing I&#39;ve ever heard of. I love this so much.
+  >
+  > **@thepokehons** [👍15]：I&#39;ve never liked an author more than I like Brandon. He&#39;s just as great as I needed him to be.
+  >
+  > **@TheNinjew46** [👍14]：You are incredible, Brandon! Every single weekly update I think about how much work you’ve done on the books you’ve told us about. Now you’re telling us that you’ve written four full-length novels in secret!?! I’m shocked and so happy!
+  >
+  > **@leemager128** [👍14]：This is sooooo awesome! <br>I just recently looked up the Stormlight  Archive Series. I haven&#39;t read any of Brandon Sanderson&#39;s books and I&#39;m already excited!<br>Since times are very hard right now and laid off work due to covid restrictions and business closing down. I&#39;m checking out the local library for any Brandon&#39;s books.<br>Wish I could join the so called book club but that&#39;s okay I have lots of catching up to do!
+  >
+  > **@EmeraldCityVideo** [👍13]：I haven&#39;t ever read Sanderson&#39;s works, but this was recommended by the algorithm and I adore this guy already.
+  >
+  > **@stephanieestradasantana5083** [👍13]：This man has the true heart of a writer.
+  >
+  > **@MsEmilino** [👍13]：Every time you post your word counts, it inspires me that I can write more and more, without going back and forth about little things that I used to get hung up on. It gets me to actually write the stories instead of worrying about making the perfect sentence. It&#39;s amazing to me. This is just a cosmere level of inspiration for me as a beginning author. Thank you so much for this!!
+  >
+  > **@Kaltez** [👍13]：I&#39;m so glad you&#39;re feeling better and boy oh boy am I happy that these past years have been a great recovery for you! Who would&#39;ve thought something like this would come out of the pandemic but I&#39;m certainly excited for what&#39;s to come!
+  >
+  > **@diannabrutsman5271** [👍13]：OHMYGOODGRACIOUS!! Brandon Sanderson you nearly gave me a heart attack! I was so worried and scared for you and your family.  On the other hand, that was pretty awesome announcement.  You wrote 5 secret novels on top of everything else you have been writing this year, that&#39;s fantastic! I hope that you continue to do what&#39;s right for you and your family, if that means less traveling but more writing, then you should do that!  If that means you wanna travel more and write less, then you should do that!  Do what&#39;s best for you!  So relieved and happy to hear that you are doing great, thanks for sharing!
+  >
+  > **@thanosmits1638** [👍12]：This was a masterclass in trolling! Kudos Brandon!!
+  >
+  > **@Munden** [👍12]：Holy crap.  I admire the heck out of you Brandon Sanderson.  Your works singlehandedly made me enjoy reading again.  I had no idea you even had a YT channel.  You&#39;re beyond epic, legendary, and mythic status.  I hope you keep the work-life balance that suites you best and the books I get to read are icing on a cake so full of icing it&#39;s sickening.  Thank you, Thank you, Thank you.
+  >
+  > **@mattterry2506** [👍12]：Man, you are a wonderful genius. I treasure your stories and you have no idea what a boost this is after such a hard couple of years. I re read your state of the Sanderson addresses at least 20 times a year because I am so eager to know when your projects are coming out… thank you so much. I hope you live forever in the full knowledge of what you’ve done for all of us
+  >
+  > **@MattBirch** [👍12]：<a href="https://www.youtube.com/watch?v=6a-k6eaT-jQ&amp;t=412">6:52</a> - <a href="https://www.youtube.com/watch?v=6a-k6eaT-jQ&amp;t=423">7:03</a> is probably my favorite video experience ever!!! Not just that between 2019 and 2020 he published 3 or 4 novels, AND copublished White Sand 3, and 3 skyward Novellas. He ALSO wrote 5 more books in secret? What the freaking heck?! I am so happy to be alive!
+  >
+  > **@robbobstone** [👍12]：This video alone makes me want to try and read every single thing you have ever written, but I don&#39;t think I would ever be able to catch up to your writing speed haha
+  >
+  > **@BackAlleyTANGO** [👍11]：I was literally yelling at my screen for half of this. Brandon, you absolute madman. What a legend. &lt;3 &lt;3 &lt;3
+  >
+  > **@CarlosRodriguez-dh7mm** [👍11]：You know, as a fan, this is a lot to take in. Thanks for your honesty, Brandon. I bet this was a difficult thing for you, but it&#39;s better now that it&#39;s out there.
+  >
+  > **@Hugo-qf1wb** [👍11]：BRANDON YOU DAMN CRUEL HOW CAN YOU GIVE ME THESE FEARS
+  >
+  > **@andrewv5104** [👍11]：OMG I LOVE THIS! As a HUGE fan i would much rather get more stories from you than have your time consumed with travel. I honestly thing the youtube provides more connection with fans than in person meetings anyway. It unlocks more interaction with more people.
+  >
+  > **@z-beeblebrox** [👍11]：I not only can&#39;t write this fast, I literally didn&#39;t even read as many pages during the past two years as he wrote. I CAN&#39;T EVEN READ AS FAST AS HE WRITES AHHHH
+  >
+  > **@amandasupak** [👍10]：In 2023 I read my first Brandon Sanderson book Yumi and the nightmare painter and it was amazing. I literally had no idea it was part of this secret project series and it gave me the push I needed to finally start mistborn. I&#39;m really sad that I kind of missed the excitement of the release, but I&#39;m so happy to be a fan now and to see what will happen in the future. ❤
+  >
+  > **@MigratoryWhimbrel** [👍10]：It&#39;s been a great time getting these books in the mail. You&#39;ve definitely succeeded in creating an atmosphere of excitement that I haven&#39;t had for any books in quite a while!<br>Thank you for your hard work and your stories
+  >
+  > **@Ouroburos14** [👍10]：SANDERSON! You cheeky, bright-brained son of a gun, had me going and worrying because you just HAD to be so darn ominous!<br><br>Never change, my favorite author
+  >
+  > **@heeyajolly24** [👍9]：Each time he put a manuscript on the table my jaw dropped even more. How can this man write so fast!??
+  >
+  > **@mooose5779** [👍9]：This is the best thing I have seen ever! I was refreshing YouTube every half hour waiting for this video. My heart dropped as I read the title, but every second after he set the first book on the table my excitement increased. I can&#39;t believe this is real. Thank you so much Brandon! You are my hero!
+  >
+  > **@peaceandloveusa6656** [👍8]：Brandon Sanderson casually wrote 4 novels and a graphic novel in the time I have written half of my rough draft. What a legend. I am looking forward to diving into the Cosmere!
+  >
+  > **@patrickstephens9274** [👍7]：I am currently working my through Words of Radiance, and I have to say this series keeps getting better and better. Keep writing!!!!
+  >
+  > **@atheos7965** [👍7]：You absolute bastard. I held my breath for about five minutes.<br>Good to hear you&#39;re feeling rejuvenated!
+  >
+  > **@alexhbc9217** [👍7]：Nos troleo... <br>Magnífico Brandon. <br>Estaba preocupada por su salud pero veo que fue falsa alarma.
+  >
+  > **@willkearney5716** [👍6]：Legend has it that he has continued to stack pages to this day and is now entombed by content in that room
+  >
+  > **@ALiberalVeteran** [👍6]：I&#39;m still waiting for Brandon to shadow drop announce the Cosmeric cinematic universe
+  >
+  > **@christopherbright** [👍6]：I think a “Brandon + Time = stories” is a t-shirt opportunity.
+  >
+  > **@annapadilla2894** [👍6]：absolute king, what an icon. i am simultaneously filled with envy yet completely in awe. i aspire to be like you brandon, what a legend x
+  >
+  > **@BrandonsWritingRoom** [👍6]：We&#39;ve been bamboozled! But I&#39;ve never been so happy to be misled, and I&#39;m really excited for this news.
+  >
+  > **@AerialAndrew** [👍6]：Oh god- you made this so ominous it literally hurt
+  >
+  > **@Arowrath** [👍5]：I would sell a small part of my soul to have this man&#39;s work ethic
+  >
+  > **@AcesPrune** [👍4]：I can just imagine Brandon&#39;s team arriving at work one morning to 5 entire Novels out of nowhere 😅
+  >
+  > **@zanderwimpee8773** [👍4]：And this video is why I love Brandon Sanderson. Personality, humor, and his neverending writing process making my TBR more existentially Impossible. Thanks Brandon.
+  >
+  > **@LyssusX** [👍3]：I’ve rewatched this video a good number of times. Thank you Brandon!!!
+  >
+  > **@cozi8097** [👍3]：I keep coming back, Brandon is just so amazing with writing
+  >
+  > **@Asiago998** [👍2]：I still love this video. It&#39;s so perfectly done.
+  >
+  > **@joshualyon3228** [👍2]：An advert. But one of the most genuine things I&#39;ve ever watched.
+  >
+  > **@billyalarie929** [👍2]：sometimes i like to come back to this video every so often, just to feel giddy.
+  >
+  > **@anneleigh7** [👍2]：Only he can write so much that is so so so good!
+  >
+  > **@forsvar** [👍2]：actually re-watching this gem for the third time just because i can
+  >
+  > **@JamesLaw-k7h** [👍2]：I wish I would have known about this sooner
+  >
+  > **@BAcin_0** [👍2]：From time to time I just go here and rewatch this video for the thrill of Brandon&#39;s writing madness. Perfection
+  >
+  > **@ashleydines144** [👍2]：I love this man. You can genuinely tell how much he loves writing which is awe inspiring
+  >
+  > **@lunasylnodel** [👍2]：so sad i only discovered this video now TT
+  >
+  > **@dapm38** [👍1]：Ohno! How did i not see this until 2024?😢
+  >
+  > **@keithnimmo** [👍1]：why am i just getting this video now... i wanted to back this ;(
+  >
+  > **@davidz9659** [👍1]：I got an ad for the Kickstarter while rewatching the video.
+  >
+  > **@Ogder** [👍1]：This will be the first Kickstarter I back
+  >
+  > **@joesunshine4006** [👍1]：Coming back to this, tress has become my favorite of his books.
+  >
+  > **@KGD_Gaming** [👍1]：I love you so much brandon, thank you so much for the stormlight archive
   >
 
 ---
 
-## 2. Split in Two? Your first split keyboard here! Introducing the NocFree Lite for our Early Adopters
+## 2. $41,754,153!
 
-- **频道：** NocFree
-- **观看数：** 910
-- **点赞数：** 7
-- **评论数：** 0
-- **时长：** 1:09
-- **发布日期：** 2023-11-28T14:08:45Z
-- **链接：** https://www.youtube.com/watch?v=9hqlWQ3ozmg
+- **频道：** Brandon Sanderson
+- **观看数：** 94,922
+- **点赞数：** 6,106
+- **评论数：** 218
+- **时长：** 2:16
+- **发布日期：** 2022-04-04T15:00:28Z
+- **链接：** https://www.youtube.com/watch?v=ygC_HISWo4Y
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/ygC_HISWo4Y/hqdefault.jpg
+- **简介：**
+
+  > Welcome to my continuing update series where I give you a breakdown of the previous week.
+  > 
+  > Now on Backerkit: https://secretnovels.backerkit.com/hosted_preorders
+  > 
+  > What backers need to do next: https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson/posts/3469422
+  > 
+  > Prologue to Stormlight 5: https://youtu.be/N7IAXaDWdKU
+  > 
+  > Skyward Flight Stream Questions: https://www.reddit.com/r/brandonsanderson/comments/tqdsiu/questions_for_skyward_flight_livestream_on_april/
+  > 
+  > The Lost Metal Preorder: http://bit.ly/TheLostMetal
+  > 
+  > Sunreach order Link: https://bit.ly/3nIv5dX
+  > 
+  > Redawn order link: https://bit.ly/3iCbfxE
+  > 
+  > Dawnshard: http://www.amazon.com/dp/B08MXXWYT7?tag=brandsande-20
+  > 
+  > Want to send me something to open?
+  > Dragonsteel Entertainment
+  > ATTN: Adam
+  > P.O Box 698
+  > American Fork, UT 84003
+  > 
+  > Knights Radiant Quiz: https://www.brandonsanderson.com/official-knights-radiant-order-quiz/
+  > 
+  > Stay up to date by following my newsletter: https://www.brandonsanderson.com/#signupform
+  > 
+  > Interested in signed books and swag? Check here: https://www.dragonsteelbooks.com/
+  > 
+  > You can also follow me on:
+  > Facebook: https://www.facebook.com/BrandSanderson
+  > Twitter: https://twitter.com/BrandSanderson
+  > Instagram: https://www.instagram.com/brandsanderson/
+  > Twitch: https://www.twitch.tv/mistbornbrandon
+  > 
+  > Frequently asked questions: https://faq.brandonsanderson.com/
+
+- **热门评论（152 条）：**
+
+  > **@Kale13000** [👍455]：Absolutely incredible how this kickstarter went! This will be a moment long remembered by book nerds for years to come
+  >
+  > **@TurWen** [👍443]：If there is one author who has build up enough trust (by both, personality and overdelivery) and has still kept enough nerd in himself to earn this, it is Brandon :).
+  >
+  > **@juancorrea8591** [👍279]：I read a lot about how fanbases used to obsess over their favorite series in the early 2000s, constantly refreshing blog pages and discussion boards, and I’d never had the chance to feel that sort of excitement until now. Thank you for being my introduction into fantasy and helping me find another thing in this world to love.
+  >
+  > **@mothwizard03** [👍231]：Coincidentally, 42 million is the same as the planned word count for Stormlight 10
+  >
+  > **@rodrigo3732** [👍196]：Brandon will take less time to write stormlight 5 than i will to read stormlight 1.
+  >
+  > **@raerants** [👍126]：I&#39;m a wanna-be writer who loves your writing advice, but I never read a book of yours. This definitely encouraged me to read your books, Brandon. You and your team are inspiring af.
+  >
+  > **@aronoiiel** [👍79]：Absolutely wild whaf a fandom can do. Well deeserved to thank you for being genuine and kind and supportive to your fans. I look forwaard to seeinf what else yiu do in your career really love your books
+  >
+  > **@pointZyx** [👍64]：Congratulations to you and the whole team involved! c:
+  >
+  > **@Mikeztarp** [👍38]：You are well on your way to becoming a household name, which is rare for an epic fantasy author. I hope publishers take notice of this and diversify what they offer, too.
+  >
+  > **@Ktulured55** [👍27]：A big thank you to Brandon and Dragonsteel Entertainment as a whole.  You have done a fantastic job,  and now you have your work cut out for you this year into next!  I know you will continue to do an amazing job!  Go Dragonsteel!!!
+  >
+  > **@benjaminschaefer4234** [👍17]：Who&#39;s Brandon and what did he do to B-Money?
+  >
+  > **@kindrednerdsunited7513** [👍15]：This Kickstarter  is insane cool  I&#39;m so ready for kethcing up with your books I&#39;m halfway through Percy Jackson sequel series heros of Olympus I&#39;m ready to dive deep into the cosmere sorry I have bad spelling
+  >
+  > **@ShenMerrick** [👍13]：I&#39;m so happy for you that this went so well...I wish I could have afforded to back the Kickstarter. Things have just been incredibly tight financially right now. I&#39;ll still look forward to the books when they get going.<br><br>Also, boy did that Stormlight #5 Prologue get me hyped for it. I hadn&#39;t started reading the series until this past November, and then I binged them and had just finished Rhythm of War a few days before the release of that Prologue. I know...I take forever because I only read in short bursts. But I do believe Stormlight is officially my favorite series at this point. In the meantime of waiting I&#39;m going to move over to reading Mistborn, which I&#39;ve also never read...and keep watching the updates with bated breath.
+  >
+  > **@RealNellyMandelly** [👍10]：42 MILLION?! What is this, a joke to all of us?? I&#39;m so proud we were able to land onto the best number...
+  >
+  > **@Casey093** [👍10]：We encouraged Brandon to do MORE secret projects, didn&#39;t we? :-/
+  >
+  > **@trentevans8820** [👍9]：I’m glad that Brandon will be back to streaming after his break last week. But when will we see more of B-Money?
+  >
+  > **@randyhalfway** [👍8]：This man&#39;s work ethic is on another planet.
+  >
+  > **@akanesakurada8298** [👍8]：I&#39;m still new to Brandon Sanderson. I just discovered him while browsing some fantasy authors recommendations after I came back reading physical books.  I&#39;m planning to read The Stormlight Archive if I got the money and time for it. <br><br>I&#39;m happy to see this development going on and I can&#39;t wait to read one of your books. Congrats, Brandon.
+  >
+  > **@ToraTapes** [👍7]：We all miss B-Money...
+  >
+  > **@levipearson2366** [👍7]：Brando Sando, I love you bro. I loved your news interview, it was so genuine and they totally undersold how much of an impact on our lives you’ve had. However, it’s so good to see you take a spot in the media like you deserve. I need your content to get out and touch everyone like it did to me. Seriously, this is wholesome content everyone can enjoy. If anyone is reading this and HASNT read any of Brandon’s books, please go read the way of kings. Absolutely life changing read. Cudos Brandon and I know you don’t need it but best of luck In the future.
+  >
+  > **@CarlyAndJason** [👍6]：Wow indeed! Such an awesome KS and it was fun to watch and be part of it. Really awesome on the progress amounts! See you at the livestream tomorrow 👍
+  >
+  > **@masonwheeler6536** [👍6]：Rounded to the nearest million, that&#39;s 42.  Fitting for an author who writes about people traveling between different worlds via very strange means... 😆
+  >
+  > **@Evanthebat15** [👍5]：I felt honored to be part of the Kickstarter from beginning to end, it was a crazy ride and help me meet more of the fandom. I decided to join it as a way to thank you for the YT Lectures you&#39;ve put up which I follow and wow...what I got instead was an addiction to Kickstarter and fantasy.<br><br>Loved being able to meet your children on the streams and the rest of your team! You deserve every success you get.
+  >
+  > **@JAAAY62** [👍5]：It&#39;s been a ride this month following you and your team with all the KS craziness. I&#39;m going to start RoW soon and I&#39;m so excited! I need to catch up on everything!! So excited for my secret project books!
+  >
+  > **@weronikaryfka3088** [👍4]：the SA5 prologue was a spiritual experience
+  >
+  > **@IndiaTides** [👍4]：Brandon made same amount of money as Chris rock&#39;s net worth.😂😂😂<br>Congratulations.<br>You deserve it. I didn&#39;t have money but when I will earn. My dream is bookshelf with your books in it.
+  >
+  > **@teahweight170** [👍3]：My kind of March madness 🤣. Followed it the whole way through. Congrats!
+  >
+  > **@yuantheblue** [👍3]：I feel so privileged to have been here and be able to contribute! :) What a memory this will be in the future! It makes reading so many of his standalone and Stormlight books worth it (currently on Rythm of War)
+  >
+  > **@MorselOfBread** [👍3]：The Kickstarter for me made a lot of sense. I will get an audiobook and an ebook for the price of an audiobook ($15 each). Pretty good deal and those two formats are usually my preference. Also, if I forget to report the purchase on my tax return, I will get the books tax free!!
+  >
+  > **@BMB57** [👍2]：This is what passion in your craft, combined with high work ethic looks like
+  >
+  > **@miSoccho009** [👍2]：I finished his &quot;Mistborn&quot; today.<br>Wanna admit that he is an amazing writer
+  >
+  > **@AuroraSchmidt** [👍2]：Can never have enough of you! This has been wonderful!
+  >
+  > **@FunFantasyBooks** [👍2]：What an amazing month March was! From the scare of the announcement to the consistent secret project releases every week to SL5 prologue! 👏 epic!
+  >
+  > **@justmerepanda7721** [👍2]：I backed the kickstarter! I&#39;m looking forward to some cool new books coming in next year!
+  >
+  > **@E_D___** [👍2]：Yep
+  >
+  > **@zenthepoet.** [👍2]：adoooonalsiiiiium
+  >
+  > **@Navhkrin** [👍1]：Man Im sooo happy brandon got such money.
+  >
+  > **@BartPebble** [👍1]：I really am gonna miss this amount of content Brandon and the team have been pushing out for the last month with this kickstarter. Just having some fun streams to listen to while working or playing games has been so nice, and I’m gonna miss it
+  >
+  > **@kennethcole6230** [👍1]：Weekly check on the status of the Dawnshard audio book
+  >
+  > **@joshclement2186** [👍1]：Didn&#39;t have the cash to back the kickstarter as currently between jobs but will definitely be picking up the books when they get released!
+  >
+  > **@muriaal** [👍1]：This was all so surreal
+  >
+  > **@TriggerBud** [👍1]：Tshirt sizes?! I joked to my boyfriend (who bought this for me) about how I hoped you guys would do tshirt’s but figured that’d be too complicated. I AM SO FRICKEN EXCITED!!!! Really really happy to be apart of this. Thanks for all of the absolutely wonderful content you produce Brandon! <br><br>Side note: I always complain about time moving along too quickly, but by now I’ve said probably 100 times “I’m so excited for 2023, the year of Sanderson!” Thanks x2 for giving tons of people a year to actually look forward to :)
+  >
+  > **@flesruoYkcuFoGuoY** [👍1]：The wait for SL5 and the secret novels will be a long one, but well worth it!!
+  >
+  > **@cj_janzen** [👍1]：So incredibly happy for you &lt;3 I couldn&#39;t afford to participate, but totally cheering you on!!
+  >
+  > **@ChildlikeSenseOfWonder** [👍1]：Congratulations! 📚💞 I also look forward to publishing my first children&#39;s book soon!❤
+  >
+  > **@trev2396** [👍1]：Thanks for all the updates!
+  >
+  > **@ramirodecono3647** [👍1]：Dragonsteel kicking some 21st century how-to-release-books ass
+  >
+  > **@Magnify.** [👍1]：You deserve it, shout out to the team too.
+  >
+  > **@CraigAPriceJr** [👍1]：Congrats!!!! My kickstarter just went live today... And I&#39;m already close to beating you! Only 41.7 million away!!
+  >
+  > **@Fluffybullets2** [👍1]：Love you Brandon! :D
+  >
+  > **@Luka1180** [👍1]：Wtf that’s insane
+  >
+  > **@caitlinflowers4694** [👍1]：Yaaasssss!!!!
+  >
+  > **@anthonykane4127** [👍1]：I&#39;ve seen movies make less than this. Well done Brandon.
+  >
+  > **@Abell_lledA** [👍1]：One is caught up playing the impassioned protagonist in one’s Subjective Narrative of Self🎈
+  >
+  > **@dagonzalez1757** [👍1]：Where is B Money?
+  >
+  > **@tinybrito** [👍1]：Has it been confirmed if the kickstarter shirt sizes and fit will be the same as the shirts on the Dragonsteel store?
+  >
+  > **@TorinX99** [👍1]：From Software???? Cosmere game?  We need this.
+  >
+  > **@jeremiahglover7562** [👍1]：Soooo, does this mean people might be willing to crowdfund other media in the future? Web shows? Videogames?
+  >
+  > **@jasongleason4184** [👍1]：Can we get some info on when/if these books will be available for non-backers who couldn&#39;t afford $200 this month? Thanks!
+  >
+  > **@nicolasabner2720** [👍1]：Brandon, I&#39;m from Brazil and here there are legions of fans wanting to read more of your books! Please send a message to a Brazilian publisher to translate your works and come back with Mistborn 1st era prints. With affection and admiration, Nicolas.<br>.<br>I hope the message makes sense. I don&#39;t know English and I&#39;m translating from Google.
+  >
+  > **@isopodshuffle** [👍1]：awesome! now go celebrate by reading One Piece (and doing a video with Daniel Greene about it) 🙂
+  >
+  > **@rohanmanro3765** [👍1]：I really liked the Cosmere books, are non-Cosmere books like Skyward series just as great as the Cosmere ones?
+  >
+  > **@michaelstevenson8272** [👍1]：Has there been any news on Brandon posting his lectures this year?  Last year was COVID canceled and the year before the last 4? Were done remote and personaly I felt were not as good.
+  >
+  > **@tbowne05** [👍1]：Still no dawnshard audiobook.
+  >
+  > **@tastycrocs1551** [👍1]：How can you even get so much money? Lowkey just raise this amount of money for cancer research!
+  >
+  > **@BrandonNinja**：It&#39;s always good to give back.
+  >
+  > **@blugobln85**：As a very new fan of your writing (2021 is where I first picked up one of your books - Stormlight #1) I am so glad to see such huge successes happening for you, but also not at all surprised. When I first started reading your work I was very worried what kind of writer you would turn out to be. I was slowly growing more and more attached to your fantastic characters, world and lore, and just magical way of building situations for your characters to heroically succeed in (or in some cases stumble out by the skin of their teeth). My fear was there would be similarities to other certain authors who are known for killing characters in a brutal fashion - frankly, I was looking for more &quot;pure&quot; fantasy, the kind of stories I tell with my friends in tabletop roleplaying games.<br><br>I could not have been more overjoyed and ecstatic by the end of your 2nd Stormlight book. Heroic, and without a doubt, among the most EPIC of storytelling. Your writing makes me punch the air with a woop and a holler of victory, shed tears of joy over the amazing character moments, and feel a freedom to love your characters because I know that you love them just as much and more and you won&#39;t break my heart without reason.<br><br>I&#39;m writing this simply to say: thank you. Thank you so much.
+  >
+  > **@cheyenneray9115**：We could never have too much of Brando Sandino!
+  >
+  > **@CaitlinnStoltz**：This was a wild and crazy ride!
+  >
+  > **@_mundus**：41 million factorial, now THAT&#39;S a big number.
+  >
+  > **@cnocell7**：That factorial symbol really changed the value... 🤣
+  >
+  > **@jjgragas1527**：Brandon &quot;Never Fails To Impress&quot; Sanderson
+  >
+  > **@j-golden7927**：So stoked for storm light five!! Thanks for the prologue!
+  >
+  > **@banditoheat**：Nicely done,  B$$.
+  >
+  > **@Homar30**：Och no, I was enjoying having so much Brandon over the past month!
+  >
+  > **@josemanuelserna8963**：Congratulations Brandon!<br>From one of your readers in Spain.<br>You know we love you here. Hope to see you in Spain soon.
+  >
+  > **@DebzZi**：Brandon&#39;s productive energy makes me jealous!!
+  >
+  > **@Hawkknight88**：Bridge Four!
+  >
+  > **@moma-b**：We never have enough of you! 😄💕
+  >
+  > **@JaniceSeagraves**：You are breaking records. Congratulations.
+  >
+  > **@notemaker3000**：Congrats!! My sister has been a fan for a while and I’m excited to start reading your books.
+  >
+  > **@Dylan-em1zc**：insane brandon!!
+  >
+  > **@Guitarman5705**：Just finished words of radiance my man, nothing but praise from me, will be looking forward to finishing stormlight and reading everything else you bring out the next few years. Just wanna say thank you as well for mistborn. Those books really brought me out of a wierd place in my life. Journey before destination!
+  >
+  > **@enki_of_nibiru**：My co-worker introduced me to you and I didn&#39;t want to acknowledge your greatness, but you are the man!!!! Keep up the great work!!! You are the greatest fantasy writer of my generation...no pressure!
+  >
+  > **@afk2514**：Well deserved. Thank you!!!
+  >
+  > **@fuhoo5836**：congrats!
+  >
+  > **@vaniachase3825**：amazing
+  >
+  > **@mr.kilroy6818**：Uncle Sammy will be wanting his cut&#39; be careful!
+  >
+  > **@Rickshow314**：Graaaaaande
+  >
+  > **@chugg159**：Conglaturation
+  >
+  > **@A.Campbell**：41MM is insane!
+  >
+  > **@BeastOrGod**：Can&#39;t wait for my books.
+  >
+  > **@am3703**：Hard not to be blown away, Brandon &quot;I have an HR director&quot; Sanderson everybody.
+  >
+  > **@00Tenrai00**：You DESERVE this!
+  >
+  > **@NNNNNNNNNNNNNNl**：Thank you for your creative output Brandon, you are truly an inspiration to aspiring fantasy and science fiction authors around the world!
+  >
+  > **@ReadingDave**：Nice job. I look forward to reading your novels.
+  >
+  > **@JSephH76**：You should add an Elden Ring progress bar lol
+  >
+  > **@cokeMONSTERps3**：That&#39;s a lot.
+  >
+  > **@amburbyler7721**：This is just amazing!
+  >
+  > **@daniela.domingues**：Congratulations! And honestly, thank you for this! 😊
+  >
+  > **@Yzabell0M**：Now I need to catch up on all the books before they start shipping 😁
+  >
+  > **@alphasia91**：I wasn&#39;t able to support the kickstarter at the moment, but I hope that the books will be available for purchase when they come out.
+  >
+  > **@Labzundead**：Can&#39;t wait for my hoid gold stars!
+  >
+  > **@panditmanthan**：Big fan from India I just started to read your novels sir great 🥳🙏
+  >
+  > **@Bertocalde**：Disfruta de mis 900 lereles jefe
+  >
+  > **@elqord.1118**：and I missed it...goddamnit
+  >
+  > **@rahul-qm9fi**：41 million jesus
+  >
+  > **@MARlANO_**：padre
+  >
+  > **@Tguard77**：Little idea I had, not sure if its something you think you would have time for ever, but, I really really enjoyed listening to you read each of the projects and giving background on them. I think it would bve a great idea if you read a little bit from the first part of any of your series to get people to want to read those. I know I love stormlight and mistborn (first 3 books)  but I havent read any of your other stuff. I feel like you reading the intro for some of them would really get me excited bout reading them myself. idk just a thought, anyway you are the best , thanks!
+  >
+  > **@amandasmith4581**：Amazing! My husband ordered on the kickstarter but won’t tell me what level he ordered 😑😆. I’m so excited for 2023.
+  >
+  > **@dreadfulpennyanimates3476**：😲😲😲😲 This kickstarter is getting insane.
+  >
+  > **@amyolimawisa5962**：Finally
+  >
+  > **@Asthamedos**：Why am I not surprised he&#39;s a Kurzgesagt fan as well?
+  >
+  > **@jasondawes8784**：Dawnshard audio book when?
+  >
+  > **@ardentapiarist952**：Oh does anyone recognise the shirt? Looks cool
+  >
+  > **@pendrakedcm**：Any update on the Dawnshard audiobook release?
+  >
+  > **@stephanieaber8627**：Do you think you will open up a sorry you missed it backing option?
+  >
+  > **@MercuryManProduction**：...we are never getting the Dawnshard audiobook, are we?
+  >
+  > **@gidiankhiemplebuch-to240**：Any updates about the Dawnshard audiobook release?
+  >
+  > **@manishvenumuddula8571**：Missed the kickstarter, anyone know if doing the backerkit option results in the same type of stuff?
+  >
+  > **@micahhenry3846**：Will skyward fight be in audible?
+  >
+  > **@learnliftlearn**：when do you think stormlight five is coming out?
+  >
+  > **@NEWNORMALNEWSNETWORK**：Wow I&#39;m so glad for u now spend some of that on having a Japanese company animate the stormlight archive and mistborn
+  >
+  > **@crackfloor**：Best writer of our time
+  >
+  > **@kellyler1296**：Please, please give any info you have about the audiobook release for Dawnshard! :)
+  >
+  > **@nicolasperalta5598**：I didnt see any place where i could put the address. Can someone explain to me hows that gonna go? 😅
+  >
+  > **@girlscandrum22**：Will hardcover books be available later if you couldn&#39;t back the kickstarter? I was very disappointed that I couldn&#39;t afford it right now.
+  >
+  > **@MoreRice28**：Where&#39;s B-money?
+  >
+  > **@currentlyprocastinating5334**：Are the release date for Skyward Flight different depending on the country because I bought mine in store a couple of days ago?
+  >
+  > **@lucassamuel7968**：My shitty brazilian bank isn&#39;t allowing me to purchase. I&#39;ve been calling them , they say they are fixing it, but aways is declined.
+  >
+  > **@chasemorello60**：👕🧾
+  >
+  > **@NoPantsJohnson**：I kinda want to hear Brandon&#39;s side of all these articles in seeing about Bandai-Namco&#39;s interest in him. FromSoftware is my favorite game developer and I swear, if they collab with Sanderson like they did with Martin...
+  >
+  > **@justinfracchia8866**：What happened to B Money?!
+  >
+  > **@danijohnson864**：Umm just wondering when warbreaker leatherbound will be available. I thought i seen you singing them last yr or were they hard covers??
+  >
+  > **@xxfutureisnowxx**：Im staying clear of spoilers, but will any of these four new books spoil anything from any of the other series?
+  >
+  > **@smm855**：So I just realized after watching Cinema Therapy this past week that Alan Seawright was at BYU at the same time as you!  He started a Fight Club while he was there...I don&#39;t suppose you joined? lol 🤣  Mormon fight club for the win!
+  >
+  > **@jibranelbazi**：A dollar for every word Brandon has written in his life 😉
+  >
+  > **@noctuliusgui**：History gotta be gentle on BS on the future. We are still to see a more trustworthy writter in our generation.
+  >
+  > **@airbendnerd**：Maybe you should take that money and buy Evermore and turn it into CosmereLand…
+  >
+  > **@fictionmyth**：Why did B$ call himself Brandon? I&#39;m so confused...
+  >
+  > **@willphoenix5464**：Truly amazing to how insane he is to have done all of this and doubly so for having such a dedicated fanbase that is able to fund twice the second largest Kickstarter<br>Though if anyone else has some info, could someone elaborate on the possible collaboration between Bandai Namco and Brandon?
+  >
+  > **@Cajatec**：Just found out that you can&#39;t pay with a normal mastercard. I was able to pledge, but not pay 😅 Kickstarter really needs more payment options
+  >
+  > **@neondemon5137**：I would&#39;ve backed this but international shipping was so expensive, not that I can&#39;t afford it, just isn&#39;t worth it to me.
+  >
+  > **@TrashMetal1995**：Does anyone know whether these books will eventually be published as paperbacks as well? I backed the &quot;ebook-option&quot;, because the high cost of shipping the books outside of the US scared me off a little bit (and I am a sucker for paperback books)
+  >
+  > **@Kirealta**：WTF
+  >
+  > **@remiwi2399**：How do you determine the percentage you&#39;ve completed in writing a book????
+  >
+  > **@luxintenebris1776**：Who is this Brandon guy? Bring back B$!!
+  >
+  > **@jmautobot**：Any idea who&#39;s voicing the audio versions of these books? A professional actor or Brandon?
+  >
+  > **@jackhadfield1332**：first
+  >
+  > **@deathwater13**：🤩🤩🤩🤩🤩🤩🤩🤩🤩<a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a>
+  >
+  > **@celsiusnebula**：Actually, you didn&#39;t earn 1.988437*10^300062266 dollars, as that is more money that exists in the world. Your use of the factorial symbol is incorrect here. 🤓
+  >
+  > **@AngryPieMan**：Where&#39;s B-Money?
+  >
+
+---
+
+## 3. Sanderson Changed Publishing Today
+
+- **频道：** Daniel Greene
+- **观看数：** 344,681
+- **点赞数：** 22,449
+- **评论数：** 1814
+- **时长：** 8:48
+- **发布日期：** 2022-03-01T19:29:06Z
+- **链接：** https://www.youtube.com/watch?v=8EVgZzb5ZKo
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/8EVgZzb5ZKo/hqdefault.jpg
+- **简介：**
+
+  > The Cosmere will never be the same. Check out the kickstarter here: https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson/faqs
+  > New Channel: https://www.youtube.com/channel/UC9tQc_K_LtoCiVGx7_R3FRA
+  > Patreon: https://www.patreon.com/DanielBGreene 
+  > All the Me Social Links: https://linktr.ee/DanielGreene
+  > 
+  > Lawful Times Series: 
+  > Breach of Peace: https://amzn.to/3CnKsfX
+  > Rebels Creed: https://amzn.to/3Gtqt2p
+  > 
+  > Equipment: 
+  > Camera: https://amzn.to/3siqgHv  
+  > Lense: https://amzn.to/3ugGxhQ  
+  > Lighting: https://amzn.to/3aI3brK  
+  > Microphone: https://amzn.to/3pCGtWg  
+  > Tripod: https://amzn.to/3kd9yq1  
+  > 
+  > P.O. Box: PO Box 7874 Henrico, VA 23231
+
+- **热门评论（200 条）：**
+
+  > **@OverlySarcasticProductions** [👍4284]：In this context, your skit &quot;Brandon Has A Writing Problem&quot; was downright PROPHETIC.<br>-B
+  >
+  > **@CarlosRodriguez-dh7mm** [👍3170]：He didn&#39;t just write 5 books in two years. He wrote them ON TOP OF releasing 3 full novels (including a Stormlight chonker), releasing half a dozen novelas/ graphic novels, writing and beginning the editing process for 3 other books, becoming a YouTuber (including video essays, regularly scheduled hours long audience QAs, and a podcast he&#39;s over a month ahead of production on), keeping an updated blog, maintaining fan interaction on Reddit, working as a professor, creating one of the largest Kickstarter campaigns of all time, and starting a freaking convention for fantasy nerds... <br>I know he has a strong, capable team supporting him. It&#39;s not just Sanderson. But damn...
+  >
+  > **@DanielGreeneReviews** [👍3061]：The madman has already hit 4.8 million.
+  >
+  > **@ladrac198** [👍1986]：One novel I was like &quot;Ok, yeah, he&#39;s a machine.&quot;<br><br>When he revealed 5 I literally gasped and went &quot;No fucking way!!&quot;
+  >
+  > **@jalalchahine1886** [👍1974]：To be completely honest about what I saw 2 or 3 hours ago, Sanderson raises the bar so high, not just in writing, in every aspect of being an author, he&#39;s just crushing the industry.
+  >
+  > **@skizzit** [👍1839]：Only Sanderson could just casually write five novels in his free  time.  The dude is a machine.
+  >
+  > **@BaneHydra** [👍1454]：Branderson Sanderson teaching me how to write:<br><br>Sanderson: Every author is different, what works for someone else might not work for you, write at your own pace! You don&#39;t need to write 1000 words every single day to be a great writer.<br><br>Me: Wow, thanks Brandon, that&#39;s great to hear! Out of curiousity, how many words do you write a day on average?<br><br>Sanderson: I have written 2 full novels since we started talking.
+  >
+  > **@JzanderN** [👍1214]：Daniel Greene almost two years ago: &quot;I&#39;ll make a sketch about how Sanderson can write a bajillion books in five minutes. It&#39;ll be a funny exaggeration of his writing speed.&quot;<br><br>Brandon Sanderson: &quot;Okay, but what if I actually did that, though?&quot;
+  >
+  > **@thatdavidhopkins** [👍1187]：Fans Then: &quot;Wow. A novel a year. That&#39;s awesome!&quot;<br>Fans Now: &quot;Okay. A novel a year. But what about your secret novels?&quot;
+  >
+  > **@taylorblue711** [👍1002]：I’ve been trying to write ONE book for the past year meanwhile this man has written FIVE!? I haven’t read a single piece of his work but have mad respect for him!
+  >
+  > **@animeotaku307** [👍646]：Sanderson: Okay, just going to do a writing warm-up. No pressure, just an exercise…<br><br>Where did this novel come from?
+  >
+  > **@PianoMyHeart** [👍636]：“As a Sanderson fan, I’m ecstatic. As an author, I BURN WITH ENVY.” yes thank you for putting it in words
+  >
+  > **@tioreilly625** [👍497]：This was a rough 24 hours. I was initially worried after his video yesterday. Eventually after really listening to his words I was like hmm, he&#39;s burned out. He&#39;s taking a well deserved break from writing. And then the video today drops and it turns out it&#39;s the COMPLETE OPPOSITE. If I wasn&#39;t so happy with this news, I might be angry at him for worrying us.
+  >
+  > **@pinpunk13** [👍440]：I think the &quot;Brandon has a problem...&quot; skit needs a sequel. Something in the line of &quot;Brandon has a bigger problem...&quot;.
+  >
+  > **@akkristor** [👍403]：&quot;I accidentally wrote an extra novel, in SECRET&quot;.<br><br>Only Sanderson can accidentally an entire novel.<br><br>OR ACCIDENTALLY FIVE
+  >
+  > **@Chryxsillis** [👍381]：Sanderson is a menace to all writers. There’s nothing you can do to catch up. He’s always ahead of you.
+  >
+  > **@lordredman6137** [👍357]：I love how people dealt with quarantine with burn out. And then there&#39;s Sanderson who wrote 5 whole books
+  >
+  > **@covi_reads7398** [👍346]：I think Brandon articulated a really important point that was under appreciated. When authors are asked to spend huge chunks of their time touring and going to conferences, while fun, takes them out of the mental space of writing the novels they love to write. And while I know it&#39;s cool to see our favorite authors, what we love most is reading the books they write. And what they love most (especially in Brandon&#39;s case) is creating these stories. Brandon also communicated a good point, all that touring and spending time away from home and family can be an incredible source of stress.
+  >
+  > **@ryansfantasychannel** [👍328]：No one else in history has EVER said, &quot;oops, I ACCIDENTALLY wrote an extra novel in addition to the scheduled ones.&quot; And then we find out that was just the beginning of the story!
+  >
+  > **@frapple_apple** [👍228]：I&#39;ll do the math for you. On the Kickstarter, it says each of the novels are around 400 pages, which means ~2000 pages total. 2000 pages is equivalent to 900,000 words. There are 731 days in two years, since 2020 was a leap year, and he said he spent 54% of days writing in his pie chart. 731*.54= 395 writing days. 900,000 words/395 days=2278 words in a given writing day. Keep in mind, that&#39;s not counting writing he&#39;s doing on Stormlight, Mistborn, or any other unannounced projects. This man is an absolute machine.
+  >
+  > **@peri7755** [👍209]：the way my jaw DROPPED when he kept slapping the manuscripts onto the desk…
+  >
+  > **@allijohnson1228** [👍196]：I hope someone on here understands what I say when I say &quot;Sanderson is to being an author as Taylor Swift is to being a musical artist.&quot; <br>Both are at the top tier in regards to their respective arts, both have a massive and loyal audience base, both spent their pandemic being over the top productive while the rest of us worried and made sourdough, and they both have been highly successful at finding new ways to disrupt their industries and bring joy to their fans. <br><br>I know most people on here won&#39;t care but as both a Sanderson fan and A Swift I couldn&#39;t help seeing some parallels here.
+  >
+  > **@Derekivery** [👍180]：Normal Writer: It&#39;s so hard to finish writing one book.. <br>Brandon Sanderson: It&#39;s so hard only writing one book, I&#39;ll write 5. <br>GRR Martin: What&#39;s writing?
+  >
+  > **@DeathRex88** [👍179]：The man is a machine! I haven&#39;t picked up any of his work before and even I know and respect the man for his skill.
+  >
+  > **@UnicornKidsClub** [👍178]：I was so worried this morning. Now I can’t stop smiling. He’s a sun of B and I love him for his shenanigans!! And Daniel, You don’t have to have his same speed at writing! You already have the equivalent views and Imagination. That’s super impressive and your books are going to get better and better too!!
+  >
+  > **@byaustingragg** [👍159]：A big piece of the equation here is the years traditional publishing slowly helped build Brandon&#39;s career. I totally agree, we&#39;re getting a glimpse of future big release protocol here. However, you have to remember Brandon can pull this off because he already has the fanbase and financial means. If midlisters tried to do ALL of this, they&#39;d run themselves into massive debt and time management issues. Yes, authors and publishers should take notes from Dragonsteel, but let&#39;s be clear: doing ALL those things that BIG is something only Sanderson and a handful of other folks (maybe Butcher?) could manage.<br>Loved seeing Daniel&#39;s reaction. That was mine, too. Except, I was also a little angry, because I was worried for his health due to his tease in the weekly update. Stoked for more books, though!
+  >
+  > **@zenpinfloops2813** [👍151]：Was stressed at work over his announcement, and this drops near the end of my shift. I was trying to close a register while listening to more and more books slamming onto his table with my jaw on the floor
+  >
+  > **@lamarepository248** [👍149]：“A cryptic email from someone on his team”<br><br>This is the next step of his master plan, we are merely pawns in Brando Sando’s great game.
+  >
+  > **@rachelbronson5749** [👍118]：Just like Sanderson, you got us this so fast 😂 thank you.
+  >
+  > **@Blueneoh** [👍113]：I wish I was a fan of Sanderson&#39;s writing, I would have so much to read. <br>This man is a machine. Litterally. He&#39;s some sort of AI from 100 years in the future capable of writing books on its own.
+  >
+  > **@knackis2116** [👍103]：Maybe I&#39;m a weirdo, but I often have very little interest in signing up for newsletters, staying in touch, reading author blogs, hearing about their work life, etc. These days it seems like every new unknown is trying to push their socials and their newsletters on you. I am perfectly happy for an author of a book I like to NOT have a strong social media presence. In fact, sometimes, preserving an air of mystery and getting to &quot;know&quot; the author primarily through their writing is preferable to me. Hell, knowing too much about the author, having frequently seen them speak, etc., MIGHT just influence the reading experience, too.<br><br>As a would-be author, I would also much prefer the olden days of simply writing in your room and selling the book, NOT your personality or online presence.<br><br>I might not like it, and I still sympathise with authors who are shy, or introverts, or suffer social anxiety or a slew of other mental health problems. I think they DESERVE that sympathy. But I get that this is where the industry is headed, and I agree with you, Daniel: authors SHOULD ABSOLUTELY be getting professional support from publishers in this weird new world, not in the least because most authors will not have had media training nor, perhaps, any desire to appear in public.
+  >
+  > **@michellebarnett2046** [👍102]：The Kickstarter is going up THOUSANDS every minute it is insane.
+  >
+  > **@flavia_mistborn94** [👍93]：I love your reactions, cause they mirrored mine almost exactly. I stopped the video with each new stack of pages and started yelling WHAT at my computer. Then I started sharing it with all my Sanderson fan friends, even before he requested it. He is simply unbelievable, and so amazing!!!!
+  >
+  > **@calvinrieder5312** [👍92]：Great video Daniel, I largely agree with everything you&#39;re saying. My one pushback is that Sanderson is already an extremely well-established and well-loved author with a lot of books already in-print. I would imagine that a new author trying to release their first book would have a much tougher time with this funding strategy, since most people aren&#39;t going to contribute to a kickstarter for a completely new author whose work they&#39;ve never read before.<br><br>However I completely agree with your point on the importance of social media in the publish space these days.
+  >
+  > **@MetaI4Brains** [👍88]：As an aspiring writer this is a real confidence killer.
+  >
+  > **@simonapuckovicova3678** [👍84]：I swear he has to have a time machine to  be able to write so much so fast. Mind-blown.
+  >
+  > **@Grimscribe732** [👍74]：Daniel: &quot;I don&#39;t undestand.&quot;<br>Sanderson: &quot;I know.&quot; <br><br>That was perfect timing.
+  >
+  > **@praalgraf** [👍70]：it&#39;s insane.  both the concept and the shipping prices, especially overseas<br>i think he&#39;s earned his second R as a fantasy writer
+  >
+  > **@davidoskutis6290** [👍51]：So, there was an article on Stephen King written back in the 90&#39;s sometime that he said he has dozens of stories in boxes that&#39;ll probably never see the light of day while he&#39;s alive, but most would get published when he dies (a plot point of his book Lisey&#39;s Story, published in 2006). I heard once that Brando Sando had written over 20 books before getting published, and hearing this announcement made me think one thing: I bet these guys are so prolific because while they spend some time writing the newest book, they&#39;re also dusting off these &quot;unpublished&quot; things they&#39;ve already written, polishing/re-writing a bit here and there, and just releasing it as a &quot;new&quot; book and just not telling us they already wrote these stories 5, 10, 15 years ago, ha ha ha.
+  >
+  > **@dizzyentrepreneur6350** [👍50]：Talk about efficiency, a skit&#39;s already here. May it leave memories that beome legend.<br><br>Still can&#39;t believe he wrote 5 <b>extra</b> SFF books in two years.
+  >
+  > **@milospollonia1121** [👍43]：I literally won&#39;t take any other explanation except this guy is an alien meant to see how much we can endure before we get suspicious. <br><br>Just. How.
+  >
+  > **@mercianthane2503** [👍39]：Sanderson is the definition of &quot;Quality and quantity going hand in hand&quot;. Yes, he writes so much and he&#39;s damn good. He is the God of Fantasy now.
+  >
+  > **@RosLanta** [👍38]：I loved the video and the way he announced it, but as a Brit, this method of release does not work for me because I can&#39;t afford over £100 shipping in addition to the already high cost of the books. Not having to pay it all upfront anyway - maybe if I could pay it slowly over the next 12 or 18 months I&#39;d consider it. I&#39;ll get the ebooks and mayyyybe audio but it&#39;s disappointing that I&#39;ll have to wait for a traditional release to get a hardcopy.
+  >
+  > **@pablog8312** [👍36]：When I Saw the video and he anounced the 5 novels I literally started crying thinking that i&#39;m unable of even passing my exams while this man is writing novels faster than I read. I&#39;m really Happy and I feel overwhelmed when I think of myself struggling to do simpler things. It&#39;s bittersweet, for real, I assume mental health counts but... Ya know
+  >
+  > **@Lurklen** [👍36]：I guess. It all feels a little dog and pony though. Like, now an author has to be a performer too? Lots of reasons to avoid that, and &quot;Too bad this is the way the industry is going&quot; is an argument that puts a lot of people in bad positions where they are spending a lot of time not writing to get permission to get their work in people&#39;s hands. I don&#39;t even think authors should have to do signings. Ruin their wrists and waste a bunch of time so people have a name in a book? And I like my signed books, but an author&#39;s job is to write. Packing on being influencer and fan interaction shouldn&#39;t HAVE to be a significant part of a successful author&#39;s job. If anything it leads to more of this &quot;person as product&quot; and these psudo relationships that have done incredible damage to so many already. Just because this is where the money is, doesn&#39;t mean it&#39;s good for people.<br><br>You know what this shows me? When you leave an author alone for a couple years and don&#39;t make them run around doing pointless marketing/engagement nonsense, they get more work done.
+  >
+  > **@lindsey7467** [👍34]：First, I&#39;m happy for Mr. Sanderson. I enjoy his work and am thrilled to be able to get more in the immediate future. I&#39;m also happy for author&#39;s like you who have worked hard to build a platform, and worked hard to create and promote your own novels. Truly, y&#39;all deserve all the accolades you&#39;ve gotten. However, I&#39;ve got to admit the attitude you&#39;re pushing, the pressure you&#39;re putting on any would-be authors to not only write at breakneck speeds, but to put themselves and their lives out on the internet for everyone to view under a microscope is kind of crappy. Not everyone works as a writer full time. Not every book idea comes to fruition at the rate of some assembly line expectation. Some people don&#39;t have life circumstances conducive to going all in on this one thing. Sometimes it takes years of brainstorming and research to create something and trying to rush it would mean churning out a lot of mediocre material.<br><br>You&#39;re right in saying that anyone can learn to do public speaking and become proficient with social media and the associated programs. But not every one WANTS that life. Not everyone wants to live in the lime-lite like that. You have a wide ranging audience and I think it&#39;s unfair for you to use it to brow beat people into taking up a lifestyle and a stress level they don&#39;t want.<br><br>Perhaps I&#39;ve misunderstood your intention here, and if so I apologize for that, but I hope you understand what you&#39;ve just said makes me second guess my aspirations to becoming a novelist altogether.
+  >
+  > **@caelanjpeters** [👍31]：And so goes the last hope of ever being a mid-list author in a publishing house...lol jk. This is pretty crazy, but I do wonder if publishers will chase after those numbers with this kind of stuff and if it will syphon from the mid-list. Reinforcing debut culture and making it even more difficult to create a sustainable career out of being a traditionally published author. No shade on Sanderson or his publisher tho, this is incredible. I could be totally wrong though, just a thought!
+  >
+  > **@Paul_McSeol** [👍31]：Me: I wanna be a novelist. <br><br>Watches video. <br><br>Me: maybe I’ll just day drink and contemplate the abyss. <br><br>Who writes that fast and that well????
+  >
+  > **@llawliet7070** [👍28]：I was hoping for this reaction. Though his pricing is a little ridiculous, I just want the books and i don&#39;t need audiobooks or ebooks, it would cost me $160 for them and that includes the ebooks and it will be even more because I am in Canada. I hope they eventually get released in softcover since most books are like $10-20 here depending mass market paperback or trade paperback. I have no issue paying him a bit more and knowing he is cutting out the middlemen in the situation, but it should be somewhat comparable to what I would pay otherwise. I do also realize that I usually don&#39;t buy hardcovers so the price to me usually seems ridiculous unless it is something I need right that second and that he can&#39;t release them in other forms for awhile like retailers do.
+  >
+  > **@danishnande9629** [👍26]：I would really love to get the hardcover books, but 140 dollars for shipping is just way too much. Shipping to Scandinavia is almost 1:1 with the cost of the books
+  >
+  > **@Haxerous** [👍24]：<a href="https://www.youtube.com/watch?v=8EVgZzb5ZKo&amp;t=133">2:13</a> is just hilarious.<br><br>Daniel: I don&#39;t understand<br>Brandon: I know.<br><br>Lmao
+  >
+  > **@muonstapes4421** [👍24]：Don&#39;t get me wrong, I think this is a great move on Sanderson&#39;s part, but I don&#39;t know if releasing the books like this exclusively is a good call.<br><br>a. I don&#39;t care for reading books on my screen or listening to them, leaving $40 hardcovers as the only ones thusfar announced.<br>b. If you take part, you&#39;ll buy all 4 of them at once, with little idea what the contents are. To a lot of people this mystery is appealing of course, not quite my cup of tea though.<br>c. The shipping costs outside the US are $35 per book. That&#39;s not unreasonable for the novelty, but a hell of a commitment. If these novels were (also) released normally, I could likely pick up a nice hardcover of each of them for under $25 a piece, not to mention paperbacks.<br><br>It&#39;s neat that Brando&#39;s looking for new ways to engage with his audience, and provide the fans that wanna pay a bit extra a unique new experience. I would support more authors experimenting with their releases in this way, but at the same time hope this won&#39;t be copied exactly. That said, I don&#39;t really doubt Brando&#39;s gonna get these novels published in a paperback format at one point or another after the dedicated fans have had their fun reading them exclusively, simply because he&#39;d be missing out on a huge market segment, not to mention somewhat disappointing fans like me, otherwise.<br><br>In short, I think this makes for an interesting addition to more traditional methods of (self) publishing and marketing, but it is absolutely not something I, and probably quite a few others, would buy into.
+  >
+  > **@kingyouki5904** [👍23]：The Kickstarter has only  been up for three hours and It has already gained almost 6 million in donations.This shit is insane 😳
+  >
+  > **@Kotsoros37** [👍21]：I wish the premium hardcovers he was offering were signed though, other than that I&#39;m super hyped, went for just the books as being outside the US the money in customs is already alot just for 4 books but for all 12 months would be insane or else I would have gotten it haha. He is a mad genius!!
+  >
+  > **@seanchapman5959** [👍17]：$140 shipping fees outside US sucks 😔
+  >
+  > **@gerbie42** [👍15]：Sanderson&#39;s just insane, in a good way. Publishing books via kickstarter reminds me of all those Boardgame kickstarters. For the creator it&#39;s great since you have a base amount of people who want your product, in this case books and you can more easily gauge if there&#39;s further interest once the kickstarter is done through comments and such, so this already gives you more information regarding a second or third printing. Seems like a very logical step.<br>One thing though is that with Sanderson you know it&#39;s going to be done and the books will arrive, that&#39;s the only downside for &#39;slower&#39; authors, you can&#39;t really start a kickstarter and say yeah you&#39;ll get your book in a year and then not deliver, a slight delay is fine but if it&#39;s years... not naming any authors here, but I&#39;m sure you can think of a few.
+  >
+  > **@justaddwater6644** [👍14]：My worry is that sanderson is churning out books so fast that the quality will suffer. I already felt that rhythm of war was a huge drop in quality from the previous books, partially from writing and partially from not enough editing.
+  >
+  > **@IasminaEdina** [👍12]：I was cackling at 2, I think my brain just stopped working at 5. The man is a legend.
+  >
+  > **@RetroWaveDave** [👍12]：Your reaction exactly mirrored my own. What an absolute mad lad. All glory to the Brando Sando.
+  >
+  > **@paperbackart** [👍11]：I’m so happy to be a Brandon Sanderson fan!
+  >
+  > **@Robert256** [👍11]：I listened to the whole thing live at my office....but then was beyond disappointed to see that the top tier that Sanderson hyped me up for so much is worth as much a month&#39;s worth of groceries for my family. Sorry Brandon, but I gotta eat; and I can buy the digital books anytime, so...yeah...no backing from me.
+  >
+  > **@Maxavian** [👍10]：Michael J Sullivan has been doing it this way for quite awhile now. He&#39;s on his 10th crowdfunded novel now. Publishers be wary or eventually they&#39;ll have nothing to offer that authors can&#39;t do themselves, and they&#39;ll find they are the middleman that&#39;s been cut out.
+  >
+  > **@Jrdn357** [👍10]：What exactly is it that Dragonsteel is doing, though? What is it that all authors and publishers should learn from? How is it possible to even attempt to replicate this kind of success, it&#39;s fucking insane. He&#39;s raised nearly $10,000,000 in 3 hours. HOW?? It&#39;s crazy, lmao! What are they doing that has brought such success?
+  >
+  > **@sorchahannah288** [👍9]：19,145,000 in like, 48 hours. He&#39;s chasing down #1 most funded kick started ever and is probably going to hit it any minute now. Sanderson is killing it, and as a fan I&#39;m looking forward to 2023. I literally cannot comprehend a fantasy novel series raising twenty million dollars what the heck. I&#39;m just glad people still like to read I guess. &lt;3
+  >
+  > **@kantmuffin1367** [👍9]：My husband and I have been working on our fantasy series and just getting the first one complete and self-published has been a journey. Seeing Sanderson do this is amazing as a fan, but as an author, my existing imposter syndrome swallowed me like a Dune worm.
+  >
+  > **@daniela.domingues** [👍9]：I just couldn&#39;t believe it! Such an inspiration that man!
+  >
+  > **@realBlueMoonMusic** [👍9]：If I wasn&#39;t just an absolute Tolkien superfan, Sanderson would be my #1 author. He&#39;s absolutely amazing and spectacular.
+  >
+  > **@schwief2287** [👍8]：Daniel: &quot;I do not understand&quot;<br>Brandon: &quot;I know&quot;<br><br>Perfect timing
+  >
+  > **@lilwinchester1417** [👍8]：I expected one and got four (well five) books<br>This is incredible
+  >
+  > **@jd8228** [👍8]：This is a great step for him, I thought he might attempt something like this soon! And this is part of a much bigger conversation but has got me thinking — it does concern me somewhat as far as precedent. <br><br>Trad publishers really rely on big names like him to afford bringing in new &amp; more diverse authors &amp; supporting mid-list authors’ careers with larger advances. That’s not Sanderson’s fault (or problem) and is definitely a flaw in the business structure, but it’s just a fact unfortunately. If more big name authors start hopping on this trend, it could result in fewer new voices in a space that already struggles terribly with diversity. <br><br>And yes, you could argue that those voices could go indie/self-pub as well, but that route is just as (if not in some ways more) privilege-biased &amp; really isn’t an option for a lot of people financially.<br><br>Again, definitely not mad at B.Sand, I love his work, he deserves all the hype &amp; has earned his successes. Just adds to my growing worries over the trajectory of publishing as a whole. 😔
+  >
+  > **@carolinaandthecouch376** [👍8]：Hm why does this feel weird to me? Possibly I’ve been reading too much communist literature lately. I’m glad for Sanderson, I love his work and can’t wait to read all 5, but something about pushing others to write at this rate or fund at this height just doesn’t feel true to the human condition or importance of authorship at large. I know it’s an example of great success at a massive level but is that what we should encourage? I’m not sure, this isn’t a fully formed thought yet, just a question: is this the point of this whole fantasy/sci-fi authorship thing? I don’t know. I think I’d rather encourage people to continue to find their own way, after all Sanderson succeeded by blazing his own trail so stands to reason the only success story you can follow, is your own.
+  >
+  > **@Kris-dh9oj** [👍7]：Hey Daniel<br><br>You should have a bit more knowledge on this:<br>Isn&#39;t that Kickstarter too expensive? <br>I live in the UK and a full package with books and extra boxes cost nearly 1000 $ with shipping
+  >
+  > **@bryanellis459** [👍7]：This is awesome, what kills me though is the shipping outside  the US is 420Euro/$470 alone, which make the swag out of reach for me :(
+  >
+  > **@pleeseemailme** [👍7]：Yeah, I listened to the announcement during a meeting and had worked up in my head that the cost for the 4 hardcover books would be about $150 and the swag would bump it to maybe $250. I cannot express my disappointment at the unattainable price of $480 ($600 with shipping) when I finally got to the kickstarter page.
+  >
+  > **@alyssap9233** [👍7]：As someone with anxiety, especially when it comes to things like maintaining a social media presence, hearing Daniel pretty much tell people &quot;learn how to be good at social media or you&#39;ll never make it&quot; in the most condescending way possible hurts even though I know he didn&#39;t mean it like that. I agree that that&#39;s probably true but maybe don&#39;t be an ass about it? then again I am bitter right now because I have a kickstarter account but I don&#39;t have the password and kickstarter isn&#39;t sending me the password reset emails I keep requesting so if this keeps up I won&#39;t be able to participate in something I got very excited for. Not a good day for me I guess
+  >
+  > **@julieaubutgaudet4403** [👍6]：😳 I was already feeling that there had to be better way to promote my writing than amazon ads and such but whew! As a self-published author I am overwhelmed!! If I write as much as I want to, I don’t have time to optimize my marketing strategies but if I focus on marketing, I am not writing!! Ahhh!! Seriously though, it’s awesome for Sanderson and I am genuinely excited to see his success. It’s always great to hear your take☺️
+  >
+  > **@sweetz.scarface935** [👍6]：Im just getting into Brandon Sanderson books and I can’t wait for this!!!! Im loving his books
+  >
+  > **@fourthofthesky** [👍6]：RE: Authors on Social Media<br><br>Jordan Ifueko, author of Raybearer has had people pick up her books because of her tiktoks <br><br>Xiran Jay Zhao, author of Iron Widow, is truly a gen z author. Like their tiktoks are hilarious, they do video essays and they saw tat someone was interested in buying a copy of their book that they sat on and they actioned off a copy of their books for charity!! <br><br>Like they understand the internet and internet culture of people who are perpetually online
+  >
+  > **@imnickij** [👍6]：As a writer who really struggles with getting words down (thanks for nothing ADHD) this announcement was crushing. I just don&#39;t understand how he does it. I feel so inadequate, so far behind I&#39;m ready to give up now.
+  >
+  > **@birlibirloco1711** [👍6]：It&#39;s cool and great to see and author so engaged with their community. However I dislike the idea of massive authors making crowdfunding for their publishing projects. Brandon has the name, fame and money yo to publish his books in a tradicional way. Crowdfunding is for people/proyects with money issues, not for rich people like him or other authors.<br>I love his work, but this approach damages the future for indie publishing imo
+  >
+  > **@krow5099** [👍5]：As a writer myself that’s self-published some would say this is a confidence killer. However, knowing how much fun he had with it kinda makes me want to get back to having fun with it as often I see myself more competitive in certain ways when it comes to writing especially being a Queer Black Woman who is a novelist. But seeing him have so much fun with what he’s doing and pushing everything out isn’t a killer to me, but an inspiration for me to have fun with what I’m writing and get outta my head when it comes to comparing myself to other writers of more “famous” writers. That’s what I took from this and I can’t wait to read more of Sanderson’s work.😄
+  >
+  > **@bmoneybby** [👍5]：I love the way that Sanderson is connecting with his audience and promoting his work but I don&#39;t feel that authors pumping out novels should be what&#39;s expected.
+  >
+  > **@YinYangAngel55** [👍4]：My jaw dropped at the 2nd book. It just stayed open for the rest of the announcement. <br>The only surprise that could have made my jaw drop lower would be him saying &quot;I also have been writing under this random pen name for over 10+ years and  thought I&#39;d mention the newest book I just put out under that name&quot;
+  >
+  > **@matthewletexier** [👍4]：I&#39;m thinking of starting a gofundme to afford the year of Sanderson
+  >
+  > **@TheTrueRandomGamer** [👍4]：I&#39;m convinced he&#39;s the avatar of some writing God on an alien planet who came to usher in a new age for humanity.
+  >
+  > **@lolrirs7754** [👍4]：I don&#39;t WANT this to be all authors though. I just recently got into a very popular non-genre writer (Elena Ferrante) who started out determined to be anonymous writing from a pen name, and though she&#39;s apparently gotten doxxed, I&#39;m choosing to respectfully avoid reading up on that, and there is seriously something SO satisfying about how she&#39;ll maybe give an isolated interview or choose to publish a piece of non-fiction writing, but will otherwise just remain a presence who has just chosen to let these incredible books to speak for her, as opposed to being a ~multimedia ~personality. You&#39;re probably right that eventually nobody will be able to do this at all, but I&#39;ll never see that as being a good thing.
+  >
+  > **@ayushchoudhury9091** [👍4]：This guy wrote 5 books in the same amount of time it took me to read the first 3 mistborn books. At this rate I&#39;ll never catch up 😭.
+  >
+  > **@itsyaboi77** [👍4]：Book printer go brrrrrrr
+  >
+  > **@xompeii** [👍4]：that kickstarter fully funded in 40 minutes, lmao
+  >
+  > **@megallodon8707** [👍4]：I had a roller-coaster of emotions when I watched his video. I live near Ukraine so I am really sad and stressed out, so when I watched his video, I went from &quot;damn... more bad news, god help us&quot; to &quot;WOOOOOOAAAH this guy is insane! AWESOME1!!&quot;
+  >
+  > **@heitorcoutinho4462** [👍4]：Never clicked so fast on a video
+  >
+  > **@sofiaaguirre5966** [👍4]：Honestly idk how to feel about him being that famous and rich and doing a kickstarter as if he needs patronage. I thought kickstarter was more focused to indie creators tbh. I don’t understand why just not support publishing houses. Not me trying to throw shit just I am not sure how i feel about it.<br>Anyway the fact that he wrote 4 novels… Wish in could be like a quarter as productive as him
+  >
+  > **@LexRival63887** [👍4]：Are we sure we aren&#39;t being taken over by AI? Cause it&#39;s hard to believe a human could do what Brandon just did.
+  >
+  > **@blackbenetavo7715** [👍4]：The man is doing NaNoWriMo every couple weeks.
+  >
+  > **@Walpurgis117** [👍4]：While I&#39;m very happy to hear about 4 extra Brandon books being released in 2023, I&#39;m concerned about how pricey these Kickstarter books are for us international readers. If these books were released as per normal, I&#39;d just pay the usual 4 x $40 = $160. With this Kickstarter, we need to pay $140(!!) for shipping meaning $300 overall which is almost double the cost of the books. This means that we either need to pay much much more for the books than normal which is a problem for many, or have to be willing to wait a significant amount of time for the books to eventually be published in the usual places (meaning we won&#39;t get the usual &#39;new launch&#39; experience of reading along with others upon publication), or we have to make do with an eBook, which isn&#39;t the first choice for many. Is there something I&#39;m missing here?
+  >
+  > **@garrettwyckoff8711** [👍4]：The Kickstarter is currently the SECOND most backed project on the site EVER!
+  >
+  > **@Baitz.Reviews** [👍3]：He should definitely do a Kickstarter to make film, series, animated adaptations l. I bet that would do insanely good
+  >
+  > **@katherinemellander3354** [👍3]：This is something Xiran Jay Zhao did that was super cool! Yes, it was practically an accident (I believe she had her book deal before her youtube channel went viral), but she created a really awesome online community before her book came out that skyrocketed it to success as soon as it was released. (Daniel Greene you should read Iron Widow, its really good :) :) :)
+  >
+  > **@nanamikado999** [👍2]：&quot;Sanderson writes faster than I can edit&quot;
+  >
+  > **@bookishimpala5764** [👍2]：My jaw just just hit the floor over and over again as each of the novels appeared. How does he write so much? That&#39;s incredible.
+  >
+  > **@LiamsLyceum** [👍2]：I love the bundle, I’ve wanted to be able to buy a physical copy and get a digital with it for years. I’m glad Brandon felt the same.
+  >
+  > **@nathaniel2007** [👍2]：It would be cool if a publisher included a platform building service as an option. I have not finished my first book, but I would definitely consider a publisher that had resources and people to help build an online presence and schedule minor content releases (short stories, character art, merchandise, etc).
+  >
+  > **@Sleepgarden** [👍2]：I feel like Doors of Stone and Winds of Winter are looking at Sanderson like one of those kids going &quot;why can&#39;t I have you as a dad instead?&quot;
+  >
+  > **@Goodday639** [👍2]：patrick rothfuss has left the chat
+  >
+  > **@LordJazzly** [👍2]：On the one hand, I can see how this might happen, because the process of writing one thing can easily produce a lot of ideas and passages that don&#39;t fit the current work but are just too fun or interesting to discard altogether;<br><br>On the <i>other,</i> how the hell do you manage to make words for so long without devolving into &#39;and then the thing did the thing and that was a good thing because I like bananas they are my favourite fruit, chicken chicken bouncy cow noises&#39;? Man&#39;s language centres must have the endurance of a hunter-gatherer&#39;s cardiovascular system.
+  >
+  > **@oddleopardkai5949** [👍2]：As an author, Sanderson writing secret novels both inspires me so much and makes me incredibly envious 😂 His work ethic is incredible!
+  >
+  > **@vamsiampolu8438** [👍2]：I&#39;ve seen actors/soccer players et al use Instagram/Facebook by hiring social media teams that just release images with a quote or post something about a discount.<br><br>The interaction with Brandon works because they&#39;re genuine and organic, they happen on reddit and YouTube with the livestreams having genuine fan interaction.
+  >
+  > **@vol94** [👍2]：Sanderson was definitely the kid who finished his assignments before the teacher even gave them.
+  >
+  > **@roselightz_3027** [👍2]：It&#39;s such a cool drop. I wish I could afford the hardcovers or boxes, but international shipping is so expensive:/
+  >
+  > **@yoshaosaxofonista** [👍2]：imagine the destruction stephen king or another big author over there could make on a move like that
+  >
+  > **@saddocatto9245** [👍2]：41 million USD.... whew
+  >
+  > **@tnayeen.ashghatank** [👍1]：&quot;I. DO NOT. UNDER. STAND.&quot;<br>&quot;I know&quot;
+  >
+  > **@OnePieceOfEt** [👍1]：<a href="https://www.youtube.com/watch?v=8EVgZzb5ZKo&amp;t=132">2:12</a> <br>daniel : i do not understand<br>brandon : I know
+  >
+  > **@benjaminbufton3696** [👍1]：its hit over 23 million dollars...... woah
+  >
+  > **@elijahmwh** [👍1]：Glad to this video doing numbers!
+  >
+  > **@RebeccaLoran** [👍1]：It&#39;s hit 25 mil already lol
+  >
+  > **@DoomMuffens** [👍1]：The most important step, is the next one.
+  >
+  > **@Phanto5692** [👍1]：The goal was $1,000,000. As of today (March 7th) it has reached $25.5 million and it&#39;s still going up.
+  >
+  > **@TheCalenestel** [👍1]：I am starting to suspect that Sanderson made some kind of Faustian deal...
+  >
+  > **@ksagen** [👍1]：I waited until after work to watch Sanderson&#39;s video, balled my eyes out, went to the Kickstarter, and then came here because I knew you would understand how I felt. Many I have to get writing!! I&#39;m so inspired.
+  >
+  > **@rubik2x2x2** [👍1]：My second time watching the announcement and I&#39;m still in tears (of joy). This man knows how to make me suspend my disbelief. The pen truly is mightier than the sword.
+  >
+  > **@markoahhhhh** [👍1]：i can see a world where authors live stream portions of their writing process. would be cool to see stuff like that being made lol
+  >
+  > **@TheAllarie** [👍1]：This video is one of my happy place videos that I randomly watch for fun. Not only Sanderson telling us awesome news! And Daniel just breaking.
+  >
+  > **@theeldestcastle8676** [👍1]：He&#39;s already at 15 million
+  >
+  > **@RumoHasIt** [👍1]：I laughed even harder watching your reaction than I did during my first watch through. This was the best thing Ive watched all year, and im going back to your Sando skit to celebrate
+  >
+  > **@thefallenmyst** [👍1]：The dude is an inspiration. Not just for his insane productivity, but now, for basically showing publishers what&#39;s possible (including indies, I think).
+  >
+  > **@grubfilms9043** [👍1]：Man I have so many books I want to read. I feel like I&#39;ll never be able to catch up with his writing pace
+  >
+  > **@twilight696** [👍1]：Kickstarter Currently sitting at a comfortable $26,664,084.....
+  >
+  > **@adeadgirl13** [👍1]：Brando Sando does it again!
+  >
+  > **@TheBaronessBlack** [👍1]：This reveal is on a whole other level. I&#39;ve seen many artists &amp; illustrators use kickstarter to fund their own graphic novels, art books, and card sets with great success. (Look up Art of Loish, and the How to Think When You Draw/Write series by the Etherington brothers). It&#39;s fantastic to see Sanderson breaking out to do it this way too. :)
+  >
+  > **@tobeornot2be117** [👍1]：I need another reaction for today 😅
+  >
+  > **@LightsOnTrees** [👍1]：During quarantine I did not write 5 novels... I considered it a victory that I didn&#39;t eat my body weight in cheese...
+  >
+  > **@kevorev** [👍1]：Does anyone realize this was the Steve Jobs iphone introduction, but for books.
+  >
+  > **@banjofry9897** [👍1]：Will these books release outside of the kickstarter?
+  >
+  > **@aarons9879** [👍1]：This makes me happy.  I&#39;m glad to see authors outside of marketing start to make moves to keep more money for themselves like this. I know of one guy who sold his copywriting book for 6k off of his website and made a ton doing that.  All self published. Seeing this idea spread to other genres is awesome.
+  >
+  > **@Draugo** [👍1]：The Kickstarter has broken 20M and is still going up noticably.
+  >
+  > **@Franzburg** [👍1]：LOL nice man. When I saw Brandon Sanderson&#39;s I was wondering about ur response immediately .
+  >
+  > **@Leon-tc6lv** [👍1]：This absolute unit of a man
+  >
+  > **@kinggrantking** [👍1]：Would love to see where Sanderson&#39;s words per day comes out on the all-time list. There&#39;s no way any pre-keyboard author could have ever kept this pace up. Even Faulkner couldn&#39;t possibly do this.
+  >
+  > **@louiscarrico-braun5483** [👍1]：Your sketches are coming true
+  >
+  > **@Ashandarei22** [👍1]：I&#39;ve realized the only way to get my novel written is to get Brandon Sanderson so excited about it he just writes it for me lol
+  >
+  > **@toot180** [👍1]：He writes faster than I read
+  >
+  > **@sampew1605**：The way he kept pulling them out from under his desk!
+  >
+  > **@roylong2059**：Had to double check calendar felt like an April fools
+  >
+  > **@t.j.scifiquest2331**：Excellent video. Outstanding analysis of the realities of our times. Thank you.
+  >
+  > **@drplasma1990**：At the moment, 3 days in, 27 to go, the Kickstarter is close to 20 millions.
+  >
+  > **@TheBeccabus**：Good point about social media and publishing. John Green had great success getting with this. I was surprised not to see more of it after The Fault in our a Stars
+  >
+  > **@ethansexton2590**：I am very interested to see how this ripples through the publishing industry
+  >
+  > **@tracytracyWM**：Can&#39;t wait for my audiobooks!!
+  >
+  > **@zOctaa**：It&#39;s at 12.5 million already. Holy shit
+  >
+  > **@danielapaza5994**：In quarantine I just could write a novel. Still has to be revised. .. Sanderson man!
+  >
+  > **@stardroplet9499**：So glad you taped your reaction
+  >
+  > **@heathercampbell6059**：This is the best reaction I&#39;ve seen since I showed my friend who had never seen princess bride that movie.
+  >
+  > **@pachupac**：6 days later and it&#39;s at 26 million, man I should really stay more up to date with news
+  >
+  > **@juliehartley3652**：I&#39;m happy because the Sanderson thing means I found this channel. Good analysis, thank you.
+  >
+  > **@bruceelgin2083**：It&#39;s over 20 Million now. Wow. Just wow.
+  >
+  > **@adamrhodes9946**：Yep, I am VERY envious.  I have been trying to write only one book since just before Covid started and I am only at like 40 typed, single spaced pages.
+  >
+  > **@judithcakelover**：Love your reaction to his video. I thought he would announce a break or something and that we had to wait a bit longer for new releases. And then this happened! Really did not see this coming just like his endings in the books. And I love it!❤
+  >
+  > **@anushrut5**：14 million right now, right blown up
+  >
+  > **@sorrshotgaming2033**：you&#39;ll notice that in his chart of how he divides his time he doesn&#39;t have any time for sleep which would explain how he writes so much.
+  >
+  > **@mjmullady**：Your reaction was gold!!  And wow...just wow!
+  >
+  > **@stardroplet9499**：I have a weird work schedule so I haven’t been able to pledge in the kickstarter yet, and it’s over 13 million so far!
+  >
+  > **@kipepeo259**：IT ALREADY HIT 13 MILLION
+  >
+  > **@fast.food.ninjalarry954**：Your skit video came to life. ITS ALIVEE !!!
+  >
+  > **@ciannacoleman5125**：I have t even had a chance to start reading Sanderson yet but am considering participating in the Kickstarter. Gives me a year head start lol.
+  >
+  > **@akiakos**：Its at 25 million currently🤯🤯🤯
+  >
+  > **@noodlemans**：It&#39;s almost at 9M now.
+  >
+  > **@reecef9869**：My jaw is on the flaw watching these numbers on kickstarter right now
+  >
+  > **@xanuui**：that dollar amount is an order of magnitude smaller than now
+  >
+  > **@lostthoughts73**：The way you addressed the excuses for not getting into social media.. it was haunting and felt like a wake up call for me as whatever I choose to promote even if it&#39;s not my writing
+  >
+  > **@NinjaxPrime**：Never before has a man so powerfully inspired me and so utterly broken my spirit at the exact same time.
+  >
+  > **@firefly5677**：Sanderson is a machine. Definitely signing up for the Kickstarter. Can&#39;t wait for the year of Sanderson
+  >
+  > **@njnjco**：<a href="https://www.youtube.com/watch?v=8EVgZzb5ZKo&amp;t=132">2:12</a><br>A Goblin or something: I don&#39;t understand<br>He who writes: I know
+  >
+  > **@FourEyedHawk**：As of 8:16 pm central standard time. It&#39;s 11.8 million.
+  >
+  > **@PinkStar14**：How on earth does he write so fast!!! He&#39;s a literal mad man and I love it!!
+  >
+  > **@darksalmon**：I wish we had a stream of Rothfuss watching sanderson&#39;s reveal. GRR Martin too.
+  >
+  > **@aislingconnors3277**：The kickstarter is about to hit 10 million… 😳
+  >
+  > **@caradine898**：I am still so fucking astonished about this announcement. Insane. INSANE
+  >
+  > **@Qumi**：It&#39;s already 7 millions o_O
+  >
+  > **@jryan2356**：As of 11:45am in Western Australia, his kickstarter is over 17 MILLION DOLLARS
+  >
+  > **@Steve-fy5zr**：Sometimes I struggle to get a page or two down in a writing session. This man is on another level.
+  >
+  > **@Blizzhobbs**：There&#39;s still 6 shards we don&#39;t really know much about, granted one of them isn&#39;t inhabiting a shard world but that still leaves a potential 5 planets with at least 5 different new magic systems possibly even more lol. From him talking about a disease-based magic system and a kite-magic system with Whimsy I&#39;m extremely intrigued.
+  >
+  > **@saraholivares4747**：Went through the 5 stages of something watching this video, damn
+  >
+  > **@osonhodeleon**：It will be an exciting journey following this author through the years.
+  >
+  > **@williamalexander9124**：“I don’t know how that’s humanly possible”<br><br>Literally my thought about the time he pulled the 3rd one out.
+  >
+  > **@guilhermeneves8116**：there&#39;s a Portuguese poet that did the exact same in in the end of the last year, he sold like 6k copies (ik it&#39;s not a lot but for Portugal it is)
+  >
+  > **@LarenOz**：I just checked out the kickstarter in the middle of the night USA time and both the money and backer numbers were spinning like a Las Vegas slot machine.
+  >
+  > **@Chronic_Gainz**：It’s now at 20 million… 😳😳😳😳
+  >
+  > **@grilled_cheese_sammich**：It&#39;s at 10.2 million now...
+  >
+  > **@monti2842**：Found the update haha, amazing that was my reaction too
+  >
+  > **@tobiasboyer3672**：The Man. The Machine. The Printer!
+  >
+  > **@BatMat52**：Hey! That’s invincible on your shelf. That’s a good book
+  >
+  > **@asgerkrogh5671**：It worked so well that my friend who read a bit of Sanderson and didn&#39;t like it asked me if I&#39;d seen the new reveal
+  >
+  > **@deannascorner8112**：I agree with what you said about the future of publishing. It’s honestly why I started a blog and have twitter and Instagram and a YouTube channel because I want to learn and put myself out there. Now I just need to actually write a book! 😆
+  >
+  > **@stanleytehee**：Richard Chizmar has interacted with his readers to advertise his Gwendy’s and Boogieman series. He also has used local bookstores directly, bypassing the big names on purpose. It helps that some he has co-authored with Stephen King, but still pretty cool.
+  >
+  > **@betapartical1116**：It&#39;s over 13 million right now.
+  >
+  > **@erichmyles4481**：You predicted this in a video lmao this is amazing
+  >
+  > **@rasaecnai**：BUT WAIT! THERE IS MORE - moment.
+  >
+  > **@k-majik**：I backed the Kickstarter within minutes of his video going up, Brando is a cheeky wee fellow :P
+  >
+  > **@Aligariusful**：Just checked. Already at 11.2 million
+  >
+
+---
+
+## 4. An End to Secrets
+
+- **频道：** Brandon Sanderson
+- **观看数：** 291,686
+- **点赞数：** 18,494
+- **评论数：** 985
+- **时长：** 3:34
+- **发布日期：** 2022-03-30T15:00:18Z
+- **链接：** https://www.youtube.com/watch?v=_FoUcDD7t8g
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/_FoUcDD7t8g/hqdefault.jpg
+- **简介：**
+
+  > Prologue: https://youtu.be/N7IAXaDWdKU
+  > 
+  > Now on Backerkit: https://secretnovels.backerkit.com/hosted_preorders
+  > 
+  > Ask and upvote your questions for Kickstarter Countdown Livestream tomorrow: https://www.reddit.com/r/brandonsanderson/comments/ts8gct/kickstarter_countdown_livestream_party_tomorrow/
+
+- **热门评论（200 条）：**
+
+  > **@Zac-wb7hu** [👍2495]：Brandon has had way too much fun with this and I am here for it
+  >
+  > **@XanderLars2** [👍1820]：That is truly the walk of a man who is saying to himself &quot;oh dang, i&#39;m being filmed! how do i walk? is this normal? do i look weird walking like this? how much is a normal amount of arm swing?! WHAT DO I DO WITH MY HANDS?!!?!?!&quot;
+  >
+  > **@kliqIMB** [👍1186]：I was waiting for the turn to camera and I absolutely wasn’t disappoint. Bravo to Brandon and the entire Dragonsteel team.
+  >
+  > **@Falidor** [👍1149]：I love how unnecessarily dramatic this video is.
+  >
+  > **@bookishlybookish** [👍1122]：Traveling to the most remote planes of Utah to film an LOTR-esque style video, Brandon gives us, in the most Branderson way, a highly anticipated prologue for a book scheduled to release in, probably, over a year. And people still wonder why he&#39;s so immensely loved 😂
+  >
+  > **@ajpruitt4628** [👍807]：You can’t convince me Brandon wouldn’t be an old-timey Carnival Ringmaster in another life. The man loves his theatrics!
+  >
+  > **@Dalenthas** [👍785]：I half expected him to drop a coin on the ground and go flying away on a steel push.
+  >
+  > **@dawesome_sauce** [👍658]：I was dying at &quot;Nah that&#39;s stupid.&quot; ALWAYS MORE SURPRISES!
+  >
+  > **@TreeBeardBookReviews** [👍517]：haha Brandon, you&#39;re the best. Please keep up with the secrets and trolling. I think its so much fun. Again congratulations its well deserved!
+  >
+  > **@ninakrishnamurthy6674** [👍437]：I swear to Adonalsium, every time Brandon uploads a video I’m worried I’ll have yet another book to read. I’m trying to read the entire Cosmere, and it never ends!
+  >
+  > **@user-ct6kd1pc7b** [👍433]：Brandon clearly enjoys the YT format, and I love how much fun he has with this. Also, shoutout to the people behind the scene (Adam?). The quality of these videos went up like crazy.
+  >
+  > **@gameover40567** [👍347]：As the author himself said, &quot;There&#39;s always another secret&quot;
+  >
+  > **@TimeBucks** [👍252]：happy seeing Brandon thrive
+  >
+  > **@ellepardue** [👍215]：This is delightful, this whole thing has been absolutely delightful. Looks like we get two years of Brandon for the price of one!
+  >
+  > **@revanentsoulgames9869** [👍140]：From the journey I began with stormlight one, I’ve been inspired, intrigued, and enlightened by the worlds and wonders you have created. I’ve cried, been excited for, and laughed with the wide variety of characters you have introduced me to. I’ve felt their pain shared their surprise and lived what seems like a lifetime with each one. I’m looking forward to continuing the journey with you, your fans, and all your characters in this wonderful world of fantasy. Thank you for everything Brandon.
+  >
+  > **@forgottonpast6847** [👍131]：This almost feels like a Hoid epilogue.
+  >
+  > **@anilmishra5947** [👍126]：really makes me happy seeing Brandon thrive. I&#39;m smiling from ear to ear.
+  >
+  > **@25Dzone** [👍121]：The shipping costs stopped me from going all in but I&#39;ve got the audio books to look forward to. Wish I could&#39;ve gotten the big bundle but excited to see what Brandon Sanderson does!!
+  >
+  > **@davidkeller6135** [👍93]：I love the DRAMA. Thank you Brandon.
+  >
+  > **@Ironworthstriking** [👍85]：Brandon manages to inject joy, wonder and mystery in a time where many believe those things are long dead. While most mainstream creators are happy to reboot, remake and homage, he consistently creates original exciting stories. He will no-doubt be remembered as one of the all-time greats.
+  >
+  > **@aluminum3668** [👍80]：He will never quit. Together we will crowdfund him a synthetic body so he can write books for the rest of his natural, and unnatural life
+  >
+  > **@rohanmanro3765** [👍64]：When the video began I thought Sanderson was wearing a mist cloak, but then all the theatrics, I was laughing all the way like waiting for the bomb to be dropped. Amazing work!
+  >
+  > **@reywashere5284** [👍62]：No need to hire actors for the live action adaptations - Brandon has the skills to play every character, simultaneously.
+  >
+  > **@ryanbradley5557** [👍59]：I knew there was gonna be a twist or something, another reveal of some kind, and I still said “Holy F*#%,” when he actually told us what was up.  We don’t deserve this guy.  Amazing.
+  >
+  > **@Tinahgirl83** [👍59]：I’m certain he was an actor in a previous life. The drama was so real in this. Down to the actual filming, it screamed 90’s tv.😂😂😂 Loved it!
+  >
+  > **@leviackerman1799** [👍59]：Clicked faster than Brandon writing a book..<br>Edit: after watching..i guess i may have over stated myself..that is indeed impossible..
+  >
+  > **@namasheyellowglove6908** [👍58]：You absolute dramatic nonsense man, love it <br><br>&quot;Hey team, I need a drone and some desolate but scenic places to pose in.&quot;
+  >
+  > **@milospollonia1121** [👍56]：THIS COMMENT HAS SPOILERS DON&#39;T READ IT BEFORE WATCHING THE ENTIRE VIDEO<br><br><br><br>The absolute struggle of trying to decide which video of the two to watch first
+  >
+  > **@kronos1794** [👍47]：Now the decent into madness begins. Can&#39;t wait for the 2am update with Brandon casually eating a sandwich revealing he has actually be ghostwriting 10 other series.
+  >
+  > **@ElijahStormblessed** [👍47]：Congrats, and thank you so much Brandon and the whole Dragonsteel team!
+  >
+  > **@CassiusDrake** [👍41]：I feel like Brandon is trying to kill those poor fools at the 17th Shard. I can&#39;t even imagine how much they&#39;ve had to rework their recording schedule for the next couple of years. They are never going to be able to cover all of this before the books actually release 😂
+  >
+  > **@lordtorka** [👍29]：I was almost expecting &quot;Heres a surprise, completed, and ready to ship Mistborn novel.&quot;
+  >
+  > **@elsecaller-jacob8346** [👍28]：We love you so much Brandon this has been storming crazy!!
+  >
+  > **@sammys_shelf** [👍23]：This got a genuine audible &quot;Ha!&quot; from me. So well done, Brandon! You&#39;ve done it again!
+  >
+  > **@BlackRose3610** [👍18]：The amount of affection I have for this man is incredible
+  >
+  > **@loganRB00** [👍17]：Love the cinematic shots Brandon.
+  >
+  > **@thed3m0n0id9** [👍16]：I&#39;m gonna quote Wax&amp;Wayne here:<br><br>&quot;Oh, Wax never cheats.&quot;<br>&quot;Not true. I cheat infrequently. That way, no one expects it when I do.&quot;<br><br>;) there&#39;s always another secret &lt;3
+  >
+  > **@Fabrial** [👍16]：Brandon really likes the dramatic. I guess he is an author.
+  >
+  > **@Crimser3** [👍15]：Brandon really said “suffering from success”
+  >
+  > **@aronoiiel** [👍14]：This was brilliant! The cinematography is lovely
+  >
+  > **@ryanleeoakes2015** [👍14]：I feel honored to have the “Tolkien” of our generation right here in real time blowing us away with these world changing stories! My grandchildren will most likely be reading his stories with the same fascination as I have these last several years. And what a reveal!! Lol
+  >
+  > **@LPChipi** [👍14]：I love that he has written 563 books, sold millions of copies and he is still giddy as a kid making these announcements. Its so nice and refreshing seeing an author have so much fun with his work and seeing him as excited as we are with his projects.
+  >
+  > **@indyvick** [👍9]：Keep doing the surprises and secrets, they are absolutely amazing. Hands down you are my favorite author, thank you Mr Sanderson
+  >
+  > **@Florkl** [👍8]：Utah is such a gorgeous state
+  >
+  > **@venndrik943** [👍7]：This makes me so excited to write.  Sanderson is really just an inspiration to the writing community.  I can&#39;t wait for everything else he publishes
+  >
+  > **@AncalagonTheBlackMetalHead** [👍7]：The return of Magellan is the real reveal we’ve been waiting for lmao
+  >
+  > **@DarkRuins** [👍7]：this man is chaotic evil in the most innocent way
+  >
+  > **@BooksAreLife0** [👍6]：Brandon is such a nerd and I love it.
+  >
+  > **@Ovrlordz** [👍6]：Brandon is Amazing!
+  >
+  > **@Latriise** [👍5]：The drama. The music. The pensive walking over beautiful, cinematic shots. I&#39;m so here for it.
+  >
+  > **@TheAbsoluteZxero** [👍5]：The imagery of Brando walking the landscapes with that jacket flapping…..
+  >
+  > **@RadagastIRL** [👍5]：Man, watching this really made me miss the Utah mountains. We moved from Lehi to Boise last summer for work and it is super flat here. Excellent camera work, and can&#39;t wait for everything that is coming.
+  >
+  > **@kovidarora3479** [👍5]：Brandon how you thought of going into acting. The first video that started this all was amazing
+  >
+  > **@rogermanzur3570** [👍5]：You are just a treasure Brandon. Thank you for all the joy and wonder you bring to the world. 🥲
+  >
+  > **@midnightbloomofeorzea7182** [👍5]：I just ordered the first three Stormlight Archives, I&#39;m hyped to finally read some Sanderson for the first time &lt;3
+  >
+  > **@DebbieChristina** [👍4]：This man deserves an award for those acting skills (and writing skills)
+  >
+  > **@matthewruiz3391** [👍4]：Brandon has become not just one of my favorite authors but easily one of my favorite people ever. This dude and his team are great!
+  >
+  > **@SkyndSand** [👍4]：During a rough time in which everything seems to collapse around me, I thank you from the bottom of my heart Brandon. It&#39;s the tiny glimpses of a better future that&#39;ll keep you going through the dark.
+  >
+  > **@mick16wtf** [👍4]：Fantastic. Its so delightful to see how fun mischief can be even more so when the result of it is pure and positive.
+  >
+  > **@Corlanthis** [👍4]：This man&#39;s sense of dramatic timing is absolutely amazing, hahah. I kept waiting for the &quot;Nah.&quot; and I was not disappointed when it hit.
+  >
+  > **@Theirishsk83r** [👍4]：Never change Brandon, and thanks for the entertainment!
+  >
+  > **@risereadshine** [👍3]：This is the most dramatic thing ever, I love it
+  >
+  > **@nicolbolas9615** [👍3]：That was amazingly shot, and I really love the very billowey coat!
+  >
+  > **@Tubahero1012** [👍3]：This was a cinematic masterpiece.
+  >
+  > **@MaKiiOlvEra** [👍3]：Te amo Brandon, gracias por llegar a mi vida. Eres mi persona favorita en el mundo entero 💗
+  >
+  > **@louisa1878** [👍3]：My guy, this is so dramatic, I&#39;m here for it.
+  >
+  > **@JackSather** [👍3]：I love this man.
+  >
+  > **@marce6297** [👍3]：Finally, here I am
+  >
+  > **@marl3ymarl3y86** [👍3]：“Okay so I’m going to be standing on the edge of the cliff, yeah you’ll be recording that too, and the wind will be blowing, yes I’ll go back to revising in a bit, no this isn’t the last troll I’m going to do.”
+  >
+  > **@Kubal-cain** [👍3]：Most people would look at Brandon and think, &quot;oh, he&#39;s just a nerd&quot;.<br><br>And yet he&#39;s one of the greatest badasses on human history!
+  >
+  > **@daegraith** [👍3]：I see Brandon was taking great advantage of UT&#39;s recent windy weather
+  >
+  > **@AyushGupta-qs5xw** [👍3]：Ngl, he&#39;s doing youtube better than guys who do it full time and not just a side activity
+  >
+  > **@astralseaslug546** [👍3]：Thought the storm light vid that came out this moment was the one we were waiting for and I was gonna get angry at the troll lol<br><br>EDIT: fuck it really was the stormlight vid. No Mistborn adaptation then.
+  >
+  > **@OddModlin** [👍3]：Love the showmanship
+  >
+  > **@floriando7374** [👍2]：The memes are neverending... It&#39;s glorious.
+  >
+  > **@Felipe-nw3hx** [👍2]：That&#39;s an awesome overcoat, mr Sanderson!
+  >
+  > **@justinkeck1776** [👍2]：I love how much fun you and your team are having Brandon, keep it up.
+  >
+  > **@LucysLocket** [👍2]：Finally!!! The moment we’ve all been waiting for!!!
+  >
+  > **@salvador1683** [👍2]：Why is this shooting better than every fantasy adaptation film?
+  >
+  > **@itdiesellider7812** [👍2]：This has been incredible Brandon. Thank you so much, for all the words, memories and excitement. I absolutely cannot wait for whats to come.
+  >
+  > **@Evanator404** [👍2]：That Contemplative Brandon B-Roll... Classic.
+  >
+  > **@SirGentlemanXII** [👍2]：I love the dramatics. Looking forward to listening today!
+  >
+  > **@Hexbeard** [👍2]：Exciting! Thanks Brando! You&#39;re my hero!
+  >
+  > **@Asduuggee** [👍2]：Watching the vid and a prologue to SA 5 pops up. I thought it was a movie/video game but this is still on par with that.
+  >
+  > **@mischief7066** [👍1]：There&#39;s always another secret<br>-Kelsier
+  >
+  > **@Kondase** [👍1]：You make me so happy, Mr. Sanderson, with everything you do.
+  >
+  > **@Kinibal** [👍1]：The only thing that will surprise us all is the second part of the rythmatist :D
+  >
+  > **@matthewkimobrewster4005** [👍1]：I love this man so much.
+  >
+  > **@ReaderReborn** [👍1]：You magnificent bastard.
+  >
+  > **@joelman1989** [👍1]：He got me. How? I should have seen this coming but he still got me. It was so sincere! And that soft piano. He got me.
+  >
+  > **@DarthEleven** [👍1]：Thank you for giving us something new and exciting to read every week this month
+  >
+  > **@CabooseRooster** [👍1]：A beautiful piece of cinematography
+  >
+  > **@TheINSANEGreek** [👍1]：wasn&#39;t expecting this...
+  >
+  > **@Tony-in7ti** [👍1]：I love this man
+  >
+  > **@kindredsoul79** [👍1]：You cheeky bastard!  I love this so much.
+  >
+  > **@eragon_argetlam** [👍1]：Dramatic dork XD<br><br>Keep it up!
+  >
+  > **@jenniferlovett6040** [👍1]：I can&#39;t remember the last time I smiled for three minutes and thirty-four seconds straight. <br><br>My take: No need to try to top anything. I think possibly you do not realize what a gift you are to the book-loving world. You, all on your own. Just your brain. But we do. We realize and are just in awe of the fact that we are alive at the same time as you are and get to experience the brilliance of your writing as it unfolds. How often do you get to live and breathe at the same time as such great masters? Artists, composers, musicians, authors, etc., the truly gifted ones are sprinkled throughout time. <br><br>We&#39;re just thankful for the experience of you, Brandon. What a true joy you are. ❤️
+  >
+  > **@allieb8655** [👍1]：This is incredibly exciting! Thank you and the team for all your hardwork!!
+  >
+  > **@zenthepoet.** [👍1]：Adoooonalsiiiiium
+  >
+  > **@spencerrollins2804** [👍1]：Truly the only way to actually surprise us now would be to release a sequel to the rithmatist
+  >
+  > **@mrbigboibiggens** [👍1]：this is so epic in scale and cinematography
+  >
+  > **@dirkrousseau462** [👍1]：Thanks for real March Madness! So much fun.
+  >
+  > **@sorchahannah288** [👍1]：Yay!!!!!
+  >
+  > **@vipadventure** [👍1]：Thank you for the 4K meme material.
+  >
+  > **@CJthedragon8** [👍1]：You absolute madlad
+  >
+  > **@the_witcher_117** [👍1]：This man is literally my favorite dude gives me hope that I can one day make my own fantasy universe a book series
+  >
+  > **@lynnthomas8457** [👍1]：Loving the epic cinematography
+  >
+  > **@alejandrodominguezmunguia5254** [👍1]：ONE MORE MONTH OF THE KICKSTARTER PLEASE! I haven&#39;t been able to get it yet :(
+  >
+  > **@Glokta4** [👍1]：Congrats on the kickstarter.  The sample books look great, I can&#39;t wait to receive the real copies.
+  >
+  > **@bradenhazle4378** [👍1]：Oh how I wish he kept walking into the water lmao
+  >
+  > **@Abell_lledA** [👍1]：Narrative of Self is the result of a feedback loop between “Separate Self” &amp; Cosmos🎈
+  >
+  > **@Raven_Konaim** [👍1]：Mr. Sanderson welcome back, we&#39;ve missed you! Seriously this was amazing lol
+  >
+  > **@atlasprime6193** [👍1]：The dedication to travel to these locations just to capture a few clips of himself walking and staring is amazing.
+  >
+  > **@James-mv9qx** [👍1]：Honestly the way these secrets have played out is as exciting as the books themselves. This is really amazing and is upping the stakes!
+  >
+  > **@gabe5242** [👍1]：WOW fell for it again...
+  >
+  > **@theresamerrill1273**：BEST Month of Surprises EVER!!!! Thank you for so much fun and creativity!
+  >
+  > **@Smartielew**：I’ve watched this video so many times and shown to others and continuously been entertained lol. This needs to continue forever! I’m so looking forward to my year of Sanderson in 2023!
+  >
+  > **@Fushigibama**：Can we just appreciate these beautiful shots?! Wow!!
+  >
+  > **@eagleveteran**：Whoa! great job TEAMSANDERSON!
+  >
+  > **@saymyname2417**：Yes dude, you should <b>ABSOLUTELY</b> be thrilled 😊👍 !
+  >
+  > **@chelseawalker5471**：This made me cry. Thanks for another great surprise
+  >
+  > **@malinaivey4189**：I have no words. Just sounds. AHHHHHHH. 🥳
+  >
+  > **@glaciergirlv2265**：Love how you filmed this with the epic scenery.
+  >
+  > **@chugg159**：Never stop creating. Never stop imagining.
+  >
+  > **@aimeepotts2137**：Oh man!  All that scenery us making me homesick!
+  >
+  > **@hippiefarmer420**：Way to keep the surprises coming
+  >
+  > **@JocieFire**：I love his timing and dramatic sense of humor.  The way he organized his days and time has even inspired me!  He brings light and laughter to our family with his stories 💖💯
+  >
+  > **@cosmerejunkie7931**：This is my favorite thing ever! Thank you!
+  >
+  > **@allimhogan**：I was waiting for the turnaround.  I was not disappointed.
+  >
+  > **@DarthenosC9**：YES. I waa already tempering my expectations, but this blew my socks off.
+  >
+  > **@ahmedmohamedsalax7036**：I knew there was one more suprise but I did NOT expect that, literally shouted out loud
+  >
+  > **@MattBirch**：Such a long gap. That was awesome.
+  >
+  > **@jackgrimble9418**：I am so glad to be able to live in the same time as you. You are a genius. Thank you.
+  >
+  > **@GardenGnome118118**：The production on this video is stellar
+  >
+  > **@robertm.8653**：You are curing depressed and wandering souls without breaking a sweat.  <br>From the bottom of my heart, thank you!
+  >
+  > **@falakparmar4491**：Simple yet effective. Love u Sanderson
+  >
+  > **@John-lo2wn**：Quickly becoming my favorite YouTube channel
+  >
+  > **@jeremy6604**：Well...that was AWESOME
+  >
+  > **@Rickshow314**：Without words for this man
+  >
+  > **@hallaloth3112**：So on point, and no prankster can ever truly stop.
+  >
+  > **@LiveAccessible**：Hahahaha. I knew he&#39;d never stop trying!! 🥰
+  >
+  > **@mcronalds11**：I absolutely love this man.
+  >
+  > **@wolfsongbymoonlight**：Keep the surprises (and fantastic reveals) coming!
+  >
+  > **@eloconaf3589**：Omg I&#39;m legit tearing up
+  >
+  > **@CortesCurtis**：Brandon Sanderson, you are a gift to this world. Keep on being you and inevitably you will bring joy to all who follow your work!
+  >
+  > **@avsambart**：Those locations were beautiful
+  >
+  > **@Spiderweb444**：This guy is indeed a showman and thanks for this wonderful gift.
+  >
+  > **@Link-tf7ft**：I am going nuts!!! this mans is craaaaazy!!!
+  >
+  > **@TonyRobetson**：lol!! glad you had as much as we did with this. you are setting the bar pretty high for the future :D
+  >
+  > **@thebookwyrmsclaws**：Love the drone shots. So epic.
+  >
+  > **@trussell1531**：How can you not love this guy? There will never be another Sanderson.
+  >
+  > **@rikki-rose**：He&#39;s so extra and I am HERE for it
+  >
+  > **@manwithbrisk3418**：Sort of unrelated but, I moved out of Utah a few years ago and I really miss those mountains. Thanks for the scenic view and here&#39;s to many more surprises.
+  >
+  > **@wes5457**：Este hombre es otro nivel, un abrazo desde Latino America.
+  >
+  > **@claycrowe4032**：Oh my goodness!  This is why Brandon is so awesome!
+  >
+  > **@jackwolfstang**：Recently became a fan of Brandon’s work, wish I did a long time ago.
+  >
+  > **@flyingtoastr**：He can&#39;t keep getting away with it!
+  >
+  > **@mrt5069**：Bravo, Maestro Brandon! GL to u and ur team! A well deserved success!
+  >
+  > **@tofonofo4606**：HAHAHAHAHAHAHA! CALLED IT! Much Luv Brando!
+  >
+  > **@khomu604**：You made a whole MOVIE
+  >
+  > **@mahalleinir_WoT**：I can&#39;t even contain how amazed I am with your dedication to both the craft and to us, your fans. Wow.
+  >
+  > **@Axel-tk3tk**：Oh my god this man!!!<br>Wow!!
+  >
+  > **@chloestarshine**：I laughed out loud at that one. Amazing
+  >
+  > **@ucc3rd**：He can&#39;t keep getting away with this!
+  >
+  > **@daniela.domingues**：Thank you!
+  >
+  > **@lotroadventure**：I swear the retention on this video is amazing
+  >
+  > **@ebenhopwil1886**：You never cease to amaze me, sir.
+  >
+  > **@Lunasparc**：Love you Brandon! 💜
+  >
+  > **@mendelmarozov888**：Looks like a movie scene
+  >
+  > **@porterwayman8643**：The greatest part, seeing Brandon walk around Utah Valley
+  >
+  > **@adelamuresan9204**：congratulations is amaizing
+  >
+  > **@babasolaosikoya5947**：A FREAKING PROLOGUE. I&#39;M FREAKING OUT RIGHT NOW
+  >
+  > **@thispaulrules**：Adam sure does love playing with his drone ;)
+  >
+  > **@LassMineko**：What a gorgeous landscape, reminds me of my trips to Norway. I love the dramaticism
+  >
+  > **@Ladybug4901**：You just brought tears to my eyes. My hands are in pain from the hype claps.
+  >
+  > **@dominiksledziewski**：Haha, I knew he would say &quot;nah&quot;.
+  >
+  > **@angelsmalice6677**：Thank you so much for all that you do for us Brandon
+  >
+  > **@gerardp4759**：Nice drone shots! Money well spent.
+  >
+  > **@Elijutsu**：We&#39;ve stood and contemplated in the same place my friend!
+  >
+  > **@ageeknamedanuk236**：I&#39;m here for the drama!!🤣🤣 Love it!!
+  >
+  > **@lucasparry6834**：Cannot love this man enough
+  >
+  > **@DylanMcClung**：This is so awesome!
+  >
+  > **@erikmedina6966**：Sometimes you can be a big ham Brandon, never change, great job.
+  >
+  > **@blainewheaton9679**：Yeah, there will always be another secret
+  >
+  > **@dennycote6339**：You storming genius!!! I look be you!!!!
+  >
+  > **@warlockalone**：What a wonderful video! ❤
+  >
+  > **@Sailortwilight**：Bravo!
+  >
+  > **@crimsonraen**：Hahahahaha Brandon, you are heckin&#39; AMAZING! This was so hilarious; I love it!
+  >
+  > **@fireguardianx**：legit funniest video ive seen this week.
+  >
+  > **@worthdoingpoorly4155**：The drone shots!!
+  >
+  > **@brandonaxTGC**：The most epic of epics.
+  >
+  > **@jazung**：That was hilarious!! Made my day!!
+  >
+  > **@laurieruvinov**：Omg I&#39;m so excited
+  >
+  > **@rhinofist1**：Thank you for this haha what a hambone
+  >
+  > **@generellis3**：Someone is living their best life 😂😂 good for you, my man.
+  >
+  > **@CmanXP**：This man is a gift to humankind
+  >
+  > **@Natalia-ig3gc**：Just as dramatic as expected. I love it!
+  >
+  > **@tristenvaughan3892**：alright but this ambient sound design 👌🏻👌🏻👌🏻
+  >
+  > **@NekoNando**：masterpiece
+  >
+  > **@Dangrrr_**：OMG yaaaaaaaaaaaaass!!
+  >
+
+---
+
+## 5. First Look at Secret Project #1 from Brandon Sanderson (Spoilers)
+
+- **频道：** Brandon Sanderson
+- **观看数：** 243,825
+- **点赞数：** 9,938
+- **评论数：** 950
+- **时长：** 44:22
+- **发布日期：** 2022-03-03T15:05:46Z
+- **链接：** https://www.youtube.com/watch?v=bBUVXcIE0E0
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/bBUVXcIE0E0/hqdefault.jpg
+- **简介：**
+
+  > Here, Brandon reveals the title and reads the first part of Secret Project #1.
+  > 
+  > If you’d like to learn more about our Kickstarter, please visit: https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson?ref=1echpb
+  > 
+  > You can read it here: https://www.brandonsanderson.com/first-look-at-secret-project-1/
+  > 
+  > 00:00 — Introduction
+  > 01:07 — Chapter One - The Girl
+  > 07:11 — Chapter Two - The Groundskeeper
+  > 19:51 — Chapter Three - The Duke
+  > 23:58 — Chapter Four - The Son
+  > 34:29 — Chapter Five - The Bride
+  > 43:00 — Closing
+
+- **热门评论（200 条）：**
+
+  > **@merphynapier42** [👍1973]：I’m SO HYPED for this book
+  >
+  > **@Ruminations09** [👍1266]：&quot;He had a jaw so straight it made other men question if they were&quot; is one of the best lines Brandon&#39;s written.
+  >
+  > **@ninnusridhar** [👍1016]：Brandon pulling out his inner pratchet with this one.<br>&quot;They were so good at being unique, they often did it together&quot;<br>&quot;There was a tree once, but it did the sensible thing and died 3 years back&quot;<br>&quot;A jaw so straight, it made other men question if they were&quot;<br>These dearest Sanderson are gems. Gems I say
+  >
+  > **@TheSilverOrn** [👍631]：&quot;The book I wrote in 2020 when I realized I had a little time and was feeling the itch to tell a story&quot; is probably the closest real world equivalent to &quot;AND THEY CALLED IT A MINE!&quot; from lord of the rings when they talk about Moria.
+  >
+  > **@katrinaxharhus3747** [👍589]：I&#39;m 90% sure the girl is named Tress just because anyone who calls her miss will have to call her Miss Tress. I love it.
+  >
+  > **@kushalrijal9453** [👍495]：Today I wrote over 1500 words after watching Sanderson&#39;s last video. What I have learned from him is that writing a book should be fun. It is the editing part that should be pain in the butt.
+  >
+  > **@25Dzone** [👍492]：This is honestly one of the most inspiring reveals for us amateur writers out there - whether it&#39;s a passion project or a project with goals in mind, seeing you churn out so many books yearly is SERIOUSLY impressive and the fact that their quality is so consistent is honestly disturbing but brilliant. Making me want to write more!
+  >
+  > **@crispy0103** [👍461]：Listening to this, some of the meta humour reminds me of Pratchett. The lines of &quot;The Tree did the sensible thing, and died.&quot; and &quot;The other girls were so good at being unique, they could do it all together.&quot;<br>I for one welcome this light hearted feel to the book and look forward to reading it.
+  >
+  > **@gabistiene8593** [👍310]：Yes, that&#39;s exactly the slightly &#39;mocking&#39; Hoid style of narration that I love so much. I&#39;m happy that we&#39;ll get a whole book of that!
+  >
+  > **@Shod_inSilence** [👍250]：So let me get this straight. It&#39;s a story about a girl who is resourceful, determined, and pretty but not prideful, and a storyteller boy whom she loves despite him inexplicably also being dullard. I suspect we all just got a small window on Brandon&#39;s view of his own marriage, and if correct, it&#39;s stinkin&#39; adorable.
+  >
+  > **@briwidmerart** [👍209]：Oh this was such a joy to listen to. Loving the satirical prose from a certain masterful storyteller. I still haven&#39;t recovered from &quot;he was six and a half feet tall and had a jaw so straight it made other men question if they were.&quot; Congrats on the massively successful Kickstarter - I look forward to the Year of Sanderson!
+  >
+  > **@zackarygoodenough5781** [👍182]：I’m not gonna watch due to spoilers but I’m glad to have backed this on Kickstarter!
+  >
+  > **@sixtofive** [👍166]：You&#39;re changing an entire industry this week, congrats!
+  >
+  > **@elessarbre** [👍153]：It seems like Brandon was having a blast writing this. I&#39;m definitely intrigued. The setup kind of reminds me of Kaladin and Laurel&#39;s storyline in Stormlight.
+  >
+  > **@DasDokta** [👍124]：As a long time reader I have to say that I found these first chapters simply beautiful. As someone else already mentioned, I get huge Pratchett vibes from the writing style, especially wee free men, although that may be because of the protagonist/plot. And this is meant as a huge compliment. Thank you, I am looking forward to the finished version!
+  >
+  > **@brandonmack111** [👍84]：I was considering trying to wait and find out about these as they became available, but as soon as I saw this video go up, I couldn&#39;t help but watch..<br><br>Awesome story so far, I can&#39;t wait to see what happens! Now January can&#39;t come fast enough..
+  >
+  > **@MeMySkirtandI** [👍81]：When I read the email, I totally read Trees of the Emerald Sea. This is why I love audio books!<br>Edit: Of course it&#39;s not actually water! Sanderson&#39;s books are generally quite dry.
+  >
+  > **@animeproblem1070** [👍74]：Hoid is having one of those days when his audience isn’t rosharins and he doesn’t have to constantly explain that not everything is a disgusting tentacled crab monster of some kind
+  >
+  > **@apebblemaster4570** [👍74]：Oh wow Brandon Sanderson CAN write pretty!  That has been my only personal criticism regarding his books!  (I grew up on Redwall, so pretty writing holds a very special place in my heart.)  THIS MAKES ME SO  HAPPY!
+  >
+  > **@evelynbasham1673** [👍72]：This story is from the world of Adolin&#39;s ancestry on his mother&#39;s side. Adolin&#39;s golden locks came from this world. So cool.
+  >
+  > **@michael.depaulo** [👍60]：So pumped about this. The man is a beast!
+  >
+  > **@jobobminer8843** [👍59]：I love the parts where Hoid leaves the fairy-tale speech to use a hyper-specific scientific word to describe something.
+  >
+  > **@jessicaparkerillustration** [👍54]：I&#39;m so excited for this book! It feels like a fairy tale and I love the style of the narration :)
+  >
+  > **@beLIEver31415** [👍54]：So happy for you!  It&#39;s a great time to be a massive SanderFan and my mind is so blown about this whole thing!  I was already blown away by the plans in the State of Sanderson for the next few years and the thought of 4 more full length novels on top of all that you were already doing is just so incredible!  I instantly baked the kickstarter but I keep refreshing the page in hope that y&#39;all break the kickstarter record :D
+  >
+  > **@MrKennyUwU** [👍50]：&quot;The book I wrote in 2020 when I realized I had a little time and was feeling the itch to tell a story&quot; said by Brando is like NileRed&#39;s &quot;It made a little explosion, so I did it 27 more times&quot;
+  >
+  > **@raphaelho3551** [👍48]：I really enjoyed moments of 2nd person perspective like how the narrator tells us that script went vertical instead of horizontal. Makes me think who our narrator is telling this story to
+  >
+  > **@sntxrrr** [👍47]：For the audio book this sounds like an ideal story to be narrated by Stephen Fry!
+  >
+  > **@smokeyalpaca1910** [👍46]：Hearing Brandon stutter while reading aloud has removed self-esteem issues I wasn&#39;t even aware I had. Love everything about you dude, keep on being awesome
+  >
+  > **@zzzMrgamerzzz** [👍44]：The epilogue of this book is gonna be hoid telling this story to a cremling. Calling it now
+  >
+  > **@SeptiTheMadSage** [👍43]：The reveal at <a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=1940">32:20</a> broke my brain as it explained the strangeness of the cadence in the storytelling.<br><br>It took me about 5 minutes to recover as I just reveled in the brilliance of what you are doing with the choice of the narrator.<br><br>So excited for 2023!
+  >
+  > **@alirizvi5663** [👍42]：Similar to the Kingmaker chapter Brandon put out, this sounds like a story that Hoid&#39;s telling us.<br><br>Edit: yeah got to the part where it&#39;s confirmed that Hoid&#39;s the narrator
+  >
+  > **@eduardaarrais** [👍41]：No, Brandon, you didn&#39;t feel an itch. You had an entire ant colony fall into your pants and in the efforts to kick them out, you created five ant utopias with their own government and health care.<br><br>Good job, Brandon. You&#39;re making it real hard for all amateur writers out there. We shall all aspire to your talent, and die with envy in our veins for no matter how hard we try you truly are something else and I doubt any of us will ever reach your heels.
+  >
+  > **@ReadEatGameRepeat** [👍39]：1) this sounds amazing I already love this story a hecking ton and I&#39;ve only listened to the first chapter <br>2) I wish I could back the kickstarter so I could read these on release - but it won&#39;t let me back cuz of card issues apparently T_T
+  >
+  > **@Shinesprk** [👍39]：Oh no, Brandon&#39;s bringing back the &quot;is water wet?&quot; Debate 🤣🤣
+  >
+  > **@coolstorybro1403** [👍34]：&quot;Had a Jaw so straight it made other men question if they were&quot; <br><br><br>This had me rolling!
+  >
+  > **@LXReads** [👍31]：&quot;[he had] a jaw so straight, it made other men question if they were&quot; made me laugh out loud
+  >
+  > **@aprilb2999** [👍29]：&quot;They say that to wait is the most excruciating of life&#39;s torments&quot; the irony of this statement knowing we will have to wait months to finish this story.
+  >
+  > **@LordOfAllusion** [👍27]：So, almost 20 million? I think you’re about to break out of that “small publisher” box
+  >
+  > **@SupremeDP** [👍27]：<a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=1938">32:18</a> This is GREAT. In fact the whole thing is great. Can&#39;t wait to get the book in paperback in 2 years :&#39;U
+  >
+  > **@bryantbodnar** [👍27]：Ahhh, what a wonderful birthday present. I completely forgot he was releasing info about this book today.<br>Also, this is the second time he has made silver a way to ward something off in his books. Anyone read Shadows for Silence in the Forests of Hell?
+  >
+  > **@eliashigham8901** [👍25]：I like how the second chapter begins with the narrator RAFOing us, very appropriate
+  >
+  > **@jonbrouwer4300** [👍24]：I really like this narrator / point of view. It&#39;s a fresh change from how &quot;scene-focused&quot; Brandon&#39;s narration tends to be. Glad he was able to have fun and try something new, and doubly glad we&#39;ll all get to read it!
+  >
+  > **@RumoHasIt** [👍24]：I am living for this blend of satirical prose and ya romance. Backed!!
+  >
+  > **@jonmccain9354** [👍22]：LOVE LOVE LOVE THIS.<br><br>Question : What tablet are you reading this from? It looks awesome for reading digital books.
+  >
+  > **@sadee4175** [👍20]：Hoid&#39;s stories are some of my favorite parts... like the dog and the dragon. So something like this is just perfect. It brought such a smile to my face I cant wait to hear/read more
+  >
+  > **@Richardiii2** [👍18]：I really like the narrative voice in this one. It reminds me of C. S. Lewis<br><br><br><br><br><br><br><br><br>Ah Hoid as narrator, I understand now.
+  >
+  > **@lyndonhott4458** [👍18]：Really funny. Already invested in the characters. Very excited about the Iriali connection and this really funky world in general.
+  >
+  > **@jessicaparkerillustration** [👍18]：&quot;he was six and a half feet tall with a jaw so straight it made other men question if they were&quot; 😂😂😂
+  >
+  > **@LucasCarter2** [👍16]：It’s such a weird phenomenon having an author so prolific and well regarded have such a significant online presence. We truly live in a golden age, one where we can see the author we read and even interact with.
+  >
+  > **@channelnamepending8329** [👍16]：It reminds me of the princess bride,  or one of Hoids storys that he tells to Kaladen.
+  >
+  > **@shamancarmichael5305** [👍15]：Go get him, Tress! Look forward to the rest. Also, I hope you tell us all those uses for plywood, that would be useful! 👍😉
+  >
+  > **@retrojustice9319** [👍13]：The prose feels alot like Lewis&#39; Narnia! Love it
+  >
+  > **@nyarparablepsis4548** [👍13]：Two very important things: <br>(1) it is supersweet and amazing of you to write a book for your wife!<br>(2) I admire your worlds so much... it is wonderful how you create worlds that are not the typical &#39;medieval Europe with magic&#39; fare. You, Sir, have an amazing brain.
+  >
+  > **@vol94** [👍12]：Even though I adore fantasy, I would really like one of the five books to be a mystery detective noir set on earth
+  >
+  > **@r.charlie** [👍11]：This feels like a story that could have been told by Hoid, and I love it.<br><br>...<br>Edit: I should have finished listening. This is so awesome.
+  >
+  > **@spencerpratt7453** [👍11]：YES! I KNEW IT WAS HIM TELLING THE STORY! You gotta have Michael Kramer narrate this book doing his Wit voice from Stormlight Archive!
+  >
+  > **@doity** [👍11]：I was hooked from the first paragraph! Had a smile the entire time.
+  >
+  > **@W-A-R-HAWK** [👍11]：Are you even human jk glad you got the down time you needed. I personally know the feeling of burnout you spoke of how draining it can be to your well-being, productivity and sense of self. Really enjoy your book&#39;s keep doing what you do . Also it&#39;s glaringly obvious you love your fandom so from a fan of your work it&#39;s very much appreciated
+  >
+  > **@Kevin2341** [👍10]：Brandon should add a tier to the Kickstarter to have the audiobooks be read by just him.
+  >
+  > **@amusedcookie** [👍9]：I been excited since the announcement and still am after this. Side note, My brother was in the room with me when I started this video and he got intrigued. I think Sanderson will be having another fan soon. 🤣
+  >
+  > **@cameronduetsch5491** [👍9]：So stoked!! I’ll be among the community going in blind with my own local book club, so I appreciate the spoiler warning haha. Can’t wait until 2023!!!
+  >
+  > **@passmethatbook** [👍9]：Am I really the first here? Neat. Hey Brandon. Glad to see you again. 😊
+  >
+  > **@hmmmooops** [👍9]：Men on Roshar can&#39;t read so Hoid just straight up tells them entire novels as stories out of sheer spite.
+  >
+  > **@Elykmai** [👍9]：Im so glad that I backed this project. I cant wait to read these books. Thank you Brandon! This is going to be amazing.
+  >
+  > **@cjthesorceress7937** [👍9]：Potential Spoilers<br><br><br><br>1. I&#39;m fairly sure this is a story being told by Hoid<br>2. There is mention of the Iri people disappearing in this story; the Iri people currently reside on Roshar, and online resources say that these people traveled to Roshar from somewhere other than Ashynn like the rest of the humans there. Therefore, I believe this story takes place on the planet that the Iri were on before.
+  >
+  > **@whorhaydelfuego7190** [👍8]：The &quot;jaw so straight&quot; line killed me!
+  >
+  > **@mendelmarozov888** [👍8]：Congratulations on being the most funded Kickstarter at over $20 million.
+  >
+  > **@sininenblue9161** [👍8]：Probably the first teen romance story that I&#39;ve actually gotten hooked on
+  >
+  > **@Thomas_Guida** [👍7]：Storytime with Brandon? Count me in. So excited for these books!!! I couldn&#39;t wait a year and keep the books a secret.
+  >
+  > **@CarlosRuiz-el2bm** [👍7]：Thank you, Brandon, you just uploaded my new comfort video. Can&#39;t wait for the other books I loved this.
+  >
+  > **@jkdbuck76** [👍7]：Brandon, I can&#39;t wait.  Also, what you wrote has a lot of wit and a little bit of Wit.
+  >
+  > **@RobbieLee90** [👍7]：Sanderson is the true Gleeman
+  >
+  > **@grayajahsitter2853** [👍7]：BrandoSando you are making my day! This has been wonderful!
+  >
+  > **@jackhathaway9918** [👍7]：“Brandon can just not write romance” <br>Brandon: so here is an open love letter to my wife in the form of a romantic fairytale
+  >
+  > **@Olssonricky** [👍7]：finished mistborn book 1 audiobook the other day, the first 5 chapter was boring for me but damm the rest was so good, enjoyed it lots, and will start way of kings soon, exited for it
+  >
+  > **@cupkakfrosting** [👍7]：If you love this tone, I&#39;d definitely suggest checking out his lesser-known children&#39;s series &quot;Alcatraz Versus the Evil Librarians&quot;! It&#39;s honestly one of my favorites, and even though it&#39;s a children&#39;s series, I truly believe that anyone can read and enjoy it! :)
+  >
+  > **@Nodonn** [👍6]：Moons dropping spores gives me strong Dragon Riders of Pern vibes.
+  >
+  > **@Jasminemass9403** [👍6]：Brandon casually name dropping the Iriali in that place that is obviously not Roshar…. I need DISCUSSION OF THIS NOW
+  >
+  > **@marekneugebauer5021** [👍6]：A gardener wearing sword to be armed when ambushed got me laughing hard. I&#39;m not sure what to make of it.
+  >
+  > **@TheInfoYouNeed** [👍6]：You fools, he&#39;ll turn that money into gold and live forever
+  >
+  > **@sajsays4710** [👍6]：Tress is the new Lúthien! She’s gonna go save her man! I love it! I’m looking forward to reading the rest of the story.
+  >
+  > **@TheCloser424** [👍6]：Love it! Thank you for sharing this with us. You and your team are doing incredible things for the industry. ❤️
+  >
+  > **@ArezooKashefi** [👍6]：I already love this story. The couple is so cute!
+  >
+  > **@kyra5783** [👍6]：A character that&#39;s not &quot;I&#39;m not like other girls&quot;? So pumped!
+  >
+  > **@NorrinIsSoRadd** [👍5]：Wowww im captivated by tress in 2 chapters dammmm brandonn
+  >
+  > **@jamesmurray3021** [👍5]：I love the sass of this narrator
+  >
+  > **@Ciaracanth** [👍5]：This has a sort of Douglas Adams tone to it and I&#39;m here for it. Very nice!
+  >
+  > **@vexalantron1663** [👍5]：why do i feel like i&#39;m sitting around a fire with my pilgrim friends on our way to Cantebury, and this is one of the contenders in our storytelling competition? maaaan, if more authors would just sit down and read/cite their tales and talk about them,  bonds between creators and readers would blow passed the stratosphere.
+  >
+  > **@icarussarts** [👍5]：Everybody: s t r a i g h t jaw go brrrr<br>Me: okay I&#39;d like Hoid to narrate my life story when I die because he&#39;ll make it sound interesting
+  >
+  > **@jaredscottabramson7463** [👍5]：I feel like Brandon Sanderson has made me more hyped in the last few days than I have ever felt before.
+  >
+  > **@CyndaGallagher** [👍5]：Brandon has set the bar so high. If he don&#39;t write you a fantastic novel just for you, does he really love you?
+  >
+  > **@unwantedmacguffin5611** [👍5]：Think it would be cool if Micheal Kramer did the auidobook naration in Hoid&#39;s voice.
+  >
+  > **@lemonaden3461** [👍5]：a story narrated by Hoid 🥰<br>Also “Loquacious Love” Thats adorable.
+  >
+  > **@berylliosis5250** [👍5]：Hoid narrating<br>Iriali mentioned<br>Verdant and Midnight seas (Aethers)<br>Heck yeah!!
+  >
+  > **@Thisone109** [👍5]：This has a..... Terry pratchett feel 😆😂
+  >
+  > **@JAMMStudioss** [👍5]：This book sounds like it was written by hoid
+  >
+  > **@NemisCassander** [👍5]：This seems like Whimsy&#39;s Shardworld.  I wonder if 12 is significant to the worldbuilding (with the 12 moons).
+  >
+  > **@madibystry2146** [👍4]：“It might be said that he had a way with words, and that his words often got away.” <br>SO GOOD
+  >
+  > **@rasaecnai** [👍4]：I just love the fact that Brandon enjoyed writing these.
+  >
+  > **@sillyandwhimsical** [👍4]：The entire time I was thinking that the method of storytelling was familiar... &quot;Yes that&#39;s me. What tipped you off, the name?&quot;
+  >
+  > **@Edward-W** [👍4]：How to make me cry in about three and a half chapters. &quot;You&#39;re like a pair of gloves&quot; &quot;You&#39;re my gloves too&quot;
+  >
+  > **@simonorourke4465** [👍4]：I love this so much, Brandon really is a treasure.  I wish I could afford  to back this project but I&#39;ll happily wait for them to be available to buy.
+  >
+  > **@Justin.Danford** [👍4]：Oh! A 3rd omniscient, strong narratorial voice! Heck yeah!
+  >
+  > **@user-dx8ny5io2l** [👍4]：Imagine seeing Hoid as a Cabin Boy xD
+  >
+  > **@lilwinchester1417** [👍4]：I get &quot;The Princess Bride&quot; vibes from this<br>I love the voice he uses to tell the story, wise and mocking<br>I imagine Hoid telling me this story
+  >
+  > **@daniellmarsden1797** [👍4]：A world where pollen is trying to kill you? I thought this was supposed to be fiction.  :P <br>I need another Claritin.
+  >
+  > **@gavinbrandgavin581** [👍4]：This has very Howl’s Moving Castle vibes, which I enjoy.
+  >
+  > **@davelee6002** [👍4]：This felt like a slow process of struggling between being more interested in the narrator and trying to care about the girl.  Immediately, you&#39;re like, &quot;why does he introduce the sea and the rock so quizzically?&quot; Why does he think her fondness if cups is excessive? Why is geosynchronous a normal term for him?  And why is he talking in such an affected way as if he loves the sound of his own voice and perhaps thinks of himself as more witty than he actually is?  If this narrator isn&#39;t a character within the world, then there&#39;s a risk of taking the reader out of the world, unless this is a classic fairytale style of story where  everything can be steeped in implied commentary.
+  >
+  > **@ReadingDave** [👍3]：Ha ha ha! &quot;Your hands are warm.&quot; That was a nice moment.
+  >
+  > **@ergodemon** [👍3]：The food in my mouth turned to moon pollen the moment you described collecting and naming toenails
+  >
+  > **@CupCakeUnleashed** [👍3]：&quot;Had a jaw so straight it made men question if they were.&quot;<br>That had my sides in space.
+  >
+  > **@jmike.** [👍3]：I&#39;ve had to pause this video multiple times because I simply cannot deal!!!!!!
+  >
+  > **@jyotitripathi559** [👍3]：This was so beautiful! Hearing this made me glad I backed a tier that includes the audiobooks. I&#39;ll definitely be listening to this one. Super excited to see who you guys end up choosing as the narrator.
+  >
+  > **@darkmentoses** [👍3]：My favourite line out of it all. <a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=2210">36:50</a> . Love his jawline
+  >
+  > **@Florkl** [👍3]：This gives me Warbreaker Romance vibes and I am extremely happy.
+  >
+  > **@rileysmith9400** [👍3]：Holy cow that was amazing, and i need this book in my life ASAP!!
+  >
+  > **@NBTKDA** [👍3]：Branboozling is the best kind of bamboozling
+  >
+  > **@robertm.8653** [👍3]：It looks great already!
+  >
+  > **@The_Lixtar** [👍3]：found him <a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=1935">32:15</a> <b>insert leo di caprio pointing meme</b>
+  >
+  > **@crayade2417** [👍3]：What a wonderful tale! I bet this &quot;secret projects&quot; are going to be great books.
+  >
+  > **@MrMendi100** [👍3]：Is the name Glorf a reference to Glorfindel from Lord of the Rings?
+  >
+  > **@goldielocks9092** [👍3]：I love this!😭
+  >
+  > **@mandys1379** [👍3]：I’m so excited for these books! I wish international shipping wasn’t so expensive, but I understand why it is. I’m going to wait the books to be released at a later date to get them. But I will buy the audiobook/ebook through the Kickstarter!!
+  >
+  > **@brennanhewitt7609** [👍3]：I released my breath I screamed so hard when I found out this man wrote 5 books in two years
+  >
+  > **@PalbornozN** [👍3]：We need a spanish version of the book on kickstarter pls
+  >
+  > **@aliciarenda9281** [👍3]：It&#39;s giving me serious Princess Bride vibes😍
+  >
+  > **@JackMine007** [👍3]：As an impatient person, I can say that listening to this was a terrible idea. At least I know my when my cup will arrive...
+  >
+  > **@atharvadeshpande4749** [👍3]：Brandon is such a meme boss I would not be surprised if he just leaves the Title as Secret Project #1. 😂 And make a story around a Secret Project.
+  >
+  > **@kirtiomart** [👍3]：Love it! <br>Hey Brandon, has anyone told you you could make a living as a writer? 🤔
+  >
+  > **@30Huckleberry** [👍3]：Que the 17th shard video
+  >
+  > **@JAMMStudioss** [👍3]：OH SHIT ITS THE PLANET THE IRIALI ARE FROM!
+  >
+  > **@claudiafernandes1150** [👍3]：Ok so I have never read anything by Sanderson, I recently bought Mistborn but I haven&#39;t read it yet, I hopped into this video cuz I was hella curious I mean this man wrote 5 secret books during the pandemic!?!?! So I just wanted to check what it was all about... And right now I&#39;m loving it and thinking how the heck am I gonna pay the shipping fees to my country cuz I am on board! I might even start Mistborn tonight!! Goddamnit I&#39;m hooked!
+  >
+  > **@aerynmusick4548** [👍3]：Feeling a lot of Pratchett and Miyazaki out of this one.
+  >
+  > **@dirkrousseau462** [👍3]：Such a fun start to a book! PS. Does it bother anyone else that Towers of Midnight is before a Gathering Storm on his shelf?<br><br>Edit: I think I have to root for Dirk though. Solidairty, despite soggy bread for brains.
+  >
+  > **@samudrabrahma3290** [👍3]：I don&#39;t have enough money to back the kickstarter for the hardcovers 😫😭😭😭 hope that it would be extended to a few months for me to make enough money to back it up later. I am from India, the shipping cost/taxes makes it crazy expensive. 😭😭😭😭😫😫😭😭
+  >
+  > **@sengbush0077** [👍3]：DOES HE HAVE A 30 INCH IPAD?
+  >
+  > **@kalad1n16** [👍3]：IM SO GLAD ITS WIT ❤️❤️❤️
+  >
+  > **@hudibrad** [👍2]：now, &quot;eel-gotten treasure&quot; was not a sequence of words I thought I&#39;d be jealous of
+  >
+  > **@laura-leew5668** [👍2]：I just finished this book, and it was a glorious way to start the new year.  Thank you Brandon Sanderson for sharing this beautiful whimsical story with us.  I enjoyed every minute of reading it!  (secretly hoping you never go back to travelling for conventions if it brings us more books like this!). Can&#39;t wait for secret book #2!
+  >
+  > **@matiesponja** [👍2]：<a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=840">14:00</a> he says &quot;meat pie&quot; but in spanish it says &quot;empanadas&quot;
+  >
+  > **@americanardvark** [👍2]：I&#39;m Soo happy to see such a high level success find you. And you&#39;ve helped me in my writing so much thank you kindly...
+  >
+  > **@Noakwolf247** [👍2]：<a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=2012">33:32</a><br><br>The crowd was quiet, still confused. “I brought thirty kegs!” The Duke said. They cheered. <br><br>That one had me rolling.
+  >
+  > **@mrlaforgephysics** [👍2]：“Any scowls would lose their potency due to wind resistance and gravitational drop”  I can’t stop laughing 😂
+  >
+  > **@bozhidarahristova5580** [👍2]：Ah, 2023, the year in which newborn baby girls will unironically be given the name Glorf. Thanks Brandon 😂
+  >
+  > **@nevertoonate** [👍2]：This has absolutely lit a fire under me to tell my own stories. Already deep into my outline!
+  >
+  > **@itdiesellider7812** [👍2]：BRANDON, THIS IS EFFING AWESOME! Listening to you mention SPOILER made me exclaim outloud at work, startiling my co-workers and prompting so many questions LOL!
+  >
+  > **@dannychan0510** [👍2]：Damn it BrandoSando you mad genius -- I only listened to 2 chapters so far, and I am already loving Tress and Charlie!
+  >
+  > **@TheCrimsonIdol987** [👍2]：Okay, Brandon. I now have to read this book, even though you hooked me with the Stormlight Archives. You fiendish storyteller, you!
+  >
+  > **@AgentNoosh** [👍2]：I love the characters already
+  >
+  > **@tayh.6235** [👍2]：I adore this. Can&#39;t wait to read it :)
+  >
+  > **@sionat29** [👍2]：I want a pair of those gloves from Chapter 3.
+  >
+  > **@Trigun99** [👍1]：&#39;he had a way with words, and his words often got away&#39;
+  >
+  > **@TechnoMinarchist** [👍1]：Looks like Sanderson has been reading Dragonriders of Pern.
+  >
+  > **@potatofishy1** [👍1]：i can already tell this is going to make me cry
+  >
+  > **@s11xox89** [👍1]：No revision needed ! Absolutely brilliant
+  >
+  > **@TheJedimaster95** [👍1]：5 chapters in and i&#39;m already crying 😭
+  >
+  > **@themanyhobbiedman** [👍1]：Brandon R. R. Sanderson.  You have now earned your R&#39;s.
+  >
+  > **@gagegamster2456** [👍1]：“This isn’t the part of the story where you ask questions”
+  >
+  > **@jeanbryan8341** [👍1]：Congratulations on breaking 100,000 backers!
+  >
+  > **@xxshera1320** [👍1]：I need the rest of this story ASAP! I am so excited
+  >
+  > **@TheErkTube** [👍1]：Man... Brando, I actually love you for bringing so much imagination and wonder to our lifes.
+  >
+  > **@aurematic** [👍1]：Oh-my-god!!! Kickstarter is right now over $19 millions!!!
+  >
+  > **@sienna3059** [👍1]：“A jaw so straight it made other men question if they were.” <br>This man is a genius. 😂
+  >
+  > **@subressor1** [👍1]：Ah, I need Michael Kramers Hoid voice to read this entire book to me..
+  >
+  > **@katjalouw918** [👍1]：Oh my goodness I already love this story so much, I need more! And now I wish someone would call me their glove.
+  >
+  > **@peak_piece** [👍1]：exited
+  >
+  > **@loralubimaia2783** [👍1]：Men :heres some dozen roses I picked up at a gas station when I stopped to get gas<br>Brandon: I wrote you a book
+  >
+  > **@nathanielgreeve5330** [👍1]：I am saving these books, unread and unopened until I get married and have children. I will then read these every night as they fall asleep. They will know you. Thank you for setting a lightning bolt to my imagination with your books Brandon.
+  >
+  > **@mariamornerud9431** [👍1]：Absolutely love it! The style and the characters, both so lovable and fun. I wasn&#39;t going for the kickstarter, but now I&#39;ve changed my mind. :)
+  >
+  > **@bht96**：Thank you Brandon for all the joy you’ve given us with your incredible writing.
+  >
+  > **@BobDuhBuildering**：The way you write sings. You know it’ll be one of your favorite songs.
+  >
+  > **@bozhidarahristova5580**：I am incredibly excited for this! Can we just skip 2022 already and move on to the joy that 2023 will bring?
+  >
+  > **@koribee7743**：I could not be more excited for 2023
+  >
+  > **@MrLemonaiden**：At this point your superior marketing and hype will have me eating out of your palm. Release anything and I’m reading it! You truly are one of the great writers of this time. Bravo
+  >
+  > **@jkdog3242**：Brandon&#39;s look at camera and chuckle &quot;huh huh hands are warm&quot; is SENDIIIIING ME 😂 the absolute goat
+  >
+  > **@zeddy93**：My husband just fell asleep listening to the soothing tones of his favorite writer. 😄🙏 The perfect way for us to fight this Covid infection.
+  >
+  > **@fightingblindly**：This man is a writing machine.
+  >
+  > **@robmack519**：I made it an entire month before caving and watching all of the spoiler streams.  i&#39;m pretty proud of myself.
+  >
+  > **@Sheriff_K**：We NEED more Hoid POV/narration, this is GOLDEN. 😱👌🏼
+  >
+  > **@a.r.hollowayauthor7210**：You had me at &quot;Don&#39;t judge, it was a family name.&quot;
+  >
+  > **@Sheriff_K**：Omg the tongue-in-cheek borderline fourth wall aware humour is hilarous..
+  >
+  > **@fluffyslippers10**：Wow, I knew I shouldn&#39;t have listened to this! I&#39;m hooked and now I have to wait!
+  >
+  > **@nanusantos1696**：This is extremely charming and fun, can&#39;t wait to read it.
+  >
+  > **@MorriganReads**：You can really tell this is inspired by Princess Bride, the narration seems a lot like William Goldman’s book. I’m so excited for it, Princess Bride was one of my favorite books a child.
+  >
+  > **@filipab0oks**：So good!! I can&#39;t wait for the whole thing!
+  >
+  > **@nyssal3569**：I am so glad you are doing well and there is sponsored muuch support for one of my favorite authors!!!!
+  >
+  > **@S1leNtRIP**：This is so good! Thank you for this Brando! :D
+  >
+  > **@timotea7109**：Iriali mention really paints that one interlude chapter in WoK about different lands in a whole new light
+  >
+  > **@kampover**：You know what, I think that Brandon should read all of his book as audiobooks. I enjoy him reading so much!
+  >
+  > **@DarthenosC9**：I am beyond excited about these secret projects. Thank you, Brandon
+  >
+  > **@lillydragon3215**：love the magicarp covering the logo on his ipad xD
+  >
+  > **@ZonsoAvalune**：Nice. Definitely going to pick this one up!
+  >
+  > **@lukasAguiar940**：man, this is fantastic . i loved soo much
+  >
+  > **@CountrySingingGeorgiaBoy**：Great opening!  I can&#39;t wait to listen to the whole book!
+  >
+  > **@Popopidopop**：OMG the &quot;It was about gloves&quot; <br>Mat boots Flashback got me almost in tears and all gushy.
+  >
+  > **@Cromulorf**：Man I am just DEVASTATED that I only learned about this project today after the kickstarter has ended :(
+  >
+  > **@tannerprince9730**：I love this on so many levels...
+  >
+  > **@starmorpheus**：This is so whimsical and comical. Can&#39;t wait to read it
+  >
+  > **@Transformers217**：Now I’m even more excited for this book!
+  >
+  > **@Carracan**：Love it, love it, love it! Can’t wait for the whole book.
+  >
+
+---
+
+## 6. First Look at Secret Project #2 by Brandon Sanderson (Spoilers)
+
+- **频道：** Brandon Sanderson
+- **观看数：** 116,158
+- **点赞数：** 4,212
+- **评论数：** 438
+- **时长：** 55:02
+- **发布日期：** 2022-03-10T16:00:55Z
+- **链接：** https://www.youtube.com/watch?v=9kLr1aNQTfQ
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/9kLr1aNQTfQ/hqdefault.jpg
+- **简介：**
+
+  > Here, Brandon reveals the title and reads the first part of Secret Project #2.
+  > 
+  > Now on Backerkit: https://secretnovels.backerkit.com/hosted_preorders
+  > 
+  > You can read it here: https://www.brandonsanderson.com/first-look-at-secret-project-2/
+  > 
+  > 00:00 - Introduction and Title Reveal
+  > 00:35 - Chapter One
+  > 08:56 - Chapter Two
+  > 21:05 - Chapter Three
+  > 28:40 - Chapter Four
+  > 38:32 - Chapter Five
+  > 44:39 - Chapter Six
+  > 50:12 - Where did this story come from?
+
+- **热门评论（200 条）：**
+
+  > **@merphynapier42** [👍617]：This is so different from what I’m used to seeing from you! Him ranking and trademarking everything is hilarious 😆 <br>My current hype ranking: <br>1. Tress of the Emerald Sea<br>2. The Frugal Wizard’s Handbook
+  >
+  > **@adamhorne738** [👍552]：Messed up on the title graphic a bit (Sorry). The title is actually...<br><br><br><br><br><br><br><br><br><br>The Frugal Wizard’s Handbook For Surviving Medieval England.
+  >
+  > **@Witty_Jackson** [👍376]：Brandon projecting his dislike of fish onto his characters 😂 I can definitely relate haha
+  >
+  > **@dreadfulpennyanimates3476** [👍264]：I don&#39;t know if it&#39;s the way Brandon is reading them, but these books seem so humorous--like practical humor.
+  >
+  > **@zapzya** [👍153]：I thought that the Cosmere ones would interest me the most but this story has hit all the right beats for me so far, very excited for secret project 2 now.
+  >
+  > **@hmmmooops** [👍150]：Become a cytonic pilot:❌<br>Become a knight Radiant:❌<br>Become a tree reviewer: ✔
+  >
+  > **@Erif917** [👍142]：This sounds like an Isekai kind of book, already loving it!
+  >
+  > **@justfriendly7676** [👍127]：&quot;Am I a Cosplayer?!&quot; I imagine he says this in complete horror which makes this line extra friggin hilarious.
+  >
+  > **@JarrodAndersonOdean** [👍106]：This is like if Dan Brown wrote his own spin on &quot;Project Hail Mary&quot; but lost a bet and had to replace Robert Langdon with Anthropocene John Green and set the whole story in Old School Runescape. 4.8/5 Stars.
+  >
+  > **@rubencavini5792** [👍87]：This books seems so fun and entertaining, really can’t wait to read it, also Listening Brandon read it is so wholesome is voice and cadence is so great and peaceful
+  >
+  > **@adrianosuzuki1428** [👍70]：Amazing stuff! Also i cant get enough of the envy some writers are showing towards brandon and us, the fans.
+  >
+  > **@Shinesprk** [👍67]：The fact that this dimensional travel technology has SPEEDRUNNERS has me on the floor! 🤣🤣🤣🤣🤣
+  >
+  > **@th3logician** [👍48]：&quot;attempting to speedrun the conquest of France&quot; had me dying 🤣
+  >
+  > **@HannyEsmeralda** [👍45]：Did Brandon just write his &quot;bad&quot; idea time travel tourism? Because this is genius! :)
+  >
+  > **@FerDiazdeLeon** [👍44]：This is like The hitchhiker guide to the Galaxy meets Terry Pratchett...  And I love it!!!!!! Brandon you&#39;re the best
+  >
+  > **@AeonicEnnui** [👍44]：Not sure if it’s clear as to what the target age would be. Seems somewhat along the Skyward age target (quasi YA). Hoping this will be one I can read to my 8 year old. I just finished reading Skyward 1-3 with him and he absolutely loved them.
+  >
+  > **@natwon633** [👍42]：I am so happy the kickstarter got the attention it did, and you&#39;ve done amazing work with what we&#39;ve seen so far. Congartulations and keep up the good work! :D
+  >
+  > **@Hazelnut51000** [👍42]：Huge fan of how cheerful and bright these books have been. I can only assume the happier tone was caused by the way that you wrote them, as a personal project to cheer yourself up. Looking forward to seeing if the other two books also follow this trend.
+  >
+  > **@pequadcob2009** [👍34]：I wish Brandon would start these videos with a blurb of what it is about, just like would be written on a dust-jacket. I don&#39;t want to be so spoiled to listen to the first handful of chapters, but am okay with getting the title and a blurb.
+  >
+  > **@s.p.8508** [👍32]：This sounds really good. I love the humor and clueless first person narration. Can’t wait!
+  >
+  > **@meganechan720** [👍32]：Alright, alright, alright, I&#39;m in. Even if the third and fourth aren&#39;t to my tastes, this is now two out of four that I desperately want.
+  >
+  > **@JoePauley** [👍27]：This is delightful! I can’t wait to read the whole thing!<br><br>Side note: Are the three Wheel of Time books behind you out of order for a reason? 🤔
+  >
+  > **@gavin5410** [👍24]：&quot;It can be traumatic, though don&#39;t worry&quot; is almost, almost like &quot;don&#39;t panic&quot;
+  >
+  > **@LegosSnake** [👍21]：Darn I thought that one of the inspirations would have been Terry Pratchett. Still gonna be a great book and I&#39;m very excited for this one. However the idea of Sanderson doing a Terry Pratchett style comedic fantasy is very appealing
+  >
+  > **@ramirodecono3647** [👍21]：People should understand that not only did Brandon write five secret books while following his other agenda, but he is also the marketing mastermind behind this whole success. Of course implementing his ideas is greatly achieved by the whole team, but let&#39;s go through a few milestones that happened in the last week.<br><br>The dramatic announcement video (his idea btw) has the most views in his channel by far, notwithstanding being one of the most recent ones. He knew he had a silver bullet asking his fans to share, comment and like that video. Why? Because he NEVER does that. Just picture this: before this whole event, his channel had a 15k-50k average views per day.  After it, he has ranged between 230k-700k views per day. In one week he added 42k new suscribers to his channel (12% of his total subscribers).<br><br>That&#39;s not all...<br><br>Scheduling two weekly streams over the course of March has given momentum and expectation to his campaign, adding to the final hype that&#39;s keeping the stats over the roof. This whole success also gets mingled with YouTube&#39;s algorithms, leaving remnant flows of people coming back to his content.<br><br>Let&#39;s go on...<br><br>Not only did he just raised the biggest kickstarter in the history of the platform. He has already covered a year of work in advance (2023). Of course there a lot of details to take care of and edges to sharp, but the fact that he has scheduled more than a year in advance of sales strategy and planning is simply stunning. <br><br>It doesn&#39;t end there...<br><br>This is clearly the most audacious move he has done in his entire career regarding manufacturing, distribution and retailing. He has proven that Dragonsteel can be completely autonomous from any other third parties, and even being more successful. This will also allow his team to experiment a lot, in a different areas of the business. And thus developing a unique expertise in the field, empowering his whole company. He also made it clear that he still wants to support bookshops in his future releases. And guess what? This groundbreaking move will give him a lot of leverage when talking to New York. I honestly believe he might actually revolutionize the way physical books are being sold (being merchandising one of the cornerstones of this revolution). <br><br>And last but not least...<br><br>Brandon keeps delivering high quality content to his readers, keeps building this amazing and complex web of intertwined stories that is the cosmere. His product is not even worth money at this point. He might not realize this now, but he is forging the history of modern twenty-first century writing. And the best of all? He is doing it in an extremely healthy and sure-footed way. I truly think this is unprecedented territory.<br><br>I would really like him to read this. Not because I am saying any novelty. But because I want you to know that we appreciate all of this, Brandon. And that right there, gives our whole writer-reader relationship a pewter boost. Please keep following your instincts, they will keep taking this project to unparallel dimensions.
+  >
+  > **@JohnnyCadeGaming** [👍14]：I know they aren’t voting yet but I think Will Wheaton should narrate this one. Fits him well :)
+  >
+  > **@kv4648** [👍13]：Started listening and this already sounds like an isekai. Implementing modern mindsets into a medieval world is so interesting
+  >
+  > **@RealNellyMandelly** [👍12]：What a great title!!! Just incredible and I am excited to read more. Not going to learn more at all until then
+  >
+  > **@connormccloy9399** [👍12]：These chapters seem to have a more relaxed tone than I’m used to hearing. Also, it seems to remind me of Another Kingdom by Andrew Klavan, though I should note I never finished even the first book in that trilogy.
+  >
+  > **@awes5893** [👍12]：There&#39;s something about this that reminds me of the Percy Jackson books, in a good way. <br>It&#39;s interesting to see Brandon tackle the Bourne series after doing Die Hard! Very excited for his take on this style.<br>Also, it&#39;s a very Isekai-ish premise for sure. Hitchhikers meets Bourne meets PJ meets Time Travel(?) - sounds like a fun mix.
+  >
+  > **@DennisDutyJr** [👍11]：That&#39;s awesome. I was getting Project Hail Mary vibes with the &quot;am I a cosplayer?&quot; very cool lol. I&#39;m very much looking forward to this.
+  >
+  > **@Crimtaku** [👍11]：This was absolute gold, it really gave isekai/ light novel feels combined with a lot better writing than what most of them have, can&#39;t wait on reading this once this is complete. Also don&#39;t you dear to shorten the tittle, it is part of the whole light novel tradition after all.
+  >
+  > **@cadenflynn1587** [👍9]：This is where the fun begins.
+  >
+  > **@channelnamepending8329** [👍9]：I can imagine this character being played by  Ryan Reynolds.
+  >
+  > **@mixofreak** [👍9]：See, I loved Tress of the Emerald Sea for being a sort of romantic fantasy quest as a concept and how it was written... but The Frugal Wizard&#39;s Handbook for Surviving Medieval England is just hilarious and right up my alley, literally an isekai (&#39;another world&#39;) portal fantasy of a sort, and as he said, a bit of inspiration from The Hitchhiker&#39;s Guide to the Galaxy. Chef&#39;s kiss!
+  >
+  > **@darrenpinnegar9853** [👍9]：This reminds me of Dark Lord of Derkholm by Diana Wynn Jone. I really enjoyed these first chapters
+  >
+  > **@alexbenjaminrosenthal3989** [👍8]：The constant reviews are my favorite thing about this. That&#39;s such a unique character trait! Really makes me interested in his past.Why does a reviewer have combat mods and training? Extreme reviewer, going to the worlds most dangerous places and giving them a star rating out of five? Guess I have to wait a whole year to find out.
+  >
+  > **@gabistiene8593** [👍8]：I&#39;m getting such an Adrian Tchaikovsky vibe from this and I LOVE that!
+  >
+  > **@thealmightycouch311** [👍7]：What you&#39;re looking for is called Fleep (The webcomic)
+  >
+  > **@Dlister89** [👍7]：the book sounds amazing. Strange question is that kurzgesagt plushie on the shelf?
+  >
+  > **@Cyd_Boomspark** [👍7]：This exclusive access with quantum passcode sounds a lot like NFTs 👀
+  >
+  > **@oldhobosam2742** [👍7]：The hitchhiker&#39;s guide but for wizards? Yes. I will read this.
+  >
+  > **@fireguardianx** [👍7]：did brandon just write an isekai?
+  >
+  > **@zenthepoet.** [👍7]：Adoooonalsiiiiium
+  >
+  > **@Florkl** [👍6]：A Sando Isekai? Color me intrigued.
+  >
+  > **@WorldhopperSterbb** [👍6]：I too hate fish
+  >
+  > **@BastuGubbar** [👍5]：This sounds like it&#39;s going to be one of my favorites.
+  >
+  > **@animeproblem1070** [👍5]：Gun wizards guide to getting scammed
+  >
+  > **@chugg159** [👍5]：He&#39;s not reading anything. Brandon is just ranting about how much he hates fish.
+  >
+  > **@jonathanduarte9260** [👍5]：Brandonsando wrote an isekai
+  >
+  > **@braddster6832** [👍5]：Y’all haven’t even finished the video. 1 min after release, and already commenting “great stuff” lmfao
+  >
+  > **@Bumblebeemagnify** [👍5]：I think that the web comic mentioned at <a href="https://www.youtube.com/watch?v=9kLr1aNQTfQ&amp;t=3129">52:09</a> is “Fleep” by Jason Shiga.
+  >
+  > **@Machtyn** [👍4]：I&#39;m glad the video has chapter sections! (I&#39;ll wait to listen to the audiobooks when they come out.)  <br><br>The title sounds very similar to The Hitchhiker&#39;s Guide to the Galaxy.  (Now to listen to the &quot;Where did this story come from?&quot; section.)
+  >
+  > **@StudSchalk** [👍4]：My guy... well done
+  >
+  > **@Doomshroom11** [👍4]：What is Brandon Sanderson&#39;s love/hate relationship with seafood. His characters either hate it or the entire planet eats only it.
+  >
+  > **@amillionago4466** [👍4]：So fun! Wil Wheaton or McCloed Andrews as audiobook reader?
+  >
+  > **@jonnyscholes2059** [👍4]：Me who can  barely finish school every year and frickin Brandon rights like 13 books or so in two years or so
+  >
+  > **@Franzburg** [👍3]：The cover of this one looked the most interesting to me :)
+  >
+  > **@megansbooknook519** [👍3]：I love it! The mystery, the humour, the throwback to the podcast idea! Plus the tree ratings are top notch!
+  >
+  > **@angelsmalice6677** [👍3]：Thank you Brandon Sanderson!
+  >
+  > **@TrafalgarLaw2011** [👍3]：Damn already want to continue reading right now. Love this premise.
+  >
+  > **@RobbieLee90** [👍3]：I remembered earlier that no one knows if there are more wheels or doors in the world 🥴
+  >
+  > **@Retse1983** [👍3]：I can totally hear Kirby Heyborne’s voice for this one’s audio book!!!
+  >
+  > **@Abell_lledA** [👍3]：Narrative of Self is the result of a feedback loop between “Separate Self” &amp; Cosmos— 🎈
+  >
+  > **@ibg_music7525** [👍3]：I&#39;m not ready!
+  >
+  > **@TheNinjew46** [👍3]：Incredible!  I can&#39;t wait to hear about the others!
+  >
+  > **@hamidofwinterfell8002** [👍3]：I really enjoy these long form videos. Keep up the great work.
+  >
+  > **@goldielocks9092** [👍3]：I&#39;m so excited😭
+  >
+  > **@rustymolla** [👍3]：Nebraska represent!
+  >
+  > **@Avid_Reader** [👍3]：This sounds so similar to OFF TO BE THE WIZARD by Scott Meyer, book 1 of MAGIC 2.0
+  >
+  > **@memcgiffin** [👍3]：Excellent.👌
+  >
+  > **@destro6971** [👍3]：I am a sucker for multi-verse stories 😆
+  >
+  > **@LoganKearsley** [👍3]：Kinda reminds me _The Dark Lord of Derkholm_!
+  >
+  > **@aronoiiel** [👍3]：Omg this is hilarious and amazing 😂
+  >
+  > **@thaynehansen7079** [👍3]：This might be type casting him but I think Jim Dale would be an amazing narrator for this audiobook.
+  >
+  > **@wolfpackx22** [👍3]：i love this.<br>i can’t wait to read something so different from Brando
+  >
+  > **@newdawn3301** [👍3]：Is this going to be a nod to hitchhikers guide to the galaxy? Just based on the title.<br>Edit i have watched the entire video and yeah it is. Awesome
+  >
+  > **@lilwinchester1417** [👍3]：I can&#39;t afford the hardcovers at the moment (international shipping is cruel), but I loved the tone of secret project 1 and I love this one! I will try to upgrade from the ebooks
+  >
+  > **@ouroboros_1355** [👍3]：Is this the Story pitch from the pod? 🤣 “Disaster tourism”
+  >
+  > **@memcgiffin** [👍3]：Alcatraz smedry hates fish… Alcatraz book seven. Alcatraz de wozaaard
+  >
+  > **@joshuareich580** [👍2]：oooh yes, thanks for the previews!
+  >
+  > **@katjalouw918** [👍2]：I didn&#39;t think it was possible to be more excited about these books. Five out of five!
+  >
+  > **@SaltySeabug** [👍2]：This reminds me of some of the Terry Pratchett books! I love it!
+  >
+  > **@yobgodababua1862** [👍2]：&quot;Let us consider Nebraska...&quot; 🤣<br>I actually experienced this visiting Spain in 1998 where the high school kids fashion was almost identical to Eastern US 1988.
+  >
+  > **@turma8eac** [👍2]：Awesome story
+  >
+  > **@rileysmith9400** [👍2]：I thought i liked the last one, but i am in love with this one so far!!
+  >
+  > **@ladero01** [👍2]：Tress is still my #1 halfway through this reading.
+  >
+  > **@garrettbell5714** [👍2]：As a fellow Nebraskan, I was not prepared to get roasted this hard.
+  >
+  > **@robbyag0ny** [👍2]：Terry Pratchett isekai by Brandon Sanderson? I’m 100% in.
+  >
+  > **@skottie101** [👍2]：Love it!
+  >
+  > **@Florkl** [👍2]：Hype!
+  >
+  > **@tannerprince9730** [👍2]：YEEEEEESS!
+  >
+  > **@hiramtoirac6178** [👍2]：Sorry for being the 70th comment. But I’m so excited for this book! Way to go!
+  >
+  > **@draigrhosynreads3450** [👍2]：Here I am
+  >
+  > **@sillyandwhimsical** [👍2]：This is giving me major Alcatraz and the evil librarians vibes. Don&#39;t know if that&#39;s just me though. 😅
+  >
+  > **@izzlateFPV** [👍2]：Ok, I&#39;m super stoked for these secret books, they sound super fun. I&#39;m hoping you get good narrators for the audiobooks. (I take all my books in audio format)
+  >
+  > **@trancedotfm** [👍2]：What device is he holding?
+  >
+  > **@Dual_Ralle** [👍2]：Ah yes, Brandon also writes Isekai... Hehe.
+  >
+  > **@RyanHamiltonBaker** [👍1]：So much fun!!! I love the combo of all these themes and elements. I can&#39;t wait to read the rest of this.
+  >
+  > **@scoutmattox1055** [👍1]：These books are so whimsical and joyful
+  >
+  > **@jordanhibbits5431** [👍1]：I absolutely love the title of Secret Project #2
+  >
+  > **@truthless4720** [👍1]：I love it. Off the bat, as soon as he started mentioning his hatred of fish, I knew I&#39;d love it.
+  >
+  > **@Rachelbee** [👍1]：I&#39;m giggling silly sitting here listening at work.
+  >
+  > **@aguy4** [👍1]：Wait, is this the time travel disaster tourism idea?
+  >
+  > **@HorochovPL** [👍1]：Heck, Mr Brandon, please do a full reading as an official audiobook!
+  >
+  > **@jklepek** [👍1]：The dimension travel instantly reminded me of Witch World by Andre Norton, which I’ve read a long time ago
+  >
+  > **@straps-of-skin** [👍1]：I love this concept
+  >
+  > **@sange777** [👍1]：Reminds me of Magical King for Sale / Sold  by Terry Brooks
+  >
+  > **@aidanveselka8165** [👍1]：This reminds me of The Land litRPG. I absolutely love that series and this seems like it&#39;s going to be just as good if not better
+  >
+  > **@KierTheScrivener** [👍1]：I am really excited for this. I love the humour 😀
+  >
+  > **@PoliceAreCringe** [👍1]：This sounds like the ter’angreal Accepted go through to be come Aes Sedai gone wrong and I love it
+  >
+  > **@Ranger16711** [👍1]：After listening to Brandon read these, I am going to have a tough time listening to anyone else reading them.
+  >
+  > **@halilibrahim7764** [👍1]：I LOVE THIS!
+  >
+  > **@PLamus1** [👍1]：Alt. title: I Got Reincarnated In Medival England As A Wizard
+  >
+  > **@AntonLazarev** [👍1]：Does anyone know the name of the webcomic about the phone booth?
+  >
+  > **@awightman1221** [👍1]：Hitchhiker&#39;s Guide + Westworld has to be the inspiration for this (I haven&#39;t finished the video so if he says that then cool). Also seems the word &quot;nanite&quot; lends itself towards perhaps being in a video game or simulation.
+  >
+  > **@sooniecantalk** [👍1]：I laughed so many times during this reading <br>Ah I still didn’t pledged but now I want to do it
+  >
+  > **@hallaloth3112** [👍1]：Just here for the title drop and ooooh my goodness I already LOVE it.
+  >
+  > **@njmanga617** [👍1]：I know that editing will probably change aspects of these first 6 chapters, but I like the story
+  >
+  > **@meghanjackson7494** [👍1]：These books seem so unlike what I’d normally pick up. I think they’ll be so fun and outside of the typical fantasy box! I loved Hitchhiker’s Guide to the Galaxy in high school and this seems like a similar vibe. Can’t wait! Thanks for your reading and congrats again on your Kickstarter success.
+  >
+  > **@paulcourtemanche3549** [👍1]：This feels similar to Total Recall
+  >
+  > **@mattmccready8171** [👍1]：Love the Kurzgesagt duck!
+  >
+  > **@kenny3217** [👍1]：The similarities are thin but it kind of made me think of the Magic 2.0 series. Its about a kid who discovers that life is a computer simulation and changes his code to go back to medieval times and become a wizard, using his smart phone to run &quot;magic&quot; programs. I can&#39;t wait to read it!
+  >
+  > **@estebang4253** [👍1]：The tittle of the book has &quot;d&amp;d book tittle&quot; vibes
+  >
+  > **@mcc75444** [👍1]：the writing style reminds me of the bobiverse
+  >
+  > **@favna** [👍1]：I spot a Kurzgesagt duck on the shelve and I like Brandon even more now
+  >
+  > **@hillary6563** [👍1]：While I can&#39;t imagine not listening to a Cosmere novel read by our resident couple, Michael a Kramer and Kate Reading, here is a list of other amazing narrators that I enjoy. I will listen to anything they narrate.<br><br>Nick Podehl<br>Simon Vance<br>Luke Daniels<br>Steven Pacey
+  >
+  > **@pearanerd** [👍1]：I haven&#39;t seen it asked... what the heck is that ridiculously gigantic tablet he&#39;s reading from?
+  >
+  > **@skyfox4705** [👍1]：I’ve been so excited about these, amazing how you write these in secret! Will these eventually be available for those unable to contribute to the kickstarter?
+  >
+  > **@muriaal** [👍1]：Brandon is a Kurzgesagt fan!
+  >
+  > **@brooke2129**：I&#39;ve waited so long to hear Brandon say &quot;Damn&quot;
+  >
+  > **@sagekahalnick7281**：So much fun, so much to look forward to.
+  >
+  > **@ProjectShadow4**：Can’t wait for all of these!
+  >
+  > **@loomans615**：THIS is the one I&#39;m looking forward to the most!!
+  >
+  > **@sixtofive**：Ok, I&#39;m really looking forward to this one!
+  >
+  > **@Magnify.**：This is brilliant Brandon
+  >
+  > **@Immortal628**：The memories slowly coming back definitely reminded me of Project Hail Mary, which is a fantastic book. Hearing it mentioned as influence was pretty cool.
+  >
+  > **@Dead_Oak_Crafts**：Oooh....I&#39;m looking forward to this one.
+  >
+  > **@rosssims7224**：Knowing that this is more than likely a project from him we’d of never gotten if circumstances were different, I’m super pumped for it!
+  >
+  > **@pyccmischa**：So hyped for the books starting to arrive next year.<br>This had its lightsong vibe about it, which was equally fun, when contemplating about, who one might have been in previous life, or in other dimension, in this case.
+  >
+  > **@jeremyhunter2833**：Nooooo not the cliff hanger! Im stoked for this book
+  >
+  > **@ama_goto**：I absolutely love this! Wasn&#39;t too excited about the non-cosmere one before, but now I want the rest of this story so much! Can&#39;t wait
+  >
+  > **@Demonreached**：This is brilliant!
+  >
+  > **@TheYashakami**：This was awesome. Very excited for it
+  >
+  > **@wynnefox**：This has a feel of &quot;Magical Kingdom for Sale: Sold&quot; from the Landover series.
+  >
+  > **@juanmarodriguez6010**：Well the beggining of chapter 3 definetely hooked me
+  >
+  > **@denijane89**：I love dimensional-travelling stories and this one sounds rather fun. I can&#39;t wait to read it.
+  >
+  > **@gleamyortalkor8305**：Just hearing the part titles just screams of Alcatraz energy definitely going to look into this one
+  >
+  > **@xr8dmoose135**：This is just fantastic 😁
+  >
+  > **@francescathomas3502**：This one is hilarious!!!  I have got to get this ebook when it becomes available!!!
+  >
+  > **@l3zl13**：I love this one. I got immediately pulled in to the story and would have loved to continue reading or listening when Brandon finished. It also reminded me of books I&#39;ve read  along time ago, like Magic kingdom for sale or Wizard in rhyme.
+  >
+  > **@John-lo2wn**：Bernard Cornwell callout. Nice.
+  >
+  > **@brokenredflag**：That actually really cool!! I loved it and the ideas!!🔥🔥🧙🧙
+  >
+  > **@Sheriff_K**：That “trademark” so hilarious.. 😅 Also 10/10 Tree reviews, would definitely follow.
+  >
+  > **@fhengal**：This seems like Brandon channeling his own inner Douglas Adams. Loving it.
+  >
+  > **@ckvisme**：Awesome 👍
+  >
+  > **@Colaman112**：I definitely got some Hitchhikers Guide vibes from this one.
+  >
+  > **@2dimitropolis370**：I love it❤️
+  >
+  > **@heyitsemlynn**：Man, I love this character already.
+  >
+  > **@littleleeu272**：I&#39;m listening to this as I am making a fish dinner 😂🤣
+  >
+  > **@SamAllmon**：I like to imagine that Brandon&#39;s tablet is a normal sized ipad, and he&#39;s just smol and cute rn
+  >
+  > **@suepedie1**：Reminds me a bit of &quot;Off ToBe The Wizard&quot;.😁<br>I completely agree about fish.
+  >
+  > **@RAMEKEGA**：We don&#39;t care what the title is as long as we get to read it
+  >
+  > **@TheButterflyChaos**：I am so excited for this. I am currently reading Project Hail Mary and this tickles my fancy
+  >
+  > **@danaadedokun21**：I can se You had so much Fun with this🤣🤣🤣👏👏👏 cant wait, how in the world are we suppose to wait one year🙃🙃🙃🙃
+  >
+  > **@melvinlinderoth7108**：He did it he actually did. We have time travel tourism!
+  >
+  > **@lyndonhott4458**：Yeah, this is awesome. I love the Bourne Identity as well, and love inter-dimensional stories.
+  >
+  > **@kaptainskarlett9927**：Having grown up in Nebraska and now live in Washington State - yes, the appearance of time dilation is accurate.
+  >
+  > **@alexitosworld**：I thought the non Cosmere one wouldn&#39;t hype me but incorrect, i&#39;m hyped with this one too!! &lt;3
+  >
+  > **@VitriolicThunder**：So it&#39;s basically Timeline but with magic. I dig it.
+  >
+  > **@ecanic6258**：A story set in Old School RuneScape. Sweet!
+  >
+  > **@SomniiLinn**：Omg, so excited for this one! The first one is really cute, but if I hadn&#39;t joined the kickstarter already, this one definitely would&#39;ve made me!
+  >
+  > **@Falidor**：“Connecticut Yankee” vibes. I’m here for it.
+  >
+  > **@orrinberry3630**：Seems very DA&#39;s Hitchhikers Guide and im into it!
+  >
+  > **@nirmalasokan1687**：We finally get the genre that we have been waiting for. Isekai! Brandon is truly a man of culture
+  >
+  > **@DarthEleven**：Judging from the covers I did not expect this to be the non-cosmere story. Now I&#39;m really curious about the fourth book
+  >
+  > **@robhurlocker7040**：I&#39;m not storming used to hearing &quot;Damn&quot; in a Sanderson book! @<a href="https://www.youtube.com/watch?v=9kLr1aNQTfQ&amp;t=68">1:08</a>
+  >
+  > **@Thomas_Guida**：<a href="https://www.youtube.com/watch?v=9kLr1aNQTfQ&amp;t=870">14:30</a> had me thinking for a good 5 minutes lol. Idk what to think...
+  >
+  > **@Jonathan_Wall**：The comment Brandon mentioned as an inspiration is called &quot;Fleep&quot; btw!
+  >
+  > **@Elias_Ehler**：It seems like the America in the Rithmatist could be in one of those alternate universes.
+  >
+  > **@PhysicsHimbo**：“Trapped in another world with my… um… yelp reviewer skills?” By Brandon Sanderson.
+  >
+  > **@thewolfmansays**：Excited for #1, but this really has my interest.  I need more!!!
+  >
+  > **@lenani9143**：Whyyy is this scarily close to something I&#39;ve been writing throughout 2020?? <br>The amnesia, his reactions, the body enhancing technology and more...<br>I mean, I really enjoy this, don&#39;t get me wrong! It&#39;s just eerie to have written something so similar to Brandon Sanderson 😅
+  >
+  > **@alexwyckoff8962**：I&#39;m at <a href="https://www.youtube.com/watch?v=9kLr1aNQTfQ&amp;t=31">0:31</a>, about to listen to you read this off. Just want to reiterate: THANK YOU for all that you do. I was bored of the fantasy genre until I discovered your work. I was in a rut with my reading, and, frankly, with my writing. Getting inspired was just so hard. Since devouring Way of Kings (the first of your books I ever read), I have had my oldest love rekindled again. I&#39;ve been able to get through not just your work, but the work of about half a dozen other authors, reading at a pace and volume I didn&#39;t think was possible anymore. And my writing has been going amazingly. Today I hit 90,000 words on my first novel, 20,000 on my second. <br><br>Thanks again. NOW to spoil myself by watching the rest of this video.
+  >
+  > **@TheMusicscotty**：Nebraska? Hates fish? This is really just Brandon&#39;s elaborate dream last Tuesday that he wrote down.
+  >
+  > **@gordo6908**：the premise is perfect for a cyoa book
+  >
+  > **@AgentNoosh**：Love the humour
+  >
+  > **@PetrSojnek**：This is actually a brilliant idea :) Creating medieval England we imagine as it was (instead of what it really was). I&#39;m really looking forward to read this book :)
+  >
+  > **@8684LYFE**：Does anyone know what webcome Brandon was talking about at <a href="https://www.youtube.com/watch?v=9kLr1aNQTfQ&amp;t=3128">52:08</a>?
+  >
+  > **@itaihudes8674**：I love how Brandon rips on Nebraska and how it&#39;s hard to get magic the gathering there
+  >
+  > **@InnerMedium**：I was really expecting one of the inspirations for this to be West World but medieval. It has the vibe of people not from a time period living out a fantasy similar to West World.
+  >
+  > **@SkyDiving_StormTrooper**：Brandon you&#39;re a genuinely great author. I get hyped by even your non-Cosmere works. Some tune out when they here something isn&#39;t a part of your larger, interconnected universe that is the Cosmere. I get it but I tend to like almost everything you write. Not quite everything, I will be honest, but easy 80 plus percent. I am excited for more. Comere or not, I want to see everything you come up with. Thanks for telling stories.
+  >
+  > **@Asavent**：<a href="https://www.youtube.com/watch?v=9kLr1aNQTfQ&amp;t=968">16:08</a> what&#39;s a Washington&#39;s Monument?
+  >
+  > **@damionmurray8244**：3 minutes 52 seconds in, and two words come to mind:<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br><br> TIME TRAVEL
+  >
+  > **@thestranger2190**：Did anyone else imagine this wizard as Harry Dresden?
+  >
+  > **@shamancarmichael5305**：Hilarious and intriguing! Can&#39;t wait for the rest, can we time travel to release day?
+  >
+  > **@Transformers217**：This book is amazing so far! Definitely better than book 1, which seems to be good. But book 2 was full of twists and reveals that were so amazing to read! I had no idea what was going to happen!
+  >
+  > **@lenanana8**：This and Tress of the Emerald Sea have a more comical, witty and sarcastic undertone to them that&#39;s reminiscent of Terry Pratchett more than Brandon Sanderson&#39;s usual style. But I&#39;m loving it, it&#39;s hooking me right in just as any of his Cosmere novels did. I&#39;m stunned at how flexible and wide Brandon Sanderson&#39;s writing style is. This, along with his inhuman ability to churn out high quality 800 page books at the speed of light convinces me that he is not a human being - he is a highly advanced extraterrestrial with hyperspace and time travelling abilities.
+  >
+  > **@yusraarab9910**：<a href="https://www.youtube.com/watch?v=9kLr1aNQTfQ&amp;t=1380">23:00</a>
+  >
+  > **@KBTibbs**：I could be mistaken, but I think the web comic you mentioned about the man trapped in a phone booth is &quot;Fleep&quot; by Jason Shiga. It&#39;s still available to read.
+  >
+
+---
+
+## 7. Brandon Sanderson Wrote These in a CAVE! - Secret Project 3 Out now!
+
+- **频道：** Brandon Sanderson
+- **观看数：** 73,201
+- **点赞数：** 6,609
+- **评论数：** 512
+- **时长：** 2:47
+- **发布日期：** 2023-07-11T19:00:28Z
+- **链接：** https://www.youtube.com/watch?v=qvd8_GxTwu4
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/qvd8_GxTwu4/hqdefault.jpg
+- **标签：** Tony Stark built this in a cave with a box of scraps, Marvel Spoof, Brandon Sanderson
+- **简介：**
+
+  > Premium Hardcover Bundle on Sale Now! 
+  > Dragonsteel Store: https://bit.ly/3DaSVpw
+  > 
+  > While the pandemic raged on, Brandon Sanderson used his spare time to write four books in secret. This video contains *very real* footage from the offices of a major New York publisher in the months that followed the release of these secret projects. 
+  > 
+  > We hope you enjoy!
+
+- **热门评论（200 条）：**
+
+  > **@TheCosmerenaut** [👍1250]：Ok but to be fair the cave he wrote them in is, like, REALLY nice.
+  >
+  > **@BrandSanderson** [👍728]：Let&#39;s take a moment to acknowledge how great a job Skar did as labcoat guy.  He was a champ letting me yell at him and push him around with a book for two hours during the shoot!
+  >
+  > **@OntheOtherHandVideos** [👍713]：I love that Sanderson is goofy and likes to do fun things, just because he can.
+  >
+  > **@heatonandy** [👍630]：Brandon Sanderson was able to write these in a hole in the ground!  Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, empty, sandy hole with nothing in it to sit down on or to eat: it was a hobbit hole, and that means comfort.
+  >
+  > **@WarthogEnjoyer3784** [👍529]：10/10 acting, give this man an Oscar
+  >
+  > **@TheSandbox_Official** [👍429]：I think it’s important to note that while, yes, this is a glorious satirical take, Brandon isn’t fooling anyone that this will definitely be part of his acting reel for the Cosmere Cinematic Universe! Keep it up Beardo!
+  >
+  > **@Nasser851000** [👍173]：Just the fact that this is parodying Iron Man is hilarious XD
+  >
+  > **@guardianofthetoasters2323** [👍151]：I&#39;ve always lament how long it was for the next book to come out. Then I started writing... needless to say, it took me 2 years to just crawl my way to write the middle part of my story. The man is a beast to just take a year or two and make these quality COMPLETED treasures
+  >
+  > **@dookieshoe2905** [👍129]：How could anyone not like this guy?
+  >
+  > **@TheDustyWheel** [👍120]：Here to say, love your work Dragonsteel, especially yours Taylor!<br><br>- Taylor’s Dad
+  >
+  > **@dabloodynine** [👍109]：Stuff like this is a big part of why im such a fan of Sanderson. He&#39;s just genuinely a nerdy, light hearted dude and I&#39;m here for it. I feel like this is the type of stuff I would do if I had the same level of success and this kind of platform. The man is just having fun with life and is gracious enough to share a bit of that with his fans.
+  >
+  > **@abhimac27** [👍104]：Brandon came storming in like the dang Kingpin! So awesome
+  >
+  > **@TheBryantVenture** [👍86]：&quot;A van down by the river&quot; 😂😂😂<br><br>That&#39;s going to make me laugh for weeks
+  >
+  > **@CheyenneSedai** [👍62]：Knocking it out of the park every time with these, Taylor.
+  >
+  > **@CaptCorpMURICA** [👍61]：I knew these books were excellent, but now they’re phenomenal knowing they were written in a van…down by the river.
+  >
+  > **@michaelvcelentano** [👍52]：And he can act? Someone put him in a Marvel cameo!!
+  >
+  > **@limraedor** [👍49]：Am I the only one who did not realize it was Sanderson acting until I heard his voice? He has acting skills!
+  >
+  > **@Nasser851000** [👍33]：The Origins of Baldon Sanderson XD
+  >
+  > **@rickywoerner** [👍28]：This summer <b>BOOM</b> the publishing industry <b>BOOM</b> IS BROUGHT TO ITS KNEES! <b>BOOM</b><br><br>In a world brought destitute by corporate greed, one man seeks justice for writers everywhere. His name is Sandon Branderson and he lives to write. <b>Flashback to Brandon writing on a couch in his pajamas with Magellan on his head</b> <br><br>This script writes itself.
+  >
+  > **@cosmerejunkie7931** [👍24]：Comment below the Marvel Scene you think Sanderson should parody next! Let&#39;s get a collection of ideas going!
+  >
+  > **@Silas_MN** [👍21]：this was hilarious, but it did physically hurt me to see him slam the very pretty book on the desk lol
+  >
+  > **@guardianofthetoasters2323** [👍20]：It took me a while to realize it was him. I wondered why the guy sound so familiar now it made crystal sense.
+  >
+  > **@somedonkus_** [👍18]：&quot;Brandon Sanderson was able to write these in a van down by the river!!&quot; 🤣 Dude, you&#39;re seriously the coolest, be my second dad!
+  >
+  > **@RandomGeko** [👍16]：Come on, start your &quot;Brandon Sanderson was able to write this in a ...... during covid&quot; quotes.
+  >
+  > **@WasatchWind** [👍13]：Love that Brandon&#39;s preparing for his cameos in Cosmere shows and movies.
+  >
+  > **@MistbornTaylor** [👍13]：I remember watching the livestream and Brandon slightly raised his voice which I knew meant he was absolutely furious.
+  >
+  > **@cameroncall5163** [👍12]：I honestly didn&#39;t know Brandon was so tall and imposing.
+  >
+  > **@Transformers217** [👍11]：This is hilarious and I’m loving Secret Project 3!
+  >
+  > **@abhimac27** [👍10]：I worked for a small online retailer once, and they had the kind of fans who would eat this type of stuff up. But they took themselves too seriously and wouldn&#39;t have fun EVER. Love to see this.
+  >
+  > **@johnwoolard4599** [👍10]：Thank you, sir. Who else can give us 4 surprise books and then makes us laugh as you make fun of yourself? Thank you!
+  >
+  > **@jimave** [👍9]：Brandon is a lot taller than I thought.
+  >
+  > **@LordOfAllusion** [👍9]：With a box of scraps?
+  >
+  > **@theinvisiblegentleman1142** [👍8]：Just when I think I couldn&#39;t love Brando any more, he pulls something like this.
+  >
+  > **@IBareBear_** [👍8]：I would love if I could buy a leather cover for my kindle with these designs :o Or imagine one with the Stormlight Saga leather book covers! <br>I love the design of these books but I love reading ebooks more just for the comfort of it, but if really makes me feel like I’m missing out 😢
+  >
+  > **@JEDSaje15** [👍7]：&quot;IN A VAN DOWN BY THE RIVER!&quot;   So great! lol
+  >
+  > **@Jed_Herne** [👍7]：This is beyond legendary. Can&#39;t wait to see Sanderson redo every iconic Marvel scene and somehow make it about writing :D
+  >
+  > **@brockheezy** [👍6]：Iron Sanderson coming to a theater near you.
+  >
+  > **@Riz_** [👍6]：What a star.  I have so much respect for someone who doesn&#39;t take themselves too seriously.
+  >
+  > **@topaz.** [👍6]：This has made my day. Thank you.
+  >
+  > **@zenthepoet.** [👍6]：Adoooonalsium
+  >
+  > **@UnorginalHalvblind** [👍6]：That look actually works really well! Never fear getting bald ^^
+  >
+  > **@The_Brickster** [👍5]：I love how you guys keep making these beautiful parodies of avengers scenes! Acting and dedication to the craft is on par!
+  >
+  > **@lovelyflowergirl42** [👍5]：As a huge Tony Stark fan, I find this incredibly amusing
+  >
+  > **@Drums_of_Liberation** [👍5]：You wrote them in a cave, but did you do it with a box of scraps?
+  >
+  > **@Ponderingbooks** [👍4]：Definitely had that Obediah vibe. 😂
+  >
+  > **@ivan_the_daniel** [👍4]：I love Brandon. I love how he became such a success, and get a lot of fame, just by writing fantasy books. It&#39;s a great accomplishment in these days.
+  >
+  > **@alexayers8904** [👍4]：There was an idea…(Brandon “Fury” Sanderson, assembling the galaxy’s finest team for the Secret Projects.)
+  >
+  > **@thomasA344** [👍3]：Sando preparing for his cameos in upcoming tv/movie adaptations 🤞
+  >
+  > **@fourthofthesky** [👍3]：I remember Dan mentioning that BranSan is tall and I can kinda see it here
+  >
+  > **@duffyscottc** [👍3]：Lol well done haha. I appreciate the attention to detail
+  >
+  > **@callmecristal** [👍3]：OMG! So excited for #3! Loved this video! Laughed out loud!
+  >
+  > **@Jrdn357** [👍3]：This was fucking horrifying and I love it, lmao! Welcome to my nightmares, bald, angry Brandon!
+  >
+  > **@quintencrook6068** [👍3]：Of all things I did not expect an Iron Butterfly reference in the year of Brando 2023.
+  >
+  > **@Lsdopamine** [👍2]：IN A VAN, DOWN BY THE RIVER. RIP TO A GOAT.
+  >
+  > **@manuelmaa8196** [👍2]：I should have imagined this, it is the logical following to the beginning of the Sanderson year
+  >
+  > **@cosmerejunkie7931** [👍2]：What a treasure we have in Sanderson
+  >
+  > **@Jaws8u** [👍2]：That cover is gorgeous.
+  >
+  > **@3choblast3r4** [👍2]：Brandon has the best covers man.. dude always seems to have high quality hardcovers of his books. Wish publishers and other writers took note.
+  >
+  > **@KingArmistice** [👍2]：The &quot;stolen contraband&quot; sign on the boxes
+  >
+  > **@JARHuygebaert** [👍2]：If Brandon wasn&#39;t one of the nicest people around, he would be really terrifying coming at you like that
+  >
+  > **@FlawedFabrications** [👍2]：I&#39;m currently on Book 4 of Stormlight Archive and loving it! Keep up the good work, Brandon! You&#39;re an inspiration for hopeful authors like myself who are currently in the querying trenches.
+  >
+  > **@ryanfried7162** [👍2]：😂😂😂😂 things like this is why Brando is Mt favorite author. Not only is his work amazing but he&#39;s such a fun goofy guy
+  >
+  > **@mayormars5135** [👍2]：Omg the classic Ironman reference performed by the king himself I love it &lt;3
+  >
+  > **@snowdrop9810** [👍2]：Been waiting a while
+  >
+  > **@DarkMatter946** [👍2]：This is how Wired wished Sanderson treated his employees
+  >
+  > **@jean-francoisroux7064** [👍2]：Brandon and team going all in with Marvel hommages, love it!
+  >
+  > **@citizenjp5466** [👍2]：I would love to read alternate universe bald bad guy brandon novels lol.
+  >
+  > **@BlueWhite_Phoenix** [👍2]：love it ❤❤❤
+  >
+  > **@andrewberenson5717** [👍2]：The out takes were the funniest part.  I think bald, executive needs to be a character in one of Brandon&#39;s books.  It reminds me of Kingpin when he is first starting out on this climb of the crime network mountain
+  >
+  > **@keithwinget3450** [👍2]：In my head canon, he&#39;s been wearing that skin-cap this entire time since the last video he had it on.
+  >
+  > **@TheLegendOfRune** [👍2]：I didn&#39;t realize this was Brandon at first, it wasn&#39;t until I watched for a second time that I realized who it was. lol I think he did a good job acting to be honest.
+  >
+  > **@mikesionu** [👍2]：Well this was not expected! Funny though
+  >
+  > **@Jmbbit138** [👍2]：This is so dumb. I love it so much! ❤
+  >
+  > **@noahjfowler** [👍2]：Me when I look at how much I&#39;ve written this year:
+  >
+  > **@kurtmayer2041** [👍1]：it all makes so much sense now
+  >
+  > **@jer-bear48** [👍1]：In a van down by the river…Perfect!!!
+  >
+  > **@532notes** [👍1]：Van down by the river!
+  >
+  > **@unknownpersons87** [👍1]：&quot;With a box of scraps!&quot;
+  >
+  > **@LadyTygryComics** [👍1]：I lost it at the bald cap. I didn&#39;t even recognize him until he spoke. Bravo! :D
+  >
+  > **@BreezeTodd** [👍1]：THE OUTAKES! Thank you for the Chris Farley reference, Brandon &amp; Team. Made me cry of laughter and a little mourning...
+  >
+  > **@paulcourtemanche3549** [👍1]：That walk in was great
+  >
+  > **@PianoMyHeart** [👍1]：what a dork. this man is having way too much fun
+  >
+  > **@AxCrowned** [👍1]：All the wait and it was great
+  >
+  > **@joshuaharper372** [👍1]：SP3 was so good!
+  >
+  > **@TheCanadianPlaya007** [👍1]：This is the scariest I&#39;ve ever seen Brandon, and I&#39;m all for it
+  >
+  > **@Szeth-son** [👍1]：Amazing, Brandon👍👏
+  >
+  > **@paralicular3927** [👍1]：I didn&#39;t know Wilson Fisk was also in publishing
+  >
+  > **@TabbyTee** [👍1]：And this why he&#39;s my favorite author
+  >
+  > **@atzilus** [👍1]：This is my new favorite thing!!! 🤣🤣🤣🤣🤣
+  >
+  > **@questman7799** [👍1]：I love this guy
+  >
+  > **@Kondase** [👍1]：Brandon Sanderson wrote these under the boardwalk... down by the sea!
+  >
+  > **@KosephJK** [👍1]：Lol I knew who Brandon was mimicking the second he walked in. Great acting hahaha
+  >
+  > **@nimthiriel9** [👍1]：This is great!!! 😆
+  >
+  > **@jackwriter1908** [👍1]：The fact that I expected a second for the voice of the actor from Obediah to be heard...
+  >
+  > **@LandonTheDM** [👍1]：This is great
+  >
+  > **@jayneharding6546** [👍1]：Love your shaved head! I did that once. Easiest hair to do ever!
+  >
+  > **@Sora13pl** [👍1]：this is just awesome
+  >
+  > **@b_s_productions4405** [👍1]：Best crossover ever.
+  >
+  > **@ericeilersen** [👍1]：This is so beyond absurd and I love it so dearly
+  >
+  > **@elijahbowers1** [👍1]：That was awesome 😂
+  >
+  > **@RumoHasIt** [👍1]：The SWAGGER Brandon had walking up as The Publisher 😂😂😂
+  >
+  > **@nicodemogawronski2052** [👍1]：it took me few seconds to realise he was Brandon
+  >
+  > **@jaredbennett7677** [👍1]：Loved the out takes 😂😂
+  >
+  > **@taicanium** [👍1]：This man is 70% leg
+  >
+  > **@berenvalari** [👍1]：Never seen Brandon standing up. Wasn&#39;t expecting him to be so tall and didn&#39;t recognize him till the end.
+  >
+  > **@falloutnowification** [👍1]：WITH A BOX OF SCRAPS
+  >
+  > **@alucard952** [👍1]：i like Kingpin Sanderson
+  >
+  > **@husseinhassan6750** [👍1]：That thumbnail looks like a Spider-Man villain
+  >
+  > **@L4dyR3d** [👍1]：Baldon Sanderson
+  >
+  > **@SinaSaeb** [👍1]：He went from writer to mafia boss 😂
+  >
+  > **@BrentGalloway** [👍1]：I think this is just Brando&#39;s audition for the epic cameos he&#39;ll play in his movies!
+  >
+  > **@SteeIdancer** [👍1]：I&#39;m WHEEZING
+  >
+  > **@ChrisClouser-i4s** [👍1]：They need to do one with the Writing Excuses crew in a Star Trek motif with John Scalzi doing his best Khan impression.
+  >
+  > **@DylanMcClung** [👍1]：So good! 🤣
+  >
+  > **@KatiePayneVlogs** [👍1]：This video is starring SKAR!!!
+  >
+  > **@vol94** [👍1]：This is awesome 😂
+  >
+  > **@CFAFanatic** [👍1]：I was expecting a Patrick Willems collab!
+  >
+  > **@thecoolreader5629** [👍1]：This is amazing!!!😂
+  >
+  > **@allenmonroe4512** [👍1]：I still think this was a deflection so we don&#39;t think there is a Szeth video coming
+  >
+  > **@antonioleonardo7165** [👍1]：wheres a Stark Reactor, when you need one...
+  >
+  > **@TheASMRLibraryOfficial**：for some reason i keep rewatching this idk
+  >
+  > **@leegeekchandley**：Why was he so good at acting? Love this!
+  >
+  > **@cwill1090**：I love the Chris Farley throw back!!!
+  >
+  > **@glaciergirlv2265**：Thank you for that laugh. I needed it.
+  >
+  > **@eilonwymerrilin**：Incredible work Taylor! Love these.
+  >
+  > **@marcusknipp6736**：A van down by the river is very good
+  >
+  > **@mussoletart8485**：thanks for turning me onto iron butterfly. had never heard it before.
+  >
+  > **@yubyubcommander**：This is a work of art.
+  >
+  > **@Shawnbob82**：This is amazing. I love you guys.
+  >
+  > **@wemarti**：Those outtakes made my stomach hurt.<br>Thank you.<br>Great job to all involved with this!
+  >
+  > **@Sephiroth1204**：IN A VAN<br>DOWN BY THE RIVER<br><br>my god that was beautiful, thank you
+  >
+  > **@bronwynecg**：Just now finished this book and OMG it’s so good!!! 😊✌🏽🥳🎉
+  >
+  > **@paincrusher666**：absolute legend
+  >
+  > **@Imladrist**：That cover is truly gorgeous.
+  >
+  > **@WatchParty1**：I&#39;m awaiting the sequel to this.
+  >
+  > **@sedpaul233**：Beautiful
+  >
+  > **@ryanbradley5557**：Wow.  The head shave threw me so much my first comment was asking if that was Brandon’s brother.
+  >
+  > **@Cyd_Boomspark**：I love thumbnail, it fits perfectly the video and is super dramatic
+  >
+  > **@spencereaston8292**：That cover looks beautiful! These books are going to be in the family for a long time.
+  >
+  > **@mumanddad227**：This needed to be way longer lol. I loved it!
+  >
+  > **@rishabhtomar8413**：I want to see more of Brandon Stane
+  >
+  > **@keenanwalsh1049**：the outtakes were the best haha.
+  >
+  > **@alexm-e4910**：Ok this is rusting beautiful
+  >
+  > **@Omegaroth666**：I liked the van down by the river the best Lolz
+  >
+  > **@jalalchahine1886**：Ladies and gentlemen, I present to you my favorite author AND ACTOR
+  >
+  > **@darkrad7535**：Oh, I loved this scene and such a good standalone movie too.<br>This is superb!
+  >
+  > **@hiltrud2001**：I especially loved in-a-gadda-da-vida, baby❣❣❣❣
+  >
+  > **@zac8950**：Of all the references I expected to head an Iron Butterfly reference was not even on the list! Love it!!
+  >
+  > **@kingcam0775**：Shallan was such a perfect choice for the pin!
+  >
+  > **@pn4960**：I just LOVE IT
+  >
+  > **@myrojyn**：In a van! Down by the river!
+  >
+  > **@andraspapp1284**：Brilliant
+  >
+  > **@JohnnyDustwalker**：I wish I could like this twice.
+  >
+  > **@Kim-gy9pl**：Taylor!!! awesome job!
+  >
+  > **@jaauerbach_author**：You really hit the Jeff Bridges note, Brandon!
+  >
+  > **@henriksorensen82**：Brilliant, just brilliant!!!🤌
+  >
+  > **@tylerh4262**：Amazing
+  >
+  > **@HPirate91**：That Iron Butterfly reference though!!!!
+  >
+  > **@ThomasWarrenMusic**：May i have your ATTENTION<br>Brandon Sanderson CAN TOUCH YOU!
+  >
+  > **@davemurphy6745**：Can&#39;t wait to get my physical copy of Yumi!
+  >
+  > **@LrnecBuma**：Love the Chris Farley reference
+  >
+  > **@BamadeusVODs**：This tickled me, in part due to the great job, and in part due tot he fact that like this you look <b>exactly</b> like my maths teacher from school. so perfect!
+  >
+  > **@Guille511**：I love u sooooo much Brandon ❤❤❤❤<br><br>Edit: I’m from Spain and u are the first who make me love the books. And Alexelcapo too ❤️❤️
+  >
+  > **@erinyojaisantiagoalcala8027**：I love the Srandon Banderson
+  >
+  > **@serenatargaryen4932**：Haha great stuff can&#39;t wait till I can buy all of these , Great work Brandon &amp; Crew ❤
+  >
+  > **@bross92**：I know not as many people would get it but I REALLY liked the van down by the river take
+  >
+  > **@1ts7ust7osh**：I love this
+  >
+  > **@leonardadams5633**：I was not expecting the Iron Butterfly allusion. I appreciate it though.
+  >
+  > **@robertm.8653**：These Cosmere Cinematic Universe videos are getting better and better.
+  >
+  > **@Robert256**：In a van down by the river!
+  >
+  > **@narsus73**：I love it!
+  >
+  > **@eightbitfist6025**：It was 2022 when he revealed it to the world.
+  >
+  > **@RhombonianKnight**：I actually want to watch this movie now
+  >
+  > **@princessthyemis**：Okay I honesty didn&#39;t recognize him at first. Then I recognized his voice. I had to watch it again haha!
+  >
+  > **@edstasis**：Very cool
+  >
+  > **@PeteSudlow**：I regret that I have but one like to give!
+  >
+  > **@chapmantodd1955**：Epic!
+  >
+  > **@brokenredflag**：Ive presed on this vid soo many times. I wont rest until it trends. Lol
+  >
+  > **@ZiggityZeke**：damn i legit hope he gets an acting role in any live action adaptions
+  >
+  > **@HemiolaCookie2**：With a box of scraps!!!
+  >
+  > **@DryerFryer**：bravo
+  >
+  > **@annaboo27**：Box of scraps! A true classic 😂
+  >
+  > **@Nonofyourbussiness15**：yes
+  >
+  > **@e443productions9**：😂 this is my favorite one so far
+  >
+  > **@SoupKid16**：Brandon must be protected at all costs
+  >
+  > **@AnthemNotBanal**：Should&#39;ve kept the &quot;in a van down by the river&quot; as the original. Too good
+  >
+  > **@pharaoh9000**：Love it!!! 😂😂
+  >
+  > **@Kade13**：Way to pat your yourself on the back😂. I love it
+  >
+  > **@TheCbevans**：❤
+  >
+  > **@brokenredflag**：A fancy cave😎🐐🤌🥸🔥👍🫰
+  >
+  > **@MasterJack2**：perfect
+  >
+  > **@DavidDecero**：This is cinema.
+  >
+  > **@T1mefortim**：Yay!
+  >
+  > **@emmaquarterman**：I love how Brandon is slowly getting more unhinged in the best way - so here for this
+  >
+  > **@geoffjohnston6066**：Did not anticipate seeing an Iron Butterfly reference, but here were are
+  >
+  > **@rachelnorthauthor**：My siblings and I riff on that scene from Iron Man all the time! To whoever chose that for this skit: props to you.
+  >
+  > **@AzaJabar**：HAHAHAHHAHA THAT IS AMAZING, I love you Brando 💖
+  >
+  > **@dirtywhitellama**：This book is gorgeous. It was the one I was most excited for anyway based on the previews, but it delivers exceptionally well. I liked the premium hardcovers for 1 and 2, but this one is just gorgeous 💕
+  >
+  > **@midnightbloomofeorzea7182**：Perfection
+  >
+  > **@lonsunocook**：In a van down by the river!
+  >
+
+---
+
+## 8. State of the Sanderson 2025
+
+- **频道：** Brandon Sanderson
+- **观看数：** 105,337
+- **点赞数：** 4,337
+- **评论数：** 330
+- **时长：** 34:17
+- **发布日期：** 2025-12-22T22:00:59Z
+- **链接：** https://www.youtube.com/watch?v=nOe7VV5T-hw
 - **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/9hqlWQ3ozmg/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/nOe7VV5T-hw/hqdefault.jpg
 - **简介：**
 
-  > 💴 Get Your First Split Keyboard and 25% Off Here: https://igg.me/at/nocfree/
+  > As we bring 2025 to a close, Brandon has a final wrap up of everything that happened this year in the State of the Sanderson. This covers everything from upcoming events, what was being worked on this year, and updates from all the teams at Dragonsteel. 
   > 
-  > Join us as we unveil a project that's set to change the game. 
-  > Don't miss out – subscribe, like, and hit the notification bell to be the first to know!  :)
-
----
-
-## 3. A split aluminum keyboard with tri-mode connectivity — still uncommon
-
-- **频道：** NocFree
-- **观看数：** 5,923
-- **点赞数：** 3
-- **评论数：** 0
-- **时长：** 0:14
-- **发布日期：** 2026-01-31T23:53:36Z
-- **链接：** https://www.youtube.com/watch?v=Xr-mN7WBFkk
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en-US
-- **缩略图：** https://i.ytimg.com/vi/Xr-mN7WBFkk/hqdefault.jpg
-- **简介：**
-
-  > Designed to stay out of the way.
+  > If you want to follow along or check out the amazing art, click the link here! - https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2025
   > 
-  > A split aluminum keyboard with tri-mode connectivity,
-  > built to reduce strain and stay comfortable
-  > through long hours of work.
+  > Want to send me something to open?
+  > Dragonsteel Entertainment
+  > ATTN: Adam
+  > P.O Box 698
+  > American Fork, UT 84003
   > 
-  > No hype.
-  > Just careful design and iteration.
+  > Get your Wheel of Time updates here with the Bound and Woven newsletter: https://mailchi.mp/brandonsanderson/eye-of-the-world-campaign
   > 
-  > #splitkeyboard
-  > #wirelesskeyboard
-  > #DeskSetup
-  > #MechanicalKeyboard
-  > #NocFree
-  > #lowprofilekeyboard
-  > #aluminumkeyboard
-  > #giftforher 
-  > #giftforhim
-
----
-
-## 4. How to Set Up Your First Split Keyboard for Ergonomics
-
-- **频道：** NocFree
-- **观看数：** 3,812
-- **点赞数：** 42
-- **评论数：** 6
-- **时长：** 1:36
-- **发布日期：** 2024-10-29T16:00:26Z
-- **链接：** https://www.youtube.com/watch?v=QkJCyvwq5Ck
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/QkJCyvwq5Ck/hqdefault.jpg
-- **简介：**
-
-  > Want to get the most out of your split keyboard? In this video, we’ll show you how to set up your keyboard for optimal ergonomics. From positioning and split width to angle adjustments and mouse placement, learn how to create a comfortable setup that works best for you.
+  > Stay up to date by following my newsletter: https://brandonsanderson.us10.list-manage.com/subscribe?u=7d056bb7596a3e617f82004b2&id=fa68f14db0
   > 
-  > If you have a split keyboard, or are considering getting one, this video is a must-watch!
-  > If you’re thinking about having a split keyboard, your first one should be the NocFree Lite.
+  > Interested in signed books and swag? Check here: https://www.dragonsteelbooks.com/
   > 
-  > https://www.nocfree.com/products/nocfree-lite
+  > You can also follow me on:
+  > Tiktok: https://www.tiktok.com/@authorbrandonsanderson
+  > Facebook: https://www.facebook.com/BrandSanderson
+  > Twitter: https://twitter.com/BrandSanderson
+  > Instagram: https://www.instagram.com/brandsanderson/?hl=en
+  > Twitch: https://www.twitch.tv/mistbornbrandon
   > 
-  > #ergonomics #ergo #ergokeyboard #ergomice #mechanicalkeyboard #ergonomickeyboard #nocfree #rsi #wristpain
-
-- **热门评论（4 条）：**
-
-  > **@--Fox** [👍2]：This keyboard saved my back no more back pain after long sessions.
-  >
-  > **@NateDoggTyping**：This keyboard is fantastic! I have a full review video about it :D
-  >
-  > **@tvinin5217**：Do you have 68 layout, I want to buy this
-  >
-  > **@MelloBellow**：do u use the mouse inbetween the 2 split of keyboard?
-  >
-
----
-
-## 5. NocFree Lite Split Keyboard Unboxing: A Minimalist’s Dream Ergonomic Keyboard
-
-- **频道：** NocFree
-- **观看数：** 918
-- **点赞数：** 7
-- **评论数：** 3
-- **时长：** 1:36
-- **发布日期：** 2024-10-21T21:00:36Z
-- **链接：** https://www.youtube.com/watch?v=f721gTPCvwY
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/f721gTPCvwY/hqdefault.jpg
-- **简介：**
-
-  > Today, we’re unboxing the NocFree Lite Split Wireless Keyboard! This split keyboard offers ergonomic comfort straight out of the box. Here’s what makes it stand out:
+  > Frequently asked questions: https://faq.brandonsanderson.com
   > 
-  > - Ergonomic Design for Neutral Posture
-  > - True Wireless and Wired Connection
-  > - Effortless Hot-swap & Programming
-  > - Mac, Windows, and Linux Compatible
-  > - Compact and Portable
-  > - Add-ons: RGB Lighting, Sound-absorbing Foam
+  > Artist Credits
+  > Brian Mark Taylor
+  > Erion Makuo 
+  > Darko
+  > Howard Lyon
+  > Esther Hi'ilani Candari
+  > Brotherwise Games
+  > Cynthia Sheppard
+  > Felicia Chen
   > 
-  > Official Website: https://www.nocfree.com
-  > 
-  > #ErgonomicKeyboard #Unboxing #ASMR
+  > Chapter
+  > (0:00) - Opening
+  > (0:30) - Introduction
+  > (2:28) - Part 1: My Year
+  > (4:00) - Part 2: 2026, and Updates on Primary Projects
+  > (8:24) - Part 3: Updates on Secondary Projects
+  > (10:31) - Part 4: Film, Television, Video Games
+  > (14:49) - Part 5: News from My Company
+  > (29:07) - Part 6: News From International Partners
+  > (31:30) - Part 7: Projected Schedule
+  > (32:59) - Conclusion
 
-- **热门评论（2 条）：**
+- **热门评论（194 条）：**
 
-  > **@NateDoggTyping** [👍1]：The keyboard and accessories are fantastic :)
-  >
-  > **@jjorginho** [👍1]：Cool design but I need a 75 or TKL keyboard at least, it&#39;s missing keys.
-  >
-
----
-
-## 6. NocFree Lite Typing Sound Test: With vs. Without Foam 🔊
-
-- **频道：** NocFree
-- **观看数：** 1,131
-- **点赞数：** 15
-- **评论数：** 4
-- **时长：** 1:19
-- **发布日期：** 2025-01-06T17:15:00Z
-- **链接：** https://www.youtube.com/watch?v=AQoCkHmnSJg
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/AQoCkHmnSJg/hqdefault.jpg
-- **简介：**
-
-  > How does the NocFree Lite wireless split keyboard sound with and without sound-absorbing foam? 🎧 Discover the difference!
-  > 
-  > Our premium Poron Sound-Absorbing Foam enhances your typing experience by refining keystroke feedback and reducing internal resonance. Perfect for achieving a smoother and more satisfying typing feel.
-  > 
-  > #NocFreeLite #SplitKeyboard #ErgonomicKeyboard #WirelessSplitKeyboard #KeyboardSoundTest
-
-- **热门评论（3 条）：**
-
-  > **@MrUltimateX** [👍1]：I&#39;d say yeah, foam matters.
-  >
-  > **@theryk321**：Would it be possible to have an option for no rgb + foam? Or at least have an option to purchase foam separately? Thanks in advance!
-  >
-  > **@CrimsonStallion21**：Is it possible to retrofit the foam? I just purchased a used nocfree keyboard from ebay (opened - unused) but it does not have the foam or the RGB option. Is it possible to retrofit these to the keyboard?
-  >
-
----
-
-## 7. NocFree Lite Typing Sound Test: Which Switch Sounds Best? 🎧
-
-- **频道：** NocFree
-- **观看数：** 580
-- **点赞数：** 4
-- **评论数：** 8
-- **时长：** 1:21
-- **发布日期：** 2025-01-15T22:07:11Z
-- **链接：** https://www.youtube.com/watch?v=M5ZN_KUCyHc
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/M5ZN_KUCyHc/hqdefault.jpg
-- **简介：**
-
-  > Which switch suits your typing style?  Compare the sound profiles of all four switch options available for the NocFree Lite and find your perfect match. Each switch offers a unique typing feel and sound, so discover yours today!
-  > 
-  > Explore more about NocFree Lite on our official website:
-  > ➡️ https://www.nocfree.com/products/nocfree-lite
-  > 
-  > 
-  > #NocFreeLite #SplitKeyboard #ErgonomicKeyboard #WirelessSplitKeyboard #KeyboardSoundTest
-
-- **热门评论（4 条）：**
-
-  > **@JTMGJTMG**：is a follow-up video coming soon for the Nocfree &amp; with linear and silent switches. I can&#39;t decide based on the info that is out there for the keyboards! I need a comparison like this to decide which keys to buy with the nocfree &amp;! I would love to see a video for that!
-  >
-  > **@user7009**：keyboard looks absolutely amazing and no-frills. considering getting one soon. would have been good if it offered more tenting angles.
-  >
-  > **@Danbin_Luo**：tactile🙋
-  >
-  > **@iitsMikeB**：The sound in the video is really diluted. If I may ask, what editing software did you use to make this?
-  >
-
----
-
-## 8. NocFree Lite Wireless Split Keyboard Review: Vial QMK and Homerow Mods Tutorial
-
-- **频道：** JSyntax
-- **观看数：** 10,630
-- **点赞数：** 192
-- **评论数：** 62
-- **时长：** 25:32
-- **发布日期：** 2025-01-21T14:23:08Z
-- **链接：** https://www.youtube.com/watch?v=Gqd6fUHTKbo
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/Gqd6fUHTKbo/hqdefault.jpg
-- **简介：**
-
-  > https://amzn.to/4jPr6Y6 (US) https://amzn.to/4q2n5kQ (CA)
-  > 
-  > https://www.nocfree.com/products/nocfree-lite
-  > 
-  > Learn about my key mappings rationale:
-  > https://jsyntax.notion.site/Vial-NocFree-Keyboard-Map-18270218025c8043a20ee327fe779ecb?pvs=4
-  > 
-  > My fav wrist pad:
-  > - 3M Extra long wrist pad: https://amzn.to/4gc5Nwu
-  > 
-  > Homerow navigation apps:
-  > - https://www.homerow.app/ (Mac)
-  > - https://fluentsearch.net/ (Windows)
-  > 
-  > How I learned to touch type:
-  > - https://www.keybr.com/
-  > 
-  > 00:00 Intro
-  > 00:30 Unboxing
-  > 00:40 Included accessories
-  > 00:44 Switches and keycaps
-  > 01:16 Carrying case
-  > 01:20 Physical specs
-  > 01:43 Foam add on
-  > 02:13 Walnut palm rests
-  > 02:51 Integrated tenting
-  > 03:29 Optional RGB
-  > 04:14 Arrow key cluster
-  > 04:58 wireless connectivity
-  > 05:12 Touching typing and split keyboard benefits
-  > 05:38 Navigating UI with homerow, reduce mouse usage
-  > 06:09 Vial software
-  > 06:32 QMK vs ZMK vs VIAL vs VIA
-  > 07:21 Remapping keys is seamless
-  > 08:07 VIAL is one of the best GUI-based keyboard configurators
-  > 08:43 Plugging via USB-C
-  > 09:05 Accessing VIAL.rocks
-  > 09:49 My custom keymap explained
-  > 10:17 Layer tap, modifier keys
-  > 10:45 Tap dance
-  > 11:14 Combo keys
-  > 12:12 Homerow app and Fluent Search for keyboard-centric UI navigation
-  > 13:33 Keyboard includes a MOUSE
-  > 15:34 Setup homerow mods
-  > 16:33 Mod tap layer suggestions
-  > 17:19 Macros
-  > 18:04 Tap dance: double tap to show clipboard on Windows like Alfred
-  > 19:01 Tip: assign different when holding alt modifier
-  > 21:06 Closest competition
-  > 22:22 Type test comparison
-  > 23:19 Room for improvements
-  > 24:33 Conclusion
-  > 25:20 Type test
-  > 
-  > #splitkeyboard #nocfree #homerow 
-  > 
-  > This video is NOT sponsored. Some product links are affiliate links which means if you buy something I'll receive a small commission at no extra cost to you.
-
-- **热门评论（27 条）：**
-
-  > **@nickgoogle4525** [👍8]：This is the fourth &quot;best&quot; split keyboard you present in about 8 months!?
-  >
-  > **@gibberishname** [👍8]：No, you see their placement of the ?/ key is downright SOCIOPATHIC.
-  >
-  > **@nickgoogle4525** [👍5]：Moving the \? key to another location is a no-go IMO. Then you are not compatible with the key arrangement to any other keyboard without a real benefit. Yes, you have the arrow-T, but you could also have arrow-keys when the layout would have stayed in the standard arrangement. Then the up arrow would just have been above the right arrow. So what. That would have been a much better compromise, because you use the arrow keys for non-typing, but the /? key is used while typing texts, where you do not want/ need to relearn. Alone that is a reason to skip the keyboard.
-  >
-  > **@danieloneil1101** [👍4]：I really wanted to love this keyboard as it’s so close to what I’m looking for in a portable ergonomic keyboard but there are two major drawbacks for me, and one is a deal-breaker. First, the lack of Bluetooth connectivity means I have to use the supplied USB-A dongle, and the MacBook Pro has only USB-C ports. So to use the dongle, I need an adapter to plug it into my MBP. Annoying although not the end of the world. The deal-breaker for me is the standard profile switches and keycaps. I find the typing experience has too much travel and is not comfortable and slows me down. I’m much happier typing on a low-profile keyboard, and I’m hoping the NocFree team or Keychron or another company will release an adjustable split keyboard that is portable, wireless, low-profile, and with a standard QWERTY layout—so far, this has proved to be a unicorn. (And why is it a unicorn? Is it too much to ask for this feature set?) The closest I’ve come and my current daily driver is the Keychron K11 Pro, which has everything I want in a keyboard except an adjustable split—it’s a unibody board with an Alice layout. But between the NocFree and Keychron K11 keyboards, the low-profile of the K11 trumps the adjustable split of the NocFree.<br><br>As for staggered columnar keyboards, I appreciate the thinking behind them, but they require too much of an up-front investment in learning how to type on those layouts in order to be productive.
-  >
-  > **@HABIBMUHD92** [👍3]：I have the noc free too and i love it. Thanks for the key modifier tutorial😊
-  >
-  > **@evaliu5144** [👍3]：This looks really good considering portability
-  >
-  > **@imdadytsl101** [👍2]：the depth of info = instant sub
-  >
-  > **@3dkeycap** [👍1]：This was a super informative and well-organized review. I really appreciate the depth you went into. From the unboxing to the key mapping breakdown, everything was clearly explained and thoughtfully presented. I’ve been into split keyboards lately, and your video helped clarify a lot, especially with how you highlighted practical features. It definitely gave me some new ideas, and I’m excited to see what you review next. Keep up the great work!
-  >
-  > **@thomasfowler2099** [👍1]：yo, very good production value for such a small channel. good shit man<br><br>a little constructive criticism, though: please show the price in the video earlier. knowing that this keyboard is $180 is very important information
-  >
-  > **@javier47621** [👍1]：Have you tried the rks70 by royal kludge? Im looking At that keyboard for my first split keyboard or this one
-  >
-  > **@RealityCheckandBeyond** [👍1]：Thanks for creating this product review! Super detailed &amp; still going through it. I typically cycle through 2 computers for work. Can the keyboard sync to multiple devices? For example, could I program keys to switch from computer 1 to computer 2?
-  >
-  > **@JakesFishingJourney** [👍1]：How&#39;s the question mark not being next to shift that seems absolutely crazy to split that and the reason I haven&#39;t bought it yet!
-  >
-  > **@--Fox**：This keyboard saved my back, it&#39;s amazing!!! I can develop for hours without any back pain. The keyboard feels very good and has a nice build quality. 10/10
-  >
-  > **@strat0caster124**：I&#39;ve been daily driving Dygma Raises for a couple of years now, but I needed another keyboard just for some extra office work and didn&#39;t want to get another full Dygma keyboard (bulky and $$) ... Nocfree was on my radar for a while, and this programming demo is what ultimately sold it for me. Much appreciation for putting in the work of explaining it!
-  >
-  > **@BoricuaProductions**：have you checked out out mouseless? for mac it’s like homerow but allows u to click on anything on the screen instead of focused window
-  >
-  > **@SSUOFT**：i would like a starter tutorial as well please.. i don&#39;t know how to save the config or how to switch between layers and stuff lol. any suggestion?
-  >
-  > **@nyxmeowmeow**：if you want ergonomics while coding why not use vim motions
-  >
-  > **@NawwarAli**：hiLove your Channel, but it has a WIRE between the 2 half of keyboard, so is 100%  wireless or it needs to connected via wire?
-  >
-  > **@AndreBAnderson**：You like this better than UHKB or Dygma ? What about for in bed use (referencing your Dygma clip)
-  >
-  > **@alanleonel95**：Did you try with the GMK70?
-  >
-  > **@mattsb5196**：That question mark  / placement kills it for me, but otherwise a great portable split.   I had it and ultimately gave up on it.
-  >
-  > **@luftstolle**：Did they move the slash/question-mark key? That&#39;s insane. You should put this first in the video, and they should be forced to sell it with a big warning sign in all their marketing material.
-  >
-  > **@gemeinhardt-z**：Wish it sound better. The sound really does not fit the price, but it does offer split, which is unique and kinda justify the price by its own
-  >
-  > **@Throggy**：Are you having issues with the wireless connectivity? I&#39;ve only had mine for like 3 days and the wireless connectivity is pretty much shot when I use it on my Macbook Pro. I&#39;ve tried using it in the powered usb hub I have, using it with a USB C to USB A adapter, and I even took it to work and used it on my Windows computer. What&#39;s ironic is that the wireless worked better on my Windows PC rather than my Mac, but even then, I feel that the typing is delayed when using it wireless.  Just wondered if you&#39;d had the same problems.
-  >
-  > **@SeaDevils**：Did the Kinesis not convince you? You sounded pretty positive about it
-  >
-  > **@singletrack_america**：Am I the only one that gets a ton of typos when using wireless?
-  >
-  > **@OfficeErgonomicsAndMobility**：not seemless with bluetooth - don&#39;t buy this if you want to use this on bluetooth. <br>Yes! very good price range. Works absolutely awesome when wired. Once you try going wireless you are screwed. But overall amazing experience. I personally like wired and i love this Noc Free split keyboard. Economical then the KINESIS or Moonlander which are much premium.
-  >
-
----
-
-## 9. The Nocfree &amp; — Split, Wireless, Low-Profile… Worth It?
-
-- **频道：** alexotos
-- **观看数：** 9,156
-- **点赞数：** 160
-- **评论数：** 34
-- **时长：** 10:56
-- **发布日期：** 2025-08-11T20:54:35Z
-- **链接：** https://www.youtube.com/watch?v=6rCQa_v2zFM
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en-CA
-- **缩略图：** https://i.ytimg.com/vi/6rCQa_v2zFM/hqdefault.jpg
-- **标签：** keyboard, alexotos, vod, keyboard build, sound test, keyboard soundtest, twitch, mechanical keyboard, custom keyboard, clack, thock, asmr, how to, soldering, hot swap
-- **简介：**
-
-  > BUILD SPECS:
-  > 
-  > Board
-  > — Nocfree & 
-  > https://www.kickstarter.com/projects/solar-nocfree/nocfree-and-the-wireless-split-keyboard?ref=6seu7j
-  > 
-  > Note: Some of these are affiliate links and i get a kick back! They help support my channel. This is a sponsored review, but all opinions shared are entirely my own and remain unbiased.
-  > 
-  > LEARN HERE:
-  > ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  > How to Lube Stabs — https://www.youtube.com/watch?v=vxHb6CJc9V8
-  > How to Lube Switches — https://www.youtube.com/watch?v=88tnUYbxaIs
-  > Find me live here: https://www.twitch.tv/alexotos
-  > 
-  > MY STUFF:
-  > ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  > 📷 My Streaming Gear: https://kit.co/alexotos/streaming-gear
-  > 👕 Merch: https://shop.alexotos.com/
-  > ➡️ My Building Equipment: https://kit.co/alexotos/building-equipment
-  > ➡️ What I use for keycap storage: https://amzn.to/3fGvdZq
-  > 
-  > SPONSORS / AFFILIATE LINKS
-  > ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  > https://kineticlabs.store/alexotos
-  > https://bowlkeyboards.com/
-  > https://kibou.store/alexotos
-  > https://kbdfans.com/r?id=meguep
-  > https://omnitype.com/alexotos
-  > https://modedesigns.com/alexotos
-  > https://unikeyboards.com/?sca_ref=5348849.iPIMLKwswJ
-  > https://whiplashdesign.eu/
-  > 
-  > COME HANGOUT
-  > ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  > Discord: https://discord.gg/alexotos
-  > 
-  > SOCIALS! 
-  > ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-  > https://www.alexotos.com
-  > https://www.instagram.com/alexotos
-  > https://twitter.com/otosalex
-  > https://www.twitch.tv/alexotos
-
-- **热门评论（20 条）：**
-
-  > **@NocFree** [👍11]：Hi Alex, thanks a lot for reviewing NocFree &amp;! Love how you spotted so many design details. For the production version, we’re making sturdier packaging, new anti-slip pads to work better with the tenting setup, and better sound with updated switches plus more foam testing. We’re also working on a travel case for backers. Appreciate your feedback!
-  >
-  > **@Mirrlah** [👍4]：omg first. you reignited my interest in custom keyboard and I really wanna thank you for that
-  >
-  > **@Billy_The_Frog** [👍4]：I think the usb-c ports are in a questionable location. Being on the inner side means it can&#39;t be used wired and non-split at the same time. Why don&#39;t they just leave it at the front where it belongs?
-  >
-  > **@gemeinhardt-z** [👍2]：This or Alice duo? Or if this is a bad comparison
-  >
-  > **@Throggy** [👍1]：How&#39;s it do when in wireless mode? I have the Noc Free Wireless keyboard and while I love typing on this thing, it&#39;s horrible when I try to use it wirelessly. They replaced my first one and the second one I received has the same issues. Most of the time the keyboard doesn&#39;t even register wirelessly, and then when it does, it&#39;s super laggy, or I&#39;ll push one key and it&#39;ll type another. I wouldn&#39;t mind getting this new keyboard they came out with because I work in Linux, and the / button on the Noc Free is in an odd place and I&#39;ve caught myself a few times almost messing up what I was working on because I wasn&#39;t paying attention.
-  >
-  > **@Brainiac5** [👍1]：BRO you really look like Morgan Jay man hahaa like a keeb-loving Morgan Jay 😆<br><br>But thanks for this video! I got the VIP pricing so I&#39;m still really thinking about this. I like it for what it is but I hate to have to charge it once a month 🤔<br><br>Also another point is its only TTC low profile switch and Cherry MX low profile compatible, so no luck for folks who like Kaihl switches or others
-  >
-  > **@bd4947** [👍1]：Funny that the B being on the left side takes this from being a definite buy to an absolutely no go.
-  >
-  > **@technoghost2124**：Been very interested in split boards like this and the Theseus 75 hope to see more soon
-  >
-  > **@ChiefBrianIrons**：Another great review Alex
-  >
-  > **@3dkeycap**：great content, thanks for sharing
-  >
-  > **@TheOfficialFloridaMan**：What about the jezail funder cornix
-  >
-  > **@th0mahawk**：Really interested in seeing similar boards in this space. Price is a bit high for me. Would like to see if you could cover the key remapping software of this board and future boards and whether it runs onboard or on the computer.
-  >
-  > **@seantan8191**：does anyone know what mouse he&#39;s using? :&#39;)
-  >
-  > **@g1s8**：what is that mouse pad man ?
-  >
-  > **@jammies710**：this one is pretty cool. super excited when because it&#39;s one of the only keyboards that has a proper mac layout with a correctly placed left command. most other keyboards just place a cmd symbol on the opt key location and call it a day, which is <i>far</i> less ergonomic, antithetical to a split. but then i looked at it a little. <br><br>big downside for me is not having a proper navigation column, which is the whole point of a 75. the weird F-row is a downer too, really don&#39;t understand why they would put that prtsc key in when you would have a perfectly offset F13 row otherwise. a low-pro should be usable for work, and not having the landmarks for differentiating the number row and F-row would suck. <br><br>I haven&#39;t heard anyone mention this, but it only comes with an extremely light linear, and you would expect a tactile for a low-pro. since they haven&#39;t disclosed the pin layout and I seen anyone go over it, it&#39;s tough to take a 300 dollar chance on it having the right pins for a proper low-profile tactile. <br><br>Everything individually is something i could get over, but altogether it&#39;s a bit of a miss. This really sucks because it&#39;s an innovative product in the category, and this is one of the most underserved layouts in keyboards, and my favorite.
-  >
-  > **@eliasreverts4723**：Hello Alex!<br><br>I&#39;ll just cut straight to the case and say that I&#39;ve thought about buying either the Neo75cu or Evo80. What I am looking for is purely the sound quality with a very flexible sound profile meaning I can switch from clacky to thocky with ease. In my case, the price difference is high since the in-stock neo is expensive (300 bucks ish) and I have to buy separate switches + keycaps.<br><br>Hopefully you can help me with your experience!
-  >
-  > **@rydmerlin**：I heard a lot of resonance.
-  >
-  > **@svlagonda7417**：Split keyboards I don&#39;t have an issue with BUT what this is really missing a way to lock the position of each of the halves. as I move all my keyboard all the time. I don&#39;t want to have to be constantly repositioning each half. For that reason (and the fact that its overpriced and has quite clacky switches), I won&#39;t be buying.
-  >
-  > **@cal7447**：Really wish this one was hot-swappable...from memory, their previous one was.
-  >
-  > **@PaulyGutes**：I like the concept of it. But this just seems so overpriced. The price is especially frustrating given it has the premium price tag but no hard shell case, which I actually think is important considering this is a low profile keyboard. This is a keyboard that you should be able to travel comfortably with to the office or wherever and to travel with it you need a hard shell case.
-  >
-
----
-
-## 10. Why I&#39;m OBSESSED With This Split Keyboard After 6 Months - NocFree Lite Black RGB Edition
-
-- **频道：** JSyntax
-- **观看数：** 7,125
-- **点赞数：** 114
-- **评论数：** 22
-- **时长：** 10:20
-- **发布日期：** 2025-07-14T17:15:32Z
-- **链接：** https://www.youtube.com/watch?v=Q4ANZ7y66a0
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/Q4ANZ7y66a0/hqdefault.jpg
-- **简介：**
-
-  > New version https://amzn.to/4bc4wXA (US) https://amzn.to/4jYbCkU (CA)
-  > White version https://amzn.to/4jPr6Y6 (US) https://amzn.to/4q2n5kQ (CA)
-  > 
-  > https://www.nocfree.com/products/nocfree-lite-black
-  > 
-  > How to remap home row and layer tap mods effectively: https://jsyntax.notion.site/Vial-NocFree-Keyboard-Map-18270218025c8043a20ee327fe779ecb
-  > 
-  > 00:00 Intro
-  > 00:30 New Black RGB Model
-  > 00:51 Unboxing
-  > 01:27 Sound Test
-  > 02:47 Design & Layout
-  > 03:22 Comparison to Other Split Keyboards
-  > 04:18 Portability & Accessories
-  > 05:35 Translucent Keycaps
-  > 06:22 RGB Lighting Control
-  > 06:58 Battery Life
-  > 07:10 Vial Software Features
-  > 08:45 Wireless Connectivity
-  > 09:27 Final Switch Preference
-  > 09:40 Conclusion
-  > 
-  > This video is NOT sponsored. Some product links are affiliate links which means if you buy something I'll receive a small commission at no extra cost to you.
-  > 
-  > How I edit videos fast with AI: https://js-commit.github.io/video-haircut/
-  > 
-  > My Budget Camera Gear channel https://tinyurl.com/jsyntaxmedia
-  > 
-  > My Camera Gear:
-  > Sony A7C https://amzn.to/36cy454​ 
-  > Sigma 24-70mm f2.8 E lens https://amzn.to/3t08vhi
-  > Godox Keylight LEDP260C https://amzn.to/2KRqLbn
-  > LED camera light https://amzn.to/3ptcQaM
-  > Deity V-Mic D3 https://amzn.to/36gagxf
-  > Rode Wireless Go https://amzn.to/36dsBLm
-  > SmallRig A7C Cage https://amzn.to/36cOZUP
-  > 
-  > #nocfree #splitkeyboard #ergonomics #voyager #advantage360 #mechanicalkeyboard #rgbkeyboard #wirelesskeyboard
-
-- **热门评论（10 条）：**
-
-  > **@NocFree** [👍9]：Thank you so much for the thoughtful and in-depth review! Your early feedback about the black version actually played a big part in speeding up its release. We’re always listening to you and the community as we continue to improve. Really appreciate all the support! ⌨💌⌨
-  >
-  > **@jammies710** [👍1]：Thank you for mentioning the 4th  bottom left 1.25u modifier. It is literally the best key to have. As you&#39;ve said, it&#39;s easier to alt-tab if you&#39;re a bottom-right main mod user, but more importantly, it&#39;s the only common-ish way to get an actual Mac layout if you use that. Such a useful position. Also technically the most ergonomic main modifier (cmd/ctrl/meta/super) position, even more than the caps lock position
-  >
-  > **@razfrt** [👍1]：Thank you so much for your review!<br>I have been hurting my wrist from using my keyboard shortcuts while trying to use my pen tablet in my limited desk space (so my shortcut hand is placed in a weird position), so I&#39;ve been eyeing this keyboard for awhile. This looks great I&#39;m planning to buy the black one if there is still some in stock later in the year and replace the keys with matte black caps. 🐦‍⬛
-  >
-  > **@santeigo123456** [👍1]：Best keyboard ever!!!!!!
-  >
-  > **@ArabianKnight1337** [👍1]：If anyone is curious, the switches are Outemu Honey Peach v3 from the looks of it. I have v2 and they are a great budget option.
-  >
-  > **@wellhellotherekyle** [👍1]：I really love my white one. Every once in a while I do have a few issues with it, like having to unplug the dongle and plug it back in a few times to get the keyboard working, or the wireless connection being shoddy and missing keystrokes, but 99% of the time it works great!
-  >
-  > **@planetfrank**：Is it possible to swap the keys to have exactly as a Mac keyboard ?
-  >
-  > **@flameKuchen**：Nice review!<br>Nobody noticed that the ?/ key moved the a different position? That totally makes it not usable for me …Why would someone do something like that?
-  >
-  > **@DirtWizard098**：I do a lot of typing, but I also do casual gaming. Does this keyboard do well in gaming?
-  >
-  > **@jammies710**：Wish they had a 75%, really into the accessibility of a wireless split, but they stick to this Modified 60. They could&#39;ve gone 65% and had a normal R4 shift area, because moving that away from the standard position seems ill-advised. I guess it is the less-used shift, but all the way on the other side is a bit weird
+  > **@shawnhitt5312** [👍888]：When are we getting the country of Sanderson?
+  >
+  > **@gizmit01** [👍510]：Here&#39;s to twenty more years!
+  >
+  > **@salmontan** [👍350]：last time I was this early, Rock told me the stew wasn&#39;t ready yet
+  >
+  > **@MarquavianIII** [👍321]：stormlight my beloved in 2031....
+  >
+  > **@Fast_Travel_Gamer** [👍212]：I&#39;m finally starting Mistborn this week and I couldn&#39;t be more excited to get into the Cosmere!
+  >
+  > **@ProfPyro** [👍172]：I&#39;m glad to hear that adaptations aren&#39;t completely stalled and that you&#39;re meeting with real decision makers. I&#39;m ESPECIALLY glad that you&#39;re maintaining creative input as a condition because I never want the creatively bankrupt to harm these stories.
+  >
+  > **@christopherlighthall** [👍148]：I hope we all appreciate how transparent Brandon Sanderson is being on so many levels of his work and company! I don’t believe we ever see this from other authors or creators at his level. It is seriously exceptional and so amazing how much he includes and updates us, his fans, on his progress, plans, and development. Thank you so much Mr. Sanderson!
+  >
+  > **@dmk_games** [👍108]：How is this man:<br><br>A) So productive and brilliant in his writing.<br><br>B) So transparent and consistent in communicating status<br><br>C) So supportive of developing writers<br><br>D) So engaged in the community and events<br><br>E) I am sure other things.<br><br>But damn. Great work again. It really enables fans to talk to each other and get hyped and engaged.
+  >
+  > **@BigBuster100** [👍97]：Just finished the Mistborn trilogy about a week ago. Finished warbreaker on Friday, took me two days. Got the first 3 books of stormlight yesterday. Needless to say you’ve changed my life.
+  >
+  > **@Rhedak** [👍74]：Brandon going &quot;Aww&quot; after reading Emily&#39;s section was very endearing.<br>His reactions are why I like the YouTube version.
+  >
+  > **@bryceallen** [👍74]：An Insomniac Mistborn game sounds legendary
+  >
+  > **@madmann6723** [👍67]：CD Project Red and Mistborn! This needs to happen! 😂
+  >
+  > **@darksambal** [👍41]：Congratz on turning 50 this week, Brandon!!
+  >
+  > **@KendraLeighPhotographyandVideo** [👍34]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=1658">27:38</a> that’s me!!! 🥰🥰
+  >
+  > **@TheDoombrigade** [👍33]：Been a strong 20 years, and here&#39;s to 20 more! 🎉
+  >
+  > **@ThePoolBoy24** [👍29]：Started the Way of Kings as my first entry into reading your works Brandon. I’m in awe. Almost done, and can’t wait to continue on in the Stormlight Archive.
+  >
+  > **@AnakinTheWeird** [👍27]：i like how you can hear him doing signatures while recording
+  >
+  > **@kolliwanne964** [👍26]：Man I really hope that the Mistborn game has a future. Honestly I wish I could just win a lottery to then straight up finance a manga + anime of cosmere novels, no matter the profit.
+  >
+  > **@mitchrope** [👍23]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=159">2:39</a> &quot;...with other stuff.&quot; <br><br>You heard it here first y&#39;all. That&#39;s secret project #7 right there.
+  >
+  > **@mattwilcoxuk** [👍21]：If the order doesn’t matter surely it’s a collection not a series. All very exciting tho; well done Brandon and team!
+  >
+  > **@gawys28** [👍12]：You&#39;ve always been writing the state of the sanderson for longer than your youngest son has been alive
+  >
+  > **@Adamjboss187** [👍11]：Sanderson just does everything right. So consistent and such great stories. Wish some other authors had 10% of his drive to write
+  >
+  > **@abhimac27** [👍11]：It&#39;s been a wild ride. I am so grateful that the Wheel Of Time spun me into the Cosmere.
+  >
+  > **@poetatospuds** [👍11]：Thanks for sticking it out on sharing your imaginary friends with the world 🥰
+  >
+  > **@DrN0VA.** [👍10]：I&#39;m not a publisher but I do work in the games industry and it&#39;s my dream to see a stormlight game made. I think it&#39;d take so much money to do that it&#39;s unlikely in the current industry climate, but alas I hope it happens and I can work on it some day.
+  >
+  > **@alchuu55** [👍10]：Thanks for the hard work!
+  >
+  > **@zenthepoet.** [👍10]：Adoooonalsium
+  >
+  > **@noworries6027** [👍8]：please take better care of yourself Brandon.
+  >
+  > **@BriefKaseTalks** [👍8]：A Stormlight game would almost have to be an MMO
+  >
+  > **@aqueeristan** [👍7]：I&#39;m still praying for a chasmfiend plushie :P
+  >
+  > **@VictorDiGiovanni** [👍7]：What a year!
+  >
+  > **@Super_Saiyen_Potato** [👍7]：ur so cool, im a lazy bum, wish i was more like you &lt;3
+  >
+  > **@WiseWackyWizard** [👍6]：god i&#39;m so hyped for the PLANET of SANDERSON update in 2026
+  >
+  > **@prepwithgabi** [👍6]：Love how you can hear him signing in the background ❤
+  >
+  > **@a.e.1965** [👍6]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=110">1:50</a> the joke didn&#39;t go unnoticed brandon. I&#39;m sure with your dedication the blog will overtake your 2nd son in no time
+  >
+  > **@notaskrull8304** [👍6]：Started Final Empire in November 2024,  started my second read/listen to Wind and Truth this month. I read the Cosmere and then read it all again. <br>Thanks Brandon.
+  >
+  > **@lemonaden3461** [👍6]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=857">14:17</a> was this on purpose
+  >
+  > **@ILike2Read** [👍6]：So excited for yet another beautiful year. (With hopefully more LGBTQ+ representation)
+  >
+  > **@golmec9981** [👍5]：Sanderson: great writer, great businessman, best person
+  >
+  > **@DojoBelok** [👍5]：Let&#39;s go let&#39;s go. <br><br>Brando ftw!
+  >
+  > **@MasterJack2** [👍5]：Hoid story books as a compendium of stories narrated by Hoid? Because if it is please take my money, his stories are always so entertaining and well written.
+  >
+  > **@Masonivan-u2x** [👍4]：This really helped me rethink how I approach feedback and revisions. I’ve been beta reading and this nailed a lot of what writers actually need. Appreciate the clarity here.
+  >
+  > **@TheBillyGoatGruff-h6d** [👍4]：Skyward leatherbound?!?!? you just made my entire week, Brandon!
+  >
+  > **@TheThrillhouse0** [👍4]：What&#39;s the animation cost of a show like Avatar The Last Air Bender? Surely less than something like Arcane.<br><br>I picture a lot of your books in this art style and think it would be perfect for stormlight. Obviously not as cool as Arcane&#39;s art style, but better than nothing.
+  >
+  > **@Grognakk380** [👍4]：Brandon reading the notes from his &quot;employees&quot; makes me more convinced he is a one man company and only pretends to have other people there to throw us off the trail that he is some sort of speedster or time traveler that gets 48hr days.
+  >
+  > **@JuneTreeDraws** [👍4]：a major goal for my next couple years is to do illustration for something cosmere related in an official capacity. that&#39;s a relatively really small window but i want to work really hard and figure out how best to get my foot in the door. &lt;3
+  >
+  > **@VikasKhair** [👍3]：Thanks, Brandon, for all the wonderful stories you have given us with the promises of more to come. Here&#39;s to another 20 years together for us.
+  >
+  > **@play_history** [👍3]：The extra effort in putting together the audio version is much appreciated - even after reading it! You&#39;re a class act, Mr. Sando.
+  >
+  > **@Humanrandom31084** [👍3]：My first State of the Sanderson and I can’t wait for next year. Brandon I wish you and all your family and employees a very merry Christmas and a happy New Year. Also can’t wait to (hopefully) see you at Oxford and at London Comicon in May.
+  >
+  > **@DavidThorMoses** [👍3]：I’m still anticipating when Dragonsteel launches a continuing monthly subscription box. They’ve got the merch and following for it.
+  >
+  > **@marc_duda** [👍3]：Really happy to know that there are catalan versions now! I&#39;ve read all the Cosmere in english but maybe in a reread i&#39;ll do it in my mothertounge.
+  >
+  > **@Transformers217** [👍3]：2025 was a wild year! Here’s to 20 more years!
+  >
+  > **@TheGruzz69** [👍3]：Still waiting for the Sanderland announcement
+  >
+  > **@spinnerling** [👍3]：There&#39;s always another secret project!
+  >
+  > **@ThatGuyKazz** [👍3]：When it comes to video games I would urge you to look at what happened when Disney gave 10 years of exclusive access to the Star Wars IP to EA. There were a lot of failed and canceled projects and the very small number of games that did get released were accompanied with controversy. Now that the exclusive license has been expired for a few years there are at least 7 Star Wars games that we know of that are being worked on and it feels like we are finally getting back to something resembling the release schedule of Lucas Arts back in the early 2000&#39;s where we were getting 1-2 new star wars games every year. <br><br>With that in mind I think the absolute worst decision you could make when it comes to licensing the Cosmere IP to make games is to give any sort of exclusive access to the IP to anyone. As soon as you do that the quality and variety of any video games goes out the window because who ever is making it knows they don&#39;t need to compete for it. Find people who are passionate about making games in the Cosmere and work with those people. People who are truly passionate about the Cosmere won&#39;t want to lock it down anyway because they&#39;ll want to see what other people can do with the IP. <br><br>You have proven consumer interest in the IP with multiple record setting kick starters as someone who would love to see Cosmere video games I am praying you do not squander that potential by leasing out exclusive rights to the IP which will invariably lead to a reduced quality of the final product.
+  >
+  > **@ikemeitz5287** [👍3]：A Mistborn video game developed by FromSoftware would be a dream come true.
+  >
+  > **@antoniocaa1906** [👍3]：I really hope the misborn game is not AAA, I would hate that this IP that I love end up being a cashgrab with another generic battlepass and content being hidden behind a DLC paywall. 😢
+  >
+  > **@amy_soucy** [👍3]：Brandon writes so fast that Im aftraid he is going accidently produce what Im working on first.  😅
+  >
+  > **@samsthemank** [👍3]：Second
+  >
+  > **@Klonduke** [👍2]：I&#39;ve been listening to the wheel of time this year and last week I started the first one you wrote and I will say, you did an amazing job writing it. I can tell here and there that you were the one to write it, but 95% of the time you nailed how Robert Jordan wrote the rest of the series. I&#39;m beyond grateful that you finished the series because I only just started it last year and so happy it&#39;s a completed series even with the tragic passing of the original author, so many series get left unfinished when that happens
+  >
+  > **@rickkybobby8118** [👍2]：Reckoners was my first foray into the world of Sanderson and I mustve re read it half a dozen times by now
+  >
+  > **@laxwanna1976** [👍2]：Stay wonderful
+  >
+  > **@PancreatitisFighter** [👍2]：Yay! Thanks for being awesome! And thanks Emily for helping him be so awesome
+  >
+  > **@crimsonraen** [👍2]：Thanks for the updates, Brandon! :D
+  >
+  > **@citizenjp5466** [👍2]：I appreciate all your hard work, Mr. Sanderson, you’re the man. Steelheart was the first of your books I got into many moons ago and I remember telling all my friends about the ending because I thought it was so cool lol.
+  >
+  > **@deborahbryant4094** [👍2]：Great update. Lots to look forward to. I love that stories from Hoid are coming out next year. Hoid is my favorite besides you and Dan and Adam. Thanks for sharing this.
+  >
+  > **@MaxFleye** [👍2]：This is like my aunt&#39;s yearly holiday letter. Except a lot different...
+  >
+  > **@joelsmith7078** [👍2]：SIX years between Mistborn Eras? Whoof! That&#39;s a punch to the gut. I look forward to it though!
+  >
+  > **@seanhanrahan5368** [👍2]：I jumped face first into Sanderson with Way of Kings back in September. I just started Wind and Truth this week, and the Mistborn is on deck. See you all in 2026
+  >
+  > **@ave6197** [👍2]：I can&#39;t wait for a stormlight board game!
+  >
+  > **@vdoyne** [👍2]：Congrats on the sales record and happy birthday. <br>(One of my grandsons is receiving Mistborn 1st trilogy for Christmas and another the Skyward set)
+  >
+  > **@The_Brickster** [👍2]：Just finished Elsecaller and King Lopen! Great short stories, enjoyed what felt like bonus interludes a lot! Thanks for a great surprise of a book randomly dropped in December like an early Christmas present. Wasn’t able to get storydeck, so it’s great.
+  >
+  > **@MichaelS5400** [👍2]：I guess I will patiently wait for the taln book and not be upset about it.
+  >
+  > **@niteglys** [👍2]：Tress animated series sounds exciting
+  >
+  > **@arielletann3374** [👍2]：Just finished The Reckoners series this evening.  I loved it!  I would love to see a video game and/or movie series based on these.
+  >
+  > **@josephhenryreyes8205** [👍2]：I heard Burrito world and my interest got peaked
+  >
+  > **@godminnette2** [👍2]：&quot;A very cute 50&quot; awwh
+  >
+  > **@myrojyn** [👍2]：Brandon Sando becoming a publishing company be like
+  >
+  > **@HenrikKKristensen** [👍2]：Just finished reding my first Sanderson book; The Final Empire.<br>What a ride - loved it.<br><br>I read it as e-book... and now ordered the Leatherbound 🙂<br><br>Now onto Book 2 in the trilogy... I am a fan, can&#39;t wait to read my way through the Cosmere the next year.
+  >
+  > **@isaacs8694** [👍2]：I may have missed it, did he mention horneater?
+  >
+  > **@mesan4641** [👍2]：❤
+  >
+  > **@brent1975** [👍2]：Who won Rand&#39;s sword, the harron marked blade? Thank you for the update
+  >
+  > **@ArciusRhetus** [👍2]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=1740">29:00</a> where is that artwork from?
+  >
+  > **@ProfessorBear510** [👍2]：Does anyone else listen to Brandon&#39;s audiobooks so much that they think in Michael Kramer and Kate Reading voices?<br><br>Update: I thought there would be more books after Lux? or is what you said at <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=619">10:19</a> putting the kibosh on that one. I know it was co-authored.
+  >
+  > **@greyhawke115** [👍2]：Here&#39;s hoping for Larian Studios doing a Mistborn game
+  >
+  > **@seniorss_1** [👍2]：Always another secret, always another story
+  >
+  > **@ivanjelenic5627** [👍2]：Thanks for the video! Suggestion: I prefer seeing the person speaking. Adding art is fine, but not for the whole video.
+  >
+  > **@REXCRAFT88** [👍2]：please do not give your game rights to a AAA studio, give them to a passionate and tried Indie or AA studio who really care about their games. AAA games have been failing, most of them do not care about their games. Sandfall interactive is a great example of a studio you should pick
+  >
+  > **@malcolmlamb2191** [👍2]：This &quot;the money for animation isn&#39;t always where I&#39;d like&quot; confuses me. Like, arcane was obviously nuts. 14 million an episode or something like that. But the recent Chainsaw Man movie looked insane and was 4 million for 90 minutes, which would be 2 episodes of a typical prestige show. You don&#39;t need Arcane money to adapt Mistborn. So what kind of budgets are these studios offering him that he thinks are just too low?
+  >
+  > **@showtimee4979** [👍2]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=1895">31:35</a> the fingers on his right hand look AI-generated...please tell me that is not the case...
+  >
+  > **@ghostiiiegames** [👍2]：Have to say I was disappointed by the notably worse editing in Wind and Truth. I hope the future Stormlight books are better.
+  >
+  > **@robragnarson** [👍2]：The plan is to finish Game of Thrones now too
+  >
+  > **@apeblastproductions** [👍1]：I found your books around 2021, they got me through some dark times in my life, please keep making more incredible books
+  >
+  > **@AmandaJarrottWrites** [👍1]：Such exciting update and progress made in one year! 🎉 Glad that you are maintaining the creative rights to such larger formats like the games and movies
+  >
+  > **@the-sminch** [👍1]：You&#39;re the goat!
+  >
+  > **@IrregularRawr** [👍1]：I started crying when I saw the Steris and Wax art...then the next one with Wax and Wayne just started crying even harder...I love these books so much, thank you Sanderson and team.
+  >
+  > **@StormForm3D** [👍1]：thanks for update, much love brando sando
+  >
+  > **@robbiereed4462** [👍1]：Thanks for the update.I love the art!
+  >
+  > **@smstnitc** [👍1]：Oh, happy birthday!  Welcome to 50. I hit the big five-oh this year too.
+  >
+  > **@KhalidtwoBackup** [👍1]：I am so hyped to ghostbloods especially because of how sanderson is carefully crafting it.
+  >
+  > **@cheeky_chancer** [👍1]：Dude!!! I would love to say thank you in person on the UK! All the best
+  >
+  > **@Crimzzon** [👍1]：So close to finishing warbreaker
+  >
+  > **@IthilwenG** [👍1]：I started my journey with the Infinity Blade books followed by Wheel of Time. I will admit, I didnt know you were the one who wrote the Infinity Blade books but looking back on it it was still 100% you.
+  >
+  > **@nickmalato6987** [👍1]：These are my favorite books!
+  >
+  > **@jaime6400** [👍1]：THE STEVE ARGYLE MERVIN ADDITIONS WERE SO CUTE
+  >
+  > **@profiscus** [👍1]：I love your work
+  >
+  > **@YamiSpyroX** [👍1]：Its been pretty rough one for me, but meeting you &#39;Brandon&#39; was one of the highlights. Not sure if I can make it to Worldcon 2026,<br>but it&#39;d sure would be nice if I could! Hoping to make 2026 an productive one on my end.
+  >
+  > **@raegandougan** [👍1]：I’m currently reading Bands of Mourning!!
+  >
+  > **@birdwatcher1337** [👍1]：Brandon, listen to that feeling of wanting to go back to Stormlight. Let it consume you. Book Six asap, please.
+  >
+  > **@zebrastripe665** [👍1]：When can we expect audiobook versions of the new Roshar short stories?<br><br>This is my first time watching one of these. I had just finished every Cosmere story up through Isles of the Emberdark earlier this month and am really excited to see more! Your stories have <b>vastly</b> improved my long commute to and from work every day.
+  >
+  > **@be_an_rm** [👍1]：Love the aside at <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=940">15:40</a>. Considering she wrote that section, I wonder if she&#39;ll ever hear it
+  >
+  > **@danielgray74** [👍1]：Another Rithmatist book pls
+  >
+  > **@MoonsilverGrandeur** [👍1]：Omg he mentioned Rithmatist!
+  >
+  > **@whalics** [👍1]：Arkane Lyon making an immersive sim Mistborn game would be amazing….
+  >
+  > **@CasonMinor** [👍1]：Really hoping to hear a mtg cosmere
+  >
+  > **@PikaPhantomVG** [👍1]：I&#39;d love to see an indie developer take on a Cosmere game of some kind
+  >
+  > **@thisswedishlife7775** [👍1]：I hope you won&#39;t forget to keep good service for pocket books. I understand leather bounds are where the money is, but many (most) readers do not want them and/or cannot afford them.
+  >
+  > **@blunderswish7121** [👍1]：I&#39;m beginning to worry my 7ft tall bookshelf won&#39;t be able to hold all the Sanderson books.<br><br> ps:the Skyward leather bound image (on the blog) looks fantastic. Exactly what I was looking for on the design front.
+  >
+  > **@Klonduke** [👍1]：I so badly want a mistborn game. The metal mechanic for a magic system is so good and I&#39;d love to see a game using those kinds of mechanics. No idea how they would do it in a way that makes it both enjoyable to play as well as true to the original works, which is why I&#39;m glad you&#39;re so picky on who adapts your work as well as how they do it
+  >
+  > **@Nap-55** [👍1]：I hope we get Stormlight 6 before GTA 6
+  >
+  > **@lexzbuddy** [👍1]：Skyward would be excellent as a TV show. Hope that eventually finds the right home and comes out in a form that really does it credit and feels like the real deal. I loved it when it came out and I&#39;ve read it several times since. Great fun and great characters.<br><br>I also think that the 1st Mistborn book would make a phenominal TV show. If it was largely as per the book it would easily translate to 2 to 4 seasons. Hope it works out. One of the best worlds and full of great twists, characters and originality. <br><br>Stomlight seems really hard to me as a TV adaptation. I love the books and doing it just seems impossible to imagine.<br><br>A leatherbound Skyward, that sounds fantastic. I&#39;d love one to be honest. I struggle to justify spending that kind of money on a book albeit I must say that I think they are definately worth every penny.
+  >
+  > **@alaynap3778** [👍1]：Please let there be a Worldhopper Ball in London!!! I haven&#39;t been able to go to nexus, and I&#39;d love to be able to go!!!
+  >
+  > **@malkieri1672** [👍1]：Between now and 2045, I hope to see the following: Elantris 2 and 3, a Wheel of Time Story: Tales of Jain Farstrider, a Trolloc Wars series, and maybe a Lews Therin and the 100 Companions series.
+  >
+  > **@Reveticate** [👍1]：While mistborn is my favorite series in the cosmere, I cannot wait for ghostbloods to be out so you can FINALLY return to Nalthis!
+  >
+  > **@matthewroloff5095** [👍1]：First Kazu kibuishi and now a collaboration with Jake Parker, Awesome!<br>Once again requesting a sequel to Lux. I loved Steven Michael Bohls work and can&#39;t wait to see those characters again.
+  >
+  > **@miguelguerreiro4858** [👍1]：&lt;3
+  >
+  > **@OnlyMe-mt7zb** [👍1]：What does he mean by halfway through the cosmere? Isn&#39;t it a universe?
+  >
+  > **@klavertryne** [👍1]：Any more Reckoners books planned?
+  >
+  > **@certainlysomeone7696** [👍1]：Dang, no dutch updates internationally.
+  >
+  > **@thebenfreeman** [👍1]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=619">10:19</a> - yes, Brandon I do WANT to read about more Brotherwise projects. But I&#39;m kind of relying on you to write more than a single sentence fragment in order to actually do that.
+  >
+  > **@TrentRyanKatzenberger** [👍1]：Is there any chance we could get a recording of Emily&#39;s entrepreneur/business classes one of these years? I&#39;ve learned so much from all the writing ones but one area I rarely hear anybody talk about is the business side of being an author. I&#39;d love to hear whatever business advice y&#39;all have learned over the years at Dragonsteel, if that&#39;s not too much to ask for. Lol.
+  >
+  > **@BigBuster100** [👍1]：So was that an old voice recording from when Mistborn was in production? <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=807">13:27</a>
+  >
+  > **@steakismeat177** [👍1]：Any movement on video games for the other properties like Warbreaker, Elantris, and secret projects?
+  >
+  > **@minji693** [👍1]：COME TO BRAZIL
+  >
+  > **@yomanyo327** [👍1]：Makes sense that there hasn&#39;t been an adaptation yet, you have standards, and aren&#39;t willing to let them walk all over you the way that they&#39;re used to doing.
+  >
+  > **@jamn4evr** [👍1]：Holy crap, just imagine a Mistoborn or Stormlight game made by Digital Extremes!
+  >
+  > **@ThePhantomphan11** [👍1]：Dan is definitely working on a Threnody series 😏
+  >
+  > **@yarumada9880** [👍1]：Hey Brandon I am a big anime fan and i just got into Traditional Fantasy(not anime)? and started with your Books 3 months ago. Have you considered getting a foreign studio ,from Japan for example to animate your series? Sure the translation and meetings will be hard and getting a japanese team to understand certain mechanics behind your world. Studio Trigger for example has a big western presence. maybe Studio Orange is great too for a full CGI series( Trigun, Beastars).But i really think a big series like yours with a well respected Japanese Studio could make an outbreak of some sorts. Maybe make everything in English Dub first like Castlevania!
+  >
+  > **@rhunjones4341** [👍1]：Wait, at 9.37 in the list of project what is &quot;Cairn&quot; in between Dragonsteel and Silence Divine. It&#39;s not in the written State of Sanderson 2025 on the website. Is Brandon being sneaky again?
+  >
+  > **@thehoogard** [👍1]：Any expansions planned for Mistborn card game?
+  >
+  > **@567secret** [👍1]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=635">10:35</a> Is this new art? Why does Axies have the Steel Alphabet on him???
+  >
+  > **@ryanmakers** [👍1]：I&#39;ve been wanting to give Brandon&#39;s books a try, but where is the best place to start?<br><br>Update (2/5/2026): I started with the Mistborn trilogy and I’m currently 100+ pages into The Hero of Ages. I’m loving it so far. I’ve seen a lot of people say they didn’t enjoy the second book as much because it leaned more into political maneuvering, but honestly, I found that part really fascinating.
+  >
+  > **@skyblade7438** [👍1]：Just finished Elantris and now my feed is naturally getting spammed with Sanderson stuff.
+  >
+  > **@sixsixtrample** [👍1]：Here me out: Sandfall Interactive (Expedition 33) makes the Mistborn game<br><br>I don&#39;t think there&#39;d be a better partner honestly...
+  >
+  > **@Jmhgddsert54377** [👍1]：If you do TV or film, make sure the contract says you maintain creative control. You don&#39;t want your work to end up like GoT or LotR...
+  >
+  > **@sammyshreds** [👍1]：Random question: Would it be interesting to incorporate a base-12 number system into the culture of a novel or would it just confuse people too much?
+  >
+  > **@robertunijat8299** [👍1]：Is Dragonsteel Booth coming to London?
+  >
+  > **@Olphas** [👍1]：huh, I really thought Snapshot would have a good chance for an adaptation. I think it would transfer well to the screen. I am currently re-reading it in Tailored Realities.<br><br>Wait, where would one get Elsecaller/King Lopen? Was that Nexus only for now? This just said it was &quot;released&quot;
+  >
+  > **@seniorss_1** [👍1]：Don&#39;t give it to triple A developers, give it to indie companies, they&#39;ll help it come out sooner and will less annoying monetization
+  >
+  > **@ccon69** [👍1]：Absolutely retain creative control on all external projects, we don&#39;t need more Witcher, Wheel of Time or Rings of Power garbage.
+  >
+  > **@erichart8560** [👍1]：Am i the only one who wouldnt care if an animated Cosmere doesn’t look like Arcame? Just feels like an unrealistic standard to hold the medium in, why can’t it look like Vox Machina or Invisible or even the DCAU.
+  >
+  > **@jonathanculler2706** [👍1]：Please please please no AAA game studio. A quality independent will have a MUCH higher chance of success. No agility in AAA.
+  >
+  > **@seniorss_1** [👍1]：Please don&#39;t do live action, animation is always better for fantasy
+  >
+  > **@eddieford9373** [👍1]：&quot;I wrote 5 books this year and none of them are the ones you wanted. Whatcha gondo boutit?&quot;<br>Classic B.S.
+  >
+  > **@IamHattman** [👍1]：Brandon, if you get a video game adaptation going, for the love of Adonalsium make sure its a new story/character. Far too many &#39;X the video game&#39; games are just a bad adaptation of the story they&#39;re based on. And I&#39;m pretty sure the fans all want to build their own character to experience the world with.
+  >
+  > **@pedrinho007ful**：Much love from Brazil 🇧🇷.
+  >
+  > **@Life.With.JackieC**：Just realized that we share a birthday- Happy belated birthday, birthday twin 🎂
+  >
+  > **@im_sorry_i_forgot_my_username**：The Slovakia section is missing one publisher, Ikar, who published the first 2 Mistborn books in 2025. The covers for them are wonderful, I recommend checking out the art if you&#39;re a Mistborn fan. Gorgeous editions.
+  >
+  > **@diggdugg**：I hope someday we get a 4x stormlight game.
+  >
+  > **@socks4305**：&quot;Donald the Editor&quot; really undersells it.
+  >
+  > **@spewytee835**：I really want a Larian game but I&#39;m not sure if this is the direction they are going as a developer
+  >
+  > **@cardinalmite9183**：Larian made Mistborn game would be a, SHUT-UP AND TAKE MY MONEY!!! moment.
+  >
+  > **@M-ck7du**：La traducción automática no funciona
+  >
+  > **@ChefCollinLee**：I would love to be apart of any video game you are making. Please give fans of the series an opportunity to come work on it if possible 🙏🏻
+  >
+  > **@seangoggans7091**：Could we get more updates on your arabic translations?
+  >
+  > **@daizenmarcurio**：where can i find all the art in this video? Especially at <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=1834">30:34</a> of wax and wayne
+  >
+  > **@Sgtcortez234**：Have you reached out to any anime studios ???? , happy new year , count Waite to read more adventures
+  >
+  > **@Razor_Crest_ST-70**：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=805">13:25</a> How I felt reading that: <a href="https://www.youtube.com/watch?v=dZqLgnLiGn0&amp;t=52">https://youtu.be/dZqLgnLiGn0?si=IBPT7MysdiMO1loP&amp;t=52</a>
+  >
+  > **@shuntao3475**：My first Sanderson book was Way of Kings, shortly after release. I was amazed on its quality and should be in the Smithsonian Archives preserved for all mankind.  Faster forward, the last 2 SL books, feel like content from a extremist Twitter feed.  I have read ever Novel Sanders has written, but if the next Mistborn is of the same quality of the last 5-6 years, it will be my last.
+  >
+  > **@SwankDegree**：I have been trying and failing to figure out when to read “Elsecaller” and “King Lopen” during my stormlight read through. Does anyone know for sure?
+  >
+  > **@greimann**：where can we get Elsecaller and King Lopen the First of Alethkar? None of my online booksellers seem to even know about it...
+  >
+  > **@crain1rr**：Anything new in the board game world? I’ve been hearing about an epic stormlight game for a couple years
+  >
+  > **@teoscapato1396**：whos the cool dragon on the thumnail or where is supposed to be from?
+  >
+  > **@Barisaxileprauchaun**：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=851">14:11</a> MISTBORN GAME 😭 FINNALY!!! I WILL PAY 200 DOLLARS IDGAF
+  >
+  > **@WulfVI**：Will Dragonsteel turn into a full publishing company accepting new authors to write outside of the Sandoverse?
+  >
+  > **@mandrias**：Honestly, I think I&#39;d rather not get film/television at this point. I feel it would be a major distraction for the Cosmere which I don&#39;t think would be the direction I&#39;d personally like. After getting burned by WoT... I just don&#39;t feel it would be worth it, even if it is better or doesn&#39;t get immediately canceled. I&#39;d prefer the books themselves get the attention they deserve.
+  >
+  > **@ViperRT99**：Does he have anything to say about the Cosmere books by Dan or Isaac?
+  >
+  > **@matt5379**：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=857">14:17</a> 6 7
+  >
+  > **@estebancamacho2282**：COSMERE MTG UB WHEN? Money is already set aside for it.
+  >
+  > **@austinsullivan7152**：Don&#39;t talk to AAA, talk to double a companies.
+  >
+  > **@sadkinz880**：What happened to the Dragonsteel trilogy? How did it go from a cornerstone of the Cosmere to a “maybe I’ll get to it”
+  >
+  > **@Livingdiceman**：Arcane should not be used as a benchmark.  The studio basically went deep into the hole financially to pull it off and the budget is rumored to be around 250 million dollars. I am all for quality (Arcane was amazing) but going broke doing it is never a good idea.
+  >
+  > **@Nachonachoss**：Guys at <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=960">16:00</a> what is this series with south america setting ?
+  >
+  > **@SuspiciousActivity871**：I am late to the party. I have never read one of your books. I like horror and science fiction more than sword and sorcery fantasy. What should I read?
+  >
+  > **@Piggymonst3r**：Emily sounds an awful lot like Brandon.
+  >
+  > **@austinsullivan7152**：Please stop looking for arcane quality. <br>Blue-eyed samurai or attack on Titan would be fine. Amazing actually.
+  >
+  > **@Corvus-Moon**：Just don&#39;t become a GRRRM When film and television comes through.
+  >
+  > **@ricebag22**：I really dislike the idea of a AAA studio getting their hands on Mistborn. These studios are increasingly out-of-touch with the market and are rapidly losing ground to indie development, largely due to customer fatigue with unfriendly monetization practices and unwarranted live service dependencies. Please be very careful if this is the route you take.
+  >
+  > **@picknmiks4318**：I completely understand potentially having to take a break from writing to work on hypothetical adaptations, but please don’t do a GRRM and stop writing series that you’re in the middle of because of it.
+  >
+  > **@aldenwilkins**：Take a page from critical role and crowd source funding for an animated show?  Lord Ruler knows you can crowdsource. Lol😂
+  >
+  > **@auranacuran**：Did he just call Rithmatist a “side project” 😢
+  >
+  > **@LucasBlancoArtime**：Am I the only one thinking this seems ai generated?
+  >
+  > **@christianhnilicka**：No way they cloned his voice for AI
+  >
+  > **@bashkirbek**：Stormlight book VI 2031, it`s over.
   >
 
 ---
 
-## 11. Is Splitting Your Keyboard in Half… Better? (NocFree &amp; Review)
-
-- **频道：** Chan's Tech Review
-- **观看数：** 12,777
-- **点赞数：** 0
-- **评论数：** 4
-- **时长：** 5:33
-- **发布日期：** 2025-08-30T17:29:43Z
-- **链接：** https://www.youtube.com/watch?v=YmUvo2vZRe4
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/YmUvo2vZRe4/hqdefault.jpg
-- **标签：** split keyboard
-- **简介：**
-
-  > NocFree &: https://www.kickstarter.com/projects/solar-nocfree/nocfree-and-the-wireless-split-keyboard?ref=9202g8
-  > 
-  > I got early access to the NocFree &, a new split keyboard that’s already getting a lot of buzz on Kickstarter. It looks super promising on paper—but how does it actually feel to use every day?
-  > 
-  > In this video, I’ll show you the design, the typing experience, and whether this low-profile split board is worth trying if you want comfort without losing speed.
-  > 
-  > HIGHLIGHTS:
-  > 0:00 Intro
-  > 0:23 Design & Ergonomics
-  > 1:25 Typing Experience: Sound & Feel
-  > 2:20 Features & Everyday Use
-  > 2:58 Compared to the Previous Lite Model
-  > 3:39 Potential Downsides
-  > 4:12 Who Is It For?
-  > 
-  > Follow the channel for more! 
-  > 
-  > Collab with me: 
-  > business.vincent1988@gmail.com
-  > 
-  > #splitkeyboard #KickstarterTech #keyboardreview #ergonomickeyboard #wirelesskeyboard #productivitysetup #mechanicalkeyboard
-
-- **热门评论（3 条）：**
-
-  > **@brandonmooreBDMR**：Watched the whole video, for this price and build quality, that’s honestly a steal.
-  >
-  > **@Monkey-Dee**：67
-  >
-  > **@kylethethompson.creative**：I wish you’d talked about keycap compatibility. Low profile usually locks you into the manufacturer’s caps, unlike MX profile where you have endless sets to choose from. For people who care about customization, that’s a huge limitation. Even if the board itself is great, being stuck with stock caps long term is kind of a dealbreaker.
-  >
-
----
-
-## 12. 【アルミ分割ロープロ 】欲しい要素が盛りだくさん！NocFree &amp; split keyboard レビュー
-
-- **频道：** Daihuku Keyboard
-- **观看数：** 8,671
-- **点赞数：** 171
-- **评论数：** 40
-- **时长：** 13:30
-- **发布日期：** 2025-08-05T15:13:03Z
-- **链接：** https://www.youtube.com/watch?v=fl1PZ-I8A6Q
-- **来源：** search
-- **有字幕：** 是
-- **语言：** ja
-- **缩略图：** https://i.ytimg.com/vi/fl1PZ-I8A6Q/hqdefault.jpg
-- **标签：** NocFree, low-profile, splitkeyboard, mechanicalkeyboard
-- **简介：**
-
-  > NocFree & split keyboard  は洗練されたアルミケース、心地よい打鍵感、リラックスできる分割レイアウトなど魅力が詰まった注目のロープロファイルキーボードです。
-  > https://www.nocfree.com/products/nocfree
-  > --------------------------------------------------
-  > ＜特徴＞
-  > - 84キー75%分割レイアウトを採用
-  > - CNCアルミ筐体＋#150グリットアルマイト仕上げで高耐久かつ高級感のある質感
-  > - 分割式＋Numpad構成で、自由配置により肩・首の負担を軽減
-  > - 専用低プロファイルスイッチ（40gf）とガスケットマウント構造で滑らかかつ静音な打鍵感
-  > - Bluetooth・2.4GHz・有線接続に対応し、最大3台のBluetoothデバイスを切替可能
-  > - 白色バックライトとブリージングエフェクトを搭載、直感的なキー操作で切替可能
-  > - NocFree Linkソフトで、キーリマップやマクロ設定が容易
-  > - 左右ユニット・ナンパッドすべてに大容量バッテリーを搭載（左右1100mAh/650mAh）
-  > - テンティングキットやアクセントキャップなど拡張アクセサリーを用意
-  > - 独自開発の無線システムで安定した完全ワイヤレス3ピース接続を実現
-  > - Nキーロールオーバー対応
-  > - macOS, Windows, Linux, iOS, Android, iPadOSに対応
-  > 
-  > sponsored by NocFree
-  > 
-  > Amazon ストアフロント : https://amzn.to/3S2cMja
-  > ※技適について
-  > 技適特例申請を提出し、問題のない範囲で動画制作をしております。
-  > --------------------------------------------------
-  > 🔴チャンネル登録お願いします👇
-  > https://www.youtube.com/c/DaihukuKeyboard?sub_confirmation=1
-  > 🔴チャンネル登録者は、メンバー登録して応援してください👇
-  > https://www.youtube.com/channel/UCDXpP3bwWjhjBRdCP-5mNVg/join
-  > 🔴Twitterフォローお願いします👇
-  > https://twitter.com/Daihuku0015
-  > 📚【自作キーボード】の再生リストも是非見てください👇
-  > https://www.youtube.com/playlist?list=PL6MZG9NsHzeDbPo6w2OaSY6IwVlTGJlcg
-  > --------------------------------------------------
-  > ■このチャンネルの支援ページ
-  > 支援は当チャンネルのコンテンツを拡充させるために活用し、より楽しんでもらえる動画を継続的に提供していきたいと考えています！よかったら支援をよろしくお願いします。
-  > Amazon欲しいものリスト： https://www.amazon.jp/hz/wishlist/ls/R3ASE7WAH02N?ref_=wl_share
-  > note :  https://note.com/daihukukeyboard
-  > Patreon : https://www.patreon.com/daihuku_keyboard?fan_landing=true
-  > AmazonまたはBanggoodのリンクはアフィリエイトリンクです。アフィリエイトを通じて得られた収益は動画制作に活用させていただきます。よかったら協力をお願いします。
-  > --------------------------------------------------
-  > #カスタムキーボード #メカニカルキーボード  
-  > ----------------------------------------------------------------------------------------------------
-  > NocFree & split keyboard is a standout low-profile keyboard packed with features, including a refined aluminum case, satisfying keystrokes, and a relaxed split layout.
-  > https://nocfree.kckb.me/10443c29
-  > --------------------------------------------------
-  > Features
-  > - 84-key 75% split layout design
-  > - CNC aluminum body with #150-grit anodized finish for durability and premium feel
-  > - Split design with detachable numpad for flexible positioning to reduce shoulder and neck strain
-  > - Proprietary low-profile switches (40gf) and gasket mount structure for smooth and quiet typing
-  > - Supports Bluetooth, 2.4GHz, and wired connections, with seamless switching between up to 3 Bluetooth devices
-  > - White backlight with breathing effect, easily toggled via intuitive key combinations
-  > - NocFree Link software enables easy key remapping and macro customization
-  > - Large-capacity batteries in all units (1100mAh for left/right, 650mAh for numpad)
-  > - Optional accessories include tenting kit and accent keycaps
-  > - Proprietary wireless system for stable, fully wireless 3-piece connectivity
-  > - N-key rollover supported
-  > - Compatible with macOS, Windows, Linux, iOS, Android, and iPadOS
-  > sponsored by NocFree
-  > 
-  > --------------------------------------------------
-  > 🔴Please subscribe to our channel👇
-  > https://www.youtube.com/c/DaihukuKeyboard?sub_confirmation=1
-  > 🔴If you are a channel subscriber, please support us by becoming a member 👇
-  > https://www.youtube.com/channel/UCDXpP3bwWjhjBRdCP-5mNVg/join
-  > 🔴Please follow me on Twitter👇
-  > https://twitter.com/Daihuku0015
-  > 📚Be sure to check out the Mechanical Keyboard playlist!👇
-  > https://www.youtube.com/playlist?list=PL6MZG9NsHzeDbPo6w2OaSY6IwVlTGJlcg
-  > --------------------------------------------------
-  > ■About Subtitles
-  > Although the message is in Japanese, you can use YouTube's subtitle feature to automatically translate it and view the message in your preferred language. You can choose the language you want by clicking on the Settings button under the Subtitles menu and selecting "Add subtitles". The subtitle options also allow you to customize the font size and transparency of the subtitle background for a better viewing experience. I hope you'll be able to watch it again, and I hope you'll be able to see it again.
-  > 
-  > ■Support page for this channel
-  > Donations will be used to expand our channel's content, and we hope to continue to provide more videos for you to enjoy! Please support us if you'd like.
-  > Amazon Wishlist : https://www.amazon.jp/hz/wishlist/ls/R3ASE7WAH02N?ref_=wl_share
-  > Patreon : https://www.patreon.com/daihuku_keyboard?fan_landing=true
-  > note :  https://note.com/daihukukeyboard
-  > 
-  > Amazon or Banggood links are affiliate links. Any revenue earned through affiliate links will be used for video production. Please help us if you want.
-  > --------------------------------------------------
-  > #NocFree #splitkeyboard #low-profile
-  > #MechanicalKeyboard #CustomKeyboard
-
-- **热门评论（16 条）：**
-
-  > **@メモリ高い** [👍4]：最近ロープロが多いですな。
-  >
-  > **@kobayan_** [👍4]：全部入りに近いですね〜<br>choc v2 互換、もしくは専用でもタクタイルスイッチがあれば迷わず買ってました😢<br>3ドルのVIP予約しましたが迷う…
-  >
-  > **@DaihukuKeyboard** [👍3]：NocFree &amp; split keyboard <br><a href="https://www.nocfree.com/products/nocfree">https://www.nocfree.com/products/nocfree</a>
-  >
-  > **@せつげつか** [👍3]：えっ…ま、まずい…私がほしいものが全て詰まってる！？！？<br>静音モデルなんて出たら…財布が😭
-  >
-  > **@くらもと_cat** [👍3]：重さはどれくらいなんだろう
-  >
-  > **@0ilj0** [👍2]：テンキー単体でほしい…！
-  >
-  > **@clanmarker1195** [👍2]：テンキーパッドって別に買うとデザインの統一感が取りにくんですけど、コレはその解決にもなりますね<br>特にシルバーだとデスクトップAppleさんに合う気がします<br>打鍵音が軽いのが個人的に気になりますが、それ以外は盛りだくさんっすよね<br>オサレさんとか、ドヤりたい人向けかしら(^^;)<br>ただ、いろいろ揃えるとなると結構な出費になりそうなので、厳しいなあ(T_T)<br>来年あたり、似たような物をEPOMAKERあたりがお安く作ってくれないかな〜(^o^)
-  >
-  > **@th_1997** [👍2]：これは買いだな。ロフリーは……
-  >
-  > **@Throggy** [👍1]：How are the wireless capabilities of the keyboard? I have their Noc Free lite keyboard and the wireless functionality has pretty much stopped working. I was thinking about getting this keyboard in the future but if it&#39;s going to have the same issues I&#39;m having now, I&#39;d prefer just to pass and get something else.
-  >
-  > **@結城里音** [👍1]：分割キーボードのガスケット構造は、横から断面構造が見えるのが良い。<br>何ミリのフォームがはいってるだの...とか......ｗ<br>それぞれ、特色を出してくれるのは良いですが。<br>互換性までカットせずとも、普及具合だったり、と。色々と考えてしまいます...
-  >
-  > **@hihi_roro** [👍1]：どうやったら買えるんでしょう
-  >
-  > **@山木の海苔** [👍1]：外箱ぼこぼこだな
-  >
-  > **@minQ_Q**：무음 스위치, 저소음 스위치 매우매우매우 필요합니다 사무실에서 쓰고싶어요😊
-  >
-  > **@たくろう-p5g**：いっぱい売れて日本語配列出してほしい🥹
-  >
-  > **@太田敦-f6z**：理想の分割キーボードで欲しいですけれど、送料とかいくら掛かるんだろう。<br>日本での発売もありますかね？
-  >
-  > **@midorizemi-qb3wg**：Windows, Macでデバイスを切り替えた場合プロファイルは切り替わるのでしょうか？<br>Windows用のレイアウトプロファイル，Mac用のレイアウトプロファイルが登録できるのかそうでないのかが知りたいです！<br>それから，プロファイルの切り替えの作業が必要でしょうか？（HHKB Type-Sでは，Macモードを毎回選択する必要がありました！）
-  >
-
----
-
-## 13. I Tried NocFree Split Keyboard + Budget Ergonomic Mouse — Unexpectedly Productive
-
-- **频道：** Thoughtworthy Co
-- **观看数：** 6,861
-- **点赞数：** 245
-- **评论数：** 28
-- **时长：** 12:25
-- **发布日期：** 2025-09-01T13:47:33Z
-- **链接：** https://www.youtube.com/watch?v=7iAhXsBPdC0
-- **来源：** search
-- **有字幕：** 是
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/7iAhXsBPdC0/hqdefault.jpg
-- **标签：** split keyboard, ergonomic keyboard, ergonomic mouse, nocfree, proroarc em11
-- **简介：**
-
-  > Are ergonomic split keyboards and vertical mice actually healthier for our bodies? Are they difficult to learn? Do they even make a difference? We tried them on our healthy desk setups for 30 days and the result was somewhat surprising!
-  > 
-  > NocFree &: https://nocfree.kckb.me/thoughtworthy
-  > NocFree Lite: https://www.nocfree.com/products/nocfree-lite?sca_ref=9545943.iyXJgZni3PRZLYg
-  > ProtoArc EM11 NL: https://www.protoarc.com/?ref=thoughtworthy (Code “THOUGHTWORTHY” for 10% off)
-  > 
-  > 00:00 Intro
-  > 00:48 Day 1 - First impressions
-  > 03:22 Temporary loss of productivity
-  > 05:34 Day 3 - Did we even feel a difference?
-  > 08:54 Day 14 - Unexpected benefits
-  > 10:33 Day 30 - Our verdict?
-  > 
-  > (Disclaimer: This video is NOT sponsored, but there may be affiliate links. NocFree and ProtoArc agreed to provide us with their products with the knowledge we’re doing this experiment, but they have zero input on what we say or show.)
-  > 
-  > ✦✦✦
-  > 
-  > 🛍️ Shop our merch & digital downloads @ https://shop.thoughtworthy.co
-  > 👉 See our product recommendations @ https://thoughtworthy.co/favorites
-  > 📰 Subscribe to our newsletter @ https://thoughtworthy.co/newsletter
-  > 📷 Follow us on Instagram @ https://www.instagram.com/thoughtworthyco/
-  > ☕ Buy us a coffee @ https://buymeacoffee.com/thoughtworthyco
-  > 
-  > ♪ 
-  > In The Morning Light by Tokyo Music Walker
-  > https://youtu.be/IvIBON2AkHc?si=TaH2gmBhh33H9slB
-  > 
-  > Morning Dew by Spective & oxinym
-  > https://youtu.be/WJ0dhmi_364?si=9CikZ-2HsFo4CUUD
-  > 
-  > #ergonomickeyboard #ergonomicmouse #splitkeyboard #nocfree #protoarc
-
-- **热门评论（17 条）：**
-
-  > **@ThoughtworthyCo** [👍10]：Have you ever felt discomfort when typing or using your mouse? Have you tried ergonomic keyboards or mice? Share with us your experience 👇<br><br>P.S. this video is not focused on the products, but if there’s interest, we can do a short review (maybe written). If anyone’s interested, just let us know!
-  >
-  > **@whitneybrown4067** [👍2]：Yesss n as usual This is Gonna b so Helpful TWC💐🎉🔥🔥🔥👍n Happy Monday😀!!!….
-  >
-  > **@rowanwax** [👍2]：I love sideways mice! Helps immensely with my wrist and forearms.<br>I do want to try a split key board someday. I do have a mechanical keyboard that is tactile so I don&#39;t need to push the keys all the way down. The joints in my fingers appreciate the less strenuous method. Probably means I will need to find a linear split which... sounds expensive 😅
-  >
-  > **@raytsh** [👍2]：You forgot to mention one of the best features of split keyboards: the split space bar. It enables you to have space on one thumb and backspace on the other thumb. This is a huge improvement to comfort to not having to reach for the normal backspace key.<br><br>Though, kudos on properly going into the tenting feature.
-  >
-  > **@NocFree** [👍2]：Thank you so much for taking the time to share your thoughtful review! We’re truly grateful for your support and feedback—it means a lot to us.<br><br>Personally, I didn’t type a huge amount, but over time, I noticed some occasional wrist soreness. After switching to our NocFree keyboard, those issues have improved a lot. While old habits can still affect the way I type, the comfort has truly been a game-changer.<br><br>Your review highlights how even small changes can make a big difference, and we couldn’t agree more! Oh, just wanted to share an update — we’ve added charging to the tenting &amp; stand kit! We’d love for you to try it out and see how it enhances the experience even further.<br><br>Thanks again for being a part of the NocFree journey.
-  >
-  > **@lolkthnxbai** [👍1]：<a href="https://www.youtube.com/watch?v=7iAhXsBPdC0&amp;t=290">4:50</a>, some alice layout boards have two &#39;B&#39; keys on each half for this reason.
-  >
-  > **@cstar6682** [👍1]：I think you just gave me a gift idea! Thanks.
-  >
-  > **@smg7471** [👍1]：I have  the evoluent verticle mouse. Its very comfortable to use and programmable too. Its sadly a bit in thr expensive side.
-  >
-  > **@helenofstory** [👍1]：I&#39;ve heard of those &quot;broken&quot; keyboards and was interested in trying! But not sure if I can get used to the phantom feeling of missing keys or not being able to type fast. As for the mouse, that looks like it&#39;s designed for right handed folks - any left handed options?
-  >
-  > **@Alekzv9**：Great video! I was looking for this video but since lack of NocFree on title it was hard to re-find
-  >
-  > **@jonathanzimm5511**：I can say yes the mouse works well for me, i also went into the rabbit hole of custom ergo mech keyboards and I am using a corner now which I also like very much.
-  >
-  > **@nicteal**：Aye! It’s good to see you guys! I have been using an ergonomic mouse and keyboard (alice layout). So far, they have been great! I used them more for prevention as I always see people having wrist pain or injury from computer use. Thus, never had any pain before from the traditional set up. However, they force the hands to be in a more neutral position which should help prevent injuries in the long run!
-  >
-  > **@Everydaykaen**：Noice giveaway ergo mouse 🐁
-  >
-  > **@EmaryTegan**：Please drop the ahk script that let&#39;s you control Volume and Playback control using scroll speed.
-  >
-  > **@LuzyAnimation**：if you want a more vertical mouse you should look at razers vertical mouse i think its around 70degrees  wich is the highest i found when i was looking for one ^^
-  >
-  > **@M_SC**：I’m not certain the plural of computer mouse is mice. I guess it could be. <br>Is the desk the right height for the keyboard? How to decide? <br>😂I don’t even have a computer these days
-  >
-  > **@ako-d2m**：I think you messed yourself up getting a traditional split keyboard instead of an ergonomic split keyboard. There&#39;s many ortholinear split keyboard that are a lot better for ergonomics.
-  >
-
----
-
-## 14. 【㊗️技適対応】分割＆ワイヤレスのかわいいキーボード NocFree Lite レビュー | NocFree Lite : Mechanical Keyboard Review
-
-- **频道：** Daihuku Keyboard
-- **观看数：** 7,720
-- **点赞数：** 111
-- **评论数：** 13
-- **时长：** 9:24
-- **发布日期：** 2023-11-28T14:09:39Z
-- **链接：** https://www.youtube.com/watch?v=Yjb9Cn1KSt0
-- **来源：** search
-- **有字幕：** 是
-- **语言：** ja
-- **缩略图：** https://i.ytimg.com/vi/Yjb9Cn1KSt0/hqdefault.jpg
-- **标签：** NocFree, カスタムキーボード, メカニカルキーボード, MechanicalKeyboard, CustomKeyboard, 分割キーボード
-- **简介：**
-
-  > NocFree Liteは以下の特徴をもったメカニカルキーボードです。
-  > - 腕や肩の負担を軽減し、姿勢改善が期待できる分割キーボード
-  > - 完全ワイヤレスなので、PC接続と左右間接続の両方をケーブルレスにできるためデスク上がすっきりできす
-  > - 技適取得予定のため、日本でのワイヤレス利用でも安心
-  > - US配列キーレイアウトを採用
-  > - オプションにて、キースイッチやキーキャップを安価に追加可能
-  > - パームレストも同梱し、タイピングの快適さを追求
-  > - デフォルトキーキャップの素材はABS、オプションキーキャップの素材はPBTを採用
-  > - MacとWinで利用可能
-  > 
-  > sponsored by NocFree Keyboard
-  > 
-  > 
-  > NocFree Lite - Kickstarter
-  > https://nocfree-lite-60-split-keyboard.kckb.st/d05ee06e
-  > 
-  > 
-  > Amazon ストアフロント : https://amzn.to/3S2cMja
-  > 
-  > --------------------------------------------------
-  > 
-  > 🔴チャンネル登録お願いします👇
-  > https://www.youtube.com/c/DaihukuKeyboard?sub_confirmation=1
-  > 
-  > 🔴チャンネル登録者は、メンバー登録して応援してください👇
-  > https://www.youtube.com/channel/UCDXpP3bwWjhjBRdCP-5mNVg/join
-  > 
-  > 🔴Twitterフォローお願いします👇
-  > https://twitter.com/Daihuku0015
-  > 
-  > 📚【自作キーボード】の再生リストも是非見てください👇
-  > https://www.youtube.com/playlist?list=PL6MZG9NsHzeDbPo6w2OaSY6IwVlTGJlcg
-  > 
-  > --------------------------------------------------
-  > 
-  > ■このチャンネルの支援ページ
-  > 支援は当チャンネルのコンテンツを拡充させるために活用し、より楽しんでもらえる動画を継続的に提供していきたいと考えています！よかったら支援をよろしくお願いします。
-  > Amazon欲しいものリスト： https://www.amazon.jp/hz/wishlist/ls/R3ASE7WAH02N?ref_=wl_share
-  > note :  https://note.com/daihukukeyboard
-  > Patreon : https://www.patreon.com/daihuku_keyboard?fan_landing=true
-  > 
-  > AmazonまたはBanggoodのリンクはアフィリエイトリンクです。アフィリエイトを通じて得られた収益は動画制作に活用させていただきます。よかったら協力をお願いします。
-  > 
-  > --------------------------------------------------
-  > #分割キーボード #カスタムキーボード #メカニカルキーボード  
-  > 
-  > ----------------------------------------------------------------------------------------------------
-  > 
-  > NocFree Lite is a mechanical keyboard with the following features.
-  > - Split keyboard that reduces strain on arms and shoulders and improves posture
-  > - Since it is completely wireless, both the PC connection and the left and right connections can be made cable-free, making your desk cleaner.
-  > - Scheduled to obtain technical certification, so you can use it wirelessly in Japan with peace of mind.
-  > - Adopts US key layout
-  > - Key switches and key caps can be added at low cost as options.
-  > - Also includes a palm rest for more comfortable typing
-  > - Default keycap material is ABS, optional keycap material is PBT
-  > - Available for Mac and Win
-  > 
-  > sponsored by NocFree Keyboard
-  > 
-  > 
-  > NocFree Lite - Kickstarter
-  > https://nocfree-lite-60-split-keyboard.kckb.st/d05ee06e
-  > 
-  > 
-  > Amazon storefront: https://amzn.to/3S2cMja
-  > 
-  > 
-  > --------------------------------------------------
-  > 
-  > 🔴Please subscribe to our channel👇
-  > https://www.youtube.com/c/DaihukuKeyboard?sub_confirmation=1
-  > 
-  > 🔴If you are a channel subscriber, please support us by becoming a member 👇
-  > https://www.youtube.com/channel/UCDXpP3bwWjhjBRdCP-5mNVg/join
-  > 
-  > 🔴Please follow me on Twitter👇
-  > https://twitter.com/Daihuku0015
-  > 
-  > 📚Be sure to check out the Mechanical Keyboard playlist!👇
-  > https://www.youtube.com/playlist?list=PL6MZG9NsHzeDbPo6w2OaSY6IwVlTGJlcg
-  > 
-  > --------------------------------------------------
-  > 
-  > ■About Subtitles
-  > Although the message is in Japanese, you can use YouTube's subtitle feature to automatically translate it and view the message in your preferred language. You can choose the language you want by clicking on the Settings button under the Subtitles menu and selecting "Add subtitles". The subtitle options also allow you to customize the font size and transparency of the subtitle background for a better viewing experience. I hope you'll be able to watch it again, and I hope you'll be able to see it again.
-  > 
-  > ■Support page for this channel
-  > Donations will be used to expand our channel's content, and we hope to continue to provide more videos for you to enjoy! Please support us if you'd like.
-  > Amazon Wishlist : https://www.amazon.jp/hz/wishlist/ls/R3ASE7WAH02N?ref_=wl_share
-  > Patreon : https://www.patreon.com/daihuku_keyboard?fan_landing=true
-  > note :  https://note.com/daihukukeyboard
-  > 
-  > Amazon or Banggood links are affiliate links. Any revenue earned through affiliate links will be used for video production. Please help us if you want.
-  > --------------------------------------------------
-  > #MechanicalKeyboard #CustomKeyboard #NocFree
-
-- **热门评论（6 条）：**
-
-  > **@Na0yaN** [👍6]：これホットスワップだし技適あるしキー配置変えられるみたいだし、最強の左手デバイスになるのでは？！？！<br>銀軸に変えて超コンパクトなゲーミングキーボードとしても使えそう……
-  >
-  > **@DaihukuKeyboard** [👍1]：Kickstarterのプロジェクト期限は2023年12月31日。<br>格安で購入できるのはこの期間のみなので、気になっている方は是非😄<br>NocFree Lite - Kickstarter<br><a href="https://nocfree-lite-60-split-keyboard.kckb.st/d05ee06e">https://nocfree-lite-60-split-keyboard.kckb.st/d05ee06e</a>
-  >
-  > **@アイト-f8e** [👍1]：kickstarterで購入したものも技適取得された物なのでしょうか？
-  >
-  > **@結城里音** [👍1]：左右をくっつける時、脳内で勝手に……<br>合体！<br>という言葉がよぎりました😎👍<br>オータムは、サイレントモデルもあるので、そちらだとしずかちゃんですよ(*´ω｀*)<br>(購入予定)<br>キーキャップは9009モデルですね〜さすが海外と言うべきか、<br>人気カラーなんですよね。<br>キースイッチ変えるだけ音もガラリと変わり、サイレントのタクタイルにすると、ポコポコ言うようになるので😊<br>調べすぎて、耳コピしちゃったw
-  >
-  > **@keyboard_g**：Chonky case and Mini-USB are a huge miss.
-  >
-  > **@Findecanor**：Sounds thin. Lacks spacebar-profile space keys. North-facing LEDs limits keycap options.
-  >
-
----
-
-## 15. The most AESTHETIC Split Keyboard? | NocFree &amp;
-
-- **频道：** DeveloperAdam
-- **观看数：** 2,732
-- **点赞数：** 49
-- **评论数：** 7
-- **时长：** 6:15
-- **发布日期：** 2025-08-05T14:00:19Z
-- **链接：** https://www.youtube.com/watch?v=GTujJ8MfXwo
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en-GB
-- **缩略图：** https://i.ytimg.com/vi/GTujJ8MfXwo/hqdefault.jpg
-- **标签：** nocfree, split, keyboard, aesthetic, home, office, vibe, apple
-- **简介：**
-
-  > What's up legends!
-  > 
-  > ⏰ Timestamps
-  > Intro: 00:00
-  > Unboxing: 00:25
-  > First Look: 00:50
-  > Low Profile Switches: 01:24
-  > Numpad First Look: 01:55
-  > Keyboard Ergonomics: 02:50
-  > Keycaps swap: 03:15
-  > Sound test: 03:25
-  > Software: 03:42
-  > Battery & Weight: 04:25
-  > Final thoughts: 05:20
-  > 
-  > This is the NocFree & Split keyboard and it's a thing of beauty!
-  > 
-  > A real quality keyboard that screams premium, a delight to use and really is fantastic looking!
-  > 
-  > I'd love to know what you think of this and what colour you would go for to match your aesthetic?
-  > 
-  > Kickstarter link: https://nocfree.kckb.me/developeradam
-  > 
-  > www.developeradam.com
-  > ------------------------------------------------
-  > #keyboard #homeoffice #aesthetic
-
-- **热门评论（5 条）：**
-
-  > **@RaymondwLin** [👍2]：Almost every single person who never used a split keyboard do the positions wrong,  at <a href="https://www.youtube.com/watch?v=GTujJ8MfXwo&amp;t=188">3:08</a> mark in the video you turned the keyboards IN towards the middle, with the keyboard only like 10cm apart....you should have had them facing OUT, that is better for your wrists.  If you look at their promotional photos, it faces OUT.
-  >
-  > **@kiddo_tech** [👍1]：Ok, from the thumbnail I thought you broke it! 😂 It&#39;&#39; s very comfort especially for those who travelling a lot! 🔥
-  >
-  > **@gtatomek**：Looks promising :D<br>I was trying to build something similar myself because there&#39;s a lack of similar keyboards, but I&#39;m stuck on the case design.
-  >
-  > **@conorhoward10**：Beautiful. And apple keys too 🙌. So many I see I like the look of but is only available with windows keys. Love the numpad too, my next keyboard won’t have a numpad to save on space as I don’t use it much but having one in arms reach for those rare occasions would be awesome
-  >
-  > **@muuku88**：梱包ケースの中央が折れているのは分割キーボードが故ですね。　製品化の際は箱の補強等の対策をしないとほとんどが配送途中でこの梱包折れ問題が発生しそう(^_^;)
-  >
-
----
-
-## 16. NocFree &amp; Review — Split, Wireless, Low-Profile…But Is It Worth It?
-
-- **频道：** Studio SC
-- **观看数：** 2,377
-- **点赞数：** 46
-- **评论数：** 14
-- **时长：** 5:00
-- **发布日期：** 2025-08-15T14:01:00Z
-- **链接：** https://www.youtube.com/watch?v=fsauILVFSbo
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/fsauILVFSbo/hqdefault.jpg
-- **标签：** nocfree &, nocfree and, nocfree split keyboard, nocfree keyboard review, split keyboard review, ergonomic keyboard review, low profile keyboard, wireless split keyboard, mechanical split keyboard, best split keyboard, ergonomic typing keyboard, wireless ergonomic keyboard, keyboard for posture, nocfree ergonomic keyboard, split keyboard for coding, split keyboard for gaming, low profile ergonomic keyboard, nocfree kickstarter, nocfree keyboard unboxing
-- **简介：**
-
-  > https://www.kickstarter.com/projects/solar-nocfree/nocfree-and-the-wireless-split-keyboard?ref=7sbdd7&token=3ec5cf05
-  > 
-  > I'm selling my keyboards at 40% off!
-  > https://www.ebay.ie/sch/i.html?item=205590189868&rt=nc&_trksid=p4429486.m3561.l161211&_ssn=studio.sc
-  > 
-  > Connect With Me
-  > https://www.tiktok.com/@studio.sc_
-  > https://www.instagram.com/studio._sc/
-  > https://twitter.com/studio__sc
-  > 
-  > Chapters:
-  > 00:00 - Intro
-  > 00:33 - Unboxing & First Impressions
-  > 01:00 - Design & Build Quality
-  > 01:40 - Features & Functionality
-  > 02:26- Keycaps & Switches
-  > 02:52 - How does it sound?
-  > 03:33 - Software & Customization
-  > 03:53 - Teardown & Internal Build
-  > 04:01 - Final Thoughts: Is It Worth It?
-  > 
-  > Disclaimer: Some of the links above may be affiliate links, meaning I earn a small commission at no extra cost to you.
-
-- **热门评论（8 条）：**
-
-  > **@Tiktok-psychoaizo** [👍5]：At the beginning of the video i thought u had atleast 300k subscribers ur holly underrated
-  >
-  > **@corruptx7** [👍4]：A retail price of $349 is absurd. At the very least, the tenting and stand kit should be included imo. Great review man🙂
-  >
-  > **@gottscreates** [👍2]：Great review mate! I really like how sleek the design is and you can tell they have spent time on it. Sounds good but the price tag is hefty!!
-  >
-  > **@RaymondwLin** [👍1]：why do all YouTubers put their split keyboards at an angle that is unnatural and uncomfortable?  It should be placed in a convex manner but they all put it in an concave manner which forces the wrist inwards then twisting the hand outwards.  Making it worse than a normal keyboard.
-  >
-  > **@dt8817** [👍1]：How does it work wirelessly? I have their Noc Free Lite and I&#39;m on my second unit and the wireless functionality is pretty much terrible. My first unit literally stopped working, and I&#39;ve pretty much had the same issue with the replacement they sent me. I&#39;m wanting to get the Noc Free &amp; due to the numpad and function keys, but I&#39;m not going to fork out the money if the wireless capabilities has the same issues that the Noc Free Lite does.
-  >
-  > **@pandzior2801** [👍1]：I would&#39;ve bought it if it was for 150 USD max
-  >
-  > **@luftstolle**：I&#39;m not familiar with fancy keyboards like this, but linear switches is mostly for gamers from what I read? This keyboard was really close to what I wanted, but I&#39;m not playing games.
-  >
-  > **@ecvetanov**：Thanks for the review. If you&#39;ve had to chance the type on Lofree flow (the original) or Iqunix magi 65 - how would you compare the NocFree &amp; sound/feel to those 2?
-  >
-
----
-
-## 17. 키보드를 자르면 되는데, 왜 이생각을 못했지? (NocFree Lite)
-
-- **频道：** 서울리안 SEOULiAN
-- **观看数：** 23,995
-- **点赞数：** 233
-- **评论数：** 99
-- **时长：** 7:40
-- **发布日期：** 2024-09-26T11:30:24Z
-- **链接：** https://www.youtube.com/watch?v=p30JgHLnU0M
-- **来源：** search
-- **有字幕：** 是
-- **语言：** ko
-- **缩略图：** https://i.ytimg.com/vi/p30JgHLnU0M/hqdefault.jpg
-- **标签：** 키보드, 키보드 추천, 앨리스 키보드, 앨리스 키보드 추천, 기계식 키보드, 스플릿 키보드, 스플릿 키보드 추천, 블랙매직디자인 키보드
-- **简介：**
-
-  > 여러분 컨셉이 재밌으면서도 유용하게 사용하고 있는 키보드 하나 소개할게요.
-  > 저는 영상 편집하는 책상에서 메인으로 사용할 정도로 만족스러웠습니다!
-  > 
-  > * NocFree Lite : https://smartstore.naver.com/nocfree/products/10825861031
-  > 
-  > 0:00 인트로
-  > 0:45 NocFree Lite
-  > 1:47 Setup & 첫인상
-  > 3:13 사용 시나리오
-  > 4:28 스위치 & 키매핑
-  > 5:22 우리가 감내해야 할 부분은?
-  > 6:57 그럼에도 불구하고
-  > 
-  > #키보드 #스플릿키보드 #앨리스키보드
-  > 
-  > *BGM & Sound Effects @Epidemic Sound 
-  > *아래 링크를 통해 Epidemic Sound 무료로 30일 체험해볼 수 있습니다 :)
-  >  (https://share.epidemicsound.com/wqdw2)
-
-- **热门评论（56 条）：**
-
-  > **@YoonELEC** [👍39]：한국인 입장에서 스플릿 키보드 오른편에 B키 없으면 못써먹음…
-  >
-  > **@user-fn4px4cb3s** [👍11]：한국인이란 &#39;ㅠ&#39;와 &#39;B&#39;를 모두 포기할 수 없는 불쌍한 운명
-  >
-  > **@wildgrap** [👍9]：정석적으로 타이핑을 배우면 B랑 ㅠ를 모두 왼손으로 치도록 배우죠<br>한컴 타자에서도 왼손으로 치도록 되어있음
-  >
-  > **@mankoko** [👍4]：ㅠㅠB키야 적응은 빨리되는데 정작 가장 큰 단점인 물음표 키 위치를 말씀 안하셔서 조금 아쉬웠습니다
-  >
-  > **@해쉬브라운-i2h** [👍4]：이 제품 나오기 전에 나온, 유선 스플릿 키보드인 키크론 q11이란 제품을 구매해서 사용하고 있습니다. 처음에 bㅠ키 때문에 애를 먹었는데요. 왼손 b키만 받아들이면, 신세계가 열립니다. 오랫동안 컴퓨터를 사용해야하는데, 말린 어깨, 굽은 등 때문에 고민이시라면 그냥 새로 배울 생각 하고 구매하시는 것도 나쁘지 않습니다. 저는 한 2주 정도 버벅이다가 지금은 풀배열 키보드 써도 b키를 왼손으로 치게 되었습니다. 제 오랜 버릇과 제 어깨의 건강, 둘 중 하나를 선택해야 했기에... 자세 때문에 통증이 심하다면, 스플릿 추천드립니다. 참고로 bㅠ키가 양쪽에 달린 스플릿 키보드도 있으니, 찾아보시는 것도 좋을 것 같습니다만, 보통은 가격이 비쌉니다. 그리고 무선으로 깔끔하게 사용하시려고 하신다면, 스플릿 키보드로는 이 제품이 가장 독보적인 것 같습니다. 저도 곧 이 제품을 사게 될 것 같은데요. 관부가세 포함 가격일지 궁금하네요.
-  >
-  > **@lacucina9567** [👍1]：ㅎㅎㅎ 지난 영상 보고 바로 구매했지용!!! 진짜 재밌는게 오늘 도착했는데 영상을 오늘 업로드해주시다니..그래도ㅠ영상 만들어주셔서 감사합니다 키 변경을 어떻게 하나 궁굼했는데!! 이렇게 저랑 잘 맞을수가 있지요?? 리안느~~^^
-  >
-  > **@acorn4146** [👍1]：glove80 같은 인체공학 키보드는 사용해보셨나요?
-  >
-  > **@hobbyholic_LoveLive** [👍1]：아주 오래전에  친구에게 이야기 했다가 이상한 사람 취급받았던.... 키보드 쪼개놓은 상품이 나왔군요.   맘에 드는데, 비싸군요. 당연한....?   정확한 단점 이야기가 돋보이는 영상입니다. 하나 갖고 싶네요.
-  >
-  > **@chawoochawoo419** [👍1]：filco사의 m10sp를 사용 중입니다<br>가운데 펑션 키가 있어서 필요한 추가 키를 매핑해서 사용 중입니다<br>말씀하신 B키 이외에 저에겐 Y, H, 숫자 6, 7 키도 해당하더라규요 ㅠㅡㅜ<br>66 키배열에서 필요한 화살표도 스페이스 옆 매크로키에 등록해서 사용하니 좋습니다<br><br>무엇보다 팜레스트가 탐나는군요. 스플릿 키보드용 팜레스트가 생각보다 없어요
-  >
-  > **@writernni** [👍1]：이게 국내 스토어에서도 살 수 있게 됐군요 인디고고에서 펀딩할 때 사서 아주 잘 쓰고 있습니다 하루 8시간 이상 키보드 치는데 여기 정착했어요 백축으로 샀는데 개인적으로 리얼포스보다 손가락 통증도 줄었습니다 스플릿이니 어깨 편한 건 당연하구요 단지 무선으로 사용할 땐 20분 정도 사용하고 나면 타이핑 속도를  못 따라오고 특정 키가 고정되어 계속 입력되는 현상이 있습니다 사실상 유선 키보드라고 생각해야 합니다 스플릿이면서 좌우 키보드까지 모두 무선 연결된다는 것때문에 샀었는데 그 부분에선 제기능을 못한 셈이죠
-  >
-  > **@DRD-coltd** [👍1]：다른거는 그냥 그저그랬는데 키보드 사이에 먹을거 두신거 보고 바로 무지성 구매 누를뻔했네용;
-  >
-  > **@chuuny** [👍1]：실제 써 봄... 어떨지 모르겠지만 저도 키보드 반/반 항상 쓰고 싶긴 하고 있는데.... 진짜 궁금하긴 합니다.<br>문제는.... 가격과 실제 나한테 맞을까? 이 2가지죠
-  >
-  > **@조이풀니스**：곧 칼럼 스태킹 키보드도 입문 하시겠군요
-  >
-  > **@dandyonizuka6930**：안경이 더욱 더 잘 어울리세요! 잘보고 갑니다!😊
-  >
-  > **@bookchi**：저도 이거 조만간 영상 올릴 건데 실사용을 꽤 오래 했습니다<br>다른 건 몰라도 탠팅 각도 조절이 진짜 예술입니다 ㅎㅎㅎㅎ
-  >
-  > **@냠냠-q8v**：와 ㅋㅋㅋ 스피드에디터 쓰면서 스플릿키보드 쓸 생각을 못해봤네요 ㅋㅋㅋ<br>진짜 편할 것 같아요
-  >
-  > **@jdny180**：오 신박한 아이템이네요
-  >
-  > **@lucis_ferre**：y도 왼손으로 누르는 저는 힘들겠군요
-  >
-  > **@구월에-h3w**：롤할때 체팅안쓸수 있겠되서 편하겠군요😂😂
-  >
-  > **@윤옥교**：무선 키보드라 반으로 짤라진거 보다 👀 이어진게 좋타
-  >
-  > **@user-sanzombie**：가격이.... 가격이!!! 장벽이네
-  >
-  > **@seonhongkim**：속기사 분들이 비슷한거 쓰시는거 봤는데
-  >
-  > **@maeum2papa**：구성품에 좌우 키보드 연결 선이 있는지 아시는분 있으세요?
-  >
-  > **@user-fp2gt5jc4c**：진작에 이런 키보드가 없었다는게 놀랍네요 <br>B키만 양쪽에 있으면 딱이겠는걸요..ㅎ
-  >
-  > **@_OraTV**：여기에 래피드트리거 기능이 탑재되면........발로란트 하기 너무 좋은 키보드자나!!
-  >
-  > **@Ghost_miniM**：저는 y키를 왼손으로 누르는 습관이 있어서 자꾸 헛발질 하게 되네요 ㅋㅋㅋㅋ
-  >
-  > **@KHoon.**：세벌식으로 쓰면 ㅠ 는 문제 없어요.
-  >
-  > **@Park-YoungJin**：잘 봤습니다<br>녹프리 스필릿 키보드의 유/무선 응답 속도가 궁금하네요
-  >
-  > **@PremiumPaw**：흠 써보고 싶네요
-  >
-  > **@princess_sumin**：저 쪼개기 권법 너무 탐나는데 배울 수 있을까요 스승님 🫡
-  >
-  > **@철가면-o3l**：가격이 안드로메다 갔네요..ㅜㅠ
-  >
-  > **@backlashlee**：저는 ㅠ키를 왼 손으로 치는데 오른 손으로 치는 분들이 많이신가 보네요...
-  >
-  > **@odleodleodle**：비슷한 키보드 중에 토막 키보드라고 있는데 그건 b키가 두갠데 이건 실사용하기 어렵겠네요
-  >
-  > **@appleyoutub**：디그마 디파이가 손목에는 더 나아보이네요.
-  >
-  > **@liealgebra9930**：혹시 키 여러개 동시에 눌리는거 제대로 잘 인식되나요? 동시 입력이 스플릿이라  왼쪽 오른쪽 동시에 눌렀을때 잘인식 되는지 궁금합니다....
-  >
-  > **@정의진-y5d**：이 쪽 계열에서는 corne가 제일 인지도 높숩니다
-  >
-  > **@suho0720**：로지텍 ERGO 계속 써와서 적응은 어렵지 않을 것 같네요<br>저는 원래 모니터 받침대로 샀던 거 키보드 위에 두고 뭐 올려놓을 때 쓰니 어느 정도 높이도 있어서 좋아요
-  >
-  > **@rephoenix3375**：B가 오른쪽에 없어????
-  >
-  > **@고양이보다강아지**：오른쪽B 없는 스플릿은...! 전 스플릿은 너무 하드한 거같고 어고배열 쓰는 데 확실히 좋아요&lt;
-  >
-  > **@선우-t1w**：흔히 인체공학 키보드라고 하는 짜게진, 찌그러진 배열에 적응을 못해서 전 그냥 노멀한거만 씁니다만<br>적응만 할수있다면 좀 덜 웅크린 자세일거고 손목도 더 바깥으로 향하겠죠
-  >
-  > **@misslinda999**：쪼개..?
-  >
-  > **@jinho4822**：아직 메인으로는 해피해킹 쓰시나요?
-  >
-  > **@curiosity7837**：인체공학 키보드는 안이쁘기 어려운데 안이쁘다
-  >
-  > **@정쿠드**：난 옛날에 한컴타자로 배우고 왼손으로 ㅠ를 쓰는 버릇이 있는데…내가 배웠던 한컴타자는 사도였나…!!!!
-  >
-  > **@캡스-n4e**：서울리안 유튜버님 노고에 감사드립니다
-  >
-  > **@tjwndktm**：이등
-  >
-  > **@yeonjung8144**：일등
-  >
-  > **@9eunho**：딱봐도 겁나 불편해보이는데 며칠쓰고 당근행
-  >
-  > **@sori7049**：3등
-  >
-  > **@raverpeter1**：갠적으로 플심용으로 사용하면 대박일 거 같습니다 👍
-  >
-  > **@DrowsyCAT**：ㅠ/B 는 예전에 MS 내츄럴 키보드 쓰면서 어거지로 왼손으로 바꿨는데 20년이 훨씬 지난 지금도 ㅠ는 오른손으로 찍는 게 더 자연스러움.. ㅜㅜ
-  >
-  > **@pinsdiary**：요즘 저도 스플릿키보드 찾아보다 Keyball 이라는 제가 원하는 커스텀 키보드를 찾아냈는데요. 국내에 거의 없는 분야더라구요. 이런쪽도 관심가져봐주세요!<br>납땜도 해야하고 하는데 스플릿에 트렉볼이식으로 써서 마우스 잡으러 이동도 안해도 되는 키보드입니다. 😊😊
-  >
-  > **@lucyan6407**：이거 키압은 얼마나 될까욤?
-  >
-  > **@추웠음좋겠다**：스플릿 키보드는 저도 언젠가 한번 써보고싶은데 예쁜게 잘 없고 퀄리티에 비해 가격이 지나치게 비싸서 여태 못 사봄..
-  >
-  > **@aljunee223**：누나 칼라패널 리뷰 진짜진짜 기다리거 있습니다 ㅠ
-  >
-  > **@호두만두**：괜찮은 제품이네 생각했다가 B키가 너무 치명적이네요.  저 처럼 타자 작업 많이 하는 분들을 위해 b키가 오른쪽에 붙은 제품도 찾아주세요~!
-  >
-
----
-
-## 18. NocFree &amp;: Wireless Split Keyboard
-
-- **频道：** wabi sabi
-- **观看数：** 2,513
-- **点赞数：** 58
-- **评论数：** 6
-- **时长：** 6:55
-- **发布日期：** 2025-08-05T15:12:22Z
-- **链接：** https://www.youtube.com/watch?v=bcXHj4BptuY
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/bcXHj4BptuY/hqdefault.jpg
-- **简介：**
-
-  > Product: 
-  > ・Kickstarter NocFree &: https://nocfree.kckb.me/wabi-sabi
-  > 
-  > -
-  > 
-  > Chapters:
-  > 00:00 Intro
-  > 00:08 Unboxing
-  > 00:29 Package Contents
-  > 01:53 Specifications
-  > 05:18 Sound Test
-  > 06:05 Review
-  > 
-  > Links:
-  > ・Official Site: https://www.nocfree.com
-  > ・Discord: https://discord.com/invite/kTNzjcvrjM
-  > 
-  > Tags:
-  > #nocfree #& #review #showcase #mechanicalkeyboard #keyboard #keycaps #switch #typing #soundtest #asmr
-  > 
-  > Business Inquiries:
-  > ・wabisabiandshibui@gmail.com
-  > ・Message me on Instagram
-  >      Instagram : https://www.instagram.com/wbsb.jp/
-
-- **热门评论（6 条）：**
-
-  > **@katarixy** [👍1]：love the idea as much as I love my QK Alice Duo, but the layout looks awful T_T
-  >
-  > **@hadenkriztenzen**：Another keyboard to add to my wishlist!
-  >
-  > **@realandrisbiedrins**：Love the aesthetics of this. Need more low profiles to follow suite
-  >
-  > **@manuolivares4537**：wow
-  >
-  > **@Throggy**：How is the wireless functionality? I have the Noc free and it&#39;s horrible when I try to use it wirelessly. Wouldn&#39;t mind getting this keyboard because they layout is that of a standard keyboard, but if it doesn&#39;t work well wirelessly then I&#39;ll stick with what I have.
-  >
-  > **@AnotherProdigalSonReturns**：Looks great, sounds bleh
-  >
-
----
-
-## 19. 내 손목을 위한 크리스마스 선물 | NocFree Lite 스플릿 키보드
-
-- **频道：** 뽀꾸 PokooKey
-- **观看数：** 534
-- **点赞数：** 21
-- **评论数：** 23
-- **时长：** 10:01
-- **发布日期：** 2025-12-24T05:30:26Z
-- **链接：** https://www.youtube.com/watch?v=ii8W1RW8K8U
-- **来源：** search
-- **有字幕：** 是
-- **语言：** ko
-- **缩略图：** https://i.ytimg.com/vi/ii8W1RW8K8U/hqdefault.jpg
-- **标签：** 기계식 키보드, 게이밍 키보드, 키보드 리뷰, 기계식 키보드 추천, 타건 영상, 커스텀 키보드, 저소음 기계식 키보드, 게이밍 세팅, 게임용 키보드, 키보드 소리, 타건 ASMR, 키보드 타건음, 책상 셋업, 게이밍 데스크 셋업, 작업환경 셋업, 게임 장비 추천, 키보드 덕질, 책상 위 감성, 기계식 키보드 소리, 조용한 키보드, 키보드 덕후, 가성비 키보드, 녹프리, nocfree, 스플릿키보드, nocfree lite, 녹프리 라이트
-- **简介：**
-
-  > NocFree Lite는 녹프리에서 출시한 유무선 스플릿 키보드로
-  > 손목과 어깨의 부담을 줄이기 위한 인체공학적 설계를 특징으로 합니다.
-  > 콤팩트한 사이즈와 가벼운 무게로 책상 공간 활용과 휴대성 모두를 고려했고
-  > 좌우 분리 구조와 텐팅 기능을 통해
-  > 사용자 체형과 환경에 맞춘 자유로운 배치가 가능하며,
-  > 정숙한 저소음 스위치와 내부 흡음 구조로 안정적인 타건감을 제공하는데요.
-  > 크리스마스 이벤트 기간, 나를 위한 선물로 NocFree Lite 스플릿 키보드는 어떨지
-  > 영상에서 확인해 주세요!
-  > 
-  > ⌨️ NocFree Lite ⌨️
-  > 색상 : White
-  > 기판 : Hotswap (Wired Mode, 2.4Ghz Wireless)
-  > 보강판 : PC (Non-flex cut)
-  > 레이아웃 : 65% (65key) 
-  > 단자 : USB C-Type
-  > 배터리 : 1,800mAh x 2
-  > 
-  > 🔹스위치🔹
-  > Outemu Honey Peach V3
-  > 타입 : 저소음 리니어
-  > 작동 압력 : 40±10gf
-  > 입력 지점 : 2.0±0.6mm
-  > 바닥 깊이 : 3.3mm
-  > 
-  > ⚙️Vial 웹 소프트웨어⚙️
-  > https://vial.rocks/
-  > 
-  > ────────────────────────
-  > 🛒구매 정보 🛒
-  > ◼ 녹프리 공식스토어: https://smartstore.naver.com/nocfree
-  > 👉NocFreeLite: https://link.coupang.com/a/dhskM7
-  > 👉팜레스트: https://link.coupang.com/a/dhslF8
-  > 👉파우치: https://link.coupang.com/a/dhsmb2
-  > ※이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-  > 
-  > 🎄NocFree 크리스마스 에디션🎄
-  > 기간: 2025년 12월 15일 (월) ~ 12월 31일 (수)
-  > 1. 무료 크리스마스 포장 서비스
-  > 2.선착순 증정! 스페셜 키캡 증정
-  > ────────────────────────
-  > 
-  > 💌비지니스💌
-  > 📧 pokookey@gmail.com
-  > 📷 @pokookey
-  > 
-  > ⏱TIME⏱
-  > 00:00 인트로
-  > 00:26 크리스마스 에디션 소개
-  > 00:55 언박싱
-  > 02:16 제품소개
-  > 04:25 키캡
-  > 04:48 스테빌라이저
-  > 05:03 스위치
-  > 05:40 스테빌라이져 및 흡음
-  > 06:36 백라이트
-  > 07:05 전용 팜레스트
-  > 07:51 전용 파우치
-  > 08:18 타이핑 및 마무리
-  > 
-  > 💡제품 지원 : NocFree
-  > #nocfreelite #nocfree #splitkeyboard #스플릿키보드 #keyboard #keyboardtyping #기계식키보드 #Keeb #customkeyboard #mechanicalkeyboard #커스텀키보드 #メカニカルキーボード
-
-- **热门评论（14 条）：**
-
-  > **@PokooKey** [👍1]：🛒구매 정보 🛒<br>※이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.<br>◼ 녹프리 공식스토어: <a href="https://smartstore.naver.com/nocfree">https://smartstore.naver.com/nocfree</a><br>👉NocFreeLite: <a href="https://link.coupang.com/a/dhskM7">https://link.coupang.com/a/dhskM7</a><br>👉팜레스트: <a href="https://link.coupang.com/a/dhslF8">https://link.coupang.com/a/dhslF8</a><br>👉파우치: <a href="https://link.coupang.com/a/dhsmb2">https://link.coupang.com/a/dhsmb2</a><br><br>🎄NocFree 크리스마스 에디션🎄<br>기간: 2025년 12월 15일 (월) ~ 12월 31일 (수)<br>1. 무료 크리스마스 포장 서비스<br>2.선착순 증정! 스페셜 키캡 증정
-  >
-  > **@김뮤직가장** [👍1]：팜레스트까지 세트로 쓸 수 있다니 손목까지 안정적으로 지지해 줘서 장시간 타이핑하는 직군에 좋을 것 같네요
-  >
-  > **@J_Eun_89** [👍1]：스플릿키보드라니.. 셀프 크리스마스 선물로 최고인거같아요~~~ 증정되는 크리스마스 아티산도 넘 이뻐요 따로사고싶을정도..ㅠㅠ 한번 맛보면 너무나도 편리하다는 분리되는 키보드!! 저도 언젠간 도전해 보고 싶어요~
-  >
-  > **@NocFree** [👍1]：뽀꾸님, 정성스럽게 담아주신 영상 감사합니다 🎄<br>영상 덕분에 연말 분위기가 더욱 따뜻하게 느껴졌습니다.<br>행복한 연말 보내시길 바랍니다.
-  >
-  > **@밥먹고퇴근** [👍1]：그런데 ㅠ 이거 버튼을 왼손으로 쳐야하는게 너무 힘듬...
-  >
-  > **@kdi-w2l** [👍1]：놀랍습니다.
-  >
-  > **@justdxit** [👍1]：B키가 왼쪽에 있는 스플릿 키보드를 왜 한국에 출시하는지 모르겠어요ㅋㅋㅋㅋ
-  >
-  > **@정한수-x5f** [👍1]：신기하다
-  >
-  > **@daezang2000** [👍1]：오우 분리가 되는 키보드. 컨셉부터가 신기하네요.
-  >
-  > **@RollBee-0907** [👍1]：아직 스플릿에  적응못할까봐 두려움이 잇는 배열이지만..한번쯤은 써보고 싶다는 생각은 늘있는듯한..심지어 이쁘기도하고..휴대도 된다니..
-  >
-  > **@수빈-j1e9q** [👍1]：반으로 분리되는 게 뭔가 불편할 거 같으면서도 금방 적응될 것 같은 ㅎㅎㅎ <br>장시간 타이핑 하시는 분들이나 작업하는 분들에게 좋아보여요! <br>가격이 좀 사악하지만요 ㅎㅎㅎ
-  >
-  > **@봄양갱** [👍1]：분리가 된다는 게 엄청난 장점이죠. 내 손목 각도에 따라서 편하게 쓸 수 있다는 건 아무래도 특별한 점이니까요
-  >
-  > **@둥둥이-o2b**：실제로 한번 써보고 싶은 키보드인데 소개해쥬셔서 감사합니다❤
-  >
-  > **@앞으로로전진**：계속 눈여겨보고 있는 키보드입니다. 기회가 된다면 인체공학 키보드를 모아서 리뷰하는 것도 보고 싶습니다. 인체공학 키보드가 예상보다 종류가 엄청 많고 다양하더라고요😊
-  >
-
----
-
-## 20. 손목 아파서 직접 만들었다?! 핵편한 스플릿 키보드 [Nocfree Lite 65]
-
-- **频道：** 몽땅 MongDDang
-- **观看数：** 2,615
-- **点赞数：** 85
-- **评论数：** 128
-- **时长：** 13:06
-- **发布日期：** 2025-04-30T09:01:01Z
-- **链接：** https://www.youtube.com/watch?v=dOiA1NAfKZc
-- **来源：** search
-- **有字幕：** 否
-- **语言：** ko
-- **缩略图：** https://i.ytimg.com/vi/dOiA1NAfKZc/hqdefault.jpg
-- **标签：** #키보드 #키보드추천 #저소음키보드 #가성비키보드 #커스텀키보드 #알루미늄키보드
-- **简介：**
-
-  > 안녕하세요!! 몽땅입니다!! 손목이 편한 녹프리 라이트 65를 리뷰해보았습니다. 정말 편한 스플릿 키보드에 텐팅까지 추가할 수 있어욥!
-  > 
-  > [추가 안내 사항]
-  > 녹프리 측에서 연락이 왔습니다. 제가 받은 제품은 '해외 판매용 버전'으로 흡음재가 없지만 한국 스마트 스토어에서 주문을 하면 한국 유저 분들에 맞게 흡음재가 추가된 제품을 보내준다고 합니다.
-  > 그리고 설명드렸던 중간 'B'키 좌우 배치와 'Fn'키와 '물음표' 키 위치도 조정할 예정이라고 합니다.
-  > 
-  > #Nocfree #녹프리 #Nocfreelite65 #스플릿키보드 #인체공학키보드 #텐팅 #IT #keyboard 
-  > 
-  > *녹프리로부터 리뷰를 위해 제품만 제공 받았습니다.
-  > 
-  > [MongDDang]
-  > 인스타그램 : https://www.instagram.com/pds04208/
-  > 이메일 : pds04208@hanmail.net
-  > 디스코드 : https://discord.gg/uUJaDsTzh6
-  > 
-  > [Nocfree Lite 65 판매페이지]
-  > - https://smartstore.naver.com/nocfree/products/10825861031
-  > 
-  > ———————————————————————————————————————————
-  > 
-  > ⭐️몽땅을 도와주는 곳들⭐️
-  > [KEYNETIX] https://smartstore.naver.com/keynetix
-  > [Funkeys] https://smartstore.naver.com/funkeys
-  > [Yunzii] https://www.yunzii.com/?aff=182 (5달러 할인 코드 : MongDDang)
-  > [Luminkey] https://www.luminkey.com/?ref=MongDDang (몽땅 링크)
-  > [Dehancer] https://www.dehancer.com (10% 할인 코드 : MONGDDANG)
-  > [Keyfam] https://cafe.naver.com/keyfam
-  > 
-  > ———————————————————————————————————————————
-  > 
-  > 00:00 INTRO
-  > 00:52 구매 옵션 및 가격
-  > 02:16 패키징 및 구성품
-  > 04:48 Nocfree Lite 65 살펴보기
-  > 10:27 마무리
-  > 11:34 Nocfree Lite 65 타건음
-
-- **热门评论（77 条）：**
-
-  > **@pds04208** [👍7]：🎉이벤트 참여 방법🎉 (이벤트 결과 발표는 5월 11일 토요일 저녁에 하겠습니다!)<br>댓글에 녹프리 라이트 65에 대한 느낀 점을 적어주세욥!!<br>구독과 좋아요는.. 감사드립니다..!😊<br><br>[추가 안내 사항]<br>녹프리 측에서 연락이 왔습니다. 제가 받은 제품은 &#39;해외 판매용 버전&#39;으로 흡음재가 없지만 한국 스마트 스토어에서 주문을 하면 한국 유저 분들에 맞게 흡음재가 추가된 제품을 보내준다고 합니다.<br>그리고 설명드렸던 중간 &#39;B&#39;키 좌우 배치와 &#39;Fn&#39;키와 &#39;물음표&#39; 키 위치도 조정할 예정이라고 합니다.
-  >
-  > **@Yettung** [👍2]：와 몽땅님.. 리뷰 너무 너무 잘봤습니다…<br>저는 리뷰하면서 그냥 키감 가볍고 좋다 정도만 생각했는데 노폼 빌드인 것도 알게 되고 키보드가 왜 가벼운지도 알게 되었어욬ㅋㅋㅋㅋㅋㅋㅋㅋ 저는 아직 갈 길이 먼 키린이 같습네다…😬
-  >
-  > **@CypherUKN** [👍1]：&quot;앨리스배열을 왜써 가르면 되는데!&quot;
-  >
-  > **@madein-wood** [👍1]：ㅋㅋㅋㅋ썸넬보구 지나칠수 읍썼어요 ㅋㅋㅋㅋㅋㅋㅋ
-  >
-  > **@jeong136** [👍1]：유저 피드백에 빠르게 반응하는 회사라니 신뢰가 가네요. 스플릿은 한 번도 경험해보지 못했는데 개선되면 한 번 써보고 싶어지네요 ㅎㅎ
-  >
-  > **@vitazero-o6l** [👍1]：키보드가 반으로 분리되는게 신기하고 파우치도 반으로 나누어 놓은 센스가 좋네요.       <br>키보드 사용 습관에 따라 편할수도 불편할수도 있겠어요. 그래서 처음 사용시 적응하는데 시간이 조금은 걸릴거 같네요. 그리고 외형적으로도 깔끔한 디자인과 타건음까지 나무랄데가 없으며 구성품도 알차고 전체적으로 마감이 좋게 잘 나온거 같고 가볍고 휴대성이 좋아보여 기회가 되면  사용해보고 싶네요.
-  >
-  > **@rkq-s9f** [👍1]：스플릿 키보드라는게 있는줄 알았지만 이렇게 자세하게는 처음 보는거 같아요.<br>요즘 손목이 좋지 않아서 키보드와 마우스를 찾아보는 중인데 낮은 키보드에 인체공학적으로 다양한 각도로 사용이 가능하다니 손목이 편해질거 같아 너무 탐나는 제품이네요. <br>디자인과 실용성을 다 잡은 키보드 기회가 되면 꼭 직접 사용해보고 싶다는 마음에 이렇게 댓글 남깁니다.
-  >
-  > **@yjflore34** [👍1]：개발자에게 꼭 필요한 키보드네요! 각도조절이 된다는 점에서 너무 편리한키보드네요!! ❤
-  >
-  > **@DeepRootedTreeForest** [👍1]：창립자 안내도 들어가 있고 그 내용도 재미있네요 ㅎㅎ <br>쪼개진 키보드라 수납도 반반으로 하니 그 부분도 재미있네요 <br>스위치까지 신경 썼네요 정말 화이트로 이쁘군요 <br>팜레스트도 무늬가 정말 이쁜 것 같습니다
-  >
-  > **@matle-e2j** [👍1]：리뷰하시는게 자세하고 너무 깔끔하셔서 키보드가 어떨거 같은지 잘 알게 된거 같아요!! 팜레스트 디테일까지 너무 좋네요 ㅎㅎ
-  >
-  > **@Khuneu_** [👍1]：키보드 토막내기 인트로는 없군요...아쉽...
-  >
-  > **@오두알** [👍1]：몽땅님 에너지가 너무 좋은 거 같아요! f열도 있으면 좋울 것 같지만..! 스플릿 키보드는 65배열이 많은 것 같아서 조금 아쉬워용 손목이 편한 점은 정말 좋은 점!!!
-  >
-  > **@반닭불가** [👍1]：크으으... 최근에 앨리스 배열 키보드를 써보기는 했지만 확실히 스플릿에 비할바는 아닌거 같기는 합니다 나도 언젠간 스플릿 하나 장만 해야지...! 그리고 추가안내로 써주신거 너무 좋네요 흡음재 추가? 요즘은 사실 거의 필수죠 거기에 한국 사용자 친화적인 B키 추가라... 너무 좋은데요? ㅋㅋㅋㅋㅋ
-  >
-  > **@D.lapins** [👍1]：B키가 양쪽에 달린다니 너무 좋은 소식이네요 영상속에서 걱정됐던 물음표와 펑션키 위치도 재조정 된다고 하니 기대가 됩니다 깔끔하고 핏한 하우징이 사이즈를 컴팩트하게 가져간 점이 망므에 듭니다 아직 스플릿 키보드는 한번도 사용해보지 못했는데 실제로 사용하면 어떤 느낌일지 궁금해지네요!
-  >
-  > **@hhos0301** [👍1]：스플릿 키보드는 처음인데 흥미롭고 신기하네요.<br>인체 공학적으로 손목피로와 공간 활용으로 이렇게 실험적으로 나오나 보네요. 디자인이 화이트 색감으로 깔끔하고 단정해서 보기 좋네요. 콤팩트한 크기에 가벼워서 휴대성이 좋아보며 구성품도 꼼꼼하게  구성되어 있고 마감도 훌륭하네요. 가격이 쉽게 구입할 정도는 아니라 조금 아쉽군요.
-  >
-  > **@아뭐야-d7f** [👍1]：노폼이라 그런지 옛날 클래키 키보드 타건음이 진하네요. 윤활 안된 스테빌인데 철심 소리 심하지 않는게 신기.<br>좌우를 유선으로 연결 안하고 동글이 하나로 사용할 수 있다는 점이 가장 큰 장점일거 같아요. <br>손목이 항상 아픈 저로서는 꼭 한번 사용하고픈 키보드임다.
-  >
-  > **@뭃** [👍1]：전체적으로 구성도 알차고 실용적인 요소들이 많네요!<br>디자인도 감각적이고, 파우치까지 신경 쓴 게 딱 마음에 들어요 😍<br>B키 위치는 적응이 필요하겠지만 그만큼 새롭고 재밌는 경험이 될 듯!
-  >
-  > **@강태욱-f6h** [👍1]：알루미늄이였다면 정말 정말 완벽했을거같은 키보드네요 ㄷㄷ
-  >
-  > **@nadagong** [👍1]：요즘 재택근무로 손목이랑 어깨가 너무 아픈데, 이렇게 자유롭게 나눠서 쓰면 많이 편할것 같네요!😂<br>좋는 키보드 소개 감사드립니다!!
-  >
-  > **@pipe-h4e** [👍1]：스플릿 키보드 신기해요~ 동글 하나로 무선 연결되는 것도 메리트 있는 것 같네요~😄😄
-  >
-  > **@jangjang4619** [👍1]：처음 들어보는 브랜드인데, 스플릿 키보드만 만드는 회사인가보네요. <br>이쪽도 수요층이 분명히 있어서, 전문적으로 한 우물만 파는 것도 괜찮아보입니다.
-  >
-  > **@zephon2144** [👍1]：이쁘다... 65배열로 애초에 공간차지 많이 안하는 편인데 <br>그걸 가를 수 까지 있어서 공간활용 끝판왕이네요!!<br>딱 맞는 팜레까지!!! 너무 알찬구성👍👍
-  >
-  > **@라따뚜이-j3t** [👍1]：나눠지는 키보드 신기합니다. 타건습관에 따라서 ㅠ키가 문제일 것 같아요!
-  >
-  > **@비호제** [👍1]：이 친구도 b 가 왼쪽에만 있네요.<br>아쉽군요 ㅠㅠ
-  >
-  > **@fabulous9577** [👍1]：우유..ㅠ를 누가 왼손으로쳐..개인별 습관 차이가 아니잖아 이건..
-  >
-  > **@ggulbeoljyang** [👍1]：스플릿에 휴대성 좋은거는 좋긴한데... 후라스틱치고 가격이 많이 사악하긴 하네요.... 좌b만 있는거도 적응하기 많이 힘들고....<br>그래도 2.4 동글로 무선 스플릿은 확실한 장점이긴하네요. 휴대성을 강조한 파우치 지급도 나쁘진않고<br><br>별개로 몽땅님 리뷰는 영상 퀄도 퀄이지만, 주관과 객관을 밸런스 있게 전달하는 능력과 사람이 항상 밝아 좋은 에너지가 나오는게 좋읍니다. 항상 화이팅하십쇼 잘보고 있읍니다.
-  >
-  > **@지옥불반도-k5p** [👍1]：손목 통증해결을 위해서 직접 만들다니 효과는 확실히 있을 것 같습니다<br>제가 손목 아프면 손목돌리고 그랬는데, 분리해서 각도를 잘 조절하면 정말 손목에 좋을 것 같아요
-  >
-  > **@chos_mini** [👍1]：사무용으로 너무 좋아보이는데요? 텐팅까지 되는게 너무 좋네용
-  >
-  > **@은하수-m6m1** [👍1]：분리형 키보드가 손목에도 좋겠지만 게임이나 타건할때 좋을 것 같아요<br>왼손과 오른손의 경계선의 키들을 누를때, 분리되어 있으면 손가락 감촉으로 찾기 쉬울 것 같아요<br>게임중에 급하게 왼손으로 누를때 T키 Y키를 잘 못 누르곤 했는데 그럴 염려가 없어 좋네요<br>그런데 B키를 오른쪽으로 누르는 분들은 살짝 적응하기 힘들 것 같습니다
-  >
-  > **@7번국도-t9z** [👍1]：작은 배열 키보드 사용할때는 손목이 좀 불편했는데 이건 분리가 되니 정말 손목이 편안 할 것 같아요!<br>분리 키보드인데 UBS 동글로 쉽게 연결하는것 좋네요. 그런데 흡음재가 없이 가벼워서 게임중에 밀릴 수도 있을것 같아요
-  >
-  > **@dankunson1** [👍1]：키보드 보다도 주인장 표정이 재밌어 들어왔음
-  >
-  > **@hoji9511** [👍1]：분리형 키보드라니 신박하네요. 손목 훨씬 편하려나요 ?
-  >
-  > **@Linearswitch** [👍1]：스플릿을 입문....해야할까?? 말아야 하나?? 고민되네요
-  >
-  > **@자다깬호랑이** [👍1]：좀 전에 시험삼아 ㅠ 키를 왼손으로 해볼려고 했는데, 이거 쉽지 않네요. <br>아예 스플릿된 상태면 적응할지 모르겠는데, 일단 그냥 붙어 있는 일반 키보드 상태에서는 의식을 하면서 펴도 오른손이 먼저가요
-  >
-  > **@김건반** [👍1]：사실 키보드가 두 동강 났으면 좋겠다고 늘 생각했었는데 세상에 이런 게 있더라구요?ㅋㅋㅋ<br>손목과 어깨, 목 통증이 심해져서 국내에서 살 수 있는 스플릿키보드 거의 다 찾아봤는데 녹프리가 제일 맘에 들었어요<br>-맥os에 맞게 여분의 키캡을 준다<br>-완전 깔끔한 화이트톤<br>-각도 조절, 손목 팜레스트<br>제 기준 단점이 딱 두 개 있어 고민이에요<br>-use동글 아쉬운 디자인&amp;허브 필요<br>-B키의 위치<br><br>이 키보드를 눈여겨 보고 있긴 했는데 키보드는 잘 몰라서 고민됐는데 세세한 리뷰로 도움이 됐습니당😊
-  >
-  > **@소나무-u6b** [👍1]：예전 내츄럴 키보드 느낌이군요. 분리되고 휴대성도 좋아서 가방에 넣어서 들고다니기 편하겠네요<br>FPS 게임할때 왼쪽만 사용함으로써 가볍게 위치 조절 할 수 있어 좋을 것 같아요<br>제가 게임할때 큰 키보드를 이리저리 각도 조절하고 있는데 불편하더군요
-  >
-  > **@KimYM56** [👍1]：/?키가 아쉽긴하지만 그래도 적응할수있다고 하도, 무엇보다 펀딩때부터 항상 써보고싶었는데 이벤트 너무 당첨되고 싶어요!
-  >
-  > **@숏다리하비** [👍1]：왼손으로 치는 중(ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ)
-  >
-  > **@고미녕-t5g** [👍1]：너무 사용해보고 싶은데 ㅠ 중국 노동절 걸려서 기다리기 힘들어요ㅠㅠ<br>하지만 직원분은 너무 친절하십니다
-  >
-  > **@djyyyyyyy** [👍1]：분리형 키보드는 많이 봤는데 아예 붙였다 뗐다 할수 있게 만든건 처음봤네요ㅋㅋ 스플릿 상태에서도 잘 적응이 될지 궁금해요!
-  >
-  > **@mankey119** [👍1]：스플릿키보드 종류가 많지는 않은데 자세한 리뷰 잘봤습니다😊 몽땅 뽀에버~
-  >
-  > **@단새우초밥** [👍1]：스플릿 키보드에서 B를 하나 더 넣으면 분리된 상태에서는 편할 것 같은데, 합쳤을 때 오히려 불편해지는 점은 없나요?
-  >
-  > **@5_hyuk** [👍1]：스플릿 안써봤는데 뭔가 손목은 편할거같네요! 물론 스플릿 가격대가 어떤지 몰라서 뭐라 말은 못하겠는데, 플라 하우징인데 가격이 좀 많이 아쉽긴하지만요..ㅋㅋㅋ
-  >
-  > **@holiclove** [👍1]：<a href="UCkszU2WH9gy1mb0dV-11UJg/ygF1XpGUMMjk8gSDrI2wCx"></a><a href="UCkszU2WH9gy1mb0dV-11UJg/KsIfY6LzFoLM6AKanYDQAg"></a>잊을뻔했네
-  >
-  > **@봄양갱** [👍1]：썸네일 보고 함박웃음 지으면서 들어옴❤ 영상 시청 잘 할게요❤❤❤ 오 찐 노폼 빌드군요. 소리가 가벼운데 그것도 매력이죠! ㅎㅎ B키 왜 하나만 있어!!!
-  >
-  > **@maah._.0272** [👍1]：썸네일 보고 이끌려서 왔습니다<br>주변에 제 친구도 스플릿 키보드를 사용하는데 손목 위치를 자유자재로 사용하고<br>게임할 때도 편하다고 그러더라구요 <br>이 키보드는 동글 하나로 다 연결할 수 있고 맥과 윈도우 호환이 되니 좋네요<br>키화이트로 깔끔하니 예쁘고 팜레스트도 키보드에 맞게 제작되어서<br>신경을 많이 쓴 것 같습니다
-  >
-  > **@chuuny** [👍1]：한국유저용은 좀 나아졌다고 하셨는데... 가격대비 가성비라고 할 수 있을런지? 알고 싶어요.<br>직접 타건해 볼 수 있는곳도 있는지도 알 수 있으면 더 좋겠네요. 직접 만져봐야 알것 같은것이 바로 키보드일듯!
-  >
-  > **@J_Eun_89** [👍1]：와 옵션이 하나하나 입맛대로 추가 가능한게 넘좋은데요..저기다저처럼 직구 꺼리는 사람들 위한 스마트스토어라니!❤ 쵝오인데용❤ 팜레가지 높이조절이 되다니... 굉장히 하나하나 신경써서 만들어진거 같아 넘 좋았습니다~~  반 쪼개진건 아직 한번도 안 써봤지만.. 가운데부분 키들이 양쪽으로 추가키가 없는건 많이 아쉬운거 같아요😢
-  >
-  > **@nana_jane** [👍1]：ㅋㅋㅋㅋㅋ상당히 부끄러웠댘ㅋㅋㅋㅋㅋㅋ 좋아보입니다잉 세미토막느낌이네요😊
-  >
-  > **@하늘-n2n1j** [👍1]：옵션 선택이 추가 가능하고,추가상품들도 상당히 매력적이네요! 원목 팜레스트는 인체공학적인 디자인으로 손목을 편안하게 받쳐주고, 높이 조절까지 가능해서 키보드의 텐팅 각도에 맞춰 조절할 수 있다니 완벽한 조합입니다. 전용 파우치도 세심하게 만들어져서 키보드와 팜레스트까지 모두 깔끔하게 수납할 수 있는 점이 마음에 들어요
-  >
-  > **@ppwebber** [👍1]：강렬한 썸네일로 그냥 지나칠수가 없게 만드네요.<br>한국인들에게 B키 위치는 엄청 아쉬운 부분이지만 손목 건강을 위해선 적응을 좀 해야겠죠. <br>가격 대비 몇몇 부분들의 만듦새가 좀 아쉬운 느낌이긴 한데 <br>동글 한대로 둘 다 무선 연결 되는건 정말 좋네요.<br>스플릿 키보드들 보면 쌍절곤마냥 케이블로 연결해놓은거 많은데 말이죠.
-  >
-  > **@Jenzang** [👍1]：분리되는 키보드가 발전하는 모습을 보니 좋네요
-  >
-  > **@sleep_growing_terrapin** [👍1]：B키가 하나라서 65로 쓰기 좋지만 스플릿으로 쓰기 불편한...적응하다가 안되면 그냥 65로 쓰면 되겠어요ㅋㅋㅋ
-  >
-  > **@lattech** [👍1]：얌마 섬네일을 안누를 수가 없자나 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
-  >
-  > **@fjekwkxnf320** [👍1]：와 키보드 엄청 특이하네요  ㄷㄷ
-  >
-  > **@J_Juns** [👍1]：B 2개 아닌게 좀 아쉽네요 ㅠ 잘 봤습니다! &gt;&lt;7
-  >
-  > **@끼양끄앙** [👍1]：스플릿 키보드가 참 손목 때문에 혹하면서 입문은 언제나 어려운 제품인거 같아요 뭔가 이번 녹프리는 약간 애플 감성도 있는거 같고 좋네요
-  >
-  > **@rainviolet1582** [👍1]：B키 한쪽에만 있는거 불편...
-  >
-  > **@민권-h6m** [👍1]：흡음재가 없어서 텅텅거리는건 어쩔수없긴한데  스플릿키보드가 타이핑시 편리해보일거같아서 매력적으로 보이긴하네요 스플릿특유의 산처럼 변하는 각도가 타이핑할때 편할거같아요
-  >
-  > **@반디-이** [👍1]：스플릿 키보드는 볼때마다 신기하고 써보고 싶고 근데 적응은 어렵지 않을까 싶지반 궁금한 키보드인거 같아요ㅋㅋㅋㅋ 낄끔한 배열에 깔끔한 색상도 너무 예쁜거 같고 패키지박스도 고급스럽네용
-  >
-  > **@landolando555** [👍1]：와 팜레스트에 키보드까지 넣을수 있는 파우치가 있네요 해외에가서 쓴다해도 너무 편할거 같아요
-  >
-  > **@darkenkight** [👍1]：으아니 !! 인트로 어디갔어요!! 이거 예고편이죠? 인트로 들어간 풀버전 올라오는 거죠? <br>어고뱅려 키보드를 맛보고 나서 스플릿에 관심이 생겨 저도 스플릿 키보드를 하나 보유하고 있습니다. 아무래도 스플릿 키보드 시장이 작다보니 관련 제품들이 비싸게 나오는 것은 어쩔 수 없는 것 같습니다. 하지만 목적이 분명한 시장이기 떄문에 완성도만 있다면 저를 포함해서 구매자들이 있기 마련이죠. <br>샤인 쓰루 + 투명 스위치 + No RGB ㅠ ㅠ .... <br>2.4G 하나로 양쪽을 연결하는 무선 모드는 정말 장점이 맞는 것 같습니다. 무선을 선호하는 저도 스플릿을 쓸 때는 유선 연결을 기본으로 생각하고 있는 데 이부분은 정말 도전의식을 자극하는 부분입니다. 65라는게 65%가 아니라 65키를 의미하는 것일 수도 있겠다는 생각이 들었습니다. 저도 비슷한 배열의 키보드를 하나 갖고 있었는데, 물음표가 바깥에 있는 건 정말 적응이 힘들더라고요. <br>그래도 스플릿 키보드가 GEEK들만이 즐기는 것이 아니라 이렇게 기존 기계식 키보드 사용자도 접근할 수 있는 형태의 제품이 많아지는 것은 정말 반가운 일입니다. 스플릿 키보드도 점점 다양해지고 경쟁이 치열해진다면, 더욱 저렴한 가격에 더욱 좋은 키보드를 만날 수 있을 것이라 기대합니다.
-  >
-  > **@Snookey_** [👍1]：우와앙! 스플릿 키보드 한번 써보고 싶어지는 영상이예요 대단한 몽땅님..<a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a>
-  >
-  > **@karuian-9817** [👍1]：스플릿 키보드는 정말 한번 써보고는 싶은데 정말 B키 때문에 결국 포기하는... ㅜ 어쩔수 없는걸까요 ㅎㅎ;;; 영상 잘봤습니다. 타건음도 좋고 이쁜데 아쉽... ㅎㅎ
-  >
-  > **@djtomato4523** [👍1]：이동성 하나는 끝내주는 키보드가 나왔네요! ㅠ 키가 왼쪽에 있는건 좀 치명타지만 적응하면 편하게 쓰겠지요? ㅎ
-  >
-  > **@Hebby95** [👍1]：썸넬ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
-  >
-  > **@최결샤** [👍1]：가격도 괜찮고 디자인도 이쁘고 좋아보이는데 타건음에서 제 취향은 아닌 듯 하네요... 더 발전해서 좋은 키보드 나오면 좋겠어요!
-  >
-  > **@podochick** [👍1]：추가 키가 없는 건 굉장히 아쉽네요. 브랜드만의 이미지를 만드는 방향이면 쭉 이런 배열로 나올수도 있다는 건데.. 좋은 방향을 잡고 쭉 나아갔으면 좋겠네요.
-  >
-  > **@요릉갓** [👍1]：스플릿키보드는 처음 사용할때 적응하려면 시간이 좀 걸리긴 하겠네요 ㅎㅎ 그래도 텐팅구조라 어깨나 손목엔 큰 도움이 될거 같아요 ㅎㅎ
-  >
-  > **@icdus78** [👍1]：음...휴대성을 위해서 많은 부분을 희생했네요.<br>이러면 가격이라도 좀 낮게 책정해주던가..<br>휴대성을 제외하면 뭔가 이도저도 아닌 느낌이라 아쉽습니다..!
-  >
-  > **@Hihyunny** [👍1]：최근에 인체공학 키보드를 사서 사용하니 너무 편하긴한데 스플릿은 더 편하겠됴? 회계직이어서 풀배열이 없는게 아숩아숩해요😢
-  >
-  > **@Hot_Place.** [👍1]：<a href="https://www.youtube.com/watch?v=dOiA1NAfKZc&amp;t=340">05:40</a> 엇,,,, 저도 오른손으로 치네요,,,, 우유 뿐만 아니라 자음 모음을 왼손오른손으로 나눠 치는 경향이 있었네요ㅕ ㅋㅋㅋㅋ 이거 보고 쳐보니까 제 습관을 알게된 ㅋㅋㅋㅋ<br>제 기준으로는,,,, 가운데 b 가 진짜 아숩네요 ㅎㅎ
-  >
-  > **@okeydokeyboard** [👍1]：역시 리뷰 맛집! <a href="UCkszU2WH9gy1mb0dV-11UJg/hf90Xv-jHeOR8gSxxrToBA"></a> 오늘 쉬나요?ㅎㅎㅎ
-  >
-  > **@정쿠드** [👍1]：난 개인적으로 2.4동글 따위의 쓰레기를 무선이라 생각하지 않는다. <br>특히 개나소나 블루투스 쓰는 시점에서 2.4부터 출시하는 건 지금와서 충전부위가 5핀단자로 나오는것보다 악질이다. <br>기술적으로 힘들다는 변명도 통하지 않는 것이, 키볼 39를 무선으로 쓰는 입장. 동호인들도 뚝딱 만드는 스플릿 블루투스를 업체가 못만든다면 장사 접어라. 알면서 안만든거다. 장삿속이 보인다는 게 편견만은 아닌 것 같아 이렇게 확답한다. 진짜 녹프리의 행보는 리얼 미친듯이 짜친다는 판단이다. 아이패드에 쓰려면 c to a 어댑터가 필요한 무선 키보드라니. 개나 줘버리라지.<br>이러고 2나 3때 블루투스 모델 나와서 비싸게 1산 사람들 병신 만들겠지.
-  >
-  > **@sorrjj** [👍1]：녹프리 라이트 65 특이한 디자인 같아요. 두개로 쪼개진 키보드라니, 정말 편안한지도 궁금하고 불편함을 없는지 사용해보고 싶어지긴 하네요.
-  >
-  > **@shinnalady** [👍1]：가격대가 조금 더 착해지면 국내시장에서도 충분히 경쟁력 있을거 같은 구성의 키보드네요. 파우치 너무 이쁘고 고급집니다 :)
-  >
-  > **@mistburn777**：b키 때문에 구매포기했는데요. 어서 조정해줬음 좋겠어요
-  >
-
----
-
-## 21. 최강의 무선 VIAL QMK 스플릿 키보드 Nocfree Lite 65
-
-- **频道：** TeleV2
-- **观看数：** 713
-- **点赞数：** 26
-- **评论数：** 42
-- **时长：** 37:32
-- **发布日期：** 2025-07-12T18:32:24Z
-- **链接：** https://www.youtube.com/watch?v=7g-JX7GGPhE
-- **来源：** search
-- **有字幕：** 否
-- **语言：** ko
-- **缩略图：** https://i.ytimg.com/vi/7g-JX7GGPhE/hqdefault.jpg
-- **简介：**
-
-  > 무려 VIAL이 지원되는 무선 스플릿의 끝판왕!
-  > 
-  > 00:00 Intro
-  > 00:19 사용 후 소감 
-  > 03:36 협찬 
-  > 04:13 포장 & 구성품 
-  > 11:27 키캡 
-  > 13:53 스위 
-  > 16:16 스태빌라이저 
-  > 16:48 전고 
-  > 17:06 전용 팜레스트 
-  > 19:13 빌드 퀄리티 
-  > 21:05 VIAL 
-  > 28:26 텐팅 진짜 편해? 
-  > 29:46 스플릿은 써보니 어때? 
-  > 31:03 단점: 각오해야 할 포인트
-
-- **热门评论（16 条）：**
-
-  > **@땅따먹기-f8f** [👍1]：저두 텔레님댐시 미니배열에 점점 흥미를 갖게되서 녹프리스플릿도 사볼까 고민을 좀 했엇죠.<br>근데 이건 좀 비싸더라구요. 비싸더라도 백프로 기능을 다 쓸수 있다면 가격이 비싸도 된다고 보는데<br>그래서 이 제품에 대한 후기를 좀 읽어봣었죠. <br>몇가지 문제점을 발견했는데.<br>1. 왼쪽배터리가 빨리 단다<br>2. 무선 사용시 키씹힘과 키눌림오류가 많은 편이다<br>3. vial을 사용해본적이 없어 저같은 초보에겐 지침에 되는 설명서가 필요하다.<br>4. b(ㅠ)키, ? 키<br><br>이채널을 먼저 봤다면 3번은 해결됫을것 같아요.  vial을 전혀 모르니깐 어떻게 들어가는지 몰랐는데 설명을 너무 잘해주시네요<br>사실 via도 여기서 설명을 듣고 via를 알게됫거든요.<br>4번은 참을만 하고.  1,2번이  중요한데.  1,2번은 무선 스플릿의 용도를 약간 무색하게 해버린다고 보게되서 <br>다른 스플릿 키보드 보면 키 지연문제댐시 아마도 왼족과 오른족을 연결하는 선이 있는 스플릿키보드가 많더라구요.<br>이런저런 문제가 있는 것보고 솔직히 비싸게 사기엔 여러문제점이 아직 존재하는구나해서  다 보정이 되면 사볼려구 생각해봣어요.<br>대신 대체재로 5만원정도에 살수있는 gmk70 스플릿으로 대리만족중입니다.<br><br>2개만 여쭤봐도 될까요? vial은 json파일 안받고 인터넷으로 바로 연결됩니까? via는연결시 유선으로 해놓고 시작하던데,  vial은 무선으로도 가능한지?
-  >
-  > **@flyghigh338**：사무실이.점점 좋아지네요!! ㅎㅎㅎㅎ
-  >
-  > **@doublezeroosvaughn4101**：우와...!!!! 썸네일 보고 깜딱 놀라서 들어오자마자 댓글 달고 좋아요 누릅니다! ..
-  >
-  > **@쿠키처돌이**：새롭고 특이한 키보드를 볼때마다 와 한번 타건해보고 싶다, 혹은 한번 사용해보고 싶다라는 마음이 드는 한편 신포도마냥 불편할 것 같은 점들을 하나씩 생각하게 되는 것 같아요. 사실 녹프리 스플릿 키보드가 대표적으로 불편할 것 같은 점들을 생각하게 만든 키보드였는데, 그래서인지 테레비님 리뷰를 기다리게 되더라구요...ㅋㅋㅋㅋ 뭔가 미니배열을 사용하시고 선호하시는 분이기도 하고, 손목 부담 관련해서 말씀하셨던 라방이 생각나기도 하고... 또 무엇보다 냉정하게 단점을 짚어주시는 부분이 있어서, 과연 어떤 키보드라고 평가하셨을까 궁금하더라구요.<br>결론부터 말씀드리자면.. 아직 저에게는 너무 어려운 키보드 같습니다. ㅋㅋㅋㅋ 회사에서 사용하는 키보드는 어쩔 수 없으니 논외로 하고, 집에서 개인적으로 사용하기 위해 60배열을 적응하려고 하는...진짜 미니배열 초짜의 입장에선 60배열을 적응하려고 노력한다고 하더라도 스플릿시 좌측으로 분리되는 B ㅠ 키에서 막히게 될 것 같아요. 저는 B ㅠ 모두 오른 손으로 타건하는 쪽이라 이게 적응이 도통 안 될 것 같습니다... 도리어 우쉽은 사용을 안하는 터라 물음표를 우쉽 자리에 놓고 활용하는 방법으로 타개가 가능할 것 같지만... b ㅠ 첫단계에서 탈락하고 말았습니다.<br>그리고 이게 저의 문제임을 알고나니 도리어 신포도가 아니라 마냥 선망의 대상이 되었네욬ㅋㅋ 키보드가 더 예뻐보이고 잘 만들었다는 생각이 드는데, 이제... 가질 생각은 들지 않는... 결코 구매할 생각조차 못하는... 고런 느낌이 됐습니다. 아무튼 오늘도 고렇게 미니배열의 세계는 끝이 없구나, 하는 마음으로 영상을 보고 갑니다. 이번 한주도 무탈하시고 행복하신 하루하루 되시길 바라겠습니다..!
-  >
-  > **@jangjang4619**：설명만 들어도 적응이 쉽지는 않겠네요
-  >
-  > **@maah._.0272**：스플릿 키보드를 어떻게 사용할지 궁금했는데 저렇게 뽀개서 할 일을 하시는군요 ㅋㅋㅋㅋㅋ<br>뽀갠걸 붙이는 것도 귀여워요 화이트 초콜릿 같습니다 😁😁😁
-  >
-  > **@DeepRootedTreeForest**：중앙에 커피 텀블러를 놓고 빨대로 빨아먹으며 업무를 전투적으로 이어가던 모습이 생각나네요 ㅎㅎ
-  >
-  > **@newstream100**：오랜만에 왔습니다   어고 키보드와는 좀 다르군요 ㅋㅋ
-  >
-  > **@darkenkight**：완전 무선 스플릿은 정말 귀합니다. 저도 쓰다보니 QK ALICE DUO까지 이르렀습니만, 여기까지 오기 전에 거쳐온 스플릿들이 모두 케이블로 좌우를 연결하다보니 자유로움이 제한받고 있다는 느낌을 받을 경우가 가끔은 있었죠. 그런데 녹프리도 완전 무선으로 스플릿을 구현해주어서 너무 반갑습니다. 무선에서 동글이 본체라는 점은 놀랍습니다. 두둥.<br>60%사이즈라 좌우가 대칭에 가깝다는 점이 녹프리라이트65가 저에게 가장 매력적으로 보이는 부분입니다. 많은 스플릿키보드가 오른쪽이 더 길어서 텐팅 각도가 조금 다른 것이 미묘하게 거슬릴 때도 있는데, 60%인 만큼 거의 유사한 좌우 길이가 마음을 편하게 해주는 것 같습니다. 저도 손목에 부담을 줄이는 것에 관심을 갖게 되어서, 텐팅 각에 관심을 갖게 되었는데 많은 스플릿 키보드가 좌우 텐팅 각도가 다른 경우가 많더군요. <br>테레비님이 영상에서도 지적하신 것처럼 &quot;?&quot;키가 이 키보드 구매를 주저하게 된 이유였습니다. 기판이 지원한다면 스위치를 뽑아서 ANSI 60% 윈키 배열로 고쳐야 쓸 수 있겠더라고요. 하지만 기판이 지원을 하지 않는 것 같아서 결국 구매를 포기했습니다. <br>VIAL을 최근에 써보게 되었는데, 탭댄스와 키오버라이드가 정말 재밌는 기능이더라고요. ANY키 잘 쓰시는 분들이 부럽습니다. <br>이제 막 시작한 브랜드라서 아쉬운 부분은 좀 보이는 군요. 테레비님이 보여주신 것처럼 무선 모드에서 백라이트가 들어오지 않는 다는 것이나, 물음표가 쉽지 않은 위치에 들어가 있다는 것, 마감 품질이 아쉬운 부분들 처럼이요. 다음 버전에서 이 부분들이 나아저셔 돌아와 주기를 바랍니다. 거대하기만 한 스플릿 키보드 하우징 중에 이렇게 콤팩트한 키보드가 너무 반갑거든요.
-  >
-  > **@firebone3**：스플릿 드디어 써보시는군요<br>처음 쓰게 되면 가장 많이 겪는 문제가 정석적으로 타이핑 하지 않는 습관이 전부 불편함으로 돌아온다는 건데<br>보통은 고쳐서 적응을 하던가 키맵을 바꾸던가 하게 됩니다<br>굳이 우b를 써야되면 b,n,m 같이 한칸을 밀던가 콤보로 b키를 하나 할당 해도 되고 방법은 많습니다<br>쿼티에서 p의 경우도 편하게 쓰려고 ;랑 위치를 바꾸는 경우도 있음<br>쉬프트 문제는 우 스페이스를 엔터로 쓰고 기존 엔터자리를 쉬프트로 쓰시면 손이 더 편할꺼에요
-  >
-  > **@KimJGS**：스플릿 키보드는 써본적이 없는데 샵에서 보일때마다 관심이 가긴 하더군요.
-  >
-  > **@반닭불가**：크으으으... 딱 한가지 우측에 B키가 하나만 더 있었다면 너무 좋았을거 같은 그런 키보드 ㅠㅠ 저도 얼른 스플릿 키보드 하나 입문하고 싶은데 말이죠 ㅎㅎ
-  >
-  > **@ShawnKwonPhotography**：앨리스 배열에서는 B키가 2개라서.. 그래도 적응을 빨리 했었는데.. B키가 하나인데 불편한 점은 없으셨는지요..? 그럼 충전시에 연결을 하나만 하는 경우에도 2개의 키보드를 연결해서 써야 하는지도 궁금하네요..? 키캡은 투과되는 부분과 키보드에 맞는 팜레스트와 휴대용 파우치.. 등 (물론 따로 구매해야 하기는 하지만..) VIAL 지원등 마음에 드는 부분이라 생각 합니다.. 정방향 스위치가 아닌 부분은.. 가격대도 있는데 굳이 Why? 역방향으로 했을까 라는 궁금증이 생기네요.. ^^ 요즘은 Epomaker Tide49 익숙해 지려고 노력 중 입니다.. 날씨가 많이 더운데 언제나 건강 조심하구요.. 리뷰 잘 보고 갑니다.. ~~
-  >
-  > **@babytook**：저도 손목 때문에 이미 다양한 종류의 스플릿 키보드를 많이 사용하고 있습니다. <br>키크론 Q11(유선 전용, 메인으로 사용중), 로얄 클루지 RK-S70(유무선 텐팅), ZUOYA GMK70(유무선 저렴이 버전, 좌우 B키 존재) 등<br>물론 Nocfree 제품을 가지고 있지는 않습니다만, 이 Nocfree는 일단 가격문제, 우쉽과 물음표의 방향 적응도 그렇고, 적응이 안될 것 같긴 하네요.<br>일반적인 60% 배열이였다면 더 좋았을 것 같다는 생각이 드네요.<br>스플릿 키보드 제작을 해 보려고 하다가 테레비2님 리뷰를 보게 되어서, 인벤터 하우징 제작 및 Kicad PCB 제작 등의 많은 정보를 얻었습니다.<br>저에게 맞는 스플릿 키보드 제작을 해 보고 있는데, 쉽지는 않네요.<br>특히 65%나 75% 배열을 좋아하지만, 60% 배열도 나쁘지 않다보니, 이 Nocfree 제품도 일반 60% 배열로 나왔으면 딱이지 않았을까 싶네요.<br>무선 PCB 제작 강의도 해 주시면 감사하겠는데요, 힘들지 않을까 싶긴 합니다만, ㅎㅎ;; 앞으로도 키보드 제작 관련 강의를 자주 부탁드리겠습니다.<br>그리고, 지금처럼 열심히 응원 하겠습니다. 화이팅입니다. 감사합니다.
-  >
-  > **@sangchusangchu**：처음 스플릿 키보드 단점 볼때  B위치 상관없지않나 라고 생각했었는데 한번 써본다 생각해보니 <br>&#39;률, 균, 유&#39; 이런 단어처름 한글 모음으로 쓸때는 위치가 말씀처럼 신경쓰일것같긴해요 ㅋㅋ<br>적응 못할 키보드는 아닌것같은데  흠 ...ㅎㅎ
-  >
-  > **@youhokeun**：이거 사용하기 쉽지 않겠는데요. 장점을 다 모았는데, 오히려 단점만 부각되는 느낌.<br>스플릿으로 쓰려니 b 키가 걸리고<br>붙여서 쓰느니 우십간섭으로 65배열보다 못한거 같고. 계륵이네요
-  >
-
----
-
-## 22. 키보드를 반으로 쪼갰는데 왜 더 편하죠? | NocFree Lite 스플릿 키보드 리뷰
-
-- **频道：** 요즘테크
-- **观看数：** 32,704
-- **点赞数：** 762
-- **评论数：** 102
-- **时长：** 4:46
-- **发布日期：** 2025-06-13T09:51:10Z
-- **链接：** https://www.youtube.com/watch?v=L5kQZNb12Cc
-- **来源：** search
-- **有字幕：** 是
-- **语言：** ko
-- **缩略图：** https://i.ytimg.com/vi/L5kQZNb12Cc/hqdefault.jpg
-- **标签：** NocFreeLite, 녹프리라이트, 스플릿키보드, 분리형키보드, 인체공학키보드, 무선기계식키보드, 유무선키보드, 텐팅키보드, 60퍼센트키보드, 미니키보드, 개발자키보드, 타건감좋은키보드, 키보드추천, 키보드리뷰, 키보드세팅, 키보드자세, 키보드가성비, 키보드편한거, 엔지니어키보드, 프로그래머키보드, 코딩키보드, 작가키보드, 타이핑키보드, 타건좋은키보드, 키캡교체가능, 핫스왑키보드, 기계식키보드, 리니어스위치, 저소음스위치, 오테뮤스위치, 허니피치V3, 체리프로파일, 한글정각키보드, 키보드디자인, 키보드구성품, VIA호환, VIAL지원, 키보드매크로, 키맵변경, 커스터마이징키보드, 휴대용키보드, 책상정리템, 게임용키보드, FPS키보드, 타건소리영상, 책상세팅, 미니멀셋업, 코딩용키보드, 무선키보드, 유선키보드, 팜레스트키보드, 에디터키보드, 미니멀키보드, Vial지원, USB-C키보드, 좌우분리형키보드, 업무용키보드, 데스크셋업, 데스크테리어, 데스크테리어아이템, 특별한키보드, 데스크셋업키보드, 맞춤형키보드, 개발자셋업, 스플릿배열키보드, 키보드자세교정, 기계식무선키보드, 책상꾸미기
-- **简介：**
-
-  > 🛒 녹프리 네이버 스마트 스토어
-  > ▪️https://smartstore.naver.com/nocfree
-  > 
-  > 🚀 필요한 생필품을 당일 배송으로
-  > ▪️https://link.coupang.com/a/byEIQU
-  > ▪️제휴 링크를 통해 구매 시 일정액의 수수료를 제공 받아 '요즘테크' 채널에 많은 도움이 됩니다 🙇‍♂️
-  > 
-  > 🌈 태그
-  > #NocFreeLite #스플릿키보드 #무선기계식키보드 #인체공학키보드 #녹프리키보드
-  > 
-  > 🎁협찬
-  > ▪️이 영상은 '녹프리' 로부터 제품을 지원 받아 제작 되었습니다.
-  >  
-  > 🎼 음악
-  > ▪️ Artlist
-  > ▪️ 아래 링크로 가입 시 2개월 연장 프로모션 혜택을 드려요.
-  > ▪️ https://artlist.io/artlist-70446/?artlist_aid=YonghunKim_1824&utm_source=affiliate_p&utm_medium=YonghunKim_1824&utm_campaign=YonghunKim_1824
-  > 
-  > 🤝 협업 문의
-  > ▪️E-mail: hi.tikitaka@gmail.com
-
-- **热门评论（14 条）：**
-
-  > **@thekingofgaol** [👍3]：처음 썸네일 보고 키보드를 부셨네? 했는데 이런 키보드가 존재했군요<br>전 요리쪽 관심이 많은 편인데 테크님 채널 구독하면서 새로운 세상 알아가는 재미가 있습니다
-  >
-  > **@user-m1f7r5jzv6** [👍1]：다른 스플릿 키보드들처럼 무겁고 커다란 구조가 아니라 휴대성 면에서 훨씬 경량화된 느낌이에요. 특히 유선/무선 지원까지 되는 모델은 생각보다 많지 않아서 비교 대상 중에서도 꽤 독보적이라 봅니다
-  >
-  > **@user-f4y3l7x9jp** [👍1]：장점은 말할 것도 없이 책상 정리부터 손목 편함까지 다 잡은 구조지만, 아무래도 좌우 분리라는 특성상 FPS나 리듬게임처럼 빠른 리듬 입력엔 적응이 좀 걸릴 수도 있어요. 장시간 타건 위주로 작업하는 분들에겐 최적이긴 함
-  >
-  > **@user-r9z4i3ch2s** [👍1]：내 입장에선 솔직히 디자인은 좋지만 구조가 너무 생소해서 손이 안 가는 느낌임. 좌우 분리라던가 텐팅이라던가 이론적으론 좋은데, 실사용에서 이런 설정을 다 챙기며 쓸 자신이 없달까??? 초보자에겐 좀 어려운 제품일 수도 있다고 봄
-  >
-  > **@도갱-r6v**：컥 진짜 키보드를 동강내다니 신박하네요 한번 써보고 싶습니다
-  >
-  > **@고스트라이더-o6p**：<a href="https://www.youtube.com/watch?v=L5kQZNb12Cc&amp;t=76">1:16</a> 사용자 스타일에 맞게 완벽하게 세팅할 수 있겠네요. 왠만한 고급 스플릿 키보드는 50~60넘는 것들도 많은데 전반적인 스펙이랑 외관 생김새 보면 적당한 가격에 잘 출시한 느낌입니다
-  >
-  > **@혀니임쓰**：로지텍 K860처럼 곡선 구조를 쓰는 방식도 있지만, 이 제품은 물리적 분리라 위치 자유도에서 압도적이다 ㄷㄷ
-  >
-  > **@바닐라DS**：다 좋은데 B키가 왼쪽에있네 ㅜㅜ
-  >
-  > **@수지-d2o**：디자이너도 사용하기에 괜찮을까요? 손목 고장나기 일보 직전에 ㅠㅠ
-  >
-  > **@deweykim3332**：테크님 머리 기르신건가요??
-  >
-  > **@유기농고래**：손목 부담 줄이는 건 장점이지만, 일반 키보드랑 타이핑 느낌은 좀 다르겠네요
-  >
-  > **@뜨링뜨링**：분리형이라 자세 잡긴 좋겠지만, 이 구조가 실사용에서 불편한 상황은 없을지 의문이에요
-  >
-  > **@손가락한번팅기면**：텐팅 킷 외 일반 각도 조절대도 한쪽에 두개씩 달아줬으면 더 끝판왕 키보드였을텐데 갠적으로 아쉽습니다. 그냥 잘만든 키보드라서 그런지 욕심이  좀 더 나는? ㅋ
-  >
-  > **@user-c5q2w8e3c1**：솔직히 이런 키보드 조금은 복잡해 보임… 적응 어렵지 않을까?
-  >
-
----
-
-## 23. Split keyboard with NO CABLES! NocFree Lite Wireless Split Mechanical Keyboard Review
-
-- **频道：** BiboyHaranero
-- **观看数：** 8,472
-- **点赞数：** 29
-- **评论数：** 5
-- **时长：** 5:14
-- **发布日期：** 2025-04-30T12:29:50Z
-- **链接：** https://www.youtube.com/watch?v=g3owpTVuujk
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/g3owpTVuujk/hqdefault.jpg
-- **简介：**
-
-  > #Nocfree #Nocfreekeyboard #mechanicalkeyboard #gamingkeyboard #gamingsetup #gamer #gaminggear #keyboard
-  > 
-  > Access the link below on where to get your Nocfree Lite!
-  > https://www.nocfree.com/products/nocfree-lite?sca_ref=8521307.Fsjx7IQeNwjMDj
-  > https://www.nocfree.com/products/nocfree-lite?sca_ref=8521307.Fsjx7IQeNwjMDj
-  > https://www.nocfree.com/products/nocfree-lite?sca_ref=8521307.Fsjx7IQeNwjMDj
-  > 
-  > Nocfree Discord Community
-  > https://discord.com/invite/kTNzjcvrjM
-  > 
-  > 0:00 Specs
-  > 1:08 Comfort & Adjustments
-  > 2:21 Aesthetics
-  > 3:20 Build
-  > 4:08 Keycaps, Stabilizers, & Switches
-  > 4:46 Soundtest
-  > 
-  > Reach out to me via:
-  > FB: Biboyharanero (Daniel Reyes)
-  > IG: Biboyharanero
-  > Email: danersonofcl@gmail.com
-  > Wechat: zynthox
-
-- **热门评论（2 条）：**
-
-  > **@TheGreatAmphibian**：Crappy switches that can only swapped for other crappy switches - won’t take cherry or Kailh. Scummy manufacturer doesn’t mention this before you buy. I’d also worry about battery fires - they’re not clear about how wired mode works re tge battery and that’s always alarming.
-  >
-  > **@ExeonsBizzareAdventure**：Can I use one half wireless while leaving the other half off? I want to use the left side for gaming while not having the right side connected or even on. Can this be done?
-  >
-
----
-
-## 24. 無線分割キーボードNocFree Liteレビュー｜自作不要の完成品&amp;技適取得のロースタッガード！
-
-- **频道：** Min's LIFEHACK
-- **观看数：** 1,541
-- **点赞数：** 33
-- **评论数：** 0
-- **时长：** 11:47
-- **发布日期：** 2025-10-07T12:01:22Z
-- **链接：** https://www.youtube.com/watch?v=fZSReLF-X6A
-- **来源：** search
-- **有字幕：** 否
-- **语言：** ja
-- **缩略图：** https://i.ytimg.com/vi/fZSReLF-X6A/hqdefault.jpg
-- **标签：** 分割キーボード, 分割キーボード 無線, ロースタッガード 分割キーボード, 自作キーボード, NocFree Lite, 無線分割キーボード
-- **简介：**
-
-  > 分割キーボードNocFree Liteをレビューします。無線対応でもちろん技適も取得済み。自作不要の完成品で、さらに分割キーボードに多いカラムスタッガードではなく、一般的なキーボードに多く採用されているロースタッガードな本商品。
-  > 
-  > これだけでもとても魅力的ですが、日本のAmazonにないからかレビューがとても少なかったので、取り上げてみました。
-  > 
-  > 相性の問題か少し残念な点もありましたので、本商品を購入検討されている人は、是非最後までご覧ください。
-  > 
-  > ▼目次
-  > 0:00 Intro
-  > 0:54 開封の様子
-  > 2:34 魅力・使って感じた良かった点
-  > 6:25 残念な点
-  > 8:18 購入前の懸念や使用後の変化
-  > 10:06 総括と最後に打鍵音
-  > 
-  > ▼私が購入した製品はこちら
-  > https://www.nocfree.com/products/nocfree-lite?srsltid=AfmBOoqeX1BjCj3mxzJXGe7Yyujm2y_sUDDnZ7jSwkz9ApcQaAYnfdQF&variant=46012028420338
-  > 
-  > ▼Amazon購入ページ
-  > ※Amazonアソシエイトリンクです
-  > https://amzn.to/46Vi7OW
-  > 
-  > ↑上記、動画公開時点だと4万円越えでした。メーカー直販で購入した方が1万円ほど安いです。ただ、メーカー直販の場合、海外輸送となるため手元に届くのに10日ほどかかりました。
-  > 
-  > なるべく早くお手元に欲しい方は、Amazonからでもアリかもしれません・・・（待てる人は直販が⚪︎）。
-  > 
-  > #分割キーボード
-  > #無線分割キーボード
-
----
-
-## 25. A split keyboard… that actually looks good? Meet the $249 NocFree &amp; 🔗
-
-- **频道：** Studio SC
-- **观看数：** 6,450
-- **点赞数：** 103
-- **评论数：** 4
-- **时长：** 0:33
-- **发布日期：** 2025-08-17T18:17:27Z
-- **链接：** https://www.youtube.com/watch?v=Bm6Y09P2VmY
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/Bm6Y09P2VmY/hqdefault.jpg
-- **热门评论（3 条）：**
-
-  > **@ramighoul-k6g** [👍3]：When he tore the keyboard apart my heart stopped for a moment ☠️
-  >
-  > **@interstellartvpresents**：The num pad is sold separately for $90
-  >
-  > **@dopered5821**：Not worth $249, i don’t think low profile can give good typing feel.
-  >
-
----
-
-## 26. 【分割・無線・ホットスワップ】Nocfree Liteを買ったよ！
-
-- **频道：** ふゆはばら
-- **观看数：** 2,097
-- **点赞数：** 39
-- **评论数：** 2
-- **时长：** 7:01
-- **发布日期：** 2024-06-23T10:00:06Z
-- **链接：** https://www.youtube.com/watch?v=8pOmXZ_Vkrk
-- **来源：** search
-- **有字幕：** 否
-- **语言：** ja
-- **缩略图：** https://i.ytimg.com/vi/8pOmXZ_Vkrk/hqdefault.jpg
-- **简介：**
-
-  > おすすめです！なにか疑問があったら答えますのでコメントください！
-  > 
-  > Nocfree Lite
-  > https://www.nocfree.com/products/nocfree-lite?variant=45860792402162
-  > 
-  > HMX Deep Navy
-  > https://unikeyboards.com/en-jp/products/hmx-deep-navy-linear-switch-factory-lubed-edition-10pcs
-  > 
-  > 国内通販でHMX を買いたい場合はTALP KEYBOARDさんで売ってます。
-  > Hyacinth V2はCIDOO V65で使っていて一番好きなスイッチです。
-  > https://talpkeyboard.net/items/6503eb1329196f002a45f543
-  > 
-  > 
-  > ---
-  > 
-  > 
-  > お借りしているもの
-  > 
-  > ボイス
-  > VOICEVOX:ずんだもん
-  > 
-  > 音楽
-  > さんうさぎ さん
-  > https://www.youtube.com/watch?v=4tvnzd8v3Xo
-
-- **热门评论（2 条）：**
-
-  > **@th_1997** [👍1]：なかなか良さげ。
-  >
-  > **@minapin**：よさそう。分割無線探してて自作か迷ったけど選択肢増えた！
-  >
-
----
-
-## 27. 스플릿 키보드 좋아하시면 들어오세요 | 완전 무선 각도조절 스플릿 기계식 키보드 | NocFree Lite
-
-- **频道：** 북치 bookchi
-- **观看数：** 23,116
-- **点赞数：** 226
-- **评论数：** 44
-- **时长：** 0:31
-- **发布日期：** 2024-10-05T10:14:51Z
-- **链接：** https://www.youtube.com/watch?v=Q0ILyQbJYHs
-- **来源：** search
-- **有字幕：** 否
-- **语言：** ko
-- **缩略图：** https://i.ytimg.com/vi/Q0ILyQbJYHs/hqdefault.jpg
-- **标签：** 스플릿 키보드, nocfree lite, 앨리스 프로파일 키보드, 어고배열 키보드, 기계식 키보드, 손목 보호 키보드, 어깨 보호 키보드, 키보드 팜레스트, 키보드 손목 받침대, 서울리안, 서울리안 키보드, 스플릿 키보드 장점, 스플릿 키보드 단점, 앨리스 키보드 장점, 앨리스 키보드 단점, 승업키보드, 리뷰녀, 라떼크, 바룬, 여우비온, 김캔들, 스누키, 탠틴 키보드
-- **简介：**
-
-  > NocFree의 제품지원을 받아 영상을 제작했습니다
-  > 
-  > [ NocFree Lite ]
-  > https://smartstore.naver.com/nocfree/products/10825861031
-  > 
-  > [ @bookchi ]
-  > Contact : bookchi922@gmail.com
-  > Blog : https://blog.naver.com/bookchi-it
-  > Instagram :  https://www.instagram.com/book.chi.v
-  > TikTok : https://www.tiktok.com/@bookchi
-  > 
-  > [ Partner ]
-  > 네이버 카페 키팸 : https://cafe.naver.com/keyfam
-  > Yunzii : https://www.yunzii.com?aff=192
-  > 5달러 할인 코드 : VBQ049PRLALI5
-  > Nuphy : https://nuphy.com/?sca_ref=6605437.FvykhSlnsX
-  > 10% 할인 코드 : bookchi
-  > 각종 OTT 할인 겜스고 : https://www.gamsgo.com/partner/3pjT8
-  > 할인 코드 : LKUB2
-  > 
-  > ———————————————————
-  > 
-  > 안녕하세요 IT 리뷰하는 북치입니다.
-  > 
-  > 완전 무선 연결을 지원하는 기성품 스플릿 기계식 키보드인
-  > NocFree Lite 키보드에 대해 살펴 봤습니다.
-  > 리뷰에 사용된 제품은 꽤 오래 전 제공받은 해외 사이트 구매용 옵션으로
-  > 현재 공식 스토어에서 구매할 수 있는 옵션과 상이하므로
-  > 스위치 등의 옵션은 최대한 배제하고
-  > 키보드 자체의 특징만을 서술하는 방향으로 영상을 제작했습니다.
-  > 이 점을 꼭 염두에 두시고 영상을 시청해 주시길 부탁드립니다.
-  > 
-  > 저는 개인적으로 어고노믹 디자인 어고배열이라고 불리우는
-  > 앨리스 프로파일 키보드나 스플릿 키보드를 평소에 즐겨 씁니다.
-  > 키보드가 꺾여 있는 앨리스 프로파일은 기존의 기계식 키보드들처럼
-  > 하나의 하우징을 공유하기 때문에 일반적으로 쓰이는 기능이나 배열이
-  > 일반 기성품 키보드들과 크게 다를 바 없이 구성됩니다.
-  > 
-  > 하지만 태생적으로 양쪽이 쪼개지게 설계되어 있는 스플릿 키보드는
-  > 양쪽이 쪼개진다는 특성 때문에 어쩔 수 없이
-  > 양쪽을 유선으로 연결하기도 하고 PC와 유선으로 연결해야만 했습니다.
-  > 하지만 이번에 소개드린 NocFree Lite 키보드는 유선 사용도 가능하지만
-  > 2.4G 동글 하나만으로 PC와 연결하여 완전 무선 사용이 가능합니다.
-  > 이 장점 하나만으로도 스플릿 키보드를 선호하시는 분들께는
-  > 이번 NocFree Lite 키보드를 구매하실 이유가 충분하다고 생각합니다.
-  > 
-  > 깔끔하게 잘 나온 65% 레이아웃으로 디자인 자체도 꽤 괜찮고
-  > 내부에는 흡음설계가 잘 되어 있는지 통울림도 꽤 억제되어 있습니다.
-  > 무엇보다 손목의 편안함을 조금이라도 더 만들어 줄 수 있는
-  > 탠팅 측면 각도 조절 기능까지 기본적으로 내장되어 있어
-  > 기성품 스플릿 키보드에서 만들어 줄 수 있는 장점은
-  > 최대한 살려서 제작되었다고 생각합니다.
-  > 
-  > 물론 몇 가지의 단점들이 있긴 하지만
-  > 저는 이번 NocFree Lite 키보드를 몇 달간 사용하면서 느꼈던
-  > 완전 무선 사용이라는 최고의 장점에 대한 만족감이 너무 좋았습니다.
-  > 지금도 저는 이 글을 NocFree Lite 키보드로 적고 있습니다.
-  > 손목 어깨 건강을 조금이라도 관리하고 싶으시거나
-  > 휴대도 가능할 정도의 가벼우면서도 완전 무선 스플릿 키보드를 찾으신다면
-  > 이번 NocFree Lite 키보드를 적극 추천드리고 싶습니다^^
-  > 
-  > ———————————————————
-  > 
-  > QSENN Q75 블루퍼플 색상 / HAIMU 바다소금 저소음 스위치 키보드를
-  > 10월 첫째 주 정기 구독자 이벤트로 준비했습니다.
-  > 개봉 후 살짝 사용했던 제품으로 약간의 사용감이 있을 수 있습니다.
-  > 
-  > 09월 30일 부터 10월 06일까지 이번 주 동안
-  > 제 유튜브 채널의 롱폼 / 쇼츠 / 커뮤니티 게시글에 작성된
-  > 모든 댓글을 제가 취합하여 핀볼로 당첨자분을 선정하겠습니다.
-  > 한 분이 여러 곳에 댓글을 게시해 주시는 건 인정되지만
-  > 한 분이 한 곳에 여러 댓글을 게시해 주시는 건 반영되지 않습니다.
-  > 타인을 비방하는 등의 악의적인 댓글은 제가 걸러 내도록 하겠습니다.
-  > 
-  > 10월 첫째주 정기 구독자 이벤트는
-  > 10월 06일 일요일 23시 59분까지 진행될 예정이며
-  > 10월 07일 월요일 이후로 커뮤니티에 선정되신 분에 대한 공지를 올리겠습니다.
-  > 구독 정보를 공개해 놓지 않으셨다면
-  > 선정되시더라도 제품 제공이 불가한 점 양해를 부탁 드리겠습니다.
-  > 
-  > 10월 둘째주 정기 구독자 이벤트는 물론
-  > 앞으로도 더 다양한 제품과 더 많은 구독자 이벤트를 준비해 볼 테니
-  > 많은 관심 부탁 드리겠습니다. 감사합니다^^
-  > 
-  > #스플릿키보드 #앨리스키보드 #기계식키보드
-
-- **热门评论（40 条）：**
-
-  > **@sinmoon0** [👍3]：써봤는데 B 키가 오른쪽에 없어서 겁나 불편함..
-  >
-  > **@봄양갱** [👍2]：되게 편할 것 같기는 해요 손목의 각도를 조절 할 수 있으면 더 편해지니까 아픈 것도 덜해지지 않을까❤
-  >
-  > **@yunseoamong** [👍1]：이게 영원히 쓰는 키보드 아닐까요 🎉🎉
-  >
-  > **@B_STAR-p9e** [👍1]：악ㅠ 키보드 넘 둥글둥글 귀여워요.. 와 근데 팜레스트까지 나눠있어서 너무 좋네요.
-  >
-  > **@ybaebaes** [👍1]：오아.. 이런 키보드는 한번도 사용 안해봤는데 궁금하네용!!
-  >
-  > **@Balogue** [👍1]：무선인게 가장 좋네요 ㅋㅋ
-  >
-  > **@Lucky_Jukey** [👍1]：토막나버린 키보드... 적응되면 진짜 편할 것 같은 느낌이네요 😆
-  >
-  > **@lemonismeow**：이 친구도 나무로 되어있는 부분이 있는게 참 예쁜 것 같아요
-  >
-  > **@isa88isa20**：키보드가 이렇게나 여러 종류라는걸 저만 몰랐나봅니다;;;
-  >
-  > **@LottoFirst**：뭔가 감성 충만한 느낌
-  >
-  > **@banananeun-ma-si-sseo**：스페이스 두개로 갈라진게 귀엽네요
-  >
-  > **@유형주-d5d**：키캡이 장난아니네요..
-  >
-  > **@unknownk.3732**：이번에 corne를 들였는데 확실히 NocFree가 완성도가 느껴지네요
-  >
-  > **@KMiN-jI**：스플릿 키보드 한번도 안써봤는데 신기하네용
-  >
-  > **@하늘지-w9y**：제가 독수리 왼손타법이라 어우 손목아프겠는데요?
-  >
-  > **@kst9442**：이런키보드는 보통 안이쁘던데 이친구는 이쁘네요!!
-  >
-  > **@코코k**：어머 세워질지는 상상 못했어요! 색도 이쁘고 신기하고 귀엽고 다 하네요 ㅎㅎ
-  >
-  > **@영영-o3p**：와 키보다가 너무 귀엽네요😊 저렇게 딱 깔끔한 게 너무 취향이네요, 저런 스플릿 키보드 한번 살까 고민되네요
-  >
-  > **@반디-이**：스플릿키보드는 그냥 봐선 불편할거 같은데 왠지 한번쓰면 못 헤어나올거같은 느낌이 드네용
-  >
-  > **@kimkimkim5117**：키보드 세워서 쓰면 진짜 편하겠다
-  >
-  > **@이재찬-m7l**：분리가 되서 취향대로 쓸수 있겠네요❤
-  >
-  > **@mskang94**：이쁘고 타건 소리도 좋네요 키보드 그만사야하는데....
-  >
-  > **@nameless1540**：진짜로 쓰고 싶당..
-  >
-  > **@sseren1216**：신기하네요… 써보고 싶..
-  >
-  > **@babyfox48**：스플릿 키보드 디자인도 이쁘고 재밌네요 ㅎㅎ 적응만 하면 괜찮을듯
-  >
-  > **@tonying2047**：스플릿 키보드는 한번도 안써봤는데 좋아보이네요!
-  >
-  > **@hwanshang**：배열 다른 모델 나오면 못 참고 살지도...
-  >
-  > **@수타기**：각도 조절되는게 너무 좋은데 딱 봐도 편해보이네요 ㅠㅠ b키만 어케 적응한다묜....
-  >
-  > **@solbinlee-jc6mn**：키캡이 넘 귀엽네여😊
-  >
-  > **@rjh88540**：신기하네요
-  >
-  > **@shs892**：이거 살 돈이면 앨리스 사는게
-  >
-  > **@lleelleee**：B키가 하나라니😢
-  >
-  > **@DeepRootedTreeForest**：쪼개진 키보드는 어떨지 궁금하네요 ㅎㅎ
-  >
-  > **@chos_mini**：B가 1개밖에 없는 스플릿 ㅜㅜ
-  >
-  > **@arch-s8d**：스플릿 키보드 사용감이 어떨지 궁금해지네요
-  >
-  > **@bookchi**：- 이벤트 마감 - 감사합니다^^
-  >
-  > **@메챠카와이이**：무선인가요???
-  >
-  > **@moros-dt3xt**：분리
-  >
-  > **@Linearswitch**：어고 같은데, 어고는 아니고, 어고는 맞는 것 같고, 근데 또 어고가 아니고, 아 근데 결론적으로 어고는 맞네요(?)
-  >
-  > **@sjw2367**：신기하네요
-  >
-
----
-
-## 28. Nocfree &amp;: Unboxing - Wireless Split-Keyboard ⌨️🔥
-
-- **频道：** Aral Tasher
-- **观看数：** 2,845
-- **点赞数：** 51
-- **评论数：** 2
-- **时长：** 0:35
-- **发布日期：** 2025-10-06T16:19:28Z
-- **链接：** https://www.youtube.com/watch?v=mnK6kuRh1V8
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/mnK6kuRh1V8/hqdefault.jpg
-- **热门评论（1 条）：**
-
-  > **@kevinturnr** [👍2]：Never understood split keyboards that didn’t have ergonomic builds.
-  >
-
----
-
-## 29. KnocFree Wireless Split Keyboard | Rime Switch  @NocFree
-
-- **频道：** AUnboxing
-- **观看数：** 307
-- **点赞数：** 7
-- **评论数：** 1
-- **时长：** 3:59
-- **发布日期：** 2025-08-07T21:05:42Z
-- **链接：** https://www.youtube.com/watch?v=pRyB1gVSvRU
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/pRyB1gVSvRU/hqdefault.jpg
-- **标签：** keyboard, mechanical, nuphy, gaming keybaord, asmr, unboxing, air75v2, nuphyair75v2, qmk, nuphy air96 v2, nuphy air75 he, air75 he, kick75, nuphy kick75, cowberry switch, SilentUnboxing, RGBKeyboardASMR, redragon k617, lofree flow 2, Nuphy Air75 V3, air75v3, nuphyair75v3, red nano switch, Brown nano switch, silver nano switch, blush nano switch, Panda Nano switch, Keytok, Berry Keycaps, Lofree flow 2, Lofreeflow2, lofree, pulse, surfer, void, Mchose, UT98, mchose ut98, unbox therapy, knocfree
-- **简介：**
-
-  > KnocFree Kickstarter: https://nocfree.kckb.me/aunboxing
-  > 
-  > Like and Subscribe! Thank you for watching!
-
-- **热门评论（1 条）：**
-
-  > **@SpencerJames2000** [👍1]：What a wild concept! It&#39;s like 3 separate keyboards.
-  >
-
----
-
-## 30. 개발자는 키보드를 찢어.. (NocFree Lite 65)
-
-- **频道：** 판교 뚜벅쵸
-- **观看数：** 7,550
-- **点赞数：** 81
-- **评论数：** 8
-- **时长：** 0:37
-- **发布日期：** 2025-01-29T12:09:59Z
-- **链接：** https://www.youtube.com/watch?v=g0AsfzQCdnI
-- **来源：** search
-- **有字幕：** 否
-- **语言：** ko
-- **缩略图：** https://i.ytimg.com/vi/g0AsfzQCdnI/hqdefault.jpg
-- **简介：**
-
-  > 더 자세한 내용은 영상 하단의 상세 리뷰 링크 참고 🙋🏻‍♂️
-  > "NocFree"로부터 제작비 지원 없이 "제품만" 제공받았습니다
-  > 
-  > #판교뚜벅쵸 #판뚜 #날것vlog #개발자vlog #개발자브이로그 #판교vlog #판교브이로그 #개발자커플 #개발자부부 #키보드 #기계식키보드 #개발자키보드 #keyboard #mechanicalkeyboard #developer
-  > #nocfree
-
-- **热门评论（7 条）：**
-
-  > **@봄양갱** [👍1]：찢을 수 있는 키보드 정말 특별해서 탐나요💕
-  >
-  > **@1Q81725**：저기에 해피해킹 배열이면 참 좋을텐데
-  >
-  > **@요릉갓**：한번쯤 써보고 싶은 제품이네요 ㅎㅎ
-  >
-  > **@하늘-n2n1j**：탐나는 키보드네요
-  >
-  > **@Waieo99**：Waieo 로 참여햇습니다 스플릿 키보드는 어떨지 궁금하네요
-  >
-  > **@이우철-c6e**：플스5  한대 가격이라니...
-  >
-  > **@lilillililiilililil**：B가 왼쪽인건 정말 참을수가 없다
-  >
-
----
-
-## 31. Nocfree Split Mechanical Keyboard | Unboxing ⌨️🔥
-
-- **频道：** Aral Tasher
-- **观看数：** 5,943
-- **点赞数：** 92
-- **评论数：** 2
-- **时长：** 0:21
-- **发布日期：** 2024-10-20T17:23:06Z
-- **链接：** https://www.youtube.com/watch?v=BormoynKqiQ
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/BormoynKqiQ/hqdefault.jpg
-- **热门评论（1 条）：**
-
-  > **@Criticalmaze**：Does this actually make u type faster? I can only do about 55 wpm on regular keyboard
-  >
-
----
-
-## 32. Nocfree &amp; Build — Full VOD
-
-- **频道：** Alexotos VODs
-- **观看数：** 542
-- **点赞数：** 4
-- **评论数：** 0
-- **时长：** 1:45:58
-- **发布日期：** 2025-09-16T15:30:12Z
-- **链接：** https://www.youtube.com/watch?v=Cx8seNou364
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/Cx8seNou364/hqdefault.jpg
-- **简介：**
-
-  > Streamed live on Twitch on Aug 5, 2025
-  > 
-  > ◽️◽️◽️◽️◽️◽️
-  > 
-  > Remember to follow me on my socials, too! 
-  > instagram: alexotos
-  > twitter: otosalex
-  > twitch: alexotos
-  > discord: alexotos
-  > 
-  > ◽️◽️◽️◽️◽️◽️
-
----
-
-## 33. 찢어버리는 스플릿 키보드 I NocFre Lite 65 I 완전 분리형 기계식 키보드
-
-- **频道：** 최초이
-- **观看数：** 6,884
-- **点赞数：** 50
-- **评论数：** 5
-- **时长：** 0:39
-- **发布日期：** 2025-05-06T10:56:22Z
-- **链接：** https://www.youtube.com/watch?v=uOFTs4ohR0A
-- **来源：** search
-- **有字幕：** 否
-- **语言：** ko
-- **缩略图：** https://i.ytimg.com/vi/uOFTs4ohR0A/hqdefault.jpg
-- **标签：** 데스크테리어, 데스크셋업, 분리형키보드, 스플릿키보드, 녹프리, 녹프리라이트65, 녹프리라이트, nocfree, nocfreelite, splitkeyboard, keyboard
-- **简介：**
-
-  > [제품제공] NocFree 분리형 키보드
-  > 
-  > ✔ 65% 레이아웃
-  > ✔ 스플릿 인체공학 설계
-  > ✔ 무선/유선 모두 지원 + 긴 배터리
-  > ✔ 3중 흡음 구조
-  > ✔ 핫스왑, 키맵핑, 커스터마이징
-  > ✔ PBT 키캡 & 호두나무 팜레스트 구성
-  > 
-  > 조금 뜬금없는 키보드 영상입니다만,
-  > 제 화이트우드 셋업에 톤앤매너가 잘 맞는 키보드를 한대
-  > 가져와봤습니다.
-  > 
-  > 분리가 되는 키보드는 태어나서 처음 써보는지라
-  > 처음엔 엄청 어색하고 적응하기 힘들었는데,
-  > 사용하면 할수록 어깨가 편하니 타이핑 자세가 편해지는걸
-  > 체감하고 있어요.
-  > 
-  > #nocfree #nocfreelite65 #녹프리 #스플릿키보드 #데스크셋업
-  > #데스크테리어 #키보드추천
-
-- **热门评论（5 条）：**
-
-  > **@WND3ROUS**：각도를 되게 특이하게 쓰시네요..ㅋㅋㅋ
-  >
-  > **@Robot-Number999**：와우 갬성  그 자체 우드와도 잘 어울리는 군요 ? 화이트라 ? 또 화이트 인가 하는데 손목받침대가 우드 세트라니
-  >
-  > **@rdr7977**：너무너무 이쁜데 가격이 사악함..
-  >
-  > **@Happylife9w9**：제가 키보드 배터리 부품 현상때문에 모든 키보드의 배터리를 빼고, 유선으로만 사용하는데 이 제품도 혹시 기판을 뜯을 수 있나요? 배터리 제거를 하고 싶은데 정보가 없네요...
-  >
-  > **@농담곰탱이-c5v**：오~~
-  >
-
----
-
-## 34. NocFree Lite – This split layout actually makes sense
-
-- **频道：** Kephren
-- **观看数：** 3,815
-- **点赞数：** 91
-- **评论数：** 2
-- **时长：** 0:52
-- **发布日期：** 2025-05-21T17:52:58Z
-- **链接：** https://www.youtube.com/watch?v=AXrg4NVGz-U
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en-CA
-- **缩略图：** https://i.ytimg.com/vi/AXrg4NVGz-U/hqdefault.jpg
-- **标签：** split keyboard, split keyboard review, best split keyboard, split keyboard for programming, split keyboard ipad, split keyboard typing, ergonomic keyboard, split keyboard with trackball, split keyboard for gaming, split keyboard coding, split keyboard layout, split keyboard with trackpad, split keyboard tenting, split keyboard build, best split keyboard for programming, best split keyboard for gaming, best split keyboard for mac, best split keyboard layout
-- **简介：**
-
-  > The NocFree Lite is a truly wireless keyboard. With up to 6 months of battery life, it’s built for comfort, customization, and multi-OS use.
-
-- **热门评论（2 条）：**
-
-  > **@NotGoldArc** [👍1]：It looks nice, but I would like it better if there was a numpad, and function keys
-  >
-  > **@CarBitGTSaxen**：Quebec accent ? :P<br><br>Am from Quebec myself
-  >
-
----
-
-## 35. NocFree Lite Typing Test (Split Mechanical Keyboard)
-
-- **频道：** 🌟 Jon - Your Friend In Tech
-- **观看数：** 70,907
-- **点赞数：** 582
-- **评论数：** 26
-- **时长：** 0:20
-- **发布日期：** 2023-12-12T18:23:29Z
-- **链接：** https://www.youtube.com/watch?v=_pYvZIF-LTA
+## 9. Reacting to Brandon&#39;s Secret
+
+- **频道：** Man Carrying Thing
+- **观看数：** 74,728
+- **点赞数：** 4,904
+- **评论数：** 189
+- **时长：** 2:09
+- **发布日期：** 2022-03-01T18:26:25Z
+- **链接：** https://www.youtube.com/watch?v=L-kRrqLLXWw
 - **来源：** search
 - **有字幕：** 否
 - **语言：** en-US
-- **缩略图：** https://i.ytimg.com/vi/_pYvZIF-LTA/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/L-kRrqLLXWw/hqdefault.jpg
+- **标签：** brandon sanderson, announcement, stormlight, mistborn, wheel of time, cosmere, way of kings, rhythm of war, man carrying thing, kaladin
 - **简介：**
 
-  > Typing with the NocFree Lite is a bit awkward at first but it’s definitely more comfortable after you get used it! I’m not a competitive typer so I haven’t really noticed much of a difference in typing speed, but the experience of typing is nicer and feels more natural.
+  > haha typewriter go brrrrrr
   > 
-  > #nocfree #nocfreelite #splitkeyboard #mechanicalkeyboard #compactmechanicalkeyboard #typingtest
+  > watch sanderson's full video: 
+  > https://www.youtube.com/watch?v=6a-k6eaT-jQ
+  > 
+  > 
+  > Twitter: https://twitter.com/ManCarrying
+  > Patreon: https://www.patreon.com/mancarryingthing
+  > TikTok: https://www.tiktok.com/@mancarryingthing
+  > Reddit: https://www.reddit.com/r/ManCarryingThing/
+  > Discord: https://discord.gg/dz6zskP53w
+  > Instagram: https://www.instagram.com/mancarryingthing/
+  > Letterboxd: https://letterboxd.com/ManCarrying/
+  > 
+  > #brandonsanderson #cosmere
 
-- **热门评论（10 条）：**
+- **热门评论（113 条）：**
 
-  > **@PsyberSenpai** [👍18]：For those who are complaining, your arms are supposed to hover over the keyboard to avoid wrist pain in long term use. The Kinesis Advantage manual goes over this for their keyboards as well.
+  > **@caradine898** [👍1333]：I love how everyone was worried for his health and instead he was like &quot;SURPRISE, 5 MORE BOOKS BITCHES&quot;
   >
-  > **@bongkem2723** [👍12]：you dont even touch the wrist support, it looks painful to hang in the air like that !!!
+  > **@genericallyentertaining** [👍1019]：I love how Jake is just smiling at the beginning. All of us were worried about Brandon&#39;s health, and he&#39;s just like: &quot;I know this man.&quot;
   >
-  > **@ClownsForever** [👍6]：Now i can type while keeping my hands on shoulders of two people in both of my sides😅
+  > **@AK-tr6lo** [👍726]：You were right, he does write faster than we can read.
   >
-  > **@marcialabrahantes3369** [👍2]：i need this but with a number pad... please make it happen!
+  > **@jonnystoffel** [👍687]：Man Carrying Thing: “I’ve been dishonest with you…”<br><b>releases 5 extra half-minute awkward Zoom skits in 2023</b>
   >
-  > **@shakyadissanayaka**：👍🏻
+  > **@comradefall** [👍656]：brandon: “i’ve been pretty stressed during the pandemic…”<br><br>me: “that’s understandable man, take a break if you need it, you write a lot”<br><br>brandon: “that’s why i ended up writing 5 extra books in secret”<br><br>me: “you did what?!”
   >
-  > **@박준성-l1c**：i cant typing ~ this
+  > **@SherlockJon3s** [👍511]：Brandon is perfect for this channel, he provides reading and meme material.
   >
-  > **@axenz-x**：what is the keyboard
+  > **@AnAtypicalAlien** [👍287]：He&#39;s exactly the opposite of me. He&#39;s like: LOOK GUYS 5 MORE BOOKS<br>And I&#39;m like: LOOK GUYS I HAVE WRITTEN THREE WORDS IN SIX YEARS
   >
-  > **@Kaydjen**：what keyboard it is?
+  > **@TrentRyanKatzenberger** [👍210]：I honestly was worried he was going to admit that he had had a secret team of authors this whole time, thank God it was just the usual, I&#39;m a machine.
   >
-  > **@gamerofbangladesh5003**：webside??
+  > **@swolechihuahua4905** [👍189]：People were like: &quot;Oh man, i never saw Brandon this serieous i hope everything is alright. At the end of the day he&#39;s just a human and has it&#39;s limits.....&quot;<br>PrintMachineSando: &quot;5 books deploying....&quot;
   >
-  > **@Unleashed.Scrat1**：Bro u wasting split keyboard potential
+  > **@milospollonia1121** [👍177]：You two are an absolute power duo, but whatever you accomplish please remember Brandon was better as a 5 yo
+  >
+  > **@Wingedmagician** [👍134]：Brandon Sanderson tracks all of his time.<br><br>He works when he’s stressed from being overworked. <br><br>Your girlfriend wants his genes.
+  >
+  > **@rhuntern** [👍112]：I&#39;ve yet to actually read Brandon Sanderson purely because my TBR is absolutely massive. But he&#39;s one of my favorite authors purely because of HIM. His lectures have been immensely helpful, and he has such a wonderful personality. Maybe I&#39;ll read one of his books next up, I&#39;ve been wanting to!
+  >
+  > **@KillerOfWhales** [👍90]：Brandon Sanderson writes extra books over the pandemic, Jake attempts murder
+  >
+  > **@sfpt** [👍65]：MCT I hope you&#39;ve made more than 5 extra videos in the last two years
+  >
+  > **@alikinani6913** [👍49]：Is being scared of Brandon sanderson an appropriate reaction because I&#39;m scared.
+  >
+  > **@TheSecondVersion** [👍38]：Sanderson&#39;s work ethic reminds me of that scene from Doctor Strange where he uses astral projection to study <b>while he sleeps.</b>
+  >
+  > **@seansampler6808** [👍36]：He’s insane, he must just be perpetually writing
+  >
+  > **@e443productions9** [👍35]：For a second there I swore he was gonna confess he has ghostwriters working with him, but not I guess he’s just a story machine
+  >
+  > **@Salaclubprez** [👍34]：Jesus. I’m trying to write a book for fun and I’m giving myself until 2025 to finish it, this man knocked out 5 books in two years? Almost feels like he made a deal with the night watcher.
+  >
+  > **@jessicahiga9870** [👍22]：He is so sweet though, he wrote them as a gift for his wife, gives me Beren and Luthien vibes.
+  >
+  > **@rohanmanro3765** [👍20]：I was jittering the whole day yesterday, wondering what he was going to announce, but then when he announced the secret novels I laughed out loud!
+  >
+  > **@darriendane** [👍19]：this seems like a long drawn out way of saying he’s not one of the x-men
+  >
+  > **@elliotcrossan6290** [👍18]：Somewhere in Brandon&#39;s house are paintings of George R.R. Martin and Patrick Rothfuss, who are screaming as Brandon has stolen their ability to write fast and added it to his own
+  >
+  > **@gnomishviking3013** [👍17]：I mean on one hand this is amazing. On another hand this is devastating for my reading back log. <br><br>Oh well. Already backed the Kickstarter
+  >
+  > **@PatrickSilent** [👍17]：Five short novels in two years would be much, let alone five long ones. This guy is a beast of a writer.
+  >
+  > **@kassandra4929** [👍16]：nah I&#39;ll admit it, he got me good. he comes out like &quot;i&#39;ve been lying to you&quot; and I thought he was going to admit he had a ghostwriter hahahah ;&#39;)))
+  >
+  > **@TheLLLIIINNNUUUSSS** [👍16]：You guys are nerds. I love it, keep it up
+  >
+  > **@crazybalrog4033** [👍12]：Nah…. I think GRRM and Rothfuss I writing their books for him instead of finishing their series. Either that or Brandon is some Zuckerberg-esque reptile.
+  >
+  > **@antekpatyk9425** [👍12]：I already watched it, but I have to say I was truly impacted. I can&#39;t believe he&#39;d done this. <br>(Though I&#39;m glad that he writes almost as fast as I read, gives me more books for the future, nevermind the 150 books on my TBR)
+  >
+  > **@kakastormblessed1140** [👍12]：You two are so good together! ♥️
+  >
+  > **@luvBB4lyf** [👍11]：IKR NADIA! I feel like such a failure lmao
+  >
+  > **@raginghemroid** [👍10]：Dude it&#39;s been live for 2 hours and they have already hit their goal nearly 5 times over. This is bonkers and I&#39;m stoked
+  >
+  > **@tanmad21** [👍10]：@Man Carrying Thing thanks for helping him write those books! He let me know he couldn&#39;t have done it without you. GG.
+  >
+  > **@adoniscreed4031** [👍9]：This man has a problem and we are lucky to have him 🤣 this definitely made me more inspired to shut up and write hahaha
+  >
+  > **@nathancarter8239** [👍8]：Daniel Greene&#39;s video on Brando Sando seems really relevant right now.
+  >
+  > **@nimishrai257** [👍8]：Hei I would like to remind you that we have an MCT Discord server where we all, like Bernie Sanderson, lie, always.
+  >
+  > **@crazyfantakevideos3574** [👍7]：Haha “his GENES!!”
+  >
+  > **@FruitLoopsHD** [👍6]：cutest internet couple award prize
+  >
+  > **@joshuastclairmusic** [👍6]：The man is a legend. He’s uncontained!
+  >
+  > **@AdeMagnaye** [👍5]：Aaaand I agonize over every other paragraph<br>That man is a monster
+  >
+  > **@CaitlinnStoltz** [👍5]：I love Brandon&#39;s books a lot, however my wallet hates him, lol
+  >
+  > **@RexusprimeIX** [👍5]：I had a similar reaction at the start. I thought maybe he had a writer&#39;s block for the past 2 years and had been lying about his progress with his books, hoping he&#39;d soon find his motivation again and speedrun those books he&#39;d been fake writing. Turns out he had the opposite of a writer&#39;s block and wrote 5 books on-TOP of the official books he was working on.
+  >
+  > **@clairemitch4301** [👍5]：Best couple 🙃
+  >
+  > **@nachgeben** [👍5]：Man, I wish my body didn&#39;t decide to get burdened with Ehler-Danlos, because I would&#39;ve loved to have done something like that in the last two years.  Now, just writing comments bitching about jealousy that someone can write a half of a book hurts lmao  Good for him though!
+  >
+  > **@priyamsingh4885** [👍4]：&quot;I avoid writing burnout with more writing&quot;
+  >
+  > **@dougfile6644** [👍4]：<a href="https://www.youtube.com/watch?v=L-kRrqLLXWw&amp;t=100">1:40</a> &quot;I was thinking it was like, a movie option&quot;<br><br>I think that&#39;s partially what this is about. This has really got his name out there and could help a lot when it comes to getting a movie deal funded
+  >
+  > **@WuDiZara** [👍4]：While you made this video plus while I watched it, Brandon was finishing his revision of one of these books.
+  >
+  > **@passwordyeah729** [👍4]：I can&#39;t even get up in the morning
+  >
+  > **@bottombarrelbudgetfilms1854** [👍4]：Dude wrote 5 books during this pandemic and I never even finished my screenplay.
+  >
+  > **@Bookgoblins** [👍4]：OMG and they just brought you up on their live stream, I am squee&#39;ing for you.
+  >
+  > **@illumizoldyck3008** [👍4]：First
+  >
+  > **@wordsbyleandra** [👍3]：Emotional damage! It took me four years to write one book.
+  >
+  > **@ashara_rhaenys** [👍3]：If you listen closely, you can hear us fans of GRRM crying in the distance.
+  >
+  > **@thegreatestbookwom6982** [👍3]：Nadia, I’m pretty sure he could tell you where he got his jeans from.
+  >
+  > **@videoslv4626** [👍3]：Lovely couple!! 😍😍
+  >
+  > **@robertm.8653** [👍3]：Why does he write like he&#39;s running out of time?!
+  >
+  > **@lostboi2271** [👍3]：Tehee, look at me, I&#39;m sooo quirky, I wrote even more books for you to read UwU
+  >
+  > **@myribstellmesheslying** [👍2]：Jake knows a prankster when he sees one.
+  >
+  > **@cbpd89** [👍2]：At times like these, I am grateful to be a fairly fast reader 😂
+  >
+  > **@D4n1t0o** [👍2]：&quot;HIS GENES&quot; 😬
+  >
+  > **@Somemessdude** [👍2]：Gotta admit, he taps the typing right in more than Stephen King…
+  >
+  > **@anonymouse2675** [👍2]：I&#39;m telling you, this man has an army of clones somewhere...
+  >
+  > **@LilyMuRB** [👍2]：This isn’t the Brandon I was expecting, I was expecting the president
+  >
+  > **@suepedie1** [👍2]：Superhuman Sanderson! Don&#39;t let him get you normal human writers down.😁
+  >
+  > **@joshgraham5141** [👍2]：Please god let brandon sanderson take over ASOIAF
+  >
+  > **@ishanbajpai6940** [👍2]：I saw your comment on that video, I liked it, I would have even requested Brandon to pin it too but I didn&#39;t.<br>Now, you realise How it feels! I wanted you to feel my pain and anguish Buddy. <br>Also,<br>This is my attempt number 25 of requesting for this comment to be pinned in order to fulfill my New year&#39;s resolution for 2022.<br>Thankyou for consideration.
+  >
+  > **@chadcunningham7914** [👍2]：ASOIAF fans watching this like: 😐😐
+  >
+  > **@JasonFuhrman** [👍2]：Dude needs to slow down. Quality my man. Not quantity.
+  >
+  > **@NovaPrima** [👍2]：I don&#39;t understand this sketch.
+  >
+  > **@Dysiode** [👍1]：The Year of Sanderson was 10/10 no notes
+  >
+  > **@completemadlad15** [👍1]：Brandon is an absolute Madlad!!!
+  >
+  > **@DustinWillis18** [👍1]：Sanderson hates trees. Now confirmed.
+  >
+  > **@matthewletexier** [👍1]：I really want to make a gofundme to help me buy the year of Sanderson
+  >
+  > **@chestersnap** [👍1]：This is spoiling the secret, Jake 😡
+  >
+  > **@jessienube7034** [👍1]：He had us the first half, not gonna lie. I was terrified it was a health issue. I should have known he was just confirming his God status
+  >
+  > **@catpantsfriday8423** [👍1]：I loved it when authors were actually good.
+  >
+  > **@tbefilms** [👍1]：Man, I know you Carry a lot of Things on your channel, but I do hope with all my heart that you will make a handful of short form Stormlight videos around the release of Wind and Truth 🙏🏼
+  >
+  > **@Daye04** [👍1]：I was so confused when you had the laptop open, but it played no part in this
+  >
+  > **@mr_noob5931** [👍1]：wait is this skit or actual reaction ? how did u guys convince brando for the video ?
+  >
+  > **@samuelleask1132**：Dude was the biggest troll
+  >
+  > **@aj2563**：What an absolute mad lad
+  >
+  > **@HelenaHermione**：The Sanderson must write
+  >
+  > **@Alexian-v6c**：Brandon us such a showman
+  >
+  > **@DavidDecero**：It had to be more books. Lol. There was no other option.
+  >
+  > **@rorangarrowson5**：It is confirmed Brando is a robot.
+  >
+  > **@vaibhavbhat4810**：I have to come to terms with the fact that i will never be able to catch up on Brandon Sanderson&#39;s books. The man&#39;s a BEAST !!!!
+  >
+  > **@Moore_Ron**：I love how........
+  >
+  > **@DeadPressed4444**：Brandon is the father all of us nerds have always wanted
+  >
+  > **@whitecrow1583**：Yeah, Inventing Anna! Why write books (which might be bad) when there&#39;s Netflix?
+  >
+  > **@pederklev**：In a month: &quot;Woah, I was kind of stressed out during the whole Kickstarter... so I wrote another book.&quot;
+  >
+  > **@mohammedalani5308**：Is that a 2012 macbook pro??? HELL YEA BRO I HAVE THE SAME ONE
+  >
+  > **@jaredf6205**：He already made $10 million on preorders today lol
+  >
+  > **@MonsieurBananes**：what&#39;s the name of the song playing at the end of the video?
+  >
+  > **@hi.694**：Brandon Printerson strikes again.
+  >
+  > **@olevam1**：I also felt a bit of a failure tbh
+  >
+  > **@DropFortyTwo**：Brandon Sandon/Branderson Sanderson
+  >
+  > **@randomguy970**：I too wish for his genes
+  >
+  > **@jecoyuwu**：I love you man
+  >
+  > **@jonathonpolk3592**：Has anyone ever told you that you bear more than a passing resemblance to Daniel Bruhl? Because you do.
+  >
+  > **@charles3840**：Good grief. xD
+  >
+  > **@Sogon.D**：The uncomfortable moment when your girlfriend says she wants another man&#39;s genes.
+  >
+  > **@TheSecondVersion**：Sanderson is pumping out stories like a machine. <br><br>In other news, Jean-Dominique Bauby, a French journalist, author and editor of the French fashion magazine Elle, wrote a  32,750-word autobiography... <b>after he had been paralyzed by a stroke/seizure and could only control a single eyelid.</b> Using a system of coded blinks, he dictated <b>an entire original book.</b><br><br>What on god&#39;s green earth is George R.R. Martin&#39;s excuse for still not completing Winds of Winter, <b>over 10 years</b> since the last book??
+  >
+  > **@s.g.3898**：&quot;I accidentally wrote another book&quot; &quot;And some more&quot;. lol. Bad-ass to be honest
+  >
+  > **@jorischkovich**：George RR Martin take notes
+  >
+  > **@HasteWriting**：Dear Mr. Sanderson, my favorite works of yours are Legion and Shadows for Silence in the Forests of Hell... you know, NOVELLAS. Pump the breaks every now and again my dude!
+  >
+  > **@LEARSIKCIGAM**：Let’s go BRANDON!
+  >
+  > **@cabrademora1**：:D
+  >
+  > **@Nahlaaly56**：It&#39;s just not fair, man! But I&#39;m not complaining! More Brandon books is not something I&#39;d complain about!
+  >
+  > **@amp7980**：The what? I saw that online somewhere n thought it was some random joke or meme. Did he pull a Newton? Like oh there&#39;s a plague that I have to isolate from the world for? Let me just create something world changing cause I&#39;m bored.
+  >
+  > **@chinesecabbagefarmer**：nodding yes i dont even have to watch to know<br><br>my favorite color for example is absolutely purple. i brush my teeth with purple. i am surrounded by purple. i am wearing purple clothes in a purple room and this video is 4 minutes long. there is no war in ba sing se
+  >
+  > **@metalman4393**：Sorry for ruining 69 comments.
+  >
+  > **@Nitronium**：Was this a skit, or?
+  >
+  > **@fallen_cookie**：But are they good?
   >
 
 ---
 
-## 36. My thumb button lifehack #nocfree
+## 10. Live with Brandon Sanderson (Secret Project Three Spoiler Stream)
 
-- **频道：** CalmCode
-- **观看数：** 4,085
-- **点赞数：** 50
-- **评论数：** 0
-- **时长：** 0:25
-- **发布日期：** 2025-08-10T19:00:35Z
-- **链接：** https://www.youtube.com/watch?v=RjebiSy-2mE
+- **频道：** Brandon Sanderson
+- **观看数：** 50,523
+- **点赞数：** 1,631
+- **评论数：** 107
+- **时长：** 1:59:03
+- **发布日期：** 2022-03-23T02:25:16Z
+- **链接：** https://www.youtube.com/watch?v=F_DfnDkblNQ
 - **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/RjebiSy-2mE/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/F_DfnDkblNQ/hqdefault.jpg
 - **简介：**
 
-  > I am demonstrating this trick with the nocfree light. Not every keycap will allow for this, but a bunch of them do.
-
----
-
-## 37. KnocFree Wireless Split Keyboard | Rime Switch  ​⁠  ​⁠@NocFree #knocfree #kickstarter  #keyboard
-
-- **频道：** AUnboxing
-- **观看数：** 2,034
-- **点赞数：** 16
-- **评论数：** 0
-- **时长：** 0:16
-- **发布日期：** 2025-08-07T21:05:53Z
-- **链接：** https://www.youtube.com/watch?v=qbqDnebKQeE
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/qbqDnebKQeE/hqdefault.jpg
-- **标签：** keyboard, mechanical, nuphy, gaming keybaord, asmr, unboxing, air75v2, nuphyair75v2, qmk, nuphy air96 v2, nuphy air75 he, air75 he, kick75, nuphy kick75, cowberry switch, SilentUnboxing, RGBKeyboardASMR, redragon k617, lofree flow 2, Nuphy Air75 V3, air75v3, nuphyair75v3, red nano switch, Brown nano switch, silver nano switch, blush nano switch, Panda Nano switch, Keytok, Berry Keycaps, Lofree flow 2, Lofreeflow2, lofree, pulse, surfer, void, Mchose, UT98, mchose ut98, unbox therapy, knocfree
-- **简介：**
-
-  > KnocFree Kickstarter: https://nocfree.kckb.me/aunboxing
+  > Join us this evening for another live signing session with Brandon Sanderson. With him tonight is his wife Emily Sanderson who was the wonderful voice talent in the recent Quadrovela pharmaceutical spoof.
   > 
-  > Like and Subscribe! Thank you for watching!
-
----
-
-## 38. Breaking my keyboard in half | NocFree Lite wireless split keyboard
-
-- **频道：** JSETUPS
-- **观看数：** 1,473
-- **点赞数：** 18
-- **评论数：** 0
-- **时长：** 0:34
-- **发布日期：** 2025-07-09T23:25:03Z
-- **链接：** https://www.youtube.com/watch?v=yAcosGaY640
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/yAcosGaY640/hqdefault.jpg
-- **简介：**
-
-  > Shop link: https://amzn.to/40xO8dV
+  > As we've mentioned before, the first hour will be spoiler-free. The second hour will be devoted to questions about the reveal and reading of Secret Project #3.
   > 
-  > Breaking my keyboard in half 🙀
+  > To ask/upvote questions for the stream, visit this Reddit thread: https://www.reddit.com/r/brandonsanderson/comments/tjur44/livestream_questions_for_march_22nd_at_600_pm_mst/
   > 
-  > Split Wireless Keyboard @nocfree.co
+  > Now on Backerkit: https://secretnovels.backerkit.com/hosted_preorders
   > 
-  > Would you try this keeb? 🤔💭
   > 
-  > ————————————
-  > #nocfree #mechanicalkeyboard #ergonomicsetup #keyboardreview #desksetup #productivitygear #splitkeyboard
+  > Want to send me something to open on stream?
+  > Dragonsteel Entertainment
+  > ATTN: Mem
+  > P.O Box 698
+  > American Fork, UT 84003
+  > 
+  > Link to Dawnshard: http://www.amazon.com/dp/B08MXXWYT7?tag=brandsande-20
+  > 
+  > Stay up to date by following my newsletter: https://www.brandonsanderson.com/#signupform
+  > 
+  > Interested in signed books and swag? Check here: https://store.brandonsanderson.com/
+  > 
+  > You can also follow me on:
+  > Facebook: https://www.facebook.com/BrandSanderson
+  > Twitter: https://twitter.com/BrandSanderson
+  > Instagram: https://www.instagram.com/brandsanderson/
+  > Twitch: https://www.twitch.tv/mistbornbrandon
+  > 
+  > Frequently asked questions: https://faq.brandonsanderson.com/
 
----
+- **热门评论（68 条）：**
 
-## 39. This keyboard splits in two - NocFree Lite black
-
-- **频道：** TECH ENGINEER 
-- **观看数：** 851
-- **点赞数：** 6
-- **评论数：** 0
-- **时长：** 0:35
-- **发布日期：** 2025-10-26T19:30:29Z
-- **链接：** https://www.youtube.com/watch?v=O3SRjOisysc
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/O3SRjOisysc/hqdefault.jpg
-- **简介：**
-
-  > Follow me on Instagram: https://www.instagram.com/techngneer
-
----
-
-## 40. pov: when your keyboard is having a nightmare
-
-- **频道：** NocFree
-- **观看数：** 2,044
-- **点赞数：** 10
-- **评论数：** 0
-- **时长：** 0:07
-- **发布日期：** 2026-02-10T02:45:07Z
-- **链接：** https://www.youtube.com/watch?v=wFi6ZUKqSWM
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en-US
-- **缩略图：** https://i.ytimg.com/vi/wFi6ZUKqSWM/hqdefault.jpg
-- **简介：**
-
-  > You might never think the NocFree Lite keyboard could have nightmares too.
-  > Go check your keyboard…Is it scared enough to split apart?
-  > #keyboard #splitkeyboard #fyp #memes
-
----
-
-## 41. ASMR: Typing with the NocFree &amp; Split Keyboard
-
-- **频道：** Chan's Tech Review
-- **观看数：** 1,607
-- **点赞数：** 14
-- **评论数：** 2
-- **时长：** 0:19
-- **发布日期：** 2025-08-30T17:26:56Z
-- **链接：** https://www.youtube.com/watch?v=58MczlHrwjo
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/58MczlHrwjo/hqdefault.jpg
-- **简介：**
-
-  > Enjoy the sound with me. Split Keyboard from NocFree #asmr #keyboardasmr #keyboard
-
-- **热门评论（2 条）：**
-
-  > **@justinpresent**：are these the silent keys?
+  > **@bruceh9780** [👍113]：Is anyone else VERY excited to see what Aliya Chen can do with the description of Design?
   >
-  > **@LindaCrowder10021950**：What is the benefit of a split keyboard?  It looks good and seems like my hands could form and fit each piece instead of turning them to use a single keyboard. I have neuropathy and that could be a game-changer for the amount of time I can use the keyboard!  <br>😊
+  > **@Codyon30FPS** [👍55]：Spoiler section begins at <a href="https://www.youtube.com/watch?v=F_DfnDkblNQ&amp;t=3816">1:03:36</a>
+  >
+  > **@Struggler12349** [👍35]：It was once mentioned that Hoid refused to take up a shard after the shattering of Adolnalsium because he wasn&#39;t offered the shard that he wanted.<br><br>I guess virtuosity is the shard that he wanted<br><br>Edit: guess I&#39;m not the only one who thought that haha
+  >
+  > **@raphaellezilio2031** [👍30]：My 10yo son will be over the moon with the go fish set!! He’s a huge fan of the skyward books 😊 and especially the slugs!!
+  >
+  > **@jeffweskamp3685** [👍28]：Brandon&#39;s Kickstarter has just crossed the $32 million mark as of 10:30 pm Mountain Time (USA) on March 22nd, 2022! There are eight more days to go before the Kickstarter closes.
+  >
+  > **@jamestandy8594** [👍18]：<a href="https://www.youtube.com/watch?v=F_DfnDkblNQ&amp;t=2150">35:50</a>-<a href="https://www.youtube.com/watch?v=F_DfnDkblNQ&amp;t=2378">39:38</a> - Emily and Brandon give solid advice for people who want to know how to support their writer spouse.<br><br>@Adam Horne this could be a great standalone clip if you&#39;re looking for one! I know y&#39;all are super busy right now though so I get if that&#39;s not on the radar
+  >
+  > **@jennywilliams1455** [👍17]：I&#39;m the same Emily! My husband is such an extrovert, but you&#39;ll often find me sitting in a corner at a party watching youtube or reading on my phone. Or giving unsolicited book recommendations!
+  >
+  > **@ATAKeithStewart** [👍14]：I really want at least one of these books (Special project one preferably) to be narrated by Brandon and Emily. You guys are so cute together, I was smiling the whole stream.
+  >
+  > **@aemon-oni** [👍14]：Speaking of narrators/voicework.. with how much the kickstarter is bringing in, do you think it possible to get a &quot;full cast&quot; for the audio books? Much like how it was done with &quot;Graphic Audio&quot; and the Mistborn series?
+  >
+  > **@austinrudd5468** [👍13]：Please name the game on the package “go slug”🤣
+  >
+  > **@janalewis3030** [👍13]：RE: the story of Kathy babysitting while Brandon and Emily went on vacation - that is the definition of a true Aunt! (Did you teach the boys to do it?!?!) My mom does something similar with our dishes when she babysits the dog. It&#39;s fun for her! And I stand in the kitchen in a perpetual state of confusion... :)
+  >
+  > **@williamkeaton5091** [👍13]：You know it would be awesome if Mary Robinette from Writing Excuses helped on one of the audiobooks
+  >
+  > **@yumyumhungry** [👍12]：Way cool art from Aliya, they look like busy camera shots from a movie
+  >
+  > **@draigrhosynreads3450** [👍10]：Getting some Arcane like art for Secret Project 3👀 great choice of artist!!
+  >
+  > **@oliveoil2x** [👍9]：Emily - I have always wondered who in Brandon’s world is into horses. His books have enough horse moments - showing that he at least knows someone who knows. 😉 When you identified Blue Sword as a favorite early fantasy novel- I was so happy (the horse focus in that book is excellent- my favorite ‘horse’ fantasy novel). You are THE horse lover in Brandon’s world. ♥️ 😊 How cool.  Thank you!
+  >
+  > **@brigida2350** [👍8]：Just saw Aliya&#39;s Hoid and it may be my favourite, this is so exciting!
+  >
+  > **@avsambart** [👍8]：Hard agree with Emily and introverted teachers and being okay in a teaching setting because we are in control of a comfortable small space.
+  >
+  > **@mussoletart8485** [👍7]：love the light and color in aliya&#39;s artwork
+  >
+  > **@seanwilson2798** [👍7]：We have a family name that starts with the letter R and so when my wife and i were coming up with names for our twins, i decided the boy should be Dallin R. My wife really loves me cause that’s his name!
+  >
+  > **@JGM288** [👍6]：Brandon... Please put a popcorn connoisseur somewhere in stormlight. It would be like The Lopen and Chouta but soo much more.
+  >
+  > **@justinjeffries1554** [👍6]：Me wondering what the hell kind of monster &quot;Radiant&quot; you would make forming a nahel bond with a nightmare 🥵🥵🥵
+  >
+  > **@nicodoggie** [👍5]：if there was ever an actual purpose for an NFT, it would be a digital RAFO card
+  >
+  > **@BethCymraeg** [👍4]：It would be really cool to get a digital version of the bookmark so we can download and print it out ourselves.
+  >
+  > **@zenthepoet.** [👍4]：Adoooonalsiiiiium
+  >
+  > **@josepharthur97** [👍4]：Are the ebooks going to be available when they come out for individual purchase? I really want to read them but I can&#39;t afford to buy them all through the Kickstarter right now
+  >
+  > **@jesseparker8712** [👍3]：<a href="https://www.youtube.com/watch?v=F_DfnDkblNQ&amp;t=2940">49:00</a> &quot;And Adam&quot; absolutely killed me 🤣
+  >
+  > **@definitelynotobama6851** [👍3]：I’m gonna need a bigger bookshelf
+  >
+  > **@Landis963** [👍3]：It occurs that, when discussing self-aware Invested beings, Hoid does not use &quot;spren&quot; when relating the concept to his audience.  Instead, he uses &quot;fay, seon, or spirit,&quot; despite using terminology elsewhere that a Rosharan audience would recognize (&quot;You&#39;d probably say Painter looked Veden.&quot;).
+  >
+  > **@bobbles5637** [👍3]：Pity your closing off kick start so soon I was hoping it would go until the end of April so I could see if get it for my 60th birthday for myself.
+  >
+  > **@jesseellis7622** [👍3]：Make RAFO NFTs
+  >
+  > **@stone7858** [👍2]：It is torture waiting for this book😅
+  >
+  > **@TarmakWorm** [👍2]：Kettle Corn is so delicious. Salty and sweet!
+  >
+  > **@canondocre8650** [👍2]：I love circus peanuts too lol. Absolutely, emphatically love them. I now, in my 43 years of life, know of 3 entire people who like them, and one of us is dead. Haha
+  >
+  > **@isaacbetzold** [👍2]：I have to disagree sweet kettle corn is divine
+  >
+  > **@callahanjohnson** [👍2]：Anyone know where you can get Dragonsteel apparel like Emily had on? Like with the Dragonsteel logo? <br><br>Love that minimalist light jacket, but can&#39;t find anything like it on their site. 😕
+  >
+  > **@JonSteitzer** [👍2]：I&#39;m wondering if any of the secret projects draw from &quot;The Liar of Pontrinal (Fontrinal?)&quot;?<br><br>Edit - Partinel!<br><br>Thanks for asking my question Adam and thanks for answering Brandon! Modern tech is amazing.
+  >
+  > **@voidsabre_** [👍2]：<a href="https://www.youtube.com/watch?v=F_DfnDkblNQ&amp;t=4515">1:15:15</a> wait a minute... Could every shard have a number assigned to its magic?<br><br>9 for Odium, 10 for Honor, 12 for (Aether shard?), 16 for Preservation
+  >
+  > **@RandomMiscShit** [👍2]：Where would I find information about the extra rewards without spoilers? I want to be 100% surprised when I get the books, but I a curious if I should up my backing level
+  >
+  > **@vtii2808** [👍1]：Looking forward to these more and more.
+  >
+  > **@bryantbodnar** [👍1]：I bet the November box is gonna be a Roshar themed box.
+  >
+  > **@GoddessFromMars** [👍1]：I&#39;m so excited for slug go fish!!
+  >
+  > **@mattygstax4584** [👍1]：Y&#39;all are too good to me. Thank you!🙏
+  >
+  > **@pansylimes4198** [👍1]：Love Emily&#39;s Dragonsteel shirt, would be awesome in A Year of Sanderson box...
+  >
+  > **@stardroplet9499** [👍1]：I loved the popcorn 🍿 talk 😆
+  >
+  > **@Elsecaller17.5** [👍1]：Gah!!! If I make it to the MB release party I am hunting down my RAFO card!
+  >
+  > **@oliveoil2x** [👍1]：🍿Agreed-  being startled with kettle corn is like expecting a chocolate chip cookie… and finding out that it’s a raisin filled cookie instead. Traumatic.
+  >
+  > **@adonalsiumwillrememberourp8027** [👍1]：He said early in the video that they already gathered some questions but might pick some during. How do I submit questions to potentially be picked beforehand?
+  >
+  > **@Breezeezee** [👍1]：Why specifically a &quot;go fish set&quot;? Is there a difference between that and a standard pack of playing cards?
+  >
+  > **@freebird6591** [👍1]：I truly hope we get to see the Peaks in secret project 4...
+  >
+  > **@siennafamily2010** [👍1]：Oh… that gal has such a great voice. Read me an audiobook! Read YOUR book to me. :) That would be so so lovely.
+  >
+  > **@szadam88955** [👍1]：Put Design next to Wit
+  >
+  > **@jamestandy8594** [👍1]：<a href="https://www.youtube.com/watch?v=F_DfnDkblNQ&amp;t=5240">1:27:20</a> hold up...somehow that feels like more than a hypothetical<br><br>(mild Rhythm of War spoiler)<br><br><br><br><br><br><br><br><b>cough</b> Mraize&#39;s trapped seon <b>cough</b>
+  >
+  > **@nikkisweezea2388** [👍1]：Okay, we have now seen no less than half a dozen members of the Dragonsteel team with that jacket Emily is wearing. Any chance we will ever get to buy one?
+  >
+  > **@FabienMoraldo** [👍1]：Is there a way to buy Emily&#39;s dragonsteel sweater/jacket ?
+  >
+  > **@ryanvance1020**：loved having emily on the livestream!
+  >
+  > **@stone7858**：Still waiting… but it is a little bit closer!!
+  >
+  > **@lilred8234**：Relationship goals 101
+  >
+  > **@sflytal**：I hope Emily is the narrator for Tress! She’s so great!
+  >
+  > **@marenhansen6695**：Oh my gosh the slug cards and stickers!!  So excited!  Please please please can we sometime get a Boomslug plushie?  My kids and I all have joint custody of our Doomslug, and a Boomslug will ease the pain of separation… 😏🤣
+  >
+  > **@BenFrey1980**：So, the Words of Radiance title pages he is signing say &quot;volume one&quot; below them, and are printed with at least one extra color plate (look at the color bars in the bleed). That means these are for the WoR leatherbound kickstarter, which I understood would not happen until 2023?
+  >
+  > **@tiazirkle2523**：Okay, does anyone know what Livestream/event they discussed their engagement story? Would love to listen!!
+  >
+  > **@brianlinden3042**：You guys were saying you were looking for bonuses you could add for digital only backers, right?  How about TWO versions of one of the audiobooks, one read by a professional narrator, and one read by Emily.  It could be good practice for Emily to see if it&#39;s something she&#39;d like to do more of in the future, AND there will be a back up professional version so you don&#39;t need to worry about turning anybody off to it.  I just think that having a novel that was intended as a gift to someone being read to us BY that person is a pretty neat concept.
+  >
+  > **@LinkingYellow**：I can&#39;t imagine how coke and Pepsi could taste the same to someone. They&#39;re both good, but for very different reasons.
+  >
+  > **@su_shadow9326**：i dont like plain old salted and buttered popcorn.  Sweet, savory, spicy, love it.  But standard popcorn I only have a few and I am done.
+  >
+  > **@Harrypotterlegos**：You can tell brandon and his wife hate the title ‘mission president’s wife’
+  >
+  > **@corbyrobinson3640**：Question for Brandon, if you see this and have the time to answer, why is it that when you sign your sheets on these Q and A streams you put them into separate piles instead of just one?<br><br>Also I couldn&#39;t agree more with you Brandon about kettle corn.
+  >
+  > **@misomiso8228**：Hey Brandon<br>I have a writing question about word counts.  <br>Isaac Asimov said that at the beginning of his carear he was averaeging 1,000 words a day, but towrads the end he was doing 1,700 a day.  <br><br>How does this compare to you?  <br><br>And related, what a word count per week?  For example do you always try and take the weekend off so you&#39;re only writing five days a week? <br><br>MNy thks
+  >
+  > **@bryantbodnar**：I also have a theory on who Hoid is telling the stories to?
   >
 
 ---
 
-## 42. Now on Kickstarter: NocFree &amp;- the wireless split keyboard. split to reconnect
+## 11. The First Step Towards Becoming Dragonsteel | Intentionally Blank Ep. 149 | #brandonsanderson
 
-- **频道：** Best Crowdfunding Projects
-- **观看数：** 119
-- **点赞数：** 3
-- **评论数：** 0
-- **时长：** 0:33
-- **发布日期：** 2025-08-05T22:37:06Z
-- **链接：** https://www.youtube.com/watch?v=a2fn5fv94R4
+- **频道：** Brandon Sanderson
+- **观看数：** 91,942
+- **点赞数：** 4,621
+- **评论数：** 55
+- **时长：** 1:00
+- **发布日期：** 2024-04-21T19:00:13Z
+- **链接：** https://www.youtube.com/watch?v=UjFzlUtoL9I
 - **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/a2fn5fv94R4/hqdefault.jpg
-- **标签：** NocFree & By Solar, crowdfunding, ergonomic keyboard, ergonomic split keyboard, kickstarter, mechanical split keyboard, split keyboard, wireless split keyboard
+- **缩略图：** https://i.ytimg.com/vi/UjFzlUtoL9I/hqdefault.jpg
+- **标签：** Brandon Sanderson, Stormlight, Mistborn, Hero of Ages, Well of Ascention, Alloy of Law, Shadow of Self, Bands of Mourning, The Lost Metal, Author, Way of Kings, Oathbringer, Rhythm of War, Tress of the Emerald Sea, Frugal Wizard, Yumi and the Nightmare Painter, The Sunlit Man, Cytoverse, Dragonsteel, Defiant, Skyward, New Content, Exclusive Books, Legion, Elantris, Warbreaker, Sanderfan, Sanderson, Writing, Storytelling, Leatherbounds, Backerkit, Words of Radiance
 - **简介：**
 
-  > NocFree &: wireless split keyboard. split to reconnect
-  > First low-profile split with gasket mount | Ergonomic comfort | Intuitive to Use | Bluetooth, 2.4G, Wired | ANSI & ISO layout
-  > Back This Project: https://tinyurl.com/2n8p8huw
-
----
-
-## 43. bet you never seen a magic keyboard split like this
-
-- **频道：** NocFree
-- **观看数：** 134
-- **点赞数：** 0
-- **评论数：** 1
-- **时长：** 0:06
-- **发布日期：** 2026-02-11T03:30:14Z
-- **链接：** https://www.youtube.com/watch?v=JowSMLXR9UM
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en-US
-- **缩略图：** https://i.ytimg.com/vi/JowSMLXR9UM/hqdefault.jpg
-- **简介：**
-
-  > never seen it? commen 1 👇
+  > Brandon Sanderson and his wife Emily Sanderson talk about the first big move they made that would kick off their company.
   > 
-  > #splitkeyboard #magickeyboard #split
+  > Pre-Order Store for Words of Radiance BackerKit Campaign: https://words-of-radiance-leatherbound.backerkit.com/hosted_preorders?ref=WU402
+  > 
+  > Sum of All Writers Backerkit Link: 
+  > 
+  > Want to send me something to open?
+  > Dragonsteel Entertainment
+  > ATTN: Adam
+  > P.O Box 698
+  > American Fork, UT 84003
+  > 
+  > Stay up to date by following my newsletter: https://www.brandonsanderson.com/tag/newsletter/#footer
+  > 
+  > Interested in signed books and swag? Check here: https://www.dragonsteelbooks.com/
+  > 
+  > You can also follow me on:
+  > Tiktok: https://www.tiktok.com/@authorbrandonsanderson
+  > Facebook: https://www.facebook.com/BrandSanderson
+  > Twitter: https://twitter.com/BrandSanderson
+  > Instagram: https://www.instagram.com/brandsanderson/?hl=en
+  > Twitch: https://www.twitch.tv/mistbornbrandon
+  > 
+  > Frequently asked questions: https://faq.brandonsanderson.com/
 
-- **热门评论（1 条）：**
+- **热门评论（32 条）：**
 
-  > **@demon0.5**：Love the design but man I wish you guys had a non split version
+  > **@lorissawtf** [👍815]：I have no context for why Brandon looks like this and it’s awesome
   >
-
----
-
-## 44. Do you like our Christmas keycaps? 🦌🎁🧑‍🎄✨
-
-- **频道：** NocFree
-- **观看数：** 140
-- **点赞数：** 6
-- **评论数：** 0
-- **时长：** 0:33
-- **发布日期：** 2024-12-07T21:47:39Z
-- **链接：** https://www.youtube.com/watch?v=nxUEhw1XKqI
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/nxUEhw1XKqI/hqdefault.jpg
----
-
-## 45. One tap. Wait for it 🎆 Not all fireworks are on the screen.
-
-- **频道：** NocFree
-- **观看数：** 73
-- **点赞数：** 1
-- **评论数：** 0
-- **时长：** 0:09
-- **发布日期：** 2026-02-20T17:39:46Z
-- **链接：** https://www.youtube.com/watch?v=7VU07jwVv54
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en-US
-- **缩略图：** https://i.ytimg.com/vi/7VU07jwVv54/hqdefault.jpg
-- **简介：**
-
-  > The Year of the Horse is here 🐎
-  > 
-  > May you move forward with strength, speed, and clarity.
-  > 
-  > Happy Lunar New Year ✨
-  > 
-  > #chinesenewyear #splitkeyboard #yearofthehorse  #newbeginnings  #ergonomickeyboard
-
----
+  > **@bluedrgnMethy** [👍185]：I love how Brandon randomly bedazzled his face😂
+  >
+  > **@ItsQubic** [👍78]：I&#39;m commenting to push the disgusting bots a little further down. Please do something about this YouTube, it&#39;s getting unbearable.
+  >
+  > **@PureMagma** [👍65]：I never stop learning from Brandon Sanderson. He&#39;s earned his greatness! If he decides to dress glam every day for the rest of his life... I could get behind such a decision! 🥂❤️‍🔥💵🎊🎉👏
+  >
+  > **@blacknight1234567** [👍45]：Man, these bots have been super persistent recently. Sad to see. Everyone who sees this please report
+  >
+  > **@dbslayer7** [👍42]：Brandon when his convention sells out in an hour.
+  >
+  > **@coolsprings6420** [👍22]：The beard was a great idea
