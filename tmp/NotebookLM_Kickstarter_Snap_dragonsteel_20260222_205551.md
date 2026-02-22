@@ -1,8 +1,11 @@
 # KS dragonsteel 20260222_205551
 
+## 相关链接
+
 > **GitHub 文档链接**:
 > - https://raw.githubusercontent.com/melon-cmd/test_ks_1111/refs/heads/main/tmp/Kickstarter_Summary_dragonsteel_20260222_205654_en.md
 > - https://raw.githubusercontent.com/melon-cmd/test_ks_1111/refs/heads/main/tmp/KS_YouTube_Report_30_trimmed.md
+> - https://raw.githubusercontent.com/melon-cmd/test_ks_1111/refs/heads/main/tmp/NotebookLM_Kickstarter_Snap_dragonsteel_20260222_205551.md
 >
 > **NotebookLM 笔记本**: https://notebooklm.google.com/notebook/6a8bfaac-fc71-4e7e-8a5e-1f1adcbd0082
 
