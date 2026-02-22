@@ -644,3 +644,12 @@
 13. **给国内创作者的启示**：我们往往羞于谈钱或谈商业化，但 Sanderson 证明了，只要你的东西足够好，大方地谈钱、定高价（$200+ 的套装），粉丝是会以此为荣的。不要低估用户为好内容付费的意愿。
 14. **长期主义的胜利**：这 4000 万美金不是一夜暴富，而是他 20 年如一日笔耕不辍的回报。Kickstarter 可以放大你的声量，但前提是你已经有了足够深厚的积累。
 15. **每个人都可以有自己的“秘密项目”**：即使我们不是大作家，也可以学习他在业余时间为自己（或爱人）创作的精神。也许你的下一个“秘密项目”，就是改变你人生的起点。Kickstarter 就是那个让梦想落地的最佳舞台。
+
+
+---
+
+**GitHub 文档链接**:
+- https://raw.githubusercontent.com/melon-cmd/test_ks_1111/refs/heads/main/tmp/Kickstarter_Summary_dragonsteel_20260222_205654_en.md
+- https://raw.githubusercontent.com/melon-cmd/test_ks_1111/refs/heads/main/tmp/KS_YouTube_Report_30_trimmed.md
+
+**NotebookLM 笔记本**: https://notebooklm.google.com/notebook/6a8bfaac-fc71-4e7e-8a5e-1f1adcbd0082
