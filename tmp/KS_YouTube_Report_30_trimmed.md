@@ -1,9 +1,9 @@
 # YouTube 视频分析报告（Score >= 30）
 
-**生成时间：** 2026-02-25T15:50:17.282766
-**搜索来源：** Brandon Sanderson secret novels, UC3g-w83Cb5pEAu5UmRrge-A
-**总收集：** 97 | **排除不相关：** 8 | **最终保留：** 89
-**有字幕(API)：** 18/89
+**生成时间：** 2026-02-25T17:14:33.163526
+**搜索来源：** UC3g-w83Cb5pEAu5UmRrge-A, Brandon Sanderson secret novels Kickstarter
+**总收集：** 100 | **排除不相关：** 15 | **最终保留：** 85
+**有字幕(API)：** 18/85
 
 ---
 
@@ -228,6 +228,10 @@
   >
   > **@IselPehache** [👍76]：I almost had a heart attack, and I was super ready to type a supportive comment in case you needed to step away from writing for a while (completely valid, we all need to rest sometimes) when the plot-twist hit. After the relief of knowing you&#39;re doing okay, it ocurred to me that now I have FOUR unexpected novels to look forward to in 2023. I&#39;m thrilled! Though, most of all, I&#39;m happy you&#39;re fine, Brandom. Keep taking care of yourself :)
   >
+  > **@ArtemisEveryoung** [👍69]：I love/hate this. I was so friggin nervous and now I’m just like… FINALLY. I love the little extra series. War breaker is still one of my absolute favorites. I’ve read it like 8 times and I think about it often. I flipped with the Easter egg in stormlight.
+  >
+  > **@lywellyn0** [👍68]：This is truly awesome. The Warbreaker and The Emperor&#39;s Soul novels are some of my favorites. I&#39;m very excited to see what new stories you have written. Signed myself up for the year of Sanderson audiobook edition. :) Glad you&#39;re doing well and the pandemic has allowed you to get back to doing something you were missing.
+  >
   > **@JW-qd3ol** [👍65]：Bro this is my first time hearing of Brandon Sanderson and I love the guy already. :D<br><br>He reminds me of Gabe Newell circa 2007, where he was like &quot;oh, you want Half Life 2? How about HL2 Ep 1, and HL2 Ep 2 as well! Actually just kidding, here&#39;s Team Fortress 2 to boot! And then the real icing on the cake, if you&#39;ll pardon the lie, here&#39;s Portal as well! And if that&#39;s not enough, they will all cost less than a single AAA game from other developers! Merry frickin&#39; random day in October, fellow gamer!
   >
   > **@wyldetimesreviews** [👍65]：And here I am, struggling to get a single project even finished. 🙃I truly envy Brandon&#39;s ability to pump out manuscripts.
@@ -278,8 +282,6 @@
   >
   > **@CatStripes2** [👍36]：You&#39;re one of the few authors who could pull something like this and I just know that they&#39;re going to be fantastic books I want to read.
   >
-  > **@luxcentric** [👍35]：I just!!! I am laughing, crying, and rolling my eyes. <br><br>Brandon, I have been following you since near the beginning of the Writing Excuses podcast and have enjoyed every book and novella I have read of yours. As with all my favorite authors, I pace myself and don&#39;t read them all right away because I am so sad when I need to wait. I am so glad I can always come back to you and read more stuff.  <br>You have been so amazing in putting out stories of high-quality wonderfulness. I was worried that you weren&#39;t taking time for yourself and your family and am so glad to see that you are. Stay healthy and continue to send out the stories. Bring on the Surprise option!
-  >
   > **@evettc7887** [👍33]：If traveling less means more books and a happier relaxed Brandon Sanderson am all for it! Cannot wait to read these new books.
   >
   > **@dannychan0510** [👍31]：What a mad lad! Legitimately trolled his entire fan base (and he knew exactly what he was doing)! I laughed so much when he got to the punch line. Love this guy so much!
@@ -316,9 +318,9 @@
   >
   > **@elenchab2164** [👍18]：I can&#39;t even express how much I adore this man. God bless Brandon and thank God for him. I couldn&#39;t stop laughing. 😄😄😄
   >
-  > **@drakoan** [👍17]：I used to read dozens of novels a year but over time I read less and less fiction and found myself consuming different materials with one major exception..... your novels.<br>In some ways your works have kept my love of fantasy fiction alive.<br>Thank you for your service, keep up the good work.
-  >
   > **@Suetvvlogs** [👍17]：Here I am struggling, trying to finish outlining my very first novel, and this man just casually tells us that he wrote 5 more novels while he still is working on the other he currently has out!
+  >
+  > **@drakoan** [👍17]：I used to read dozens of novels a year but over time I read less and less fiction and found myself consuming different materials with one major exception..... your novels.<br>In some ways your works have kept my love of fantasy fiction alive.<br>Thank you for your service, keep up the good work.
   >
   > **@Nokus416** [👍16]：This is the most incredible Brandon Sanderson thing I&#39;ve ever heard of. I love this so much.
   >
@@ -332,23 +334,21 @@
   >
   > **@MsEmilino** [👍13]：Every time you post your word counts, it inspires me that I can write more and more, without going back and forth about little things that I used to get hung up on. It gets me to actually write the stories instead of worrying about making the perfect sentence. It&#39;s amazing to me. This is just a cosmere level of inspiration for me as a beginning author. Thank you so much for this!!
   >
-  > **@Kaltez** [👍13]：I&#39;m so glad you&#39;re feeling better and boy oh boy am I happy that these past years have been a great recovery for you! Who would&#39;ve thought something like this would come out of the pandemic but I&#39;m certainly excited for what&#39;s to come!
-  >
   > **@thanosmits1638** [👍12]：This was a masterclass in trolling! Kudos Brandon!!
   >
   > **@Munden** [👍12]：Holy crap.  I admire the heck out of you Brandon Sanderson.  Your works singlehandedly made me enjoy reading again.  I had no idea you even had a YT channel.  You&#39;re beyond epic, legendary, and mythic status.  I hope you keep the work-life balance that suites you best and the books I get to read are icing on a cake so full of icing it&#39;s sickening.  Thank you, Thank you, Thank you.
   >
-  > **@mattterry2506** [👍12]：Man, you are a wonderful genius. I treasure your stories and you have no idea what a boost this is after such a hard couple of years. I re read your state of the Sanderson addresses at least 20 times a year because I am so eager to know when your projects are coming out… thank you so much. I hope you live forever in the full knowledge of what you’ve done for all of us
-  >
   > **@MattBirch** [👍12]：<a href="https://www.youtube.com/watch?v=6a-k6eaT-jQ&amp;t=412">6:52</a> - <a href="https://www.youtube.com/watch?v=6a-k6eaT-jQ&amp;t=423">7:03</a> is probably my favorite video experience ever!!! Not just that between 2019 and 2020 he published 3 or 4 novels, AND copublished White Sand 3, and 3 skyward Novellas. He ALSO wrote 5 more books in secret? What the freaking heck?! I am so happy to be alive!
   >
-  > **@BackAlleyTANGO** [👍11]：I was literally yelling at my screen for half of this. Brandon, you absolute madman. What a legend. &lt;3 &lt;3 &lt;3
+  > **@robbobstone** [👍12]：This video alone makes me want to try and read every single thing you have ever written, but I don&#39;t think I would ever be able to catch up to your writing speed haha
   >
   > **@Hugo-qf1wb** [👍11]：BRANDON YOU DAMN CRUEL HOW CAN YOU GIVE ME THESE FEARS
   >
-  > **@CarlosRodriguez-dh7mm** [👍11]：You know, as a fan, this is a lot to take in. Thanks for your honesty, Brandon. I bet this was a difficult thing for you, but it&#39;s better now that it&#39;s out there.
+  > **@BackAlleyTANGO** [👍11]：I was literally yelling at my screen for half of this. Brandon, you absolute madman. What a legend. &lt;3 &lt;3 &lt;3
   >
   > **@z-beeblebrox** [👍11]：I not only can&#39;t write this fast, I literally didn&#39;t even read as many pages during the past two years as he wrote. I CAN&#39;T EVEN READ AS FAST AS HE WRITES AHHHH
+  >
+  > **@CarlosRodriguez-dh7mm** [👍11]：You know, as a fan, this is a lot to take in. Thanks for your honesty, Brandon. I bet this was a difficult thing for you, but it&#39;s better now that it&#39;s out there.
   >
   > **@andrewv5104** [👍11]：OMG I LOVE THIS! As a HUGE fan i would much rather get more stories from you than have your time consumed with travel. I honestly thing the youtube provides more connection with fans than in person meetings anyway. It unlocks more interaction with more people.
   >
@@ -358,17 +358,15 @@
   >
   > **@LordOfAllusion** [👍10]：This is a month early for April Fools
   >
-  > **@heeyajolly24** [👍9]：Each time he put a manuscript on the table my jaw dropped even more. How can this man write so fast!??
+  > **@Ouroburos14** [👍10]：SANDERSON! You cheeky, bright-brained son of a gun, had me going and worrying because you just HAD to be so darn ominous!<br><br>Never change, my favorite author
   >
-  > **@peaceandloveusa6656** [👍8]：Brandon Sanderson casually wrote 4 novels and a graphic novel in the time I have written half of my rough draft. What a legend. I am looking forward to diving into the Cosmere!
+  > **@heeyajolly24** [👍9]：Each time he put a manuscript on the table my jaw dropped even more. How can this man write so fast!??
   >
   > **@lordphinix3** [👍8]：This is so much better then I expected
   >
-  > **@patrickstephens9274** [👍7]：I am currently working my through Words of Radiance, and I have to say this series keeps getting better and better. Keep writing!!!!
-  >
   > **@atheos7965** [👍7]：You absolute bastard. I held my breath for about five minutes.<br>Good to hear you&#39;re feeling rejuvenated!
   >
-  > **@alexhbc9217** [👍7]：Nos troleo... <br>Magnífico Brandon. <br>Estaba preocupada por su salud pero veo que fue falsa alarma.
+  > **@patrickstephens9274** [👍7]：I am currently working my through Words of Radiance, and I have to say this series keeps getting better and better. Keep writing!!!!
   >
   > **@agotsch4** [👍7]：MY HEART. YOU NEARLY BROKE MY HEART. SO HAPPY FOR YOU
   >
@@ -378,25 +376,19 @@
   >
   > **@christopherbright** [👍6]：I think a “Brandon + Time = stories” is a t-shirt opportunity.
   >
-  > **@annapadilla2894** [👍6]：absolute king, what an icon. i am simultaneously filled with envy yet completely in awe. i aspire to be like you brandon, what a legend x
-  >
   > **@AerialAndrew** [👍6]：Oh god- you made this so ominous it literally hurt
   >
   > **@BrandonsWritingRoom** [👍6]：We&#39;ve been bamboozled! But I&#39;ve never been so happy to be misled, and I&#39;m really excited for this news.
-  >
-  > **@RobMedellin** [👍5]：<a href="https://www.youtube.com/watch?v=6a-k6eaT-jQ&amp;t=105">1:45</a> I can&#39;t help but notice you don&#39;t sleep, that explains it
   >
   > **@Arowrath** [👍5]：I would sell a small part of my soul to have this man&#39;s work ethic
   >
   > **@AcesPrune** [👍4]：I can just imagine Brandon&#39;s team arriving at work one morning to 5 entire Novels out of nowhere 😅
   >
+  > **@lillydevil2486** [👍4]：i love how this was framed to sound like he&#39;d be making an apology video about something serious XD
+  >
   > **@MVipsaniusAgrippa** [👍4]：This has to be the biggest humble brag I&#39;ve ever seen! 😂
   >
-  > **@zanderwimpee8773** [👍4]：And this video is why I love Brandon Sanderson. Personality, humor, and his neverending writing process making my TBR more existentially Impossible. Thanks Brandon.
-  >
   > **@LyssusX** [👍3]：I’ve rewatched this video a good number of times. Thank you Brandon!!!
-  >
-  > **@cozi8097** [👍3]：I keep coming back, Brandon is just so amazing with writing
   >
   > **@elderku** [👍3]：A Marketing Masterclass
   >
@@ -406,32 +398,464 @@
   >
   > **@anneleigh7** [👍2]：Only he can write so much that is so so so good!
   >
-  > **@billyalarie929** [👍2]：sometimes i like to come back to this video every so often, just to feel giddy.
+  > **@4shareIL** [👍2]：I swear this guy is responsible for entire forests missing.
   >
-  > **@forsvar** [👍2]：actually re-watching this gem for the third time just because i can
+  > **@billyalarie929** [👍2]：sometimes i like to come back to this video every so often, just to feel giddy.
   >
   > **@JamesLaw-k7h** [👍2]：I wish I would have known about this sooner
   >
+  > **@forsvar** [👍2]：actually re-watching this gem for the third time just because i can
+  >
   > **@lunasylnodel** [👍2]：so sad i only discovered this video now TT
   >
-  > **@ashleydines144** [👍2]：I love this man. You can genuinely tell how much he loves writing which is awe inspiring
+  > **@BAcin_0** [👍2]：From time to time I just go here and rewatch this video for the thrill of Brandon&#39;s writing madness. Perfection
   >
   > **@dapm38** [👍1]：Ohno! How did i not see this until 2024?😢
   >
-  > **@keithnimmo** [👍1]：why am i just getting this video now... i wanted to back this ;(
-  >
   > **@davidz9659** [👍1]：I got an ad for the Kickstarter while rewatching the video.
   >
-  > **@Ogder** [👍1]：This will be the first Kickstarter I back
+  > **@keithnimmo** [👍1]：why am i just getting this video now... i wanted to back this ;(
   >
   > **@joesunshine4006** [👍1]：Coming back to this, tress has become my favorite of his books.
   >
   > **@silvannamk8339** [👍1]：Why did I see this a year later?!!!! 😭😭😭😭😭😭
   >
+  > **@Ogder** [👍1]：This will be the first Kickstarter I back
+  >
+  > **@mattmccready8171**：I rewatch this as a de-stresser
+  >
+  > **@Veriflon88**：Very nice of YouTube to show me this video in December 2023
+  >
+  > **@joshuaweeden9084**：Can&#39;t believe I only just saw this...
+  >
 
 ---
 
-## 2. $41,754,153!
+## 2. Most Funded Kickstarter Ever (2022) by Brandon Sanderson
+
+- **频道：** Brandon Sanderson
+- **观看数：** 131,122
+- **点赞数：** 11,883
+- **评论数：** 742
+- **时长：** 2:07
+- **发布日期：** 2022-03-04T18:30:43Z
+- **链接：** https://www.youtube.com/watch?v=fmj2Mzhlflg
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/fmj2Mzhlflg/hqdefault.jpg
+- **简介：**
+
+  > This is a time-lapse of the moment Brandon Sanderson's "Surprise! Four Secret Novels" became the most funded Kickstarter in the platforms history.
+  > 
+  > Now on Backerkit: https://secretnovels.backerkit.com/hosted_preorders
+
+- **热门评论（200 条）：**
+
+  > **@MJTRadio** [👍1595]：That the biggest achievement in Kickstarter history was for books… BOOKS! In 2022! That is incredible. I am so happy to see the power of reading reiterated here, and it reminds me of one more reason I write myself.<br>(Initially this comment just said crowdfunding history. People better informed than me have pointed out that&#39;s not quite right, so it has been corrected)
+  >
+  > **@TravisGafford** [👍889]：Congratulations, Brandon! I was happy to kickstart at the highest tier. I know your community is very happy to be able to help make this happen for you and all the great folks at Dragonsteel.
+  >
+  > **@510amy5** [👍826]：I&#39;ve been watching the dollars go up like some people watch sports stats, sharing milestones with my husband. We were both just waiting for the moments we beat pebble time! So proud to be a part of this community
+  >
+  > **@milospollonia1121** [👍738]：This is literally bonkers. The power of nerds has once again been shown. <br><br>Huge congrats to Brandon and everyone at Dragonsteel!
+  >
+  > **@ElizabethSwims** [👍493]：You underestimate how much your fans love your work
+  >
+  > **@DenDave_** [👍390]：The fact that it became the most succesful kickstarter in FOUR days is insane, like actually bloody insane. I can&#39;t wait to get my hands on those novels.
+  >
+  > **@Brachragon** [👍300]：Out of all the authors out there, Brandon is probably the one, for which the fans have the highest expectations.<br>And even so, he&#39;s STILL the one to overdeliver the most. Quite the combination.<br><br>It&#39;s a good time to be a fan and supporter.
+  >
+  > **@Megawrite** [👍208]：OMG, this is so touching, I&#39;m crying. What a moment to be apart of, and such a great community. Bravo to everyone from the Dragonsteel team, to Brandon, to the fans. So cool.
+  >
+  > **@gatsuyatsu** [👍206]：Just goes to show how the fans adore you Brandon, you are a blessing in our time!
+  >
+  > **@chapstikcrazy** [👍201]：&quot;I&#39;m supposed to write fantasy not live them&quot; I legit teared up. You deserve this and more Sanderson!! We love you!!!
+  >
+  > **@20ice47** [👍200]：I also like how it shows how people still enjoy reading when the product is good. The most funded is not a product invention or a movie or deck of cards, it&#39;s Books! 🙌🏽
+  >
+  > **@brianbays867** [👍80]：You deserve every bit of it Brandon. I hope Hollywood is seeing this, we just threw $21 million at 4 books that we don&#39;t even have any information on. Imagine what we&#39;d do for a television show/movies for Cosmere.
+  >
+  > **@e.g.199** [👍59]：If there is anyone who&#39;s truly earned such an amazing feat, it&#39;s Brando Sando. His hard work, creativity, and dedication in his craft for so many years has resulted in this. His generosity in teaching what he knows through lectures, as well as his fan engagement has shown how he&#39;s just another man like the rest of us, wanting to share his stories with people, and has helped others in that pursuit. Amazing author and human being. His books are going to be remembered for years and years to come. <br><br>Congratulations Brandon! And to his team who also worked hard to make this possible. Here&#39;s to your contuined success!
+  >
+  > **@JoeK7** [👍57]：Deserve all the success Brandon, thank you for the stories and all the fan interactions you do. I check out every video, podcast and livestream you do and it is always a pleasure
+  >
+  > **@satanous_one7590** [👍54]：I have listened to the cosmere 9 times over and cannot wait for these 4 new books! I haven&#39;t even backed it yet because I was waiting for payday. So get ready for the numbers to continue to climb. Life before death, thank you so much for all that you do Sanderson.
+  >
+  > **@Armertank** [👍40]：I am glad to see this doing so well. You are an inspiration to me, as a person who WAS illiterate by US standards. At 25 I had a 2nd grade reading level when I picked up a few mangas. Then I found Mistborn and it took me a while to read. I instantly fell in love with it and have read your works and other. Which has allowed me to expand more vocabulary and literacy. My grammar is still lacking but one step at a time!<br><br>Anyways Thank you Brandon and I can wait to read these!<br><br>Also we need Cosmere animes :)
+  >
+  > **@bookishlybookish** [👍35]：This literally makes me so emotional. Book fans coming together to show that books are still relevant! That there is still something in this world that can bring people together. I&#39;m so proud of us!
+  >
+  > **@savlecz** [👍33]：I&#39;ve never read anything by this man but I feel like I&#39;m already a fan. The way he is able to get people excited about his work tells me he must be special. He also seems to have a real connection with his readers through social media and he shares tips and lectures that are likely invaluable to people who want to get into creative writing. I&#39;m really looking forward to reading something by Sanderson when I make time for it... but I&#39;m a bit scared of his works taking over my life, though, he sure writes a lot.
+  >
+  > **@jamesoliger2379** [👍31]：Thanks for all you&#39;ve given me over the years, your stories mean the world to me and have helped bring myself up as the man I want to be. Journey before destination sir, may your wind ever blow strong.
+  >
+  > **@JohnnyCadeGaming** [👍28]：You deserve this. You brought us all together. Thank you
+  >
+  > **@elenak.6539** [👍27]：This is literally the most well deserved milestone I can think of. I have hope for humanity.
+  >
+  > **@itsBenjamon** [👍25]：Glad to see the record broken by the best author of our time, to me it shows that our priorities as a society still include books.
+  >
+  > **@SujeetRaj711** [👍17]：It&#39;s indeed a fantasy you live in Brandon. A fantasy that you crafted yourself ❤️
+  >
+  > **@FenxFX** [👍14]：CONGRATS BRANDON! You deserve everything, thank you for your amazing work and stories.
+  >
+  > **@MistbornTaylor** [👍10]：Never question our power, again, Sanderson.
+  >
+  > **@ashtonreagan4** [👍9]：Why am I crying!? So amazing and well deserved! There might be ultra HD, 3D movies, and VR.... but there still is nothing that can compare to an exquisitely written novel!
+  >
+  > **@LotharLive** [👍7]：He was stressed so he wrote 4 more bestsellers on top of everything else. This man is not human!
+  >
+  > **@Iyarbinyamin** [👍7]：I’ve had the Kickstarter page open since it was less than a million, watching the numbers go up was as exciting as watching a Formula 1 race.<br><br>Congratulations Brandon, you deserve it!
+  >
+  > **@kindrednerdsunited7513** [👍7]：Heck yeah Brandon you work so hard for us I love your work and your team keep going in general your an amazing story telling genius
+  >
+  > **@malinaivey4189** [👍7]：I love just being able to be a part of this. Both your books and this community are simply magical.
+  >
+  > **@LucysLocket** [👍6]：Congratulations! I was so excited to wake up and see that my favorite author now holds the record for most funded Kickstarter. You deserve it all and more!
+  >
+  > **@retroverdrive** [👍5]：“I’m supposed to write fantasy worlds, not live in them.”
+  >
+  > **@destro6971** [👍5]：SHARD OF DOMINATION!!
+  >
+  > **@Cdwinga** [👍5]：Congratulations- you really and truly deserve it
+  >
+  > **@geekygrl10** [👍4]：Wahoo!!! I hope you are as excited as I was when I watched your &quot;confession&quot; video!
+  >
+  > **@Themadkiller10** [👍4]：You deserve this brandon our writing god
+  >
+  > **@Witty_Jackson** [👍4]：I am amazed and overjoyed, but not at all surprised. Thing is going to be a historic moment for the genre and the industry and I&#39;m so glad to have been a part of it.
+  >
+  > **@PORTALIAN_Makes_Bass** [👍4]：Seeing how excited Brandon is makes me happy too. Congrats on being the most funded Kickstarter to Brandon and everyone at Dragonsteel. You guys are awesome.
+  >
+  > **@AyushGupta-qs5xw** [👍3]：Never cease to amaze, do we?
+  >
+  > **@BastuGubbar** [👍3]：You owe us another 76 books Brandon.
+  >
+  > **@joethebard333** [👍3]：I&#39;m crying! Why am I crying? It might be the music. Seriously, this is absolutely beautiful. Congratulations Brandon and the team at Dragonsteel!
+  >
+  > **@katiatwood** [👍2]：From here on out is the standing ovation
+  >
+  > **@harrycross9051** [👍2]：Brandon&#39;s work has touched and inspired so many people it&#39;s just incredible. He deserves every bit of love and support that the community has for him
+  >
+  > **@Leoj305** [👍2]：People love your work, Mr. Sanderson and they love you.
+  >
+  > **@kbskibum** [👍2]：Congrats.  This really does show &quot;the power of a good book&quot;.
+  >
+  > **@joshuajames4245** [👍2]：Congratulations! So well-deserved
+  >
+  > **@JohnSeabourn** [👍2]：Congratulations.  Looking forward to these amazing works.
+  >
+  > **@wowritenow** [👍2]：Storms.... thats alot of money
+  >
+  > **@jhamm6549** [👍1]：God bless Brandon and his family!
+  >
+  > **@Crisilac** [👍1]：Congratulations. You deserve every bit of it.
+  >
+  > **@cthulhupresidente** [👍1]：Congratulations Brandon!! You deserve this!!
+  >
+  > **@ErelasInglor** [👍1]：Congratulations my friend!  :)
+  >
+  > **@BigPanBear** [👍1]：Congrats! So epic! You&#39;re an amazing writer. I love your works. &lt;3
+  >
+  > **@CedricPiggory** [👍1]：I started reading/listening because of mistborn. Couldn&#39;t thank you enough for how much entertainment and discussions among friends that you have graced us with. Will always look forward to your next releases
+  >
+  > **@TheBitzr** [👍1]：This has been bringing in so many new readers to the Kickstarter platform! Even us small creators have seen a bump on our campaigns. So thank you, Brandon, on behalf of all us indi authors.
+  >
+  > **@lokeyacolyte2145** [👍1]：Couldn&#39;t be happier for you Brandon, for real. It&#39;s so wonderful to see that this beautiful gift for your wife has turned into something so ground breaking. It says so much about the faith that people have in your work!<br><br>I&#39;m really happy the kickstarter is up a few more weeks, because it means I can sign up for my own hardcover bundle when I get paid!!! Cannot wait to read book one!
+  >
+  > **@4RunnnerKing** [👍1]：Journey before destination, Brandon. You keep writing them we’ll keep reading them, and buying them in several different forms lol
+  >
+  > **@lamarepository248** [👍1]：Listen, and understand. That Sanderson is out there. He can’t be bargained with. He can’t be reasoned with. He doesn’t feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you have read.
+  >
+  > **@ScottTheis** [👍1]：Greatest bard of all time!
+  >
+  > **@Avid_Reader** [👍1]：I love the music! 🎶
+  >
+  > **@brianparham6683** [👍1]：These books and the swag boxes are gonna be dope
+  >
+  > **@nysios5159** [👍1]：Can we get Michael Kramer for the audibles PLEASE!!!
+  >
+  > **@sechay9328** [👍1]：This is honestly heatwarming. Thanks Brandon for being you.
+  >
+  > **@pokejox3416** [👍1]：Well and truly deserved. Love all your work. It’s so humbling to see how a community can be so supportive of what they love in such a way. I’m very proud of being part of this.
+  >
+  > **@amywebb1455** [👍1]：Completely deserved!!! We love you Brandon.
+  >
+  > **@garythomson9908** [👍1]：Congratulations!!!  You deserve it!
+  >
+  > **@Sw4lley** [👍1]：congrats.
+  >
+  > **@ChristianPsencik** [👍1]：So excited to be a part of this incredible community. Thank you for telling us such amazing stories every time Brandon. Congratulations 🍾
+  >
+  > **@Carlosmgcosta**：Every penny, every praise, every tear of joy and pride, all of it belongs to you. <br>You have earned all of it, and so, so much more.<br><br>Your stories inspire, build, and have weathered us through many a high storms. <br>You have led us to tears, and carried us to cries of triumph.<br><br>You, the story teller. We, those who listen.<br><br>Thank you. Thank you for who you are, all you do, and for every word you’ve said, written, and for those you still hold. <br><br>You’ve earned it all.
+  >
+  > **@CaitlinnStoltz**：Congratulations, Brandon! I was so happy to back up  your Kickstarter! You deserve it! 🎉 👏 💜
+  >
+  > **@rastifilip**：So so happy that we can support you like this! Thank you for giving us so many amazing stories over the years! 🤗🥳
+  >
+  > **@dennycote6339**：You are a humble legend. We storming love you man! Live the life! Enjoy the journey! Revel in the strength!<br><br>Radiant that you are. Your Soul made of Light!
+  >
+  > **@ElizaRad**：We love you Brandon! You are in inspiration!
+  >
+  > **@Archon-Luke**：Super proud of you Brandon.  Congratulations!
+  >
+  > **@chrisbaygin8914**：Woooow!! Congratulations Brandon!! Shows what kind of impact you can have with such passion and authenticity and a bit of closeness with your fans. Proud to be a one of them!!
+  >
+  > **@howlround-dev**：Through him, anything is possible.
+  >
+  > **@Rie_Bot**：I&#39;m so happy !!! I sat in front of the screen for a long time watching the numbers go up !!!
+  >
+  > **@deadmatt666**：Congratulations Brandon! so happy for you and your team!!!
+  >
+  > **@newdawn3301**：Congratulations to everyone involved!! You all deserve this succes.
+  >
+  > **@tylerhampton2612**：Most epic music! So amazing. So proud to a reader of your stories. Thank you for everything you&#39;ve done, everything you do, and everything you have promised.
+  >
+  > **@Lunasparc**：Congrats Brandon! I&#39;ll admit I had happy tears well up when viewing this. So happy for you and I love your work and a huge fan!
+  >
+  > **@jcarm185**：You are amazing sir; and this is just the BEGGINING of where you will go. You are fast becoming a legend!
+  >
+  > **@girlgonefishing1971**：I&#39;m so excited to be a part of this! HUGE Congrats to you, Sir --well done!!
+  >
+  > **@charliegilroy1850**：I couldn&#39;t be happier for you and your team nor more excited for us, the readers.
+  >
+  > **@jasonzelling7807**：You and your entire team deserve this, Brandon. Every shred of it!
+  >
+  > **@TheBettyRocker**：We love you and appreciate you and the amazing effort you put in in telling stories - thank you, and everyone at Dragonsteel for the generous release of these new stories. It is so much fun to be part of the kickstarter, and the success is so deserved. Your stories connect us, expand us, and make life so much richer. I can&#39;t wait to read all the new books!
+  >
+  > **@mikegogiants3493**：All hail King Brandon! Long may he reign! Congrats!
+  >
+  > **@Ekijah-The-Horrible**：All the love to this man!
+  >
+  > **@amypink1111**：We love you, Brandon and Team!
+  >
+  > **@DustinWillis18**：Well deserved. Thank you for sharing your many worlds with us.
+  >
+  > **@sirpence__**：you can&#39;t put into words how much these stories mean to so many people. frankly I&#39;m not surprised.
+  >
+  > **@StarBoundLG**：Oh My Goodness 🙏🏽 Congrats, Brandon, way-to-go! 😃
+  >
+  > **@justwinning**：We love you Brandon :)<br>Keep doing what you love!
+  >
+  > **@RealNellyMandelly**：I still just love seeing how sweet this video is. The community, our author, and the support team all deserve this
+  >
+  > **@humbertochilo88**：And with still 27 days left to go. It&#39;s insane!
+  >
+  > **@gameagerr**：When I hear the chants, I will think of this too. Congrats and well deserved!!
+  >
+  > **@SmileEVERYDAYlaugh**：Legendary, and with motivational music to boot.
+  >
+  > **@lnquisitor913**：I Love “your humble story teller”.
+  >
+  > **@kimu.6227**：Why am I crying? This is a perfect example of good people doing good work after providing and being a foundation to the community, and then getting reward for it! Love it! Brandon, I hope to see you building new worlds and shattering the expectations of our own.
+  >
+  > **@donvineyard8654**：Absolutely stunning.  I simply love it when an author I love is set loose to have his own fun.  bravo, bravo, Storyteller.
+  >
+  > **@Marble_City_Racing**：Brandon, you have shaken the culture of writing and publishing to its core. <br>Because of this, I sense that we are about to enter a new era of writing and publishing and as a writer, still working on his first novel, I am beyond excited to be here for it! <br><a href="http://www.youtube.com/results?search_query=%23journeybeforedestination">#JourneyBeforeDestination</a> ❤️
+  >
+  > **@TeaforTinka**：Being able to move so many people in such a way is amazing. Such an inspiration.
+  >
+  > **@PortalOfTears**：You deserve all of it. Thank you for all your hard work. Can&#39;t wait for my Year of Sanderson to begin!
+  >
+  > **@Arcade_Ggg**：You deserve it Brandon. Not only at you an amazing writer. But your also a great employer. I know the success of this is going to benefit not only you and your family but all those who work for you.
+  >
+  > **@LSMuglia**：You deserve every penny, Mr. Sanderson. Your stories are full of heart, humor, and enormous amounts of fun. If the currency of my country weren&#39;t absoutely worthless right now, It would be a priviledge to back this. Really happy to be a Sanderson fan.
+  >
+  > **@therealannataylor**：I LOVE this. To be the kind of storyteller that can build the kind of trust in his fans that in mere DAYS you hit this milestone… it’s just astounding. Congratulations! And thanks for giving hope to a little newbie like me ♥️
+  >
+  > **@bakersaba6968**：Wow, very well deserved Brandon 🌷
+  >
+  > **@miscellaneousgoblin910**：Congrats, Brandon! This is amazing. Great message here--keep up the amazing work!
+  >
+  > **@BlakeTheBookEater**：SO WELL DESERVED!!! LOVE YOU BRANDON
+  >
+  > **@althechicken9597**：Thanks for writing books almost as fast as we can read them, you make our dreams come true so we have to return the favor when we can
+  >
+  > **@mandys1379**：You are such an amazing writer and storyteller. You deserve every cent and more of success that you got from this Kickstarter!!! I can not wait to live these 4 new stories next year!
+  >
+  > **@chloestarshine**：I&#39;m so happy to be a part of this! Amazing!
+  >
+  > **@Nahlaaly56**：Congratulations, Brandon. You work so hard to write stories that bring us joy and take us to fantastical worlds. If anything, this just goes to show how much we trust your writing. We just KNOW the books are going to be good. Also proves that reading is NOT dead!
+  >
+  > **@tombsy2826**：The Year of Sanderson all the way!  I couldn&#39;t help but pledge the highest tier for those physical books with audio as well as the swag boxes! Congratulations and thank you for all your hard work.
+  >
+  > **@marcusanark2541**：Glad to see such a supportive community.
+  >
+  > **@leptyga**：Not even surprised! Well deserved!!
+  >
+  > **@robmack519**：always good to see real talent and hard work rewarded.  Excited to get my books next year
+  >
+  > **@narsus73**：Wow Brandon, just WOW!
+  >
+  > **@gunnbott**：So happy for you Mr Sanderson. It&#39;s been a real pleasure to read your work over the years. Your grasp of story, pacing, and character development is an inspiration.<br><br>Thank you for your wonderful books, I can&#39;t think of a more deserving accolade for the person I consider to be the greatest fantasy author of not only our generation, but I think you&#39;re in the running for best ever.<br><br>I can&#39;t wait to read these new novels!!
+  >
+  > **@StoriesBySJ1**：Thank you for bringing so much joy qnd love with your writing
+  >
+  > **@livslibrary**：This is UNBELIEVABLE! But so cool to see this turn publishing on its head! 🤯
+  >
+  > **@amandaschuster5895**：Congratulations Brandon! I knew you could do it! I told myself on day one this was really something!
+  >
+  > **@cydneyquinn9936**：Haha I love this!! it&#39;s so funny and hilariously wonderful how fast everyone responded. Congrats Brandon, you are making history!!
+  >
+  > **@babylonshadows1877**：I really hope the world takes notice and more authors start doing this
+  >
+  > **@gary.oneill**：Can&#39;t wait for these to arrive!  You&#39;re the best, you&#39;re an absolute machine, but you&#39;re the best.
+  >
+  > **@ellepardue**：I think it&#39;s safe to conclude that we like listening to your stories and living in your worlds.
+  >
+  > **@865texidor**：Congratulations Brandon!
+  >
+  > **@TaeSikCha**：Love the Humble(d). In a world overcast by negativity and pain, it’s nice to be humbled by something pleasant. Cheers 🥂
+  >
+  > **@VixxKong2**：Man, that&#39;s some incredible success 😲<br>Congratulations!
+  >
+  > **@ChristianPsencik**：So excited to be a part of this incredible community. Thank you for telling us such amazing stories every time Brandon. Congratulations 🍾
+  >
+  > **@ggandalff**：You and all your team deserve this!! Now the true battle begins
+  >
+  > **@Roberto-bx1ds**：You are honestly the best Brandon.
+  >
+  > **@dawidwojacki5049**：Truly stunning achivement
+  >
+  > **@Notanotherbooktuber**：<b>wipes tears</b> all for the love of books ♥️
+  >
+  > **@leticiatoraci9855**：You deserve all your success, cheers!
+  >
+  > **@giuscanta484**：What you expected? So many people are grateful for your stories!
+  >
+  > **@RealNellyMandelly**：And I have still yet to decide what to get! So we&#39;re going to push it just that bit further still!!
+  >
+  > **@Read-to-Breathe**：I have never read anything from Brandon Sanderson but I&#39;m so happy for him ❤
+  >
+  > **@galley89**：Well deserved, we love your fantasy worlds.
+  >
+  > **@crimsonraen**：Yeeeees! So happy to be a part of this! &lt;3
+  >
+  > **@BrockB1**：Let’s use this momentum to get some film adaptions going!!
+  >
+  > **@tsttrewes**：We love you, Brandon :)
+  >
+  > **@gear5joao**：You deserve every single bit of it. Thank you
+  >
+  > **@TornadoCreator**：It&#39;s well deserved man. Congratulations
+  >
+  > **@One_Bar**：And still rolling. Every dollar now is the new bar.
+  >
+  > **@edgemint**：It&#39;s you, Brandon(and your team, of course). You inspire loyalty because your passion for creation, skill and talent are obvious to all. This is the most stress-free fandom I&#39;ve ever been a part of, because I have absolutely zero doubt about your ability and willingness to deliver.
+  >
+  > **@kvothe5824**：You all deserve it and more!
+  >
+  > **@Chroma710**：Absolutely deserved, going to get myself the audiobook version.
+  >
+  > **@SebastianTheHunter**：You deserve every penny for the stories you tell and the hearts you&#39;ve touched. Your books have helped me through some touch times as I&#39;m sure it has for many others. Thank you.
+  >
+  > **@Miniths**：we love you brandon
+  >
+  > **@hillary6563**：I am proud to support the highest tier also. I&#39;m beyond excited. It&#39;s incredible to get the updates through Kickstarter notifications and from you personally. I don&#39;t think any of your fans ever had a doubt that it would be amazing, but this just shows the power of storytelling at its finest. 💙
+  >
+  > **@leealley2175**：Congratulations to the GOAT!
+  >
+  > **@talitafredericci2739**：You make our lives better by writing the fantasy words, so we try at least to support your work and make this possible ♡
+  >
+  > **@CNHolmberg**：Absolutely phenomenal!
+  >
+  > **@kenny3217**：People know they won&#39;t be disappointed and that you will will actually deliver.
+  >
+  > **@thebeardman7533**：Brandon you are crazy and I love it
+  >
+  > **@BrazzOfficialDemonetizeChannel**：Im so happy for you, we can&#39;t wait for the first one 😀<br>You have boosted my morals by 9999% and showed us that any goal can be reached if we put our heart and soul ❤
+  >
+  > **@atreidespendragon**：you are one of my favorite authors of absolute all time, this is no surprise to me at all.  :D
+  >
+  > **@itsyaraz**：Yall deserve each and every one and more
+  >
+  > **@zeropat7776**：What a time to be alive.
+  >
+  > **@successfulgeek**：Congrats! You deserve it because you write amazing content! Don&#39;t let it go to your head but you seriously deserve this success!
+  >
+  > **@amburbyler7721**：This is mind blowing.
+  >
+  > **@Cooldito1111**：Glad I was here from the start! I got real lucky refreshing when the video was less than 4 min old
+  >
+  > **@user-p3p8k**：Congrats your work deserves success.
+  >
+  > **@davetheblade**：Why does this make me weirdly proud!
+  >
+  > **@rhuanv**：Due to being in Brazil, this is outside what I could healthily participate. But just being a bystander is already very cool. One day I&#39;ll find all these books for my collection. Congratulations Brandon and Dragonsteel, you guys are a true inspiration. The sky is barely the limit!!
+  >
+  > **@aronoiiel**：A game changinf event for the 8nduatry for sure. Well deseeved and absolutely proud of this fandom. Thank you for all you do for us Brandon especially innthe times that have been given us. I may not be able to support financially but I do read your work and watch your videos. You are genuine and kind and something we need fsr more of in this world. Thank you 💚
+  >
+  > **@ABG8090**：Journey before destination good sir :)
+  >
+  > **@BlueLion364**：Wow!!!  Congratulations Brandon and Dragonsteel!!  I&#39;m looking forward to my Year of Sanderson next year.  Thank you for earning my trust with the Way of Kings Kickstarter.  Looking forward to the Words of Radiance one too.
+  >
+  > **@phil_rice**：👏🏼👏🏼👏🏼! <br><br>So excited to be a part!
+  >
+  > **@MrFiskIt**：Changing the game, Brandon.
+  >
+  > **@dusk1947**：It is quite incredible.<br>Though it&#39;s a testament to how many of us adore your work, we&#39;ll jump at a blind copy of an unknown story.
+  >
+  > **@Sewcrates**：I&#39;ve cheered out loud for Kaladin, and I&#39;m now cheering out loud for you, my friend.   Congratulations!
+  >
+  > **@navybrandt**：So happy for you!
+  >
+  > **@silversrayleigh1399**：You deserve it my man. You&#39;ve been overlooked for far too long. Time to shine bright and take your deserved place at the top as the best fantasy writer of our time.
+  >
+  > **@themathlemon8515**：You created beautiful worlds for us Brandon. Now it&#39;s our turn to create a beautiful world for you:)
+  >
+  > **@isaacangust485**：Congratulations!! I check the kickstarter just 30 minutes after the video for it went live, and had to do a double take because it was already oven a million... this is crazy.<br><br>I don&#39;t think this is going to be beaten anytime soon, so, for future generations — I was here!
+  >
+  > **@Castelloz3**：Goodluck Brandon.
+  >
+  > **@rafardzrba**：Congratulations 🍾🎉
+  >
+  > **@alexmay3543**：did this make anyone else tear up
+  >
+  > **@brandonaxTGC**：Well deserved. The world is in a place where it is hard to be happy about things at times and entertainment is so valuable for those that need a moment to step away and believe in magic or heroes. To marvel at a dragon and laugh at a witty turn of phrase. You offer that and the way that you have always interacted with your fans makes us feel much closer to you. So when you give us the experience that you did with the rollercoaster that was your set of videos, we will come out for it. Congratulations on all your success and I hope this just keeps growing and we get the movies and shows we all want to see from The Brandon Sanderson.
+  >
+  > **@danielbore2396**：Truly incredible
+  >
+  > **@N.Traveler**：And that, my friends, is how you WRITE history.<br>In one word, deserved. 👏
+  >
+  > **@Mistborn_San**：Well deserved Brandon!
+  >
+  > **@firstnamesurname4279**：Sanderson truly is a fucking trailblazer
+  >
+  > **@nani-jo5wu**：I love you Brandon
+  >
+  > **@Kade_Bauman**：Congratulations!!!
+  >
+  > **@bowlbboy**：You&#39;ve earned every cent.
+  >
+  > **@Paul-mb5ns**：Way to go Brandy!!!
+  >
+  > **@abandonedaccount123**：congratulations, you deserve it!
+  >
+  > **@noahearl**：Heyo, thanks for all the content, yall the best. 😃
+  >
+  > **@theworldsmostplagiarizedma2436**：Incredible.
+  >
+  > **@shawnbranson1511**：It wouldn&#39;t have been possible without the goodwill and faith Brandon has built within his fanbase. Yes we love his novels, but we BELIEVE in his character, work ethic, and genuine appreciation of his fans. Thank you Brandon!
+  >
+  > **@swolechihuahua4905**：Congrats man, unbelievable
+  >
+  > **@juanmegar**：Good way to start a year
+  >
+  > **@stephenpeterson4738**：BRIDGE FOUR! <b>claps arms</b>
+  >
+  > **@Marie_D_Silverling**：Congratulations!!! I hope the release of your books goes as smoothly as raising money for them has gone.
+  >
+  > **@v.lighting3530**：Looks like there&#39;s hope for humanity
+  >
+  > **@naomig3168**：I think Brandon has earned his R.R. Cheers to Brandon R.R. Sanderson!
+  >
+  > **@chuckcatlin28**：This is the first Kickstarter I have ever participated in.
+  >
+
+---
+
+## 3. $41,754,153!
 
 - **频道：** Brandon Sanderson
 - **观看数：** 94,923
@@ -538,9 +962,9 @@
   >
   > **@IndiaTides** [👍4]：Brandon made same amount of money as Chris rock&#39;s net worth.😂😂😂<br>Congratulations.<br>You deserve it. I didn&#39;t have money but when I will earn. My dream is bookshelf with your books in it.
   >
-  > **@yuantheblue** [👍3]：I feel so privileged to have been here and be able to contribute! :) What a memory this will be in the future! It makes reading so many of his standalone and Stormlight books worth it (currently on Rythm of War)
-  >
   > **@teahweight170** [👍3]：My kind of March madness 🤣. Followed it the whole way through. Congrats!
+  >
+  > **@yuantheblue** [👍3]：I feel so privileged to have been here and be able to contribute! :) What a memory this will be in the future! It makes reading so many of his standalone and Stormlight books worth it (currently on Rythm of War)
   >
   > **@MorselOfBread** [👍3]：The Kickstarter for me made a lot of sense. I will get an audiobook and an ebook for the price of an audiobook ($15 each). Pretty good deal and those two formats are usually my preference. Also, if I forget to report the purchase on my tax return, I will get the books tax free!!
   >
@@ -550,9 +974,9 @@
   >
   > **@miSoccho009** [👍2]：I finished his &quot;Mistborn&quot; today.<br>Wanna admit that he is an amazing writer
   >
-  > **@justmerepanda7721** [👍2]：I backed the kickstarter! I&#39;m looking forward to some cool new books coming in next year!
-  >
   > **@FunFantasyBooks** [👍2]：What an amazing month March was! From the scare of the announcement to the consistent secret project releases every week to SL5 prologue! 👏 epic!
+  >
+  > **@justmerepanda7721** [👍2]：I backed the kickstarter! I&#39;m looking forward to some cool new books coming in next year!
   >
   > **@E_D___** [👍2]：Yep
   >
@@ -562,53 +986,53 @@
   >
   > **@kennethcole6230** [👍1]：Weekly check on the status of the Dawnshard audio book
   >
-  > **@trev2396** [👍1]：Thanks for all the updates!
-  >
-  > **@muriaal** [👍1]：This was all so surreal
-  >
   > **@BartPebble** [👍1]：I really am gonna miss this amount of content Brandon and the team have been pushing out for the last month with this kickstarter. Just having some fun streams to listen to while working or playing games has been so nice, and I’m gonna miss it
-  >
-  > **@cj_janzen** [👍1]：So incredibly happy for you &lt;3 I couldn&#39;t afford to participate, but totally cheering you on!!
-  >
-  > **@ChildlikeSenseOfWonder** [👍1]：Congratulations! 📚💞 I also look forward to publishing my first children&#39;s book soon!❤
-  >
-  > **@Magnify.** [👍1]：You deserve it, shout out to the team too.
   >
   > **@flesruoYkcuFoGuoY** [👍1]：The wait for SL5 and the secret novels will be a long one, but well worth it!!
   >
+  > **@muriaal** [👍1]：This was all so surreal
+  >
   > **@joshclement2186** [👍1]：Didn&#39;t have the cash to back the kickstarter as currently between jobs but will definitely be picking up the books when they get released!
   >
-  > **@Fluffybullets2** [👍1]：Love you Brandon! :D
+  > **@ChildlikeSenseOfWonder** [👍1]：Congratulations! 📚💞 I also look forward to publishing my first children&#39;s book soon!❤
   >
-  > **@Luka1180** [👍1]：Wtf that’s insane
+  > **@cj_janzen** [👍1]：So incredibly happy for you &lt;3 I couldn&#39;t afford to participate, but totally cheering you on!!
   >
-  > **@ramirodecono3647** [👍1]：Dragonsteel kicking some 21st century how-to-release-books ass
+  > **@Magnify.** [👍1]：You deserve it, shout out to the team too.
+  >
+  > **@trev2396** [👍1]：Thanks for all the updates!
   >
   > **@TriggerBud** [👍1]：Tshirt sizes?! I joked to my boyfriend (who bought this for me) about how I hoped you guys would do tshirt’s but figured that’d be too complicated. I AM SO FRICKEN EXCITED!!!! Really really happy to be apart of this. Thanks for all of the absolutely wonderful content you produce Brandon! <br><br>Side note: I always complain about time moving along too quickly, but by now I’ve said probably 100 times “I’m so excited for 2023, the year of Sanderson!” Thanks x2 for giving tons of people a year to actually look forward to :)
   >
-  > **@Abell_lledA** [👍1]：One is caught up playing the impassioned protagonist in one’s Subjective Narrative of Self🎈
+  > **@Luka1180** [👍1]：Wtf that’s insane
+  >
+  > **@Fluffybullets2** [👍1]：Love you Brandon! :D
+  >
+  > **@ramirodecono3647** [👍1]：Dragonsteel kicking some 21st century how-to-release-books ass
+  >
+  > **@CraigAPriceJr** [👍1]：Congrats!!!! My kickstarter just went live today... And I&#39;m already close to beating you! Only 41.7 million away!!
   >
   > **@anthonykane4127** [👍1]：I&#39;ve seen movies make less than this. Well done Brandon.
   >
   > **@caitlinflowers4694** [👍1]：Yaaasssss!!!!
   >
-  > **@tinybrito** [👍1]：Has it been confirmed if the kickstarter shirt sizes and fit will be the same as the shirts on the Dragonsteel store?
-  >
-  > **@CraigAPriceJr** [👍1]：Congrats!!!! My kickstarter just went live today... And I&#39;m already close to beating you! Only 41.7 million away!!
+  > **@Abell_lledA** [👍1]：One is caught up playing the impassioned protagonist in one’s Subjective Narrative of Self🎈
   >
   > **@TorinX99** [👍1]：From Software???? Cosmere game?  We need this.
+  >
+  > **@tinybrito** [👍1]：Has it been confirmed if the kickstarter shirt sizes and fit will be the same as the shirts on the Dragonsteel store?
   >
   > **@dagonzalez1757** [👍1]：Where is B Money?
   >
   > **@jeremiahglover7562** [👍1]：Soooo, does this mean people might be willing to crowdfund other media in the future? Web shows? Videogames?
   >
-  > **@jasongleason4184** [👍1]：Can we get some info on when/if these books will be available for non-backers who couldn&#39;t afford $200 this month? Thanks!
-  >
-  > **@nicolasabner2720** [👍1]：Brandon, I&#39;m from Brazil and here there are legions of fans wanting to read more of your books! Please send a message to a Brazilian publisher to translate your works and come back with Mistborn 1st era prints. With affection and admiration, Nicolas.<br>.<br>I hope the message makes sense. I don&#39;t know English and I&#39;m translating from Google.
-  >
   > **@rohanmanro3765** [👍1]：I really liked the Cosmere books, are non-Cosmere books like Skyward series just as great as the Cosmere ones?
   >
   > **@isopodshuffle** [👍1]：awesome! now go celebrate by reading One Piece (and doing a video with Daniel Greene about it) 🙂
+  >
+  > **@nicolasabner2720** [👍1]：Brandon, I&#39;m from Brazil and here there are legions of fans wanting to read more of your books! Please send a message to a Brazilian publisher to translate your works and come back with Mistborn 1st era prints. With affection and admiration, Nicolas.<br>.<br>I hope the message makes sense. I don&#39;t know English and I&#39;m translating from Google.
+  >
+  > **@jasongleason4184** [👍1]：Can we get some info on when/if these books will be available for non-backers who couldn&#39;t afford $200 this month? Thanks!
   >
   > **@michaelstevenson8272** [👍1]：Has there been any news on Brandon posting his lectures this year?  Last year was COVID canceled and the year before the last 4? Were done remote and personaly I felt were not as good.
   >
@@ -616,127 +1040,127 @@
   >
   > **@tastycrocs1551** [👍1]：How can you even get so much money? Lowkey just raise this amount of money for cancer research!
   >
-  > **@BrandonNinja**：It&#39;s always good to give back.
-  >
-  > **@j-golden7927**：So stoked for storm light five!! Thanks for the prologue!
-  >
-  > **@moma-b**：We never have enough of you! 😄💕
-  >
-  > **@josemanuelserna8963**：Congratulations Brandon!<br>From one of your readers in Spain.<br>You know we love you here. Hope to see you in Spain soon.
-  >
-  > **@CaitlinnStoltz**：This was a wild and crazy ride!
-  >
-  > **@Homar30**：Och no, I was enjoying having so much Brandon over the past month!
+  > **@blugobln85**：As a very new fan of your writing (2021 is where I first picked up one of your books - Stormlight #1) I am so glad to see such huge successes happening for you, but also not at all surprised. When I first started reading your work I was very worried what kind of writer you would turn out to be. I was slowly growing more and more attached to your fantastic characters, world and lore, and just magical way of building situations for your characters to heroically succeed in (or in some cases stumble out by the skin of their teeth). My fear was there would be similarities to other certain authors who are known for killing characters in a brutal fashion - frankly, I was looking for more &quot;pure&quot; fantasy, the kind of stories I tell with my friends in tabletop roleplaying games.<br><br>I could not have been more overjoyed and ecstatic by the end of your 2nd Stormlight book. Heroic, and without a doubt, among the most EPIC of storytelling. Your writing makes me punch the air with a woop and a holler of victory, shed tears of joy over the amazing character moments, and feel a freedom to love your characters because I know that you love them just as much and more and you won&#39;t break my heart without reason.<br><br>I&#39;m writing this simply to say: thank you. Thank you so much.
   >
   > **@banditoheat**：Nicely done,  B$$.
   >
-  > **@afk2514**：Well deserved. Thank you!!!
-  >
-  > **@notemaker3000**：Congrats!! My sister has been a fan for a while and I’m excited to start reading your books.
-  >
   > **@cheyenneray9115**：We could never have too much of Brando Sandino!
+  >
+  > **@BrandonNinja**：It&#39;s always good to give back.
   >
   > **@Hawkknight88**：Bridge Four!
   >
-  > **@blugobln85**：As a very new fan of your writing (2021 is where I first picked up one of your books - Stormlight #1) I am so glad to see such huge successes happening for you, but also not at all surprised. When I first started reading your work I was very worried what kind of writer you would turn out to be. I was slowly growing more and more attached to your fantastic characters, world and lore, and just magical way of building situations for your characters to heroically succeed in (or in some cases stumble out by the skin of their teeth). My fear was there would be similarities to other certain authors who are known for killing characters in a brutal fashion - frankly, I was looking for more &quot;pure&quot; fantasy, the kind of stories I tell with my friends in tabletop roleplaying games.<br><br>I could not have been more overjoyed and ecstatic by the end of your 2nd Stormlight book. Heroic, and without a doubt, among the most EPIC of storytelling. Your writing makes me punch the air with a woop and a holler of victory, shed tears of joy over the amazing character moments, and feel a freedom to love your characters because I know that you love them just as much and more and you won&#39;t break my heart without reason.<br><br>I&#39;m writing this simply to say: thank you. Thank you so much.
-  >
-  > **@ReadingDave**：Nice job. I look forward to reading your novels.
-  >
-  > **@daniela.domingues**：Congratulations! And honestly, thank you for this! 😊
-  >
-  > **@JaniceSeagraves**：You are breaking records. Congratulations.
-  >
-  > **@BeastOrGod**：Can&#39;t wait for my books.
-  >
-  > **@chugg159**：Conglaturation
-  >
-  > **@NNNNNNNNNNNNNNl**：Thank you for your creative output Brandon, you are truly an inspiration to aspiring fantasy and science fiction authors around the world!
-  >
-  > **@Dylan-em1zc**：insane brandon!!
-  >
-  > **@DebzZi**：Brandon&#39;s productive energy makes me jealous!!
-  >
-  > **@_mundus**：41 million factorial, now THAT&#39;S a big number.
-  >
-  > **@fuhoo5836**：congrats!
-  >
-  > **@Guitarman5705**：Just finished words of radiance my man, nothing but praise from me, will be looking forward to finishing stormlight and reading everything else you bring out the next few years. Just wanna say thank you as well for mistborn. Those books really brought me out of a wierd place in my life. Journey before destination!
-  >
-  > **@amburbyler7721**：This is just amazing!
-  >
-  > **@vaniachase3825**：amazing
-  >
-  > **@Rickshow314**：Graaaaaande
-  >
-  > **@cokeMONSTERps3**：That&#39;s a lot.
-  >
-  > **@mr.kilroy6818**：Uncle Sammy will be wanting his cut&#39; be careful!
-  >
-  > **@Yzabell0M**：Now I need to catch up on all the books before they start shipping 😁
-  >
-  > **@Labzundead**：Can&#39;t wait for my hoid gold stars!
-  >
-  > **@A.Campbell**：41MM is insane!
-  >
-  > **@enki_of_nibiru**：My co-worker introduced me to you and I didn&#39;t want to acknowledge your greatness, but you are the man!!!! Keep up the great work!!! You are the greatest fantasy writer of my generation...no pressure!
-  >
-  > **@alphasia91**：I wasn&#39;t able to support the kickstarter at the moment, but I hope that the books will be available for purchase when they come out.
+  > **@jjgragas1527**：Brandon &quot;Never Fails To Impress&quot; Sanderson
   >
   > **@00Tenrai00**：You DESERVE this!
   >
-  > **@jjgragas1527**：Brandon &quot;Never Fails To Impress&quot; Sanderson
+  > **@CaitlinnStoltz**：This was a wild and crazy ride!
   >
-  > **@rahul-qm9fi**：41 million jesus
+  > **@_mundus**：41 million factorial, now THAT&#39;S a big number.
+  >
+  > **@A.Campbell**：41MM is insane!
   >
   > **@cnocell7**：That factorial symbol really changed the value... 🤣
   >
+  > **@j-golden7927**：So stoked for storm light five!! Thanks for the prologue!
+  >
+  > **@Homar30**：Och no, I was enjoying having so much Brandon over the past month!
+  >
+  > **@DebzZi**：Brandon&#39;s productive energy makes me jealous!!
+  >
+  > **@Dylan-em1zc**：insane brandon!!
+  >
+  > **@moma-b**：We never have enough of you! 😄💕
+  >
+  > **@Guitarman5705**：Just finished words of radiance my man, nothing but praise from me, will be looking forward to finishing stormlight and reading everything else you bring out the next few years. Just wanna say thank you as well for mistborn. Those books really brought me out of a wierd place in my life. Journey before destination!
+  >
+  > **@JaniceSeagraves**：You are breaking records. Congratulations.
+  >
+  > **@mr.kilroy6818**：Uncle Sammy will be wanting his cut&#39; be careful!
+  >
+  > **@cokeMONSTERps3**：That&#39;s a lot.
+  >
+  > **@fuhoo5836**：congrats!
+  >
+  > **@josemanuelserna8963**：Congratulations Brandon!<br>From one of your readers in Spain.<br>You know we love you here. Hope to see you in Spain soon.
+  >
+  > **@alphasia91**：I wasn&#39;t able to support the kickstarter at the moment, but I hope that the books will be available for purchase when they come out.
+  >
+  > **@afk2514**：Well deserved. Thank you!!!
+  >
   > **@JSephH76**：You should add an Elden Ring progress bar lol
   >
-  > **@panditmanthan**：Big fan from India I just started to read your novels sir great 🥳🙏
-  >
-  > **@am3703**：Hard not to be blown away, Brandon &quot;I have an HR director&quot; Sanderson everybody.
+  > **@vaniachase3825**：amazing
   >
   > **@Tguard77**：Little idea I had, not sure if its something you think you would have time for ever, but, I really really enjoyed listening to you read each of the projects and giving background on them. I think it would bve a great idea if you read a little bit from the first part of any of your series to get people to want to read those. I know I love stormlight and mistborn (first 3 books)  but I havent read any of your other stuff. I feel like you reading the intro for some of them would really get me excited bout reading them myself. idk just a thought, anyway you are the best , thanks!
   >
-  > **@MARlANO_**：padre
+  > **@notemaker3000**：Congrats!! My sister has been a fan for a while and I’m excited to start reading your books.
   >
-  > **@amandasmith4581**：Amazing! My husband ordered on the kickstarter but won’t tell me what level he ordered 😑😆. I’m so excited for 2023.
+  > **@enki_of_nibiru**：My co-worker introduced me to you and I didn&#39;t want to acknowledge your greatness, but you are the man!!!! Keep up the great work!!! You are the greatest fantasy writer of my generation...no pressure!
   >
-  > **@dreadfulpennyanimates3476**：😲😲😲😲 This kickstarter is getting insane.
+  > **@Rickshow314**：Graaaaaande
+  >
+  > **@BeastOrGod**：Can&#39;t wait for my books.
   >
   > **@elqord.1118**：and I missed it...goddamnit
   >
+  > **@dreadfulpennyanimates3476**：😲😲😲😲 This kickstarter is getting insane.
+  >
+  > **@chugg159**：Conglaturation
+  >
   > **@Asthamedos**：Why am I not surprised he&#39;s a Kurzgesagt fan as well?
+  >
+  > **@ReadingDave**：Nice job. I look forward to reading your novels.
+  >
+  > **@rahul-qm9fi**：41 million jesus
+  >
+  > **@daniela.domingues**：Congratulations! And honestly, thank you for this! 😊
+  >
+  > **@am3703**：Hard not to be blown away, Brandon &quot;I have an HR director&quot; Sanderson everybody.
+  >
+  > **@NNNNNNNNNNNNNNl**：Thank you for your creative output Brandon, you are truly an inspiration to aspiring fantasy and science fiction authors around the world!
+  >
+  > **@Yzabell0M**：Now I need to catch up on all the books before they start shipping 😁
+  >
+  > **@amburbyler7721**：This is just amazing!
+  >
+  > **@MARlANO_**：padre
   >
   > **@jasondawes8784**：Dawnshard audio book when?
   >
+  > **@Labzundead**：Can&#39;t wait for my hoid gold stars!
+  >
   > **@ardentapiarist952**：Oh does anyone recognise the shirt? Looks cool
+  >
+  > **@amandasmith4581**：Amazing! My husband ordered on the kickstarter but won’t tell me what level he ordered 😑😆. I’m so excited for 2023.
   >
   > **@pendrakedcm**：Any update on the Dawnshard audiobook release?
   >
-  > **@stephanieaber8627**：Do you think you will open up a sorry you missed it backing option?
-  >
   > **@MercuryManProduction**：...we are never getting the Dawnshard audiobook, are we?
+  >
+  > **@panditmanthan**：Big fan from India I just started to read your novels sir great 🥳🙏
+  >
+  > **@stephanieaber8627**：Do you think you will open up a sorry you missed it backing option?
   >
   > **@gidiankhiemplebuch-to240**：Any updates about the Dawnshard audiobook release?
   >
   > **@micahhenry3846**：Will skyward fight be in audible?
   >
-  > **@Bertocalde**：Disfruta de mis 900 lereles jefe
+  > **@manishvenumuddula8571**：Missed the kickstarter, anyone know if doing the backerkit option results in the same type of stuff?
   >
   > **@NEWNORMALNEWSNETWORK**：Wow I&#39;m so glad for u now spend some of that on having a Japanese company animate the stormlight archive and mistborn
   >
-  > **@manishvenumuddula8571**：Missed the kickstarter, anyone know if doing the backerkit option results in the same type of stuff?
-  >
-  > **@amyolimawisa5962**：Finally
+  > **@Bertocalde**：Disfruta de mis 900 lereles jefe
   >
   > **@learnliftlearn**：when do you think stormlight five is coming out?
-  >
-  > **@crackfloor**：Best writer of our time
   >
   > **@kellyler1296**：Please, please give any info you have about the audiobook release for Dawnshard! :)
   >
   > **@girlscandrum22**：Will hardcover books be available later if you couldn&#39;t back the kickstarter? I was very disappointed that I couldn&#39;t afford it right now.
+  >
+  > **@crackfloor**：Best writer of our time
+  >
+  > **@amyolimawisa5962**：Finally
   >
   > **@MoreRice28**：Where&#39;s B-money?
   >
@@ -744,41 +1168,41 @@
   >
   > **@chasemorello60**：👕🧾
   >
+  > **@smm855**：So I just realized after watching Cinema Therapy this past week that Alan Seawright was at BYU at the same time as you!  He started a Fight Club while he was there...I don&#39;t suppose you joined? lol 🤣  Mormon fight club for the win!
+  >
+  > **@danijohnson864**：Umm just wondering when warbreaker leatherbound will be available. I thought i seen you singing them last yr or were they hard covers??
+  >
+  > **@noctuliusgui**：History gotta be gentle on BS on the future. We are still to see a more trustworthy writter in our generation.
+  >
+  > **@xxfutureisnowxx**：Im staying clear of spoilers, but will any of these four new books spoil anything from any of the other series?
+  >
+  > **@airbendnerd**：Maybe you should take that money and buy Evermore and turn it into CosmereLand…
+  >
+  > **@NoPantsJohnson**：I kinda want to hear Brandon&#39;s side of all these articles in seeing about Bandai-Namco&#39;s interest in him. FromSoftware is my favorite game developer and I swear, if they collab with Sanderson like they did with Martin...
+  >
   > **@lucassamuel7968**：My shitty brazilian bank isn&#39;t allowing me to purchase. I&#39;ve been calling them , they say they are fixing it, but aways is declined.
   >
   > **@justinfracchia8866**：What happened to B Money?!
   >
-  > **@NoPantsJohnson**：I kinda want to hear Brandon&#39;s side of all these articles in seeing about Bandai-Namco&#39;s interest in him. FromSoftware is my favorite game developer and I swear, if they collab with Sanderson like they did with Martin...
-  >
   > **@currentlyprocastinating5334**：Are the release date for Skyward Flight different depending on the country because I bought mine in store a couple of days ago?
-  >
-  > **@danijohnson864**：Umm just wondering when warbreaker leatherbound will be available. I thought i seen you singing them last yr or were they hard covers??
-  >
-  > **@smm855**：So I just realized after watching Cinema Therapy this past week that Alan Seawright was at BYU at the same time as you!  He started a Fight Club while he was there...I don&#39;t suppose you joined? lol 🤣  Mormon fight club for the win!
-  >
-  > **@xxfutureisnowxx**：Im staying clear of spoilers, but will any of these four new books spoil anything from any of the other series?
   >
   > **@jibranelbazi**：A dollar for every word Brandon has written in his life 😉
   >
-  > **@airbendnerd**：Maybe you should take that money and buy Evermore and turn it into CosmereLand…
-  >
-  > **@noctuliusgui**：History gotta be gentle on BS on the future. We are still to see a more trustworthy writter in our generation.
-  >
   > **@fictionmyth**：Why did B$ call himself Brandon? I&#39;m so confused...
-  >
-  > **@willphoenix5464**：Truly amazing to how insane he is to have done all of this and doubly so for having such a dedicated fanbase that is able to fund twice the second largest Kickstarter<br>Though if anyone else has some info, could someone elaborate on the possible collaboration between Bandai Namco and Brandon?
-  >
-  > **@Cajatec**：Just found out that you can&#39;t pay with a normal mastercard. I was able to pledge, but not pay 😅 Kickstarter really needs more payment options
   >
   > **@neondemon5137**：I would&#39;ve backed this but international shipping was so expensive, not that I can&#39;t afford it, just isn&#39;t worth it to me.
   >
-  > **@TrashMetal1995**：Does anyone know whether these books will eventually be published as paperbacks as well? I backed the &quot;ebook-option&quot;, because the high cost of shipping the books outside of the US scared me off a little bit (and I am a sucker for paperback books)
-  >
   > **@Kirealta**：WTF
   >
-  > **@remiwi2399**：How do you determine the percentage you&#39;ve completed in writing a book????
+  > **@Cajatec**：Just found out that you can&#39;t pay with a normal mastercard. I was able to pledge, but not pay 😅 Kickstarter really needs more payment options
+  >
+  > **@willphoenix5464**：Truly amazing to how insane he is to have done all of this and doubly so for having such a dedicated fanbase that is able to fund twice the second largest Kickstarter<br>Though if anyone else has some info, could someone elaborate on the possible collaboration between Bandai Namco and Brandon?
+  >
+  > **@TrashMetal1995**：Does anyone know whether these books will eventually be published as paperbacks as well? I backed the &quot;ebook-option&quot;, because the high cost of shipping the books outside of the US scared me off a little bit (and I am a sucker for paperback books)
   >
   > **@luxintenebris1776**：Who is this Brandon guy? Bring back B$!!
+  >
+  > **@remiwi2399**：How do you determine the percentage you&#39;ve completed in writing a book????
   >
   > **@jmautobot**：Any idea who&#39;s voicing the audio versions of these books? A professional actor or Brandon?
   >
@@ -793,456 +1217,1727 @@
 
 ---
 
-## 3. Screen Rights and Apple TV + Weekly Update
+## 4. An End to Secrets
 
 - **频道：** Brandon Sanderson
-- **观看数：** 344,946
-- **点赞数：** 27,426
-- **评论数：** 1832
-- **时长：** 5:19
-- **发布日期：** 2026-02-03T18:15:01Z
-- **链接：** https://www.youtube.com/watch?v=VBQmStfWDVE
-- **来源：** channel
+- **观看数：** 291,695
+- **点赞数：** 18,494
+- **评论数：** 985
+- **时长：** 3:34
+- **发布日期：** 2022-03-30T15:00:18Z
+- **链接：** https://www.youtube.com/watch?v=_FoUcDD7t8g
+- **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/VBQmStfWDVE/hqdefault.jpg
-- **标签：** Brandon Sanderson, Stormlight, Mistborn, Hero of Ages, Well of Ascention, Alloy of Law, Shadow of Self, Bands of Mourning, The Lost Metal, Author, Way of Kings, Oathbringer, Tress of the Emerald Sea, The Sunlit Man, Cytoverse, Dragonsteel, Defiant, Skyward, Exclusive Books, Legion, Elantris, Warbreaker, Sanderfan, Sanderson, Writing, Storytelling, Words of Radiance, Dragonsteel Nexus, Wind and Truth, Mistborn Movie, Stormlight Show, Hollywood News, Brandon Sanderson Movie, Stormlight Movie
+- **缩略图：** https://i.ytimg.com/vi/_FoUcDD7t8g/hqdefault.jpg
 - **简介：**
 
-  > After months of teasing us with “Hollywood News,” Brandon is here to clear the air. When the dust settles, he has news about the Mistborn movie and more. Check out other official news outlets here to learn more about what is coming next: 
-  > https://www.hollywoodreporter.com/movies/movie-news/brandon-sandersons-mistborn-stormlight-archive-movie-tv-1236487271/
+  > Prologue: https://youtu.be/N7IAXaDWdKU
   > 
-  > To follow more Hollywood updates from Brandon, keep an eye here - https://www.brandonsanderson.com/pages/film-and-tv-news
+  > Now on Backerkit: https://secretnovels.backerkit.com/hosted_preorders
   > 
-  > Hoid's Storybook Collection - https://www.backerkit.com/c/projects/dragonsteel/hoids-storybook-collection/launch_party
-  > 
-  > Want to send me something to open?
-  > Dragonsteel Entertainment
-  > ATTN: Adam
-  > P.O Box 698
-  > American Fork, UT 84003
-  > 
-  > Get your Wheel of Time updates here with the Bound and Woven newsletter: https://mailchi.mp/brandonsanderson/eye-of-the-world-campaign
-  > 
-  > Stay up to date by following my newsletter: https://brandonsanderson.us10.list-manage.com/subscribe?u=7d056bb7596a3e617f82004b2&id=fa68f14db0
-  > 
-  > Interested in signed books and swag? Check here: https://www.dragonsteelbooks.com/
-  > 
-  > You can also follow me on:
-  > Tiktok: https://www.tiktok.com/@authorbrandonsanderson
-  > Facebook: https://www.facebook.com/BrandSanderson
-  > Twitter: https://twitter.com/BrandSanderson
-  > Instagram: https://www.instagram.com/brandsanderson/?hl=en
-  > Twitch: https://www.twitch.tv/mistbornbrandon
-  > 
-  > Frequently asked questions: https://faq.brandonsanderson.com
+  > Ask and upvote your questions for Kickstarter Countdown Livestream tomorrow: https://www.reddit.com/r/brandonsanderson/comments/ts8gct/kickstarter_countdown_livestream_party_tomorrow/
 
 - **热门评论（200 条）：**
 
-  > **@Naija_Ninja** [👍5589]：Can&#39;t wait for the announcements of secret movies
+  > **@Zac-wb7hu** [👍2496]：Brandon has had way too much fun with this and I am here for it
   >
-  > **@Bearcaved** [👍2981]：We did it folks! Finally something to impact Brandon’s writing schedule! Time to get caught up!
+  > **@XanderLars2** [👍1821]：That is truly the walk of a man who is saying to himself &quot;oh dang, i&#39;m being filmed! how do i walk? is this normal? do i look weird walking like this? how much is a normal amount of arm swing?! WHAT DO I DO WITH MY HANDS?!!?!?!&quot;
   >
-  > **@R1v0rian** [👍2120]：BRAND NEW PERCENTAGE BAR OF HAPPINESS
+  > **@kliqIMB** [👍1186]：I was waiting for the turn to camera and I absolutely wasn’t disappoint. Bravo to Brandon and the entire Dragonsteel team.
   >
-  > **@aerynmusick4548** [👍1625]：I am 0% concerned about your writing schedule and 100% stoked for Stormlight on TV
+  > **@Falidor** [👍1150]：I love how unnecessarily dramatic this video is.
   >
-  > **@filmsbyjake1457** [👍1146]：What a beautiful man please continue everything you are doing till you are 159 years old
+  > **@bookishlybookish** [👍1123]：Traveling to the most remote planes of Utah to film an LOTR-esque style video, Brandon gives us, in the most Branderson way, a highly anticipated prologue for a book scheduled to release in, probably, over a year. And people still wonder why he&#39;s so immensely loved 😂
   >
-  > **@NerdoftheRings** [👍777]：So pumped that Brandon found a studio to collab with him and not just try to buy his &quot;IP&quot;.<br>And Ghostbloods being on-time is music to my ears. :)
+  > **@ajpruitt4628** [👍808]：You can’t convince me Brandon wouldn’t be an old-timey Carnival Ringmaster in another life. The man loves his theatrics!
   >
-  > **@jswagaudio** [👍774]：People are not ready for how good the Wax and Wayne live action will be.
+  > **@Dalenthas** [👍786]：I half expected him to drop a coin on the ground and go flying away on a steel push.
   >
-  > **@maquiavelmg** [👍575]：the man is so focused on his schedule and how long he takes to do things that he already took into account the time Hollywood business would take when making his schedule for Mistborn 3 and Stormlight.<br>LEGEND.<br>But if you need your time, TAKE IT, your fanbase is one of the best and most non-toxic I have ever seen (and been a pleasure to be part of).
+  > **@dawesome_sauce** [👍659]：I was dying at &quot;Nah that&#39;s stupid.&quot; ALWAYS MORE SURPRISES!
   >
-  > **@RocioGonzalezOcana** [👍409]：You see that little space between his hand and under the pen? If you look closely you can see he&#39;s writing a secret project right there!
+  > **@TreeBeardBookReviews** [👍516]：haha Brandon, you&#39;re the best. Please keep up with the secrets and trolling. I think its so much fun. Again congratulations its well deserved!
   >
-  > **@Michelle-ip6pp** [👍379]：Feels weird to be actually excited about a film adaption!
+  > **@ninakrishnamurthy6674** [👍437]：I swear to Adonalsium, every time Brandon uploads a video I’m worried I’ll have yet another book to read. I’m trying to read the entire Cosmere, and it never ends!
   >
-  > **@Katie-hb8iq** [👍372]：I&#39;m so happy that you have control. After what happened to Game of Thrones, The Witcher, Star Wars, Star Trek, The Wheel of Time and countless others, I&#39;m glad you have control over your work.
+  > **@user-ct6kd1pc7b** [👍434]：Brandon clearly enjoys the YT format, and I love how much fun he has with this. Also, shoutout to the people behind the scene (Adam?). The quality of these videos went up like crazy.
   >
-  > **@KingMinorMusic** [👍296]：I am calling it Danny Devito as lord ruler.
+  > **@gameover40567** [👍347]：As the author himself said, &quot;There&#39;s always another secret&quot;
   >
-  > **@KingMinorMusic** [👍237]：Please make it a 3 hour movie
+  > **@TimeBucks** [👍253]：happy seeing Brandon thrive
   >
-  > **@fleddo** [👍210]：So humble, take your time to do things right.. Journey before destination!
+  > **@ellepardue** [👍215]：This is delightful, this whole thing has been absolutely delightful. Looks like we get two years of Brandon for the price of one!
   >
-  > **@motisports2353** [👍202]：What I love about Brandon is how transparent and upfront he is about the progress of his projects. It makes us feel like part of his journey.
+  > **@revanentsoulgames9869** [👍140]：From the journey I began with stormlight one, I’ve been inspired, intrigued, and enlightened by the worlds and wonders you have created. I’ve cried, been excited for, and laughed with the wide variety of characters you have introduced me to. I’ve felt their pain shared their surprise and lived what seems like a lifetime with each one. I’m looking forward to continuing the journey with you, your fans, and all your characters in this wonderful world of fantasy. Thank you for everything Brandon.
   >
-  > **@edvardalmqvist679** [👍185]：I cant&#39; wait to see a Highstorm and the Shattered Plains on screen.
+  > **@forgottonpast6847** [👍131]：This almost feels like a Hoid epilogue.
   >
-  > **@tommiller6954** [👍161]：Such fantastic news, congratulations! PLEASE don&#39;t squeeze such an epic book into just 2 hours, there is so much character development, back story and &#39;scenes&#39; which cannot be left out. Aim for a 3hr (extended dvd version 😁) with a 2.5hr for theatrical release <a href="UCkszU2WH9gy1mb0dV-11UJg/medal-yellow-first-red"></a>
+  > **@anilmishra5947** [👍126]：really makes me happy seeing Brandon thrive. I&#39;m smiling from ear to ear.
   >
-  > **@Jay_Den1661** [👍152]：<a href="https://www.youtube.com/watch?v=VBQmStfWDVE&amp;t=143">2:23</a> oh no! We’re only gonna get a book every other month and not every week!
+  > **@25Dzone** [👍121]：The shipping costs stopped me from going all in but I&#39;ve got the audio books to look forward to. Wish I could&#39;ve gotten the big bundle but excited to see what Brandon Sanderson does!!
   >
-  > **@DanielGreeneReviews** [👍144]：CO SHOWRUNNER!! Yooooooo!!!!!
+  > **@davidkeller6135** [👍93]：I love the DRAMA. Thank you Brandon.
   >
-  > **@agentofcreationHT** [👍131]：&quot;Not a lot of movement on that yet&quot; bro you just got the rights and you&#39;re already at 2%!!!?? Most exciting news ever by the way.
+  > **@Ironworthstriking** [👍85]：Brandon manages to inject joy, wonder and mystery in a time where many believe those things are long dead. While most mainstream creators are happy to reboot, remake and homage, he consistently creates original exciting stories. He will no-doubt be remembered as one of the all-time greats.
   >
-  > **@darkuit585** [👍119]：Can&#39;t wait for Brandon to say &quot;actually, I finished the screenplay in March so here&#39;s another three secret projects&quot;
+  > **@aluminum3668** [👍80]：He will never quit. Together we will crowdfund him a synthetic body so he can write books for the rest of his natural, and unnatural life
   >
-  > **@UnderTheSignOfMarmie** [👍102]：Is the adaptation livestream cancelled?
+  > **@rohanmanro3765** [👍64]：When the video began I thought Sanderson was wearing a mist cloak, but then all the theatrics, I was laughing all the way like waiting for the bomb to be dropped. Amazing work!
   >
-  > **@dericplummer9272** [👍84]：So exciting! My only reservation is I hope that mistborn movies goes to theaters and not straight to streaming.
+  > **@reywashere5284** [👍62]：No need to hire actors for the live action adaptations - Brandon has the skills to play every character, simultaneously.
   >
-  > **@ChugadaCheeseGaming** [👍83]：Apple TV and this creative control is such a dream scenario!!! Can&#39;t wait to see how this all turns out
+  > **@ryanbradley5557** [👍59]：I knew there was gonna be a twist or something, another reveal of some kind, and I still said “Holy F*#%,” when he actually told us what was up.  We don’t deserve this guy.  Amazing.
   >
-  > **@johanjoseph4802** [👍75]：The Fantasy landscape gonna be in an exciting place a Decade from now. Calling it now. 👑
+  > **@Tinahgirl83** [👍59]：I’m certain he was an actor in a previous life. The drama was so real in this. Down to the actual filming, it screamed 90’s tv.😂😂😂 Loved it!
   >
-  > **@aliciacarter4598** [👍74]：CANT WAIT AND CONGRATS BRANDON AND THE COSMERE UNIVERSE 🎉🍾📚📺👨‍💻
+  > **@leviackerman1799** [👍59]：Clicked faster than Brandon writing a book..<br>Edit: after watching..i guess i may have over stated myself..that is indeed impossible..
   >
-  > **@Ivbo** [👍69]：I would’ve been apprehensive about this usually, but I’m so excited knowing you have full creative control over everything. We might actually get real <b>ADAPTATIONS,</b> and not a bunch of fan fiction nonsense from some Hollywood <b>“I can do better”</b> hack writers. That go on to change everything in the books and miscast half the characters.
+  > **@namasheyellowglove6908** [👍58]：You absolute dramatic nonsense man, love it <br><br>&quot;Hey team, I need a drone and some desolate but scenic places to pose in.&quot;
   >
-  > **@anonymousname5860** [👍56]：Apple TV! I’m looking forward to this screenplay!
+  > **@milospollonia1121** [👍56]：THIS COMMENT HAS SPOILERS DON&#39;T READ IT BEFORE WATCHING THE ENTIRE VIDEO<br><br><br><br>The absolute struggle of trying to decide which video of the two to watch first
   >
-  > **@Ssalyer41** [👍50]：I wish you could have gotten a deal for Wheel of Time like this.  It&#39;s such a shame what happened to it.
+  > **@kronos1794** [👍47]：Now the decent into madness begins. Can&#39;t wait for the 2am update with Brandon casually eating a sandwich revealing he has actually be ghostwriting 10 other series.
   >
-  > **@weasleye91** [👍47]：I volunteer as a bridgeman! you just let me know where to sign up and im signed up!
+  > **@ElijahStormblessed** [👍47]：Congrats, and thank you so much Brandon and the whole Dragonsteel team!
   >
-  > **@frankiesomeone** [👍39]：DON&#39;T LET THE STUDIO RUIN IT<br>Keep control!
+  > **@CassiusDrake** [👍41]：I feel like Brandon is trying to kill those poor fools at the 17th Shard. I can&#39;t even imagine how much they&#39;ve had to rework their recording schedule for the next couple of years. They are never going to be able to cover all of this before the books actually release 😂
   >
-  > **@Julianstrawtherfan** [👍29]：<a href="https://www.youtube.com/watch?v=VBQmStfWDVE&amp;t=255">4:15</a> CONFIRMED THE MOVIE IS TWO HOURS LONG
+  > **@lordtorka** [👍29]：I was almost expecting &quot;Heres a surprise, completed, and ready to ship Mistborn novel.&quot;
   >
-  > **@tripplejaz** [👍25]：I remember reading Mistborn for the first time and imagining it as a movie in my head. I re-read it a few months ago and could see so many steampunk/victorian characters flying and creatures running around. I&#39;m so excited.
+  > **@elsecaller-jacob8346** [👍28]：We love you so much Brandon this has been storming crazy!!
   >
-  > **@jimthepyroful** [👍23]：If there’s one thing the YouTube algorithm has taught me, it’s that the Stormlight Archive NEEDS to be animated.
+  > **@sammys_shelf** [👍23]：This got a genuine audible &quot;Ha!&quot; from me. So well done, Brandon! You&#39;ve done it again!
   >
-  > **@Just-In-Film** [👍22]：Perfect place for films and TV series. Production quality is always top notch and they usually give shows multiple seasons and aren’t quick to give up on a show.
+  > **@BlackRose3610** [👍18]：The amount of affection I have for this man is incredible
   >
-  > **@galeno07** [👍22]：Here’s to a ComicCon Mistborn MOVIE panel 😁
+  > **@loganRB00** [👍17]：Love the cinematic shots Brandon.
   >
-  > **@oneiros458** [👍22]：I really would love to see an arcanum unbounded adaptation, or just an anthology type series that would adapt your short stories and/or original stories you’d like to tell that don’t fit into the larger productions.
+  > **@thed3m0n0id9** [👍16]：I&#39;m gonna quote Wax&amp;Wayne here:<br><br>&quot;Oh, Wax never cheats.&quot;<br>&quot;Not true. I cheat infrequently. That way, no one expects it when I do.&quot;<br><br>;) there&#39;s always another secret &lt;3
   >
-  > **@Phills69** [👍21]：I’m glad you’re heavily involved. Do NOT let them do to your stories what Amazon did to Robert Jordan’s work.  Stand tall for your stories Brandon!
+  > **@Fabrial** [👍16]：Brandon really likes the dramatic. I guess he is an author.
   >
-  > **@TheBillyGoatGruff-h6d** [👍19]：will it be solely available on apple tv, or also go to cinemas? Because there´s nothing I would like more than watching  Mistborn in the opening night!
+  > **@Crimser3** [👍15]：Brandon really said “suffering from success”
   >
-  > **@zenthepoet.** [👍19]：Adoooonalsium
+  > **@aronoiiel** [👍14]：This was brilliant! The cinematography is lovely
   >
-  > **@ADHDlanguages** [👍19]：Sorry I&#39;m 38 seconds late guys
+  > **@ryanleeoakes2015** [👍14]：I feel honored to have the “Tolkien” of our generation right here in real time blowing us away with these world changing stories! My grandchildren will most likely be reading his stories with the same fascination as I have these last several years. And what a reveal!! Lol
   >
-  > **@fenrirzen** [👍19]：Stormlight needs to be animated
+  > **@LPChipi** [👍14]：I love that he has written 563 books, sold millions of copies and he is still giddy as a kid making these announcements. Its so nice and refreshing seeing an author have so much fun with his work and seeing him as excited as we are with his projects.
   >
-  > **@elisenicole7095** [👍18]：Please please Mr. Sanderson don’t allow any frozen face actors in your productions. The raw emotion and emotional depth that the books convey and make us as the readers feel and relate to is something that can’t be conveyed by actors who’ve chosen to surgically remove their ability to move their faces, thereby removing their ability to act. <br>Your work, especially Stormlight Archive is so near and dear to my heart.
+  > **@indyvick** [👍9]：Keep doing the surprises and secrets, they are absolutely amazing. Hands down you are my favorite author, thank you Mr Sanderson
   >
-  > **@emiliaefr** [👍15]：<a href="https://www.youtube.com/watch?v=VBQmStfWDVE&amp;t=63">1:03</a> when he said &quot;studio heads&quot; I could only imagine Seth Rogan and a scene from The Studio 😂
+  > **@Florkl** [👍8]：Utah is such a gorgeous state
   >
-  > **@Mr.Pineapple87** [👍15]：Please make stormlight archive an animated series! It would be so good!
+  > **@AncalagonTheBlackMetalHead** [👍7]：The return of Magellan is the real reveal we’ve been waiting for lmao
   >
-  > **@SCP_Savage** [👍14]：Brandon, this is great news. I&#39;m glad you&#39;ll be deeply involved. You of all people don&#39;t need to apologize for any delays to your writing schedule.
+  > **@venndrik943** [👍7]：This makes me so excited to write.  Sanderson is really just an inspiration to the writing community.  I can&#39;t wait for everything else he publishes
   >
-  > **@RyanDeschain** [👍14]：Please god let us make it to the release of these
+  > **@DarkRuins** [👍7]：this man is chaotic evil in the most innocent way
   >
-  > **@frantisekfojt8688** [👍13]：I&#39;m caught myself tearing up when you talked about writing the screen play and making sure things come out right. I&#39;ve never been this excited for anything since I don&#39;t remember when!
+  > **@BooksAreLife0** [👍6]：Brandon is such a nerd and I love it.
   >
-  > **@chiararossi5214** [👍13]：Is the stormlight show going to be live action or animated?
+  > **@Ovrlordz** [👍6]：Brandon is Amazing!
   >
-  > **@Wiseguy2746** [👍12]：Television is dead, but ill see what i can do…
+  > **@Latriise** [👍5]：The drama. The music. The pensive walking over beautiful, cinematic shots. I&#39;m so here for it.
   >
-  > **@hughspackman** [👍11]：Mistborn<br><br>And Stormlight<br><br>And the cosmere in general<br><br>Mistborn by itself is huge. The next two are progressively and exponentially huger.
+  > **@TheAbsoluteZxero** [👍5]：The imagery of Brando walking the landscapes with that jacket flapping…..
   >
-  > **@adambyrd5379** [👍10]：It does seem odd to upload this without adding a note about the canceled live stream.
+  > **@RadagastIRL** [👍5]：Man, watching this really made me miss the Utah mountains. We moved from Lehi to Boise last summer for work and it is super flat here. Excellent camera work, and can&#39;t wait for everything that is coming.
   >
-  > **@doublebackagain4311** [👍9]：Casting will be KEY
+  > **@kovidarora3479** [👍5]：Brandon how you thought of going into acting. The first video that started this all was amazing
   >
-  > **@Dominick2DAnimationStoryboard** [👍9]：Please storyboard everything! I can&#39;t recommend it enough!
+  > **@rogermanzur3570** [👍5]：You are just a treasure Brandon. Thank you for all the joy and wonder you bring to the world. 🥲
   >
-  > **@philippenachtergal6077** [👍9]：<a href="https://www.youtube.com/watch?v=VBQmStfWDVE&amp;t=190">3:10</a> So what has Brando done as screen plays before ?
+  > **@midnightbloomofeorzea7182** [👍5]：I just ordered the first three Stormlight Archives, I&#39;m hyped to finally read some Sanderson for the first time &lt;3
   >
-  > **@ecarreon93** [👍7]：Your optimism is my optimism, Mr. Sanderson. <br><br>Also also, I am not joking when I say, I am a cinephile to the bone and have written my own scripts. I’ve read a lot and have a solid feel for story telling in general both in prose and screenplay format. I would need presume too much, but I would jump at tackling a screenplay with you. Anyway, I’m so excited for this either way.
+  > **@DebbieChristina** [👍4]：This man deserves an award for those acting skills (and writing skills)
   >
-  > **@CarlosRodriguez-dh7mm** [👍7]：Oh, I&#39;m sure there&#39;s nothing new this week...
+  > **@Corlanthis** [👍4]：This man&#39;s sense of dramatic timing is absolutely amazing, hahah. I kept waiting for the &quot;Nah.&quot; and I was not disappointed when it hit.
   >
-  > **@daniellmartin1993** [👍5]：I hope Stormlight is well adapted. I hope whoever you work with on Stormlight is someone who if they don&#39;t already know the source material, reads the source material.
+  > **@matthewruiz3391** [👍4]：Brandon has become not just one of my favorite authors but easily one of my favorite people ever. This dude and his team are great!
   >
-  > **@omarconteh9714** [👍5]：You should play as Breeze or something
+  > **@SkyndSand** [👍4]：During a rough time in which everything seems to collapse around me, I thank you from the bottom of my heart Brandon. It&#39;s the tiny glimpses of a better future that&#39;ll keep you going through the dark.
   >
-  > **@godminnette2** [👍5]：Imagine getting Ronald D. Moore for the Stormlight show once he wraps up on God of War.
+  > **@mick16wtf** [👍4]：Fantastic. Its so delightful to see how fun mischief can be even more so when the result of it is pure and positive.
   >
-  > **@therealmcdcm** [👍5]：<a href="https://www.youtube.com/watch?v=VBQmStfWDVE&amp;t=107">1:47</a> BRO I COULD CRY THANK YOU!!! Please please PLEASE DON&#39;T LET THEM CHANGE ANYTHING!!! Everything about this story is PERFECT😭😭😭🙌🏾🙌🏾🙌🏾💃🏾💃🏾💃🏾♥️♥️♥️
+  > **@Theirishsk83r** [👍4]：Never change Brandon, and thanks for the entertainment!
   >
-  > **@Ktulured55** [👍4]：I hope the Mistborn movies are all 2.5 hours+ in length!  :)
+  > **@risereadshine** [👍3]：This is the most dramatic thing ever, I love it
   >
-  > **@lanssilatte1175** [👍4]：Just got into Brandon Sanderson books and I have to say having a author this transparent in wrighting schedule and possible delays is a breath of fresh air and now I gotta finish mistborn and start stormlight
+  > **@nicolbolas9615** [👍3]：That was amazingly shot, and I really love the very billowey coat!
   >
-  > **@PhoenixAsh927** [👍4]：So I have a couple of years to make my Kelsier cosplay to wear to opening day... got it!
+  > **@Tubahero1012** [👍3]：This was a cinematic masterpiece.
   >
-  > **@drgskates** [👍2]：Listen, I am so excited for all of this. You&#39;re my favorite author, and I am so glad that your stories will get a chance to reach beyond the pages to touch even more people. I can&#39;t wait to see how all of this takes form.<br><br>Journey before destination ♡♡♡
+  > **@louisa1878** [👍3]：My guy, this is so dramatic, I&#39;m here for it.
   >
-  > **@PitchBlack1994** [👍1]：Congratulations! Wishing you continued success!
+  > **@MaKiiOlvEra** [👍3]：Te amo Brandon, gracias por llegar a mi vida. Eres mi persona favorita en el mundo entero 💗
   >
-  > **@Hoodles321** [👍1]：Mr Brandon Sanderson, I&#39;ve written longer testaments elsewhere on this but I just couldn&#39;t be happier, we are unbelievably blessed to follow your works. Taking notice of the amount of care you put into everything you do and how much it pays off. To repeat one thing I&#39;ve said of the announcement, the idea of Mistborn as movies and Stormlight as a TV show is a dream come true for me, something I have genuinely wished for from the moment I thought about adaptations but since they were both always talked about in terms of movies I sort of knew I&#39;d have to let go of that hope. I started Mistborn in 2022 so it&#39;s coming up on four years since I began following these works; Putting aside how great it is experiencing these works, better than any other creative I follow; It feels fantastic to be a fan, when I&#39;m not even experiencing the books, being in this community is so great and I know that&#39;s not a coincidence. You treat your works and fans with so much honour, I just don&#39;t have bad experiences here, so for the work that must take, thanks so much, couldn&#39;t be happier
+  > **@JackSather** [👍3]：I love this man.
   >
-  > **@the_shadow_realm5110** [👍1]：So happy for Brandon. Have been following for years. Dude is truly reaping the rewards
+  > **@marce6297** [👍3]：Finally, here I am
   >
-  > **@leomcgee7062** [👍1]：Can’t wait to see stormlight come to the screen!!!!
+  > **@marl3ymarl3y86** [👍3]：“Okay so I’m going to be standing on the edge of the cliff, yeah you’ll be recording that too, and the wind will be blowing, yes I’ll go back to revising in a bit, no this isn’t the last troll I’m going to do.”
   >
-  > **@Antaury97** [👍1]：such phenomenal news
+  > **@Kubal-cain** [👍3]：Most people would look at Brandon and think, &quot;oh, he&#39;s just a nerd&quot;.<br><br>And yet he&#39;s one of the greatest badasses on human history!
   >
-  > **@KamehamehaLives** [👍1]：I HAVE BEEN WAITING FOR THIS DAY FOR SO LONG!!! Congrats, Brandon - super exciting!
+  > **@daegraith** [👍3]：I see Brandon was taking great advantage of UT&#39;s recent windy weather
   >
-  > **@microbiologycory10** [👍1]：Brandon, we love you and support you.  Pleasepleaseplease don&#39;t abandon your readers in Hollywood...please finish Stormlight in print.
+  > **@AyushGupta-qs5xw** [👍3]：Ngl, he&#39;s doing youtube better than guys who do it full time and not just a side activity
   >
-  > **@jjpaoletti1014** [👍1]：😮 I can feel my heart pounding. This is awesome!!!! My son will come of age as Mistborn comes out!!!
+  > **@astralseaslug546** [👍3]：Thought the storm light vid that came out this moment was the one we were waiting for and I was gonna get angry at the troll lol<br><br>EDIT: fuck it really was the stormlight vid. No Mistborn adaptation then.
   >
-  > **@mferenburg** [👍1]：Yeeessssssssssssssssssssssssssss!!!!!!!!!!!!!!!!!!!!!!!
+  > **@OddModlin** [👍3]：Love the showmanship
   >
-  > **@AmandaJarrottWrites**：Thank you for updating us all! 😊
+  > **@floriando7374** [👍2]：The memes are neverending... It&#39;s glorious.
   >
-  > **@scott7695**：Man....really congratulations Brandon...I know this has been a long long journey....so great.... I. can. NOT. wait!!!
+  > **@salvador1683** [👍2]：Why is this shooting better than every fantasy adaptation film?
   >
-  > **@danjr080273**：So exciting!!! Thanks Brandon!!
+  > **@Felipe-nw3hx** [👍2]：That&#39;s an awesome overcoat, mr Sanderson!
   >
-  > **@doomzy8510**：thank u for everything brandon!
+  > **@justinkeck1776** [👍2]：I love how much fun you and your team are having Brandon, keep it up.
   >
-  > **@goldyswank**：Incredible! So excited Brandon!
+  > **@Evanator404** [👍2]：That Contemplative Brandon B-Roll... Classic.
   >
-  > **@crimsonraen**：We are all SO EXCITED! Oh my gosh, LOOOOOVE this news!
+  > **@mischief7066** [👍1]：There&#39;s always another secret<br>-Kelsier
   >
-  > **@indiblossom**：Congratulations Brandon! I am so excited 🎉
+  > **@Kinibal** [👍1]：The only thing that will surprise us all is the second part of the rythmatist :D
   >
-  > **@LuxDigitalChurch**：Cannot tell you how excited we are!
+  > **@ReaderReborn** [👍1]：You magnificent bastard.
   >
-  > **@yogaby.yasmin**：so excited to follow this journey!
+  > **@matthewkimobrewster4005** [👍1]：I love this man so much.
   >
-  > **@watchingthemess1650**：This is SO exciting! I love that you&#39;ll be largely involved.
+  > **@spencerrollins2804** [👍1]：Truly the only way to actually surprise us now would be to release a sequel to the rithmatist
   >
-  > **@woodlandlady7011**：Exciting news! Congratulations Brandon!
+  > **@eragon_argetlam** [👍1]：Dramatic dork XD<br><br>Keep it up!
   >
-  > **@ScienceBreather**：Doing updates like this is brilliant.  People stay connected through transparency.
+  > **@Kondase** [👍1]：You make me so happy, Mr. Sanderson, with everything you do.
   >
-  > **@SovereigntyLibrary**：Much deserved so happy for you!! Congrats!!
+  > **@joelman1989** [👍1]：He got me. How? I should have seen this coming but he still got me. It was so sincere! And that soft piano. He got me.
   >
-  > **@BGBarbarian**：I am a new Brandon Sanderson fan and I’m so glad he will have creative control. I can’t wait!
+  > **@jenniferlovett6040** [👍1]：I can&#39;t remember the last time I smiled for three minutes and thirty-four seconds straight. <br><br>My take: No need to try to top anything. I think possibly you do not realize what a gift you are to the book-loving world. You, all on your own. Just your brain. But we do. We realize and are just in awe of the fact that we are alive at the same time as you are and get to experience the brilliance of your writing as it unfolds. How often do you get to live and breathe at the same time as such great masters? Artists, composers, musicians, authors, etc., the truly gifted ones are sprinkled throughout time. <br><br>We&#39;re just thankful for the experience of you, Brandon. What a true joy you are. ❤️
   >
-  > **@gabikoyenov**：This gives me hope for a bright future! So exciting!
+  > **@Abell_lledA** [👍1]：Narrative of Self is the result of a feedback loop between “Separate Self” &amp; Cosmos🎈
   >
-  > **@Rumble1981**：Congratulations and thank you for all your great stories and the writing knowledge you share.
+  > **@TheINSANEGreek** [👍1]：wasn&#39;t expecting this...
   >
-  > **@MarianaSantos-vs3px**：THIS IS SO EXCITING!!!!!!! OMG I CAN&#39;T WAIT
+  > **@kindredsoul79** [👍1]：You cheeky bastard!  I love this so much.
   >
-  > **@mastrtonberry2**：Thank you, Mr. Sanderson!
+  > **@Tony-in7ti** [👍1]：I love this man
   >
-  > **@BigFrigginDyl**：Hell yes, I’m so excited!
+  > **@zenthepoet.** [👍1]：Adoooonalsiiiiium
   >
-  > **@Ipkis42**：You the best, thanks for being awesome.
+  > **@bradenhazle4378** [👍1]：Oh how I wish he kept walking into the water lmao
   >
-  > **@Princearmory**：Very welcome news, congrats Brandon!
+  > **@melanie6759** [👍1]：I was expecting something Mistborn related 😭 ..love the dramatic feel of this video though!
   >
-  > **@AAAReviews**：SO EXCITED FOR THIS!!! Congrats!!
+  > **@DarthEleven** [👍1]：Thank you for giving us something new and exciting to read every week this month
   >
-  > **@Newbie4Hire**：I am very glad you are keeping a lot of control.
+  > **@CJthedragon8** [👍1]：You absolute madlad
   >
-  > **@devonpscoombs**：So excited to see this come out! Thank you for all your art!
+  > **@vipadventure** [👍1]：Thank you for the 4K meme material.
   >
-  > **@alexr.3504**：Congratulations, and I absolutely CANNOT wait!!!!!
+  > **@CabooseRooster** [👍1]：A beautiful piece of cinematography
   >
-  > **@MemonTheLemon-76**：I am beyond excited for this Brandon, Congratulations, this is amazing!
+  > **@mstrikesback168** [👍1]：SETEC ASTRONOMY
   >
-  > **@fada1922421**：I’m excited for the to be made the right way by someone who respects the source material
+  > **@sorchahannah288** [👍1]：Yay!!!!!
   >
-  > **@kristasatra4678**：Fellow Lincoln NE fan here!! Congrats!!!!!!!!!!
+  > **@alejandrodominguezmunguia5254** [👍1]：ONE MORE MONTH OF THE KICKSTARTER PLEASE! I haven&#39;t been able to get it yet :(
   >
-  > **@criskonert**：Congratulations on this! I can&#39;t wait to see how the show and movies turn out. Nothing less than great, I expect!
+  > **@aimeepotts2137**：Oh man!  All that scenery us making me homesick!
   >
-  > **@raulalv33**：Por Dios Brandon de mi vida y de mi corazón, cuídate y vive mil años.
+  > **@JocieFire**：I love his timing and dramatic sense of humor.  The way he organized his days and time has even inspired me!  He brings light and laughter to our family with his stories 💖💯
   >
-  > **@TheAlieann**：I am so excited for this!!
+  > **@robertm.8653**：You are curing depressed and wandering souls without breaking a sweat.  <br>From the bottom of my heart, thank you!
   >
-  > **@MemberlyLane**：Im stoked!
+  > **@chugg159**：Never stop creating. Never stop imagining.
   >
-  > **@Silver_Seraph**：I love this so much! Amazing news, Brandon. And thank you for the updates. ❤
+  > **@Fushigibama**：Can we just appreciate these beautiful shots?! Wow!!
   >
-  > **@jacksonsost8375**：so excited for this, Brandon! hoping to hear more about who will be attached - as this would be my dream project to work on ❤️
+  > **@Smartielew**：I’ve watched this video so many times and shown to others and continuously been entertained lol. This needs to continue forever! I’m so looking forward to my year of Sanderson in 2023!
   >
-  > **@haslemdacarter2055**：Congratulations to you sir
+  > **@LiveAccessible**：Hahahaha. I knew he&#39;d never stop trying!! 🥰
   >
-  > **@RG2088**：I’ve always felt your standalones or short-series books Elantris, Warbreaker, Tress, Yumi are perfect for films. Mistborn as a 2-hour movie will be fascinating to see i thought that could be a series. I’m excited either way. Apple TV+ is a fantastic home for this. Huge win.
+  > **@theresamerrill1273**：BEST Month of Surprises EVER!!!! Thank you for so much fun and creativity!
   >
-  > **@Yuoaman**：Extremely excited for whatever comes next! Even if this does slow down the release of new books I think I speak for a lot of readers that we understand and have plenty of Sanderson books to read and re-read while you get all your ducks in a row for this new venture!
+  > **@malinaivey4189**：I have no words. Just sounds. AHHHHHHH. 🥳
   >
-  > **@SheerMotion**：I want to be involved! Hahah I’m so excited! Congratulations on the big grab with what sounds to be very good workable conditions. Can’t wait to see a proper adaptation of my favorite books
+  > **@trussell1531**：How can you not love this guy? There will never be another Sanderson.
   >
-  > **@아라조이언**：Congrats Brandon! Can’t wait.
+  > **@flyingtoastr**：He can&#39;t keep getting away with it!
   >
-  > **@ethanlowe1845**：You’re the best for wanting to be so involved with the shows and making a deal that lets you do that
+  > **@manwithbrisk3418**：Sort of unrelated but, I moved out of Utah a few years ago and I really miss those mountains. Thanks for the scenic view and here&#39;s to many more surprises.
   >
-  > **@GenshiDLD**：This is best thing I&#39;ve heard in a while.  So glad you are staying on and involved in the process.  Can&#39;t wait!!
+  > **@rikki-rose**：He&#39;s so extra and I am HERE for it
   >
-  > **@robbiedavies2171**：I love you Brandon! So so excited about this
+  > **@glaciergirlv2265**：Love how you filmed this with the epic scenery.
   >
-  > **@tessanelissen5741**：Thank you for the update and we are excited too!!! :D &lt;3
+  > **@saymyname2417**：Yes dude, you should <b>ABSOLUTELY</b> be thrilled 😊👍 !
   >
-  > **@marcosmenddes**：Great! 😃fantastic news!
+  > **@ahmedmohamedsalax7036**：I knew there was one more suprise but I did NOT expect that, literally shouted out loud
   >
-  > **@TheVioletWolf**：SO HAPPY FOR YOU AND YOUR CREW!!!🎉🎉🎉🎉🎉🎉🎉🎉
+  > **@thispaulrules**：Adam sure does love playing with his drone ;)
   >
-  > **@studbjorn**：Seriously cool stuff
+  > **@ucc3rd**：He can&#39;t keep getting away with this!
   >
-  > **@nonnicambo4787**：congratz cant wait to see it all :)
+  > **@porterwayman8643**：The greatest part, seeing Brandon walk around Utah Valley
   >
-  > **@josueamericanistarv**：Congratulations, I hope they turn out great. You&#39;re a huge inspiration.
+  > **@mendelmarozov888**：Looks like a movie scene
   >
-  > **@alucard952**：Thank you. A Dream comes true.
+  > **@Rickshow314**：Without words for this man
   >
-  > **@matthewpowers2735**：Keep that creative control!! Never give it up, you&#39;re the only one that truly sees the vision &amp; knows when its finished
+  > **@GardenGnome118118**：The production on this video is stellar
   >
-  > **@heidijo1106**：We are stoked!!!
+  > **@JonnyBurkholder**：I kept waiting for him to shoot into the air at the end like a coinshot as part of some Mistborn adaptation announcement
   >
-  > **@theliterarylegion**：I’m so happy for you!
+  > **@hippiefarmer420**：Way to keep the surprises coming
   >
-  > **@Boom-xm1zl**：So happy to hear this. Glad his going to do his best to bring it to life. No matter how it turns out, it’s going to be great to see.
+  > **@dominiksledziewski**：Haha, I knew he would say &quot;nah&quot;.
   >
-  > **@JourneyofOne971**：I have never considered Apple TV before.  This, alone, would make me a subscriber.
+  > **@lotroadventure**：I swear the retention on this video is amazing
   >
-  > **@VashtaNerada8**：Congratulations! I can’t imagine how hard it will be to write something you already know well and condense it down.
+  > **@allimhogan**：I was waiting for the turnaround.  I was not disappointed.
   >
-  > **@jontanner**：Congrats on keeping all of the creative control.
+  > **@chelseawalker5471**：This made me cry. Thanks for another great surprise
   >
-  > **@Fellowwritergirl**：I am so STOCKED!!! I only just got into These Books and its been such a wonderful Ride, of crushing My Heart into tiny pieces, putting it back together then smashing it again while keeping me on my toes. I can&#39;t wait I Hope This Pans out!!
+  > **@blainewheaton9679**：Yeah, there will always be another secret
   >
-  > **@katalystgaming**：You got this! 😁 This is going to be an excellent film, I have so much hope right now. Thanks for giving us all something epic to look forward to!
+  > **@worthdoingpoorly4155**：The drone shots!!
   >
-  > **@anna--emilia**：so excited!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  > **@khomu604**：You made a whole MOVIE
   >
-  > **@Sturms_Lu68**：Best news I’ve heard in a long time, let’s go Sanderson!
+  > **@dennycote6339**：You storming genius!!! I look be you!!!!
   >
-  > **@bowseroneup**：Very cool! Guess i’ll have to get apple now.
+  > **@MattBirch**：Such a long gap. That was awesome.
   >
-  > **@Achillsrage**：Cant wait to see the movies/shows. Love the books. I have been waiting for this for 10 years basically
+  > **@DarthenosC9**：YES. I waa already tempering my expectations, but this blew my socks off.
   >
-  > **@duffyscottc**：Congratulations!!! That&#39;s so huge for you!!
+  > **@theoriginalxldub**：&quot;Trick, twist or troll&quot;<br><br>Bars.
   >
-  > **@craigslist6943**：Brandon I just want to say, mistborn was the first of your books I read and it had a profound impact on me. Thank you for being so serious about adapting your stories to the screen in the best way possible. Your stories mean a lot to a lot of people including myself, and we can’t thank you enough for the lessons you’ve taught us in your books. Can’t wait to see the movies and shows
+  > **@gerardp4759**：Nice drone shots! Money well spent.
   >
-  > **@Balrageous**：What an accomplishment Mr. Sanderson, you are truly the GOAT when it comes to writing.  Big fan of the cosmere and I was so excited to see it on apple TV.
+  > **@hallaloth3112**：So on point, and no prankster can ever truly stop.
   >
-  > **@dumbo2940**：excited beyond life
+  > **@thebookwyrmsclaws**：Love the drone shots. So epic.
   >
-  > **@Ayjay-wr6om**：Outstanding news Brandon. I was just telling my wife how much I wished for a Mistborn movie. Now I gotta get through Stormlight before it comes to screen. (about 60% through WoR). Loving it. You’re killing it.
+  > **@John-lo2wn**：Quickly becoming my favorite YouTube channel
   >
-  > **@ramspencer5492**：This was a pretty awesome story to read. With the essential condition that you (Brandon) is able to retain creative control... freakin&#39; Awesome news! 😎🎸
+  > **@Elijutsu**：We&#39;ve stood and contemplated in the same place my friend!
   >
-  > **@leggo0**：This is literally the most exciting news I have had in so long. Beyond excited for these!!
+  > **@IlsaTheArtist**：I&#39;m only mad that I didn&#39;t see this earlier so I could read this over my lunch break.
   >
-  > **@shinekire**：Can&#39;t wait!
+  > **@jackwolfstang**：Recently became a fan of Brandon’s work, wish I did a long time ago.
   >
-  > **@juanpablomendez1501**：My goooood. I love you Brandon. A new reason to live a little bit longer.
+  > **@eagleveteran**：Whoa! great job TEAMSANDERSON!
   >
-  > **@juanmarodriguez6010**：Okay now you are getting my hopes up
+  > **@ebenhopwil1886**：You never cease to amaze me, sir.
   >
-  > **@bookum**：Very cool! Congratulations to you on this
+  > **@tristenvaughan3892**：alright but this ambient sound design 👌🏻👌🏻👌🏻
   >
-  > **@DylanPinkerton**：You are such an awesome person and writer....and I have not even read one of your books yet.
+  > **@katecritt**：&quot;There&#39;s always another secret&quot; - Kelsier
   >
-  > **@allimhogan**：I am SO HAPPY!!!!!!🎉🎉🎉🎉
+  > **@avsambart**：Those locations were beautiful
   >
-  > **@LostarkDegen**：Excited is an understatement.
+  > **@littleripper312**：Wow, where is that cool walkway with the lamp and mountains? That is amazing!
   >
-  > **@allanw9206**：Woo hoo!! Congratulations, I&#39;m super happy for you. Can&#39;t wait to see it when it&#39;s finally ready, don&#39;t spread yourself too thin!
+  > **@cosmerejunkie7931**：This is my favorite thing ever! Thank you!
   >
-  > **@hypersapien**：Good luck Brandon, I look forward to it.
+  > **@babasolaosikoya5947**：A FREAKING PROLOGUE. I&#39;M FREAKING OUT RIGHT NOW
   >
-  > **@1SHAD0WAURA**：CONGRATS!
+  > **@somerandomguy1003**：I was half expecting him to say surprise the books will begin shipping next week!
   >
-  > **@mattsilliman1237**：Such amazing news….you have never let us down with your work, I doubt you will with this.
+  > **@chickenfarmer321**：&quot;*preserve* the surprise&quot; Knowing Brando that might be a hint.
   >
-  > **@V0L4T1L3**：Wonderful work Brandon, I remember having a lovely chat with you about a decade ago about what parts of the cosmere would be best as features vs long form tv series. I always said if I could land any IP thats the one I would want to adapt.
+  > **@TonyRobetson**：lol!! glad you had as much as we did with this. you are setting the bar pretty high for the future :D
   >
-  > **@Claandestinka**：You are so inspirational. I write this from bed at 11am on a work day realising I may have some executive dysfunction issues. You sir have all the executive function of worlds combined and I&#39;m here for it.
+  > **@Link-tf7ft**：I am going nuts!!! this mans is craaaaazy!!!
   >
-  > **@remixisthis**：Amazing news. Glad he had a chance to work on WoT to not fall into pitfalls
+  > **@falakparmar4491**：Simple yet effective. Love u Sanderson
   >
-  > **@fcamposaline**：ITS GOING TO BE SO EPIC!!!!!!!!! ❤🎉
+  > **@mcronalds11**：I absolutely love this man.
   >
-  > **@adamarcher7847**：congrats!
+  > **@erikmedina6966**：Sometimes you can be a big ham Brandon, never change, great job.
   >
-  > **@AnOkayGuardian**：Yeah, this is beyond exciting and I hope everything goes as planned. This has to happen! Thanks!
+  > **@claycrowe4032**：Oh my goodness!  This is why Brandon is so awesome!
   >
-  > **@kieranharvey365**：I literally finished the Mistborn trilogy last week for the first time! First books of Brandon’s I’ve ever read (got back into reading last year) and I absolutely loved every second. Starting SA today looking forward to it!!!
+  > **@Axel-tk3tk**：Oh my god this man!!!<br>Wow!!
   >
-  > **@tjumagulova**：Omg, Stormlight series!!!! It is the first time ever I am looking forward to tv series!
+  > **@jeremy6604**：Well...that was AWESOME
   >
-  > **@GoodCube32012**：Stoked!!!
+  > **@cambriakilgannon12**：That&#39;s a sweet duster bro
   >
-  > **@Brohan97**：Im so friggin excited
+  > **@hillary6563**：You&#39;re such a showman!😂
   >
-  > **@kinghim3**：Congratulations! Im happy to hear you feel good about it!
+  > **@CmanXP**：This man is a gift to humankind
   >
-  > **@DJSOTO07**：I can&#39;t wait to see your shows
+  > **@panad0r**：So glad I stumbled on Mistborn a few years back and the wonder that is Brandon Sanderson. The books are amazing but so is the author, I just love how open he is with fans, how much he communicates, how much he enjoys messing with and surprising fans, interacting with fans etc. opposed to most other authors, who maybe do a signing or an interview here and there but barely put themselves out there. And he&#39;s doing all that WHILE also being extremely productive, pushing out one book after another and writing secret books on the side, opposed to some authors who just leave their fans high and dry.
   >
-  > **@Luke-f6e1h**：Congratulations on keeping your creative control. I can&#39;t wait to see what you and your new team create!!!
+  > **@generellis3**：Someone is living their best life 😂😂 good for you, my man.
   >
-  > **@TheCasualGamer06**：What an amazing time for this news, i just started my cosmere journey with mistborn era 1 and i am just starting hero of ages, cant wait to see the cast of mistborn.
+  > **@mysterri1963**：Nah, that&#39;s stupid 😂😂😂😂😂.  So much love, Brandon
   >
-  > **@saimonredfox7484**：Eu estou muito ansioso pelo projeto 🎉❤
+  > **@AzFurqan05**：<a href="https://www.youtube.com/watch?v=_FoUcDD7t8g&amp;t=98">1:38</a> kind of reminds me of Dalinar Kholin looking over The Shattered Plains :)
   >
-  > **@dianai.medranod8499**：I love that you went with Apple TV! their shows are great♥
+  > **@THBEnterAktion**：What a book industry rock star!
   >
-  > **@paulagrimes7000**：This is exciting news! I certainly hope everything goes well with you and your partnership with Apple. Anxious to hear more news.
+  > **@samuelzanin7059**：I was waiting for a TV show or Movie adaptation announcement but this is good too haha
   >
-  > **@Kypatos**：Good luck!
+  > **@l.loganboswell1761**：Never give up!
   >
-  > **@k--music**：I just hope they’ll allow physical releases this time
+  > **@lucasparry6834**：Cannot love this man enough
   >
-  > **@BoltageBros**：I made a video about my excitement for this and went through some pictures I have with you. Super excited Brandon!
+  > **@crushgoil**：I absolutely adore the aesthetics and vibe of this video. It has me wanting Mistborn as a LOTR cinematic movie trilogy.
   >
-  > **@CJ2-289**：Enjoy your process getting it to what you can turn in.
+  > **@eloconaf3589**：Omg I&#39;m legit tearing up
   >
-  > **@BeukieGaming**：As a Mistborn fan and someone who works in set design for film and TV, I am beyond excited for this. Really hoping I can work on these somehow!! Can’t wait.
+  > **@chloestarshine**：I laughed out loud at that one. Amazing
   >
-  > **@aaronaviles7908**：This man makes me so happy :3
+  > **@ambethk77**：Why did this make me cry? Lol
   >
-  > **@AlexSchmalex98**：What a perfect timing to be reading Mistborn!
+  > **@ageeknamedanuk236**：I&#39;m here for the drama!!🤣🤣 Love it!!
   >
-  > **@madibystry2146**：Congratulations!!
+  > **@da5idt**：You are a monster. We love you.
   >
-  > **@BeRuthlessToSystems**：This is really cool to hear after having started Mistborn just a week ago.
+  > **@bird3713**：I think I could see my house in one of those last shots
   >
-  > **@isn0t42**：I&#39;m genuinely excited for this, too. Good luck.
+  > **@tofonofo4606**：HAHAHAHAHAHAHA! CALLED IT! Much Luv Brando!
   >
-  > **@Acamas1**：You are doing this right Brandon. We as your readers, are very fortunate to have a champion like you!
+  > **@nickmarshall3450**：You are rapidly migrating from my favorite author to  one of my favorite people.
   >
-  > **@WeBlanchin**：WOOOO YEAH, THAT&#39;S WHAT I&#39;VE BEEN WAITING FOR
+  > **@brandonaxTGC**：The most epic of epics.
   >
-  > **@CabbageLover1**：Congrats brandon sanderson! Im so excited to see the characters in live action!
+  > **@rudykraft5526**：I was genuinely surprised that you made the effort and took the time to go to the location to film that video.
   >
-  > **@SerenityChamber**：This is VERY EXCITING. CONGRATULATIONS BRANDON!
+  > **@mackenzieparsons9488**：The dramaaaaaaaa<br><br>…I love it. 🤣
   >
-  > **@vadimbazhenov6550**：Fantastic news!
+  > **@jackgrimble9418**：I am so glad to be able to live in the same time as you. You are a genius. Thank you.
   >
-  > **@andreikiriakov7080**：Thank you so much Brandon for everything that you are doing for your community and for the people. You are really one of the few writers on this planet that gives so much time and energy and will into your projects and you truly do it because you are passionate which is felt in your books. All of your works are marvellous and you make a lot of kids and adults escape reality and dream thanks to your books and your storytelling. Continue doing what you are doing and don’t forget to take care of yourself and your mental health because you are an amazing human being and the most important thing in the world is your health. Thank you for everything Mr Sanderson you truly are marvelous ❤
+  > **@BreeShareeReads**：He&#39;s playing with our emotions and im here for it......
   >
-  > **@bensasser4468**：So excited!
+  > **@dominictemple**：Your jacket fluttering in the wind makes this video perfect. Well done and bravo Brando Sando.
   >
-  > **@penkaur**：Congratulations Brandon, I know this is a huge milestone for you! ❤️❤️❤️❤️ I can&#39;t wait 🎉
+  > **@willphoenix5464**：I was expecting not to expect something but WHAT
   >
-  > **@gzzuss**：Yes! Finally🎉🎉🎉
+  > **@crimsonraen**：Hahahahaha Brandon, you are heckin&#39; AMAZING! This was so hilarious; I love it!
   >
-  > **@tvduaki**：so excited yayyyy
+  > **@Sailortwilight**：Bravo!
   >
-  > **@SHNEURcitron**：This will be very hard to get right, but if it is, then the ought to get excited
+  > **@natenasty111**：Wow, Utah is beautiful
   >
-  > **@Madfattdeeb**：This is amazing news! <br>Thanks for keeping us updated, Brandon. I’ve been ready to defend Roshar from the Voidbringers for years, so just let me know when I should show up to audition for Dabbid in Stormlight Archive. Similar build, same heroic enthusiasm, and I promise not to accidentally summon a Shardblade in your office. 😄
+  > **@Lunasparc**：Love you Brandon! 💜
   >
-  > **@thedeertraveler**：Thanks god it will impact your writing schedule so that we can finally catch up!
+  > **@KaladinPaladin**：Best. Surprise. Ever.
   >
-  > **@jduprey**：Omg omg omg !!! Can’t wait!
+  > **@lucastornos7219**：He reminded me Professor, what a outfit man. 10/10
   >
-  > **@Mastermindguy1994**：Congrats brandon!
+  > **@trevorwilliams5144**：There is always another secret
   >
-  > **@alexander.constantine**：SO HYPE FOR THIS
+  > **@daniela.domingues**：Thank you!
   >
-  > **@PhantasusRex**：Mr Sandersons time Management and communication with us fans almost drives me to tears. From the bottom of my heart thank you so much! 🥹
+  > **@adelamuresan9204**：congratulations is amaizing
   >
-  > **@willstokes123**：I&#39;m very excited for this!
+  > **@L1ghtweaver**：&quot;There is always another secret.&quot; - Kelsier
   >
-  > **@grizwoldmayor6671**：Congratulations!
+  > **@mEtil5656**：There is always another secret
   >
 
 ---
 
-## 4. Sanderson Changed Publishing Today
+## 5. First Look at Secret Project #1 from Brandon Sanderson (Spoilers)
+
+- **频道：** Brandon Sanderson
+- **观看数：** 243,834
+- **点赞数：** 9,938
+- **评论数：** 950
+- **时长：** 44:22
+- **发布日期：** 2022-03-03T15:05:46Z
+- **链接：** https://www.youtube.com/watch?v=bBUVXcIE0E0
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/bBUVXcIE0E0/hqdefault.jpg
+- **简介：**
+
+  > Here, Brandon reveals the title and reads the first part of Secret Project #1.
+  > 
+  > If you’d like to learn more about our Kickstarter, please visit: https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson?ref=1echpb
+  > 
+  > You can read it here: https://www.brandonsanderson.com/first-look-at-secret-project-1/
+  > 
+  > 00:00 — Introduction
+  > 01:07 — Chapter One - The Girl
+  > 07:11 — Chapter Two - The Groundskeeper
+  > 19:51 — Chapter Three - The Duke
+  > 23:58 — Chapter Four - The Son
+  > 34:29 — Chapter Five - The Bride
+  > 43:00 — Closing
+
+- **热门评论（200 条）：**
+
+  > **@merphynapier42** [👍1973]：I’m SO HYPED for this book
+  >
+  > **@Ruminations09** [👍1266]：&quot;He had a jaw so straight it made other men question if they were&quot; is one of the best lines Brandon&#39;s written.
+  >
+  > **@ninnusridhar** [👍1016]：Brandon pulling out his inner pratchet with this one.<br>&quot;They were so good at being unique, they often did it together&quot;<br>&quot;There was a tree once, but it did the sensible thing and died 3 years back&quot;<br>&quot;A jaw so straight, it made other men question if they were&quot;<br>These dearest Sanderson are gems. Gems I say
+  >
+  > **@TheSilverOrn** [👍631]：&quot;The book I wrote in 2020 when I realized I had a little time and was feeling the itch to tell a story&quot; is probably the closest real world equivalent to &quot;AND THEY CALLED IT A MINE!&quot; from lord of the rings when they talk about Moria.
+  >
+  > **@katrinaxharhus3747** [👍589]：I&#39;m 90% sure the girl is named Tress just because anyone who calls her miss will have to call her Miss Tress. I love it.
+  >
+  > **@kushalrijal9453** [👍495]：Today I wrote over 1500 words after watching Sanderson&#39;s last video. What I have learned from him is that writing a book should be fun. It is the editing part that should be pain in the butt.
+  >
+  > **@25Dzone** [👍492]：This is honestly one of the most inspiring reveals for us amateur writers out there - whether it&#39;s a passion project or a project with goals in mind, seeing you churn out so many books yearly is SERIOUSLY impressive and the fact that their quality is so consistent is honestly disturbing but brilliant. Making me want to write more!
+  >
+  > **@crispy0103** [👍461]：Listening to this, some of the meta humour reminds me of Pratchett. The lines of &quot;The Tree did the sensible thing, and died.&quot; and &quot;The other girls were so good at being unique, they could do it all together.&quot;<br>I for one welcome this light hearted feel to the book and look forward to reading it.
+  >
+  > **@gabistiene8593** [👍310]：Yes, that&#39;s exactly the slightly &#39;mocking&#39; Hoid style of narration that I love so much. I&#39;m happy that we&#39;ll get a whole book of that!
+  >
+  > **@Shod_inSilence** [👍250]：So let me get this straight. It&#39;s a story about a girl who is resourceful, determined, and pretty but not prideful, and a storyteller boy whom she loves despite him inexplicably also being dullard. I suspect we all just got a small window on Brandon&#39;s view of his own marriage, and if correct, it&#39;s stinkin&#39; adorable.
+  >
+  > **@briwidmerart** [👍209]：Oh this was such a joy to listen to. Loving the satirical prose from a certain masterful storyteller. I still haven&#39;t recovered from &quot;he was six and a half feet tall and had a jaw so straight it made other men question if they were.&quot; Congrats on the massively successful Kickstarter - I look forward to the Year of Sanderson!
+  >
+  > **@zackarygoodenough5781** [👍182]：I’m not gonna watch due to spoilers but I’m glad to have backed this on Kickstarter!
+  >
+  > **@sixtofive** [👍166]：You&#39;re changing an entire industry this week, congrats!
+  >
+  > **@elessarbre** [👍153]：It seems like Brandon was having a blast writing this. I&#39;m definitely intrigued. The setup kind of reminds me of Kaladin and Laurel&#39;s storyline in Stormlight.
+  >
+  > **@DasDokta** [👍124]：As a long time reader I have to say that I found these first chapters simply beautiful. As someone else already mentioned, I get huge Pratchett vibes from the writing style, especially wee free men, although that may be because of the protagonist/plot. And this is meant as a huge compliment. Thank you, I am looking forward to the finished version!
+  >
+  > **@brandonmack111** [👍84]：I was considering trying to wait and find out about these as they became available, but as soon as I saw this video go up, I couldn&#39;t help but watch..<br><br>Awesome story so far, I can&#39;t wait to see what happens! Now January can&#39;t come fast enough..
+  >
+  > **@MeMySkirtandI** [👍81]：When I read the email, I totally read Trees of the Emerald Sea. This is why I love audio books!<br>Edit: Of course it&#39;s not actually water! Sanderson&#39;s books are generally quite dry.
+  >
+  > **@animeproblem1070** [👍74]：Hoid is having one of those days when his audience isn’t rosharins and he doesn’t have to constantly explain that not everything is a disgusting tentacled crab monster of some kind
+  >
+  > **@apebblemaster4570** [👍74]：Oh wow Brandon Sanderson CAN write pretty!  That has been my only personal criticism regarding his books!  (I grew up on Redwall, so pretty writing holds a very special place in my heart.)  THIS MAKES ME SO  HAPPY!
+  >
+  > **@evelynbasham1673** [👍72]：This story is from the world of Adolin&#39;s ancestry on his mother&#39;s side. Adolin&#39;s golden locks came from this world. So cool.
+  >
+  > **@michael.depaulo** [👍60]：So pumped about this. The man is a beast!
+  >
+  > **@jobobminer8843** [👍59]：I love the parts where Hoid leaves the fairy-tale speech to use a hyper-specific scientific word to describe something.
+  >
+  > **@jessicaparkerillustration** [👍54]：I&#39;m so excited for this book! It feels like a fairy tale and I love the style of the narration :)
+  >
+  > **@beLIEver31415** [👍54]：So happy for you!  It&#39;s a great time to be a massive SanderFan and my mind is so blown about this whole thing!  I was already blown away by the plans in the State of Sanderson for the next few years and the thought of 4 more full length novels on top of all that you were already doing is just so incredible!  I instantly baked the kickstarter but I keep refreshing the page in hope that y&#39;all break the kickstarter record :D
+  >
+  > **@MrKennyUwU** [👍50]：&quot;The book I wrote in 2020 when I realized I had a little time and was feeling the itch to tell a story&quot; said by Brando is like NileRed&#39;s &quot;It made a little explosion, so I did it 27 more times&quot;
+  >
+  > **@raphaelho3551** [👍48]：I really enjoyed moments of 2nd person perspective like how the narrator tells us that script went vertical instead of horizontal. Makes me think who our narrator is telling this story to
+  >
+  > **@sntxrrr** [👍47]：For the audio book this sounds like an ideal story to be narrated by Stephen Fry!
+  >
+  > **@smokeyalpaca1910** [👍46]：Hearing Brandon stutter while reading aloud has removed self-esteem issues I wasn&#39;t even aware I had. Love everything about you dude, keep on being awesome
+  >
+  > **@zzzMrgamerzzz** [👍44]：The epilogue of this book is gonna be hoid telling this story to a cremling. Calling it now
+  >
+  > **@SeptiTheMadSage** [👍43]：The reveal at <a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=1940">32:20</a> broke my brain as it explained the strangeness of the cadence in the storytelling.<br><br>It took me about 5 minutes to recover as I just reveled in the brilliance of what you are doing with the choice of the narrator.<br><br>So excited for 2023!
+  >
+  > **@alirizvi5663** [👍42]：Similar to the Kingmaker chapter Brandon put out, this sounds like a story that Hoid&#39;s telling us.<br><br>Edit: yeah got to the part where it&#39;s confirmed that Hoid&#39;s the narrator
+  >
+  > **@eduardaarrais** [👍41]：No, Brandon, you didn&#39;t feel an itch. You had an entire ant colony fall into your pants and in the efforts to kick them out, you created five ant utopias with their own government and health care.<br><br>Good job, Brandon. You&#39;re making it real hard for all amateur writers out there. We shall all aspire to your talent, and die with envy in our veins for no matter how hard we try you truly are something else and I doubt any of us will ever reach your heels.
+  >
+  > **@ReadEatGameRepeat** [👍39]：1) this sounds amazing I already love this story a hecking ton and I&#39;ve only listened to the first chapter <br>2) I wish I could back the kickstarter so I could read these on release - but it won&#39;t let me back cuz of card issues apparently T_T
+  >
+  > **@Shinesprk** [👍39]：Oh no, Brandon&#39;s bringing back the &quot;is water wet?&quot; Debate 🤣🤣
+  >
+  > **@coolstorybro1403** [👍34]：&quot;Had a Jaw so straight it made other men question if they were&quot; <br><br><br>This had me rolling!
+  >
+  > **@LXReads** [👍31]：&quot;[he had] a jaw so straight, it made other men question if they were&quot; made me laugh out loud
+  >
+  > **@aprilb2999** [👍29]：&quot;They say that to wait is the most excruciating of life&#39;s torments&quot; the irony of this statement knowing we will have to wait months to finish this story.
+  >
+  > **@LordOfAllusion** [👍27]：So, almost 20 million? I think you’re about to break out of that “small publisher” box
+  >
+  > **@SupremeDP** [👍27]：<a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=1938">32:18</a> This is GREAT. In fact the whole thing is great. Can&#39;t wait to get the book in paperback in 2 years :&#39;U
+  >
+  > **@bryantbodnar** [👍27]：Ahhh, what a wonderful birthday present. I completely forgot he was releasing info about this book today.<br>Also, this is the second time he has made silver a way to ward something off in his books. Anyone read Shadows for Silence in the Forests of Hell?
+  >
+  > **@eliashigham8901** [👍25]：I like how the second chapter begins with the narrator RAFOing us, very appropriate
+  >
+  > **@jonbrouwer4300** [👍24]：I really like this narrator / point of view. It&#39;s a fresh change from how &quot;scene-focused&quot; Brandon&#39;s narration tends to be. Glad he was able to have fun and try something new, and doubly glad we&#39;ll all get to read it!
+  >
+  > **@RumoHasIt** [👍24]：I am living for this blend of satirical prose and ya romance. Backed!!
+  >
+  > **@jonmccain9354** [👍22]：LOVE LOVE LOVE THIS.<br><br>Question : What tablet are you reading this from? It looks awesome for reading digital books.
+  >
+  > **@sadee4175** [👍20]：Hoid&#39;s stories are some of my favorite parts... like the dog and the dragon. So something like this is just perfect. It brought such a smile to my face I cant wait to hear/read more
+  >
+  > **@Richardiii2** [👍18]：I really like the narrative voice in this one. It reminds me of C. S. Lewis<br><br><br><br><br><br><br><br><br>Ah Hoid as narrator, I understand now.
+  >
+  > **@lyndonhott4458** [👍18]：Really funny. Already invested in the characters. Very excited about the Iriali connection and this really funky world in general.
+  >
+  > **@LucasCarter2** [👍16]：It’s such a weird phenomenon having an author so prolific and well regarded have such a significant online presence. We truly live in a golden age, one where we can see the author we read and even interact with.
+  >
+  > **@channelnamepending8329** [👍16]：It reminds me of the princess bride,  or one of Hoids storys that he tells to Kaladen.
+  >
+  > **@shamancarmichael5305** [👍15]：Go get him, Tress! Look forward to the rest. Also, I hope you tell us all those uses for plywood, that would be useful! 👍😉
+  >
+  > **@retrojustice9319** [👍13]：The prose feels alot like Lewis&#39; Narnia! Love it
+  >
+  > **@nyarparablepsis4548** [👍13]：Two very important things: <br>(1) it is supersweet and amazing of you to write a book for your wife!<br>(2) I admire your worlds so much... it is wonderful how you create worlds that are not the typical &#39;medieval Europe with magic&#39; fare. You, Sir, have an amazing brain.
+  >
+  > **@vol94** [👍12]：Even though I adore fantasy, I would really like one of the five books to be a mystery detective noir set on earth
+  >
+  > **@r.charlie** [👍11]：This feels like a story that could have been told by Hoid, and I love it.<br><br>...<br>Edit: I should have finished listening. This is so awesome.
+  >
+  > **@spencerpratt7453** [👍11]：YES! I KNEW IT WAS HIM TELLING THE STORY! You gotta have Michael Kramer narrate this book doing his Wit voice from Stormlight Archive!
+  >
+  > **@doity** [👍11]：I was hooked from the first paragraph! Had a smile the entire time.
+  >
+  > **@W-A-R-HAWK** [👍11]：Are you even human jk glad you got the down time you needed. I personally know the feeling of burnout you spoke of how draining it can be to your well-being, productivity and sense of self. Really enjoy your book&#39;s keep doing what you do . Also it&#39;s glaringly obvious you love your fandom so from a fan of your work it&#39;s very much appreciated
+  >
+  > **@Kevin2341** [👍10]：Brandon should add a tier to the Kickstarter to have the audiobooks be read by just him.
+  >
+  > **@amusedcookie** [👍9]：I been excited since the announcement and still am after this. Side note, My brother was in the room with me when I started this video and he got intrigued. I think Sanderson will be having another fan soon. 🤣
+  >
+  > **@passmethatbook** [👍9]：Am I really the first here? Neat. Hey Brandon. Glad to see you again. 😊
+  >
+  > **@cameronduetsch5491** [👍9]：So stoked!! I’ll be among the community going in blind with my own local book club, so I appreciate the spoiler warning haha. Can’t wait until 2023!!!
+  >
+  > **@hmmmooops** [👍9]：Men on Roshar can&#39;t read so Hoid just straight up tells them entire novels as stories out of sheer spite.
+  >
+  > **@Elykmai** [👍9]：Im so glad that I backed this project. I cant wait to read these books. Thank you Brandon! This is going to be amazing.
+  >
+  > **@whorhaydelfuego7190** [👍8]：The &quot;jaw so straight&quot; line killed me!
+  >
+  > **@mendelmarozov888** [👍8]：Congratulations on being the most funded Kickstarter at over $20 million.
+  >
+  > **@sininenblue9161** [👍8]：Probably the first teen romance story that I&#39;ve actually gotten hooked on
+  >
+  > **@Thomas_Guida** [👍7]：Storytime with Brandon? Count me in. So excited for these books!!! I couldn&#39;t wait a year and keep the books a secret.
+  >
+  > **@CarlosRuiz-el2bm** [👍7]：Thank you, Brandon, you just uploaded my new comfort video. Can&#39;t wait for the other books I loved this.
+  >
+  > **@jkdbuck76** [👍7]：Brandon, I can&#39;t wait.  Also, what you wrote has a lot of wit and a little bit of Wit.
+  >
+  > **@RobbieLee90** [👍7]：Sanderson is the true Gleeman
+  >
+  > **@grayajahsitter2853** [👍7]：BrandoSando you are making my day! This has been wonderful!
+  >
+  > **@jackhathaway9918** [👍7]：“Brandon can just not write romance” <br>Brandon: so here is an open love letter to my wife in the form of a romantic fairytale
+  >
+  > **@Olssonricky** [👍7]：finished mistborn book 1 audiobook the other day, the first 5 chapter was boring for me but damm the rest was so good, enjoyed it lots, and will start way of kings soon, exited for it
+  >
+  > **@Nodonn** [👍6]：Moons dropping spores gives me strong Dragon Riders of Pern vibes.
+  >
+  > **@Jasminemass9403** [👍6]：Brandon casually name dropping the Iriali in that place that is obviously not Roshar…. I need DISCUSSION OF THIS NOW
+  >
+  > **@marekneugebauer5021** [👍6]：A gardener wearing sword to be armed when ambushed got me laughing hard. I&#39;m not sure what to make of it.
+  >
+  > **@TheInfoYouNeed** [👍6]：You fools, he&#39;ll turn that money into gold and live forever
+  >
+  > **@sajsays4710** [👍6]：Tress is the new Lúthien! She’s gonna go save her man! I love it! I’m looking forward to reading the rest of the story.
+  >
+  > **@TheCloser424** [👍6]：Love it! Thank you for sharing this with us. You and your team are doing incredible things for the industry. ❤️
+  >
+  > **@ArezooKashefi** [👍6]：I already love this story. The couple is so cute!
+  >
+  > **@NorrinIsSoRadd** [👍5]：Wowww im captivated by tress in 2 chapters dammmm brandonn
+  >
+  > **@jamesmurray3021** [👍5]：I love the sass of this narrator
+  >
+  > **@Ciaracanth** [👍5]：This has a sort of Douglas Adams tone to it and I&#39;m here for it. Very nice!
+  >
+  > **@vexalantron1663** [👍5]：why do i feel like i&#39;m sitting around a fire with my pilgrim friends on our way to Cantebury, and this is one of the contenders in our storytelling competition? maaaan, if more authors would just sit down and read/cite their tales and talk about them,  bonds between creators and readers would blow passed the stratosphere.
+  >
+  > **@unwantedmacguffin5611** [👍5]：Think it would be cool if Micheal Kramer did the auidobook naration in Hoid&#39;s voice.
+  >
+  > **@lemonaden3461** [👍5]：a story narrated by Hoid 🥰<br>Also “Loquacious Love” Thats adorable.
+  >
+  > **@jaredscottabramson7463** [👍5]：I feel like Brandon Sanderson has made me more hyped in the last few days than I have ever felt before.
+  >
+  > **@icarussarts** [👍5]：Everybody: s t r a i g h t jaw go brrrr<br>Me: okay I&#39;d like Hoid to narrate my life story when I die because he&#39;ll make it sound interesting
+  >
+  > **@Thisone109** [👍5]：This has a..... Terry pratchett feel 😆😂
+  >
+  > **@berylliosis5250** [👍5]：Hoid narrating<br>Iriali mentioned<br>Verdant and Midnight seas (Aethers)<br>Heck yeah!!
+  >
+  > **@CyndaGallagher** [👍5]：Brandon has set the bar so high. If he don&#39;t write you a fantastic novel just for you, does he really love you?
+  >
+  > **@madibystry2146** [👍4]：“It might be said that he had a way with words, and that his words often got away.” <br>SO GOOD
+  >
+  > **@sillyandwhimsical** [👍4]：The entire time I was thinking that the method of storytelling was familiar... &quot;Yes that&#39;s me. What tipped you off, the name?&quot;
+  >
+  > **@rasaecnai** [👍4]：I just love the fact that Brandon enjoyed writing these.
+  >
+  > **@Edward-W** [👍4]：How to make me cry in about three and a half chapters. &quot;You&#39;re like a pair of gloves&quot; &quot;You&#39;re my gloves too&quot;
+  >
+  > **@Justin.Danford** [👍4]：Oh! A 3rd omniscient, strong narratorial voice! Heck yeah!
+  >
+  > **@user-dx8ny5io2l** [👍4]：Imagine seeing Hoid as a Cabin Boy xD
+  >
+  > **@lilwinchester1417** [👍4]：I get &quot;The Princess Bride&quot; vibes from this<br>I love the voice he uses to tell the story, wise and mocking<br>I imagine Hoid telling me this story
+  >
+  > **@simonorourke4465** [👍4]：I love this so much, Brandon really is a treasure.  I wish I could afford  to back this project but I&#39;ll happily wait for them to be available to buy.
+  >
+  > **@gavinbrandgavin581** [👍4]：This has very Howl’s Moving Castle vibes, which I enjoy.
+  >
+  > **@daniellmarsden1797** [👍4]：A world where pollen is trying to kill you? I thought this was supposed to be fiction.  :P <br>I need another Claritin.
+  >
+  > **@ReadingDave** [👍3]：Ha ha ha! &quot;Your hands are warm.&quot; That was a nice moment.
+  >
+  > **@ergodemon** [👍3]：The food in my mouth turned to moon pollen the moment you described collecting and naming toenails
+  >
+  > **@CupCakeUnleashed** [👍3]：&quot;Had a jaw so straight it made men question if they were.&quot;<br>That had my sides in space.
+  >
+  > **@jmike.** [👍3]：I&#39;ve had to pause this video multiple times because I simply cannot deal!!!!!!
+  >
+  > **@darkmentoses** [👍3]：My favourite line out of it all. <a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=2210">36:50</a> . Love his jawline
+  >
+  > **@Florkl** [👍3]：This gives me Warbreaker Romance vibes and I am extremely happy.
+  >
+  > **@jyotitripathi559** [👍3]：This was so beautiful! Hearing this made me glad I backed a tier that includes the audiobooks. I&#39;ll definitely be listening to this one. Super excited to see who you guys end up choosing as the narrator.
+  >
+  > **@goldielocks9092** [👍3]：I love this!😭
+  >
+  > **@rileysmith9400** [👍3]：Holy cow that was amazing, and i need this book in my life ASAP!!
+  >
+  > **@mandys1379** [👍3]：I’m so excited for these books! I wish international shipping wasn’t so expensive, but I understand why it is. I’m going to wait the books to be released at a later date to get them. But I will buy the audiobook/ebook through the Kickstarter!!
+  >
+  > **@crayade2417** [👍3]：What a wonderful tale! I bet this &quot;secret projects&quot; are going to be great books.
+  >
+  > **@robertm.8653** [👍3]：It looks great already!
+  >
+  > **@NBTKDA** [👍3]：Branboozling is the best kind of bamboozling
+  >
+  > **@PalbornozN** [👍3]：We need a spanish version of the book on kickstarter pls
+  >
+  > **@The_Lixtar** [👍3]：found him <a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=1935">32:15</a> <b>insert leo di caprio pointing meme</b>
+  >
+  > **@brennanhewitt7609** [👍3]：I released my breath I screamed so hard when I found out this man wrote 5 books in two years
+  >
+  > **@MrMendi100** [👍3]：Is the name Glorf a reference to Glorfindel from Lord of the Rings?
+  >
+  > **@aliciarenda9281** [👍3]：It&#39;s giving me serious Princess Bride vibes😍
+  >
+  > **@kirtiomart** [👍3]：Love it! <br>Hey Brandon, has anyone told you you could make a living as a writer? 🤔
+  >
+  > **@JackMine007** [👍3]：As an impatient person, I can say that listening to this was a terrible idea. At least I know my when my cup will arrive...
+  >
+  > **@atharvadeshpande4749** [👍3]：Brandon is such a meme boss I would not be surprised if he just leaves the Title as Secret Project #1. 😂 And make a story around a Secret Project.
+  >
+  > **@claudiafernandes1150** [👍3]：Ok so I have never read anything by Sanderson, I recently bought Mistborn but I haven&#39;t read it yet, I hopped into this video cuz I was hella curious I mean this man wrote 5 secret books during the pandemic!?!?! So I just wanted to check what it was all about... And right now I&#39;m loving it and thinking how the heck am I gonna pay the shipping fees to my country cuz I am on board! I might even start Mistborn tonight!! Goddamnit I&#39;m hooked!
+  >
+  > **@30Huckleberry** [👍3]：Que the 17th shard video
+  >
+  > **@aerynmusick4548** [👍3]：Feeling a lot of Pratchett and Miyazaki out of this one.
+  >
+  > **@kalad1n16** [👍3]：IM SO GLAD ITS WIT ❤️❤️❤️
+  >
+  > **@hudibrad** [👍2]：now, &quot;eel-gotten treasure&quot; was not a sequence of words I thought I&#39;d be jealous of
+  >
+  > **@laura-leew5668** [👍2]：I just finished this book, and it was a glorious way to start the new year.  Thank you Brandon Sanderson for sharing this beautiful whimsical story with us.  I enjoyed every minute of reading it!  (secretly hoping you never go back to travelling for conventions if it brings us more books like this!). Can&#39;t wait for secret book #2!
+  >
+  > **@matiesponja** [👍2]：<a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=840">14:00</a> he says &quot;meat pie&quot; but in spanish it says &quot;empanadas&quot;
+  >
+  > **@americanardvark** [👍2]：I&#39;m Soo happy to see such a high level success find you. And you&#39;ve helped me in my writing so much thank you kindly...
+  >
+  > **@dannychan0510** [👍2]：Damn it BrandoSando you mad genius -- I only listened to 2 chapters so far, and I am already loving Tress and Charlie!
+  >
+  > **@nevertoonate** [👍2]：This has absolutely lit a fire under me to tell my own stories. Already deep into my outline!
+  >
+  > **@Noakwolf247** [👍2]：<a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=2012">33:32</a><br><br>The crowd was quiet, still confused. “I brought thirty kegs!” The Duke said. They cheered. <br><br>That one had me rolling.
+  >
+  > **@AgentNoosh** [👍2]：I love the characters already
+  >
+  > **@itdiesellider7812** [👍2]：BRANDON, THIS IS EFFING AWESOME! Listening to you mention SPOILER made me exclaim outloud at work, startiling my co-workers and prompting so many questions LOL!
+  >
+  > **@TheCrimsonIdol987** [👍2]：Okay, Brandon. I now have to read this book, even though you hooked me with the Stormlight Archives. You fiendish storyteller, you!
+  >
+  > **@mrlaforgephysics** [👍2]：“Any scowls would lose their potency due to wind resistance and gravitational drop”  I can’t stop laughing 😂
+  >
+  > **@Trigun99** [👍1]：&#39;he had a way with words, and his words often got away&#39;
+  >
+  > **@TechnoMinarchist** [👍1]：Looks like Sanderson has been reading Dragonriders of Pern.
+  >
+  > **@potatofishy1** [👍1]：i can already tell this is going to make me cry
+  >
+  > **@isaacallen1558** [👍1]：Yo the iriali!! Like the ones on roshar
+  >
+  > **@TheJedimaster95** [👍1]：5 chapters in and i&#39;m already crying 😭
+  >
+  > **@s11xox89** [👍1]：No revision needed ! Absolutely brilliant
+  >
+  > **@themanyhobbiedman** [👍1]：Brandon R. R. Sanderson.  You have now earned your R&#39;s.
+  >
+  > **@dinocollins720** [👍1]：That was awesome! I&#39;m so excited. Brandon is an animal!!!
+  >
+  > **@xxshera1320** [👍1]：I need the rest of this story ASAP! I am so excited
+  >
+  > **@katjalouw918** [👍1]：Oh my goodness I already love this story so much, I need more! And now I wish someone would call me their glove.
+  >
+  > **@luiszomarriba8700** [👍1]：I am hooked... I knew immediately it was hoid... I can&#39;t wait.
+  >
+  > **@TheErkTube** [👍1]：Man... Brando, I actually love you for bringing so much imagination and wonder to our lifes.
+  >
+  > **@aurematic** [👍1]：Oh-my-god!!! Kickstarter is right now over $19 millions!!!
+  >
+  > **@gagegamster2456** [👍1]：“This isn’t the part of the story where you ask questions”
+  >
+  > **@mariamornerud9431** [👍1]：Absolutely love it! The style and the characters, both so lovable and fun. I wasn&#39;t going for the kickstarter, but now I&#39;ve changed my mind. :)
+  >
+  > **@BobDuhBuildering**：The way you write sings. You know it’ll be one of your favorite songs.
+  >
+  > **@timotea7109**：Iriali mention really paints that one interlude chapter in WoK about different lands in a whole new light
+  >
+  > **@zeddy93**：My husband just fell asleep listening to the soothing tones of his favorite writer. 😄🙏 The perfect way for us to fight this Covid infection.
+  >
+  > **@Sheriff_K**：We NEED more Hoid POV/narration, this is GOLDEN. 😱👌🏼
+  >
+  > **@fightingblindly**：This man is a writing machine.
+  >
+  > **@robmack519**：I made it an entire month before caving and watching all of the spoiler streams.  i&#39;m pretty proud of myself.
+  >
+  > **@MorriganReads**：You can really tell this is inspired by Princess Bride, the narration seems a lot like William Goldman’s book. I’m so excited for it, Princess Bride was one of my favorite books a child.
+  >
+  > **@jkdog3242**：Brandon&#39;s look at camera and chuckle &quot;huh huh hands are warm&quot; is SENDIIIIING ME 😂 the absolute goat
+  >
+  > **@nyssal3569**：I am so glad you are doing well and there is sponsored muuch support for one of my favorite authors!!!!
+  >
+  > **@fluffyslippers10**：Wow, I knew I shouldn&#39;t have listened to this! I&#39;m hooked and now I have to wait!
+  >
+  > **@lillydragon3215**：love the magicarp covering the logo on his ipad xD
+  >
+  > **@koribee7743**：I could not be more excited for 2023
+  >
+  > **@bht96**：Thank you Brandon for all the joy you’ve given us with your incredible writing.
+  >
+  > **@lukasAguiar940**：man, this is fantastic . i loved soo much
+  >
+  > **@Fetters11**：“The one with the suicidal butterfly” hahahah
+  >
+  > **@MrLemonaiden**：At this point your superior marketing and hype will have me eating out of your palm. Release anything and I’m reading it! You truly are one of the great writers of this time. Bravo
+  >
+  > **@bozhidarahristova5580**：I am incredibly excited for this! Can we just skip 2022 already and move on to the joy that 2023 will bring?
+  >
+  > **@benrosh4193**：Not alot of things can make me smile as much as the mention of Hoids name
+  >
+  > **@carolyngormley8895**：oh my goodness the twist
+  >
+  > **@Sheriff_K**：Omg the tongue-in-cheek borderline fourth wall aware humour is hilarous..
+  >
+  > **@Cromulorf**：Man I am just DEVASTATED that I only learned about this project today after the kickstarter has ended :(
+  >
+  > **@a.r.hollowayauthor7210**：You had me at &quot;Don&#39;t judge, it was a family name.&quot;
+  >
+  > **@sagechiloich3728**：I’m loving this!!!
+  >
+  > **@tannerprince9730**：I love this on so many levels...
+  >
+  > **@angelalewis6146**：I&#39;m so excited!
+  >
+  > **@KierTheScrivener**：I love this so much!
+  >
+  > **@CyndaGallagher**：I&#39;m in LOVE
+  >
+  > **@danielandterrispilde6106**：Hi didn&#39;t know about your Kickstarter just randomly came across your speechless video to which in turn left me curious so I started hunting enjoyed the first five chapters!!!
+  >
+  > **@nanusantos1696**：This is extremely charming and fun, can&#39;t wait to read it.
+  >
+  > **@Elsecaller17.5**：We&#39;re so close
+  >
+  > **@BlackHand531**：<a href="https://www.youtube.com/watch?v=bBUVXcIE0E0&amp;t=897">14:57</a> MY HEAD SHOT UP SO FAST WHEN I HEARD THAT!
+  >
+  > **@Popopidopop**：OMG the &quot;It was about gloves&quot; <br>Mat boots Flashback got me almost in tears and all gushy.
+  >
+  > **@S1leNtRIP**：This is so good! Thank you for this Brando! :D
+  >
+  > **@shivaorie9952**：I love the part about the Charlie removing his signet and there being a mark on his finger. Makes me think of TV Moiraine&#39;s impression-less finger.
+  >
+  > **@samahquraishi4981**：LOVE it!!
+  >
+  > **@filipab0oks**：So good!! I can&#39;t wait for the whole thing!
+  >
+  > **@MaurDL**：Miss Tress and the Sorceress: a high seas story about gloves, love, spores and more.
+  >
+  > **@susannebaum219**：I love the tone of this novel, reminds me of Prattchet
+  >
+  > **@raevar9779**：I love the style of narration
+  >
+  > **@kampover**：You know what, I think that Brandon should read all of his book as audiobooks. I enjoy him reading so much!
+  >
+  > **@mesan4641**：This book sounds delightful
+  >
+  > **@runningcommentary2125**：This reminds me a bit of &#39;Railsea&#39;, which I loved.
+  >
+  > **@martijndebonnet4325**：Love it!!!
+  >
+  > **@lukasAguiar940**：is funny that i never read a cosmere book but i loved soo much this begining.
+  >
+  > **@marjiescott2302**：Good stories make me feel impatient😁but I guess I have to be patient until I get the whole book.
+  >
+  > **@DarthenosC9**：I am beyond excited about these secret projects. Thank you, Brandon
+  >
+  > **@ChBrahm**：This slaps hard
+  >
+  > **@Hipnopotamussus**：Just hit over 20mill. Not long to be #1 funded on Kickstarter.
+  >
+
+---
+
+## 6. Author Brandon Sanderson on Kickstarter campaign, new books
+
+- **频道：** CBS Mornings
+- **观看数：** 123,039
+- **点赞数：** 5,324
+- **评论数：** 345
+- **时长：** 6:25
+- **发布日期：** 2022-03-26T15:08:19Z
+- **链接：** https://www.youtube.com/watch?v=DvFNy4sVXM0
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/DvFNy4sVXM0/hqdefault.jpg
+- **标签：** CBS Saturday Morning, CBS News, video, author, brandon sanderson, kickstarter campaign, new books, viral, kickstarted campaign, michelle miller, book market
+- **简介：**
+
+  > Author Brandon Sanderson has already written several books. Thanks to a viral Kickstarter campaign, he plans to publish and sell his new books directly to fans. Sanderson spoke to Michelle Miller about the move that could stir up the publishing world and the book market.
+  > 
+  > "CBS Saturday Morning" co-hosts Jeff Glor, Michelle Miller and Dana Jacobson deliver two hours of original reporting and breaking news, as well as profiles of leading figures in culture and the arts. Watch "CBS Saturday Morning" at 7 a.m. ET on CBS and 8 a.m. ET on the CBS News app.
+  > 
+  > Subscribe to "CBS Mornings" on YouTube: https://www.youtube.com/CBSMornings 
+  > Watch CBS News live: https://cbsn.ws/1PlLpZ7c​
+  > Download the CBS News app: https://cbsn.ws/1Xb1WC8​
+  > Follow "CBS Mornings" on Instagram: https://bit.ly/3A13OqA
+  > Like "CBS Mornings" on Facebook: https://bit.ly/3tpOx00
+  > Follow "CBS Mornings" on Twitter: https://bit.ly/38QQp8B
+  > Subscribe to our newsletter: https://cbsn.ws/1RqHw7T​
+  > Try Paramount+ free: https://bit.ly/2OiW1kZ
+  > 
+  > For video licensing inquiries, contact: licensing@veritone.com
+
+- **热门评论（193 条）：**
+
+  > **@mateofilleti281** [👍1031]：I&#39;m so glad Brandon is startig to receive the attention he deserves.
+  >
+  > **@heidithepotter2479** [👍594]：Brandon has this success because his books help people feel something, they have changed me (especially the Stormight Archive). Thank you Brandon!
+  >
+  > **@miscellaneousgoblin910** [👍587]：&quot;Author Brandon Sanderson has already written several books.&quot; <br><br>Lmao
+  >
+  > **@xchaoticorder** [👍405]：“Anything you can write in any other genre, you can put in fantasy. Plus you can have dragons.”
+  >
+  > **@coltpeterereret6502** [👍284]：Brandon deserves 100% of what he’s got because he works hard
+  >
+  > **@joshs3775** [👍282]：He also just backed every publishing Kickstarter on the website
+  >
+  > **@miles_schiavi2584** [👍273]：brandon&#39;s free lectures are a true blessing to anyone dreaming of working in the SFF world
+  >
+  > **@elisetabor931** [👍209]：I&#39;m so proud of him! Brandon is an amazing author who adores his fans as much as many of us do him. Never seen engagement like this before from an author. I&#39;m so happy to see this!
+  >
+  > **@zachtaylor8222** [👍198]：i love the MCU, so i also like his comparison of his work to that universe. that said, Sanderson is head and shoulders above most comic book and movie writers in terms of storytelling, world building, and character work. i would be beyond excited to see a major push to get his work adapted properly.
+  >
+  > **@alannickerson7143** [👍187]：“I will protect those that I hate. Even if…even if the one I hate most is myself.” 🥺
+  >
+  > **@ManCarryingThing** [👍177]：this is so cool
+  >
+  > **@CarlyAndJason** [👍171]：Awesome to see Brandon on your show! A wonderful guy and a brilliant author.
+  >
+  > **@avataraarow** [👍139]：Love seeing Brando Sando making it into the mainstream. Let’s make Brandon the new GRR Martin! Best part about him is he lifts other authors up with him, like how he backed every publishing Kickstarter. Dude deserves it
+  >
+  > **@princessthyemis** [👍135]：When they showed his stained glass book cover windows I said &quot;DUDE!!!!!!&quot; out loud! That is absolutely incredible!!! I&#39;m so glad I backed the Kickstarter. I just started reading Dawnshard (a Stormlight novella) today!!!! I love how you can hear how excited he is when he talks about becoming the fantasy auuthor version of Stan Lee.
+  >
+  > **@lordredman6137** [👍94]：It&#39;s great to see Brandon in the mainstream now
+  >
+  > **@billyalarie929** [👍74]：Brandon officially has broken through.<br><br>On the other hand, mainstream media loves a quirky story
+  >
+  > **@patrickvose2536** [👍64]：He absolutely deserves this attention. He’s an amazing author and person. If you haven’t read his books I highly suggest them and don’t be scared of the size
+  >
+  > **@kritsadventures** [👍60]：Brandon is my favorite author of all time. I&#39;ve loved every book he&#39;s written, with the exception of one. Dozens and dozens of amazing works. Please do yourself a favor and read his work.
+  >
+  > **@jcvalenti** [👍54]：It&#39;s hard not to root for the guy.  Great stories, incredible work ethic and probably as good at &quot;sharing&quot; with his audience and his &quot;competition&quot; as anyone in any field ever.  Really solid guy and who better to shake things up a bit than someone who can cross boundaries like this guy.  Next up .... get into gaming, my man !
+  >
+  > **@Rafdi13** [👍49]：Great! It was time!<br><br>Amazing news report. Brandon is really great.
+  >
+  > **@sebastiancoe4708** [👍47]：No, the best part of the story is how he decided to use the kickstarter pledges to back every other publishing kickstarter
+  >
+  > **@TheSandersonCollector** [👍45]：This is one of the best interviews with Brandon that I&#39;ve seen. It&#39;s really well put together, and that lair is looking gorgeous.
+  >
+  > **@rasaecnai** [👍40]：Imagine that. People willingly paying $30M to read books! READ BOOKS! That is a massive win for me in the age of twitter and tiktoks.
+  >
+  > **@douxhc** [👍39]：I hope this brings the attention Brandon needs to make our dream come true of seeing Vin flying with the mistborn cloak.
+  >
+  > **@randombailey1166** [👍35]：The fact that he publishes his creative writing courses for FREE is just amazing
+  >
+  > **@MauriceNovembre** [👍34]：This man is our Era&#39;s J. R. R. Tolkien...I love his magic systems!
+  >
+  > **@SarahMoua** [👍33]：He&#39;s my favorite author. He&#39;s such a good man and cares for his people. 😊😊😊<br><br>And dayum. His house!
+  >
+  > **@yobgodababua1862** [👍29]：He&#39;s not just a good writer, he&#39;s also a genuinely good person.<br>SHUT UP AND TAKE MY MONEY
+  >
+  > **@Florkl** [👍28]：He’s so giddy and I love it.
+  >
+  > **@LeahB31** [👍28]：I’m on book 2 of The Stormlight Archive right now and I LOVE THIS SERIES. I’m new to fantasy books and started due to the WoT TV show. I binged the WoT audiobooks in a couple months.
+  >
+  > **@genericallyentertaining** [👍27]：Brandon on mainstream news!? This is an exciting day.<br>Also, dang, that&#39;s a nice theater.
+  >
+  > **@enzo1187** [👍27]：I adore seeing mainstream/normie media cover things that I love. These people honestly  seemed like they were having a great time covering this and I hope this just expands the brando sando fan club
+  >
+  > **@maarrow5169** [👍26]：I think Brandon Sanderson is the only one Who could get me to watch a CBS morning show clip. “Journey before destination”
+  >
+  > **@kyra5783** [👍26]：Seeing Brandon&#39;s house/lair was so freaking cool, especially the windows depicting scenes from his novels! Brandon, we&#39;re rooting for you to become our Stan Lee!! You&#39;ve already changed the lives of so many people through your stories! Personally, your stories made me feel the same sense of curiosity and wonder I felt as a child and didn&#39;t think I&#39;d feel again. Thank you so much Sanderson!
+  >
+  > **@DavidDecero** [👍23]：Brandon deserves all his success! I love how they included a couple clips from booktubers too. 👏
+  >
+  > **@ryryzam79** [👍23]：Its crazy how productive Brandon Sanderson is and yet still writes solid books.
+  >
+  > **@veiltricks2947** [👍21]：Dude, Brandon, we need a tour of your house…
+  >
+  > **@joshs3775** [👍18]：<a href="https://www.youtube.com/watch?v=DvFNy4sVXM0&amp;t=110">1:50</a> I love that man
+  >
+  > **@db87reds** [👍17]：There are a number of fantasy authors that have the talent Brandon does, and a few that clearly have more. But there are none that care as much about their fans and put in the work to deliver for them, over and over again. That’s why Brandon is the best, and why Patrick Rothfuss and GRRM will never outshine him. They took their spoils and checked out, while Brandon keeps giving back.
+  >
+  > **@kylegrefe4399** [👍16]：Brando finally getting the recognition he deserves
+  >
+  > **@Cyrus0w** [👍15]：13 novels before you sold one holy cow. What dedication. Massive respect
+  >
+  > **@eivind261093** [👍15]：This whole process is such a wonderful demonstration of why Brandon is, by far, my favourite author, and has been since I first read Misborn fifteen years ago or so. I really wish I was in a position where I could afford the highest tier of the Kickstarter - as it is, I&#39;ve pledged for the ebook + audio book tier, because shipping is expensive.
+  >
+  > **@Transformers217** [👍14]：I’m very happy for Brandon Sanderson’s success and the attention that he is really getting now.
+  >
+  > **@joelman1989** [👍11]：Love the interviewers energy. And this couldn’t have happened to a better guy. Sanderson’s books have gotten me through some tough tough times. And they’ve inspired me to be a better person.
+  >
+  > **@amburbyler7721** [👍11]：So proud of him!!!
+  >
+  > **@jYTOFF** [👍11]：i started the cosmere journey a couple of months ago, and now im at Way of Kings and im already tearing up for Kaladin. I can relate to this character in a lot of ways with depression and suicide thoughts. Brandon Sanderson make characters that you can relate too and use his books as shelters and see how these characters fight against their problems, just like real people.
+  >
+  > **@dusk1947** [👍10]：I adore his works. <br>The narrative arc&#39;s of his collection of protagonist&#39;s in the &quot;Stormlight Archives&quot; really do impart positive life lessons; even half-finished, it&#39;s such a fantastic series. While the surreal, complex, and interconnected settings of his works speak well to his immense creativity.  It&#39;s hard not to be happy for him in finding national recognition.  It&#39;s well earned
+  >
+  > **@TeamBroccoli** [👍10]：Love him so much. Amazing author and human.
+  >
+  > **@dinocollins720** [👍10]：Brandon Sanderson is awesome! Success couldn&#39;t come to a better person!
+  >
+  > **@TealTheDropster** [👍10]：Love brando. His mistborn trilogy has truly made my year
+  >
+  > **@justinkeck1776** [👍10]：Mistborn movie maybe?
+  >
+  > **@Carrott27** [👍9]：Such a thoroughly decent and likeable person. Deserves all the success he gets
+  >
+  > **@drhapi5308** [👍9]：LETS GO BRANDON! He took that saying to heart.
+  >
+  > **@PhoenixCrown** [👍9]：I&#39;m not thinking of being a writer anymore. I AM a writer! I&#39;ve finished my first fantasy novel, so thanks for your inspiration Brandon!
+  >
+  > **@geneellis1968** [👍9]：I&#39;ve been a fan of Sanderson for a while, and I&#39;ve always heard he&#39;s a really nice guy. It&#39;s good to hear that he&#39;s doing really well.
+  >
+  > **@nubemuffin** [👍8]：The Wheel of Time show was really trash, but don&#39;t let that dissuade you from reading the books. The books are a great fantasy series!
+  >
+  > **@JimYeats** [👍7]：The Stormlight Archives are his best series to date.  Much more dynamic than his other books.  Waiting on the next installment.
+  >
+  > **@vexalantron1663** [👍7]：Seing this makes me happy. Seing Brandon get the attention he deserves, fantasy reaching mainstream talkshow talk points, and boooy, oh, boy, kickstarter, hold on to your boots, you&#39;re about to be reaided by at least 1000 new selfpublishing authors soon. A good time to live as an aspiring writer and a fantasy nerd (this was me last summer) that one time spent around 3-4 hours playing with rice on a big piece of paper and naming those shapes the first world he&#39;ll create.
+  >
+  > **@jamesmartinmccann** [👍7]：This is awesome 🙂
+  >
+  > **@joshlever4** [👍7]：I started reading Mistborn at the beginning of this year and became an instant fan. Can’t wait to read more of his books
+  >
+  > **@davidnew2144** [👍7]：Wow, that intro graphic is interesting. Cytonic great most recent book (with Skyward Flight). Then four co-author? Then all the short stories?
+  >
+  > **@zkatt3238** [👍7]：A god among men
+  >
+  > **@LetsGoGetThem** [👍6]：It amazes me he only started publishing in 2005, the man has a massive body of work. Sanderson will be remembered up there with the greats, hes now getting more and more recognition.
+  >
+  > **@deepakjetly1717** [👍6]：Sanderson could have written 600 more pages in the time this interview was conducted.
+  >
+  > **@jbullough2** [👍6]：I bought Elantris on a whim from a bookstore in 2006 and every book that Sanderson has published since then has been pretty much an automatic purchase for me.  I&#39;m pretty sure I have convinced at least 100 people to give Way of Kings or Mistborn a try, and it&#39;s like a 90% success rate of people who fall in love with his books.
+  >
+  > **@nicodemogawronski2052** [👍6]：I read pretty much all his books. He&#39;s a great author. If you want to start read the first Mistborn book
+  >
+  > **@mito_stellar** [👍5]：i hope he makes a tour and comes to Argentina 🤧 one can dream
+  >
+  > **@flightoffools3966** [👍5]：Good for you BrandoSando
+  >
+  > **@TheButterflyChaos** [👍5]：This was a fun interview.
+  >
+  > **@NahusenayTadesse** [👍5]：I love this man. I credit my love of reading and obsession with fantasy to his books.
+  >
+  > **@IAmNotGr00t_96** [👍5]：Finally got to see Brandon&#39;s theater. He always talks about it with Dan, but I&#39;ve never seen it until now.
+  >
+  > **@elizabethhurtado2829** [👍5]：❤
+  >
+  > **@Krohnium** [👍5]：Yeaaaa Brandon! 🙌 btw how have we never seen a house tour before
+  >
+  > **@lour9348** [👍5]：Go Brandon go!!!
+  >
+  > **@nedaaronarmstrong** [👍4]：Real news from CBS. Didn&#39;t expect  that.
+  >
+  > **@MrGrahro** [👍4]：That&#39;s where I watched the premier of Dune. My brother works with Brandon&#39;s brother. Such a good dude in real life.
+  >
+  > **@samjohnson7869** [👍4]：And the best part is that it doesn&#39;t take him 10 years to write a book like a couple of authors that I&#39;m waiting on...
+  >
+  > **@Clownconspirator** [👍4]：I read mistborn and I read the first 3 of stormlight, this makes me want to read the 4th
+  >
+  > **@zenthepoet.** [👍4]：Adoooonalsiiiiium
+  >
+  > **@ShyFly1000** [👍3]：He’s amazing. I love his writing soooo much!
+  >
+  > **@Major98** [👍3]：He&#39;s a machine. Major respect to the man
+  >
+  > **@claradaniels1472** [👍3]：the sanderlair is actually a castle wtf this is perfect lmao
+  >
+  > **@Moreyellowbirds** [👍3]：I love this man so much
+  >
+  > **@JessePeterson94** [👍3]：I love you Brandon Sanderson!!
+  >
+  > **@alexmart3931** [👍3]：Deffinetly on his way to becoming Stan Lee. But those are huge shoes to fill. Good luck
+  >
+  > **@obviousalias132** [👍3]：Brando Sando for the Fandos
+  >
+  > **@tuliofer69** [👍3]：It&#39;s not Sanderson, is SanderGOD
+  >
+  > **@ryanvance1020** [👍3]：house tour???
+  >
+  > **@jacobi2393** [👍3]：The WEIRDEST part of this interview is seeing Brandon Sanderson&#39;s dad and being like &quot;when did Brandon Sanderson have 70&#39;s hair?!&quot; The resemblance is wild
+  >
+  > **@sashaa200666** [👍3]：Let&#39;s go Brandon!
+  >
+  > **@bdup159** [👍3]：Here comes the fan base in the comments section in 3...2...1...!!!
+  >
+  > **@StephenDeagle** [👍3]：<a href="https://www.youtube.com/watch?v=DvFNy4sVXM0&amp;t=123">2:03</a> Sci-fi conspiracy theory: Brandon Sanderson is immortal. He&#39;s been writing these books for hundreds, perhaps thousands of years, and he&#39;s just gradually making them public. That&#39;s how he seems to write so quickly.
+  >
+  > **@redcrest5** [👍2]：Loved getting a peek at Brandon’s amazing mansion/man cave!
+  >
+  > **@robertm.8653** [👍2]：Journey Before Destination my friends, you have a beautiful road ahead
+  >
+  > **@graceespiritu5400** [👍2]：I so Love ❤ Mistborn trilogy and Brandon Sanderson&#39;s online classes.  This Author is a Genius and he&#39;s Phenomenal.  It inspires and guides me to make my story better.😊
+  >
+  > **@Draxal91** [👍2]：Brandon Sanderson is the BEST author I have ever read… storm light archive is my favorite series ever by far!
+  >
+  > **@wes5457** [👍2]：Aca en hispano america se le quiere bastante.
+  >
+  > **@ivanjelenic5627** [👍2]：Branon is amazing, his books are genious!
+  >
+  > **@bartas_tattoo** [👍2]：Damn public tv actually did justice and recapped Brandon to a casual viewer rather accurately. Thats pretty rare nowadays
+  >
+  > **@prattdespain5994** [👍2]：Honestly, anyone here who hasn’t read Mistborn: Final Empire. It is amazing
+  >
+  > **@kellehlers** [👍2]：He said he wants to be Stan lee... he is already beloved in the same way
+  >
+  > **@muttineni03** [👍2]：Ok time to buy one more book of Sando 😅.
+  >
+  > **@SampsoniteR** [👍2]：Brando Sando is the man.  He’ll achieve his big goal before he’s done :)
+  >
+  > **@Rain_power** [👍2]：I love that he wants to be like Stan Lee!
+  >
+  > **@emmanuelboakye1124** [👍2]：Stormlight ftw👍👍
+  >
+  > **@kenthefele113** [👍2]：“I would like to be Stan Lee.”<br>Brandon I think you already are.
+  >
+  > **@havenschade8174** [👍2]：Badass
+  >
+  > **@bigbiggoblin2873** [👍2]：NOICE JOB SANDO
+  >
+  > **@rokentom3926** [👍2]：Not quite Adam’s production value is it.
+  >
+  > **@SuperlocoMexicano** [👍2]：Brando sandoooooo
+  >
+  > **@sparksdog** [👍2]：Brandon: We have things like The Witcher, we have Arcane-<br><br><b>Interviewer gasps</b><br><br>Brandon thinks: Oh! An Arcane fan!<br><br>Interviewer: Love The Witcher!<br><br>Brandon: Oh... Yeah? <b>sad tone</b>
+  >
+  > **@tonyarnold4084** [👍2]：This fantasy author truly is the G.O.A.T. in so many aspects!
+  >
+  > **@BOBOFSAGGET** [👍2]：Brandon is our god
+  >
+  > **@jacobpeterson1166** [👍2]：Let’s go Brandon!
+  >
+  > **@guiyerod444** [👍1]：I can&#39;t believe he really got made the stained glass covers of the chinese editions into really stained glass that is so cool.
+  >
+  > **@MarkAnthonyTaylorBooks** [👍1]：How can you not love this guy?? Great books, great characters, great interactions, harder worker. Go get ‘em
+  >
+  > **@sjajsjsja4523** [👍1]：The power of what hard work can achieve. NOTHING was handed to this dude. He earned it all.
+  >
+  > **@linnealindstrom7817** [👍1]：This is the best (and most accurate) coverage so far!
+  >
+  > **@meks194** [👍1]：I just read his first look for Stormlight archive 5 and I’m both crying in disbelief and excited at the same time.
+  >
+  > **@jaredthomas7778** [👍1]：Brandon Sanderson is my favorite fictional author ever! I discovered him through the wheel of time! Then I read all his published work! Because of my anxiety I literally relate to the characters! There&#39;s something special about seeing characters struggling with the same thing as you! I&#39;m a fanboy forever! And he&#39;s kind to his fans! What more could you ask for?
+  >
+  > **@rjenkins66bj** [👍1]：I listen to Audio especially the one that have sound effects and different voice actors. I would say for the last 5 year I have had the Stormlight Archive in a loop.
+  >
+  > **@DanTheMan0922** [👍1]：Brando on the news!!! 😭❤️
+  >
+  > **@spidersanti_16** [👍1]：BRANDON, TE AMO.
+  >
+  > **@jester42100** [👍1]：My favorite author for sure!
+  >
+  > **@benjamindupaix6425** [👍1]：I delivered a pizza to hin once. Best day of my life as a sanderson fan
+  >
+  > **@lilwinchester1417** [👍1]：Congratulations Mr. Sanderson!<br>And how awesome Chaos&#39; wife on CBS!
+  >
+  > **@tishw4576** [👍1]：Good 👍 for him.
+  >
+  > **@LordOfAllusion** [👍1]：The lighting in Brandon’s house is crazy.
+  >
+  > **@refar18** [👍1]：Great Interviewer
+  >
+  > **@LrnecBuma** [👍1]：Yo jessie the sleepy koala made it to the news!
+  >
+  > **@karlsnilsson** [👍1]：I love this guy
+  >
+  > **@bani7367** [👍1]：He gives Tarantino vibes.
+  >
+  > **@LUKsimmons** [👍1]：my boi brando sando!!
+  >
+  > **@RobbieLee90** [👍1]：My boy Brandon slaying it
+  >
+  > **@TotallyNotFunny** [👍1]：the interviewer letting her fantasy nerd out warms my heart
+  >
+  > **@afk2514** [👍1]：The best fantasy writer for me... thank you for everything sir...
+  >
+  > **@xparchangel** [👍1]：“...plus you can have dragons.”
+  >
+  > **@wildfire160** [👍1]：I love his attitude and he`s right it is a great time for fantasy/science fiction...i just wish more people would watch out of their comfort zone,take South Korea for instance ...<br><br>Some of the absolutely best fantasy/SF series ive watched in the last 5yrs has been Korean shows like &quot;Queen In-Hyuns Man&quot; W-Two Worlds&quot; &quot;Goblin&quot; &quot;Memories Of The Alhambra&quot; &quot;Kingdom&quot; &quot;The King:eternal monarch&quot; &quot;Awaken&quot; all of them fantastic viewing ...
+  >
+  > **@LeaneKholin** [👍1]：The only word I can come up with for doting non fans are Muggles. I sat here thinking how gentle he&#39;s being with this Muggle lady....
+  >
+  > **@jackmiller1405** [👍1]：LOL he&#39;s written &quot;several&quot; books... then you find out it&#39;s 50-plus. That&#39;s an Olympic-level understatement.
+  >
+  > **@ryanskelly7687** [👍1]：You think Brandon got Michelle Miller to play a game of Magic the Gathering after the interview?
+  >
+  > **@TheMusicscotty** [👍1]：Brandon&#39;s a beast. Bout time the rest of those airsick lowlanders learned it.
+  >
+  > **@thegrievancegordieshow9882** [👍1]：🤖 I write books too as well also <br>🤖 dido
+  >
+  > **@hexagram531** [👍1]：Fascinating interview.  So he&#39;d like to be Stan Lee.  What a tragedy that he is not put in charge of either Marvel Comics or DC Comics to replace the pathetic woke ideologues currently running the comics world (but no longer selling any to me).
+  >
+  > **@jaredbennett7677**：<a href="https://www.youtube.com/watch?v=DvFNy4sVXM0&amp;t=353">5:53</a> love the producer Adam cameo in the background 😅
+  >
+  > **@gavinkujava6141**：great story awesome well researched reporter i&#39;d like to see more of the new done like this
+  >
+  > **@Colaman112**：That&#39;s an interesting selection of books in the beginning. Only Cosmere ones are the short stories.
+  >
+  > **@avi6837**：Journey Before Destination :)
+  >
+  > **@Art_with_Ms_Swann**：Brandon is my favorite author. Not necessarily just because I love his books, but because of who he is. Giving back, helping young writers, teaching and postings wisdom, connecting with fans directly, keeping his sense of play and humor.
+  >
+  > **@natedog9499**：Well done Brandon Sanderson you are a hero
+  >
+  > **@mjmullady**：His house is exactly as I would have imagined
+  >
+  > **@cleverestx**：He deserves all of his success.
+  >
+  > **@toastsniper1159**：brando is a real one
+  >
+  > **@garrisondinsmore5808**：yeah boiiiiiii
+  >
+  > **@emilydeon**：I usually read Agatha Christie’s and Classics but I love love love his books!!
+  >
+  > **@joaovisto**：I love this man
+  >
+  > **@sjuyal85**：BrandonSando on morning show.. cool
+  >
+  > **@XxMaxwellxX01**：You guys really did my boy Brandon dirty with that picture.
+  >
+  > **@argentinadriving**：Is there a link for the full interview?
+  >
+  > **@jonathanmurray834**：Bruh I love Sanderson
+  >
+  > **@andrewolmos1603**：Brandon&#39;s mother is so beautiful!
+  >
+  > **@charlessmyth**：Before he passed on, to that great MCU in the sky, &quot;Stanley&quot; had a rough patch and was in danger of being cancelled :-)
+  >
+  > **@zenna4474**：Ayee brando
+  >
+  > **@DDDooomer**：These books read like they were writen in a rush, only Yumi and Tress were somewhat bearable the other two were horrendous.
+  >
+  > **@Theirishsk83r**：He is the best
+  >
+  > **@pellaeon1877**：&quot;... plus you can have dragons.&quot;
+  >
+  > **@Aviv704**：The books picked in the opening is just crazy. Like would we show one of his big books? Maybe SA or Mistborn? No just a bunch of short stories and novellas and YAs
+  >
+  > **@TechPlasma**：OMG it&#39;s Interlaced..... WTH
+  >
+  > **@coptermonk**：Brandon Sanderson is the best.  Amazon destroyed the Wheel of time.
+  >
+  > **@JPFalcononor**：The only negative tick for me is the mention of the absurdly bad Amazon version of The Wheel of Time...
+  >
+  > **@jamesnoe7378**：Anything to fight Amazon
+  >
+  > **@loganmiller8889**：the goat
+  >
+  > **@peterpanda7506**：Best modern fantasy writer
+  >
+  > **@zelly4914**：Hello Sharders!
+  >
+  > **@Highlander0689**：I wish GRRM would stress write some novels...
+  >
+  > **@neo7794**：I mean clearly the GOAT
+  >
+  > **@AdvocateMalatesta**：<b>**</b> Moash
+  >
+  > **@Jrabney4**：Is that his house??
+  >
+  > **@MajorlySpicy**：Wasn’t it $80M an episode for wheel of time? Or am I thinking of Rings?
+  >
+  > **@lucafarina1644**：This man is the true God.
+  >
+  > **@MrNoucfeanor**：Shame his writing is unedited, unrevised and mid at best.
+  >
+  > **@meks194**：He needs to just finish GRRM books. I feel that GRRM has just abandoned his book fans and is doing everything except finishing  a song of ice and fire series.
+  >
+  > **@LeFlshe**：trolled
+  >
+  > **@charlessmyth**：[<a href="https://www.youtube.com/watch?v=DvFNy4sVXM0&amp;t=314">5:14</a>] and you believed that ???  :-)
+  >
+  > **@BookishOwl2**：Brigham young university 🤮
+  >
+  > **@treavormiller9552**：😂 literally can’t get more views Brandon’s channel
+  >
+  > **@benedixtify**：Brandon looks very strange in CBS’s lighting. Brandon’s own videos are better lit.
+  >
+  > **@jameshightower8875**：Honestly the Witcher way better than those rambling novels but so far the Wheel of Time tv series falls well short of the books. They rendered one of the best magic systems into goofy inflatable women.
+  >
+  > **@benedixtify**：Less Stan Lee, more BrandoSando
+  >
+  > **@elliotstaveley682**：I disagree, outlander is pure facts and definitely not fantasy and I can prove it. How else can Brando Sando possibly grind out so many hours without the ability to bend time and space to his will? Time travel is real y’all. There’s 48 hours in a Sanderson day… minimum.
+  >
+  > **@cultofzombie2678**：Far from a top writer in his genre
+  >
+  > **@seas1392**：Eheel of time is not based on the books they destroy the legacy of a talented man, something the people at amazon have none of
+  >
+  > **@christopherpham9181**：The shocking move theoretically peel because ethernet compellingly bare notwithstanding a parsimonious cloth. ubiquitous, ossified hygienic
+  >
+
+---
+
+## 7. Brandon Sanderson Talks Kickstarter, Cosmere&#39;s Future, &amp; MORE!
+
+- **频道：** Daniel Greene
+- **观看数：** 121,386
+- **点赞数：** 7,125
+- **评论数：** 336
+- **时长：** 25:18
+- **发布日期：** 2022-03-15T14:00:01Z
+- **链接：** https://www.youtube.com/watch?v=02vvaHjMzTA
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/02vvaHjMzTA/hqdefault.jpg
+- **简介：**
+
+  > Check out the highest-grossing Kickstarter of all time: https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson 
+  > New Channel: https://www.youtube.com/channel/UC9tQc_K_LtoCiVGx7_R3FRA
+  > Patreon: https://www.patreon.com/DanielBGreene 
+  > All the Me Social Links: https://linktr.ee/DanielGreene
+  > 
+  > Lawful Times Series: 
+  > Breach of Peace: https://amzn.to/3CnKsfX
+  > Rebels Creed: https://amzn.to/3Gtqt2p
+  > 
+  > Equipment: 
+  > Camera: https://amzn.to/3siqgHv  
+  > Lense: https://amzn.to/3ugGxhQ  
+  > Lighting: https://amzn.to/3aI3brK  
+  > Microphone: https://amzn.to/3pCGtWg  
+  > Tripod: https://amzn.to/3kd9yq1  
+  > 
+  > P.O. Box: PO Box 7874 Henrico, VA 23231
+
+- **热门评论（200 条）：**
+
+  > **@SihingChanSao** [👍561]：Mr. Greene and Mr. Sanderson are sophisticated men of nerd culture. Excuse me. Mr. Green and Mr. Sanderson are a sophisticated goblin and man, respectively, of nerd culture.
+  >
+  > **@evi6629** [👍438]：Really appreciated his comments on amazon, monopolies, and the focus on bestsellers. I have also noticed that the midlister is slowly dissapearing from the industry. The people who never top the lists but have over the years built an audience that just keeps them afloat. That&#39;s getting harder and harder these days. All the money is concentrating at the top. It&#39;s worrying to say the least.
+  >
+  > **@CarlosRodriguez-dh7mm** [👍358]：I haven&#39;t read half of Sanderson&#39;s work yet, but he&#39;s easily my favorite author. Yeah, because his books are consistently good, but really mostly like him because he&#39;s so generous to his audience. I&#39;m usually not interested in hero worship, but I&#39;d at least like to shake his hand someday.
+  >
+  > **@kittycannoli7225** [👍340]：Imagine just being a cute little goblin that wants to talk about books and then you have a personal relationship with Brandon Sanderson. WHAT?? Also would love for us to get an interview with Brando every year, maybe a month after the State of Sanderson so Daniel can process the news and provide great questions like he always does
+  >
+  > **@spoondragon9218** [👍280]：The editing on this one is a step up, I&#39;m very impressed Daniel
+  >
+  > **@kaladinstormblessed8790** [👍256]：Brandon can’t say he ACCIDENTALLY wrote 5 BOOKS and not expect to get attention
+  >
+  > **@OverlyAverageBen** [👍121]：Sanderson is already like Stan Lee because the man is a damn marvel to behold
+  >
+  > **@lucianoquerido5524** [👍113]：I find it amazing how good Daniel can be as an interviewer. Some times you see interviews where the interviewer doesn`t seem to know what to ask or how to make the talk flow, and you can do it amazingly “easly”. Well done, good sir.<br>Sanderson’s take on publishers and bookstores is so good to hear and now that we have big authors knowing the importance of those.<br>Amazing video!!
+  >
+  > **@MaryaHach** [👍54]：Excellent point about bookstores (from minute <a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=465">7:45</a>), I really appreciate Brandon taking the time to mention this.
+  >
+  > **@AmanGupta-zr6rd** [👍47]：The question is - &#39;is Brandon writing with his feet in this video because he is not signing?&#39; 😂
+  >
+  > **@timmeyer9191** [👍46]：I&#39;m glad he mentioned his traditional publishers and that he told them about this kickstarter ahead of time.  The whole kickstarter thing he did seems to have rejuvenated the Sanderson Fandom, and that is going to be good news for his traditional publishers as well.
+  >
+  > **@timcampbell5758** [👍44]：Besides one day of actually having a copy of these stories in my hand, I think I&#39;m most excited about thinking of the interest in the Cosmere that is being generated in Hollywood or various production companies by his Kickstarter success.
+  >
+  > **@aaronharvey5625** [👍42]：I’ve never read a Sanderson book and traditionally I find myself preferring Sci-Fi to Fantasy, but the Kickstarter announcement, success, and Daniel’s general enthusiasm about it has given me a Sanderson bug. I am setting out to read Sanderson’s books in the very near future. I was already planning to blind buy support the kickstarter at the end of the month but that description he gave for Secret Project #2 is AMAZING and is worth me spending the money for it alone.
+  >
+  > **@DustinWillis18** [👍31]：Awesome interview. Sanderson wanting to die in all his movies is one of the coolest things I have heard since the release of his Kickstarter.
+  >
+  > **@eleanorjones26407** [👍29]：Ooh... thanks for the interview Daniel... I&#39;ve been wondering about what he&#39;d thought more specifically<br><br>I think that those negative articles that have come out about how Sandersons kickstarter is changing  everything (/making things slightly dangerous) for writers have only rarely considered that he&#39;d agree with them.
+  >
+  > **@iamdew802** [👍28]：When we got the zoom and quote on “I have an HR director” i realized we could get a real life sinister plot of Brandon like going evil and trying to take over the world.
+  >
+  > **@Sarcastic_Sophist** [👍27]：While I&#39;ve never been diagnosed with insomnia I often struggle staying or falling asleep. One of my methods of passing that time in my head is telling myself a story. It&#39;s really cool to hear Brandon does that too. also great interview Daniel the questions were very interesting and the replies very insightful.
+  >
+  > **@KevinRothert** [👍20]：Haha Brandon is so sick! Love his cameo vision!
+  >
+  > **@Spiderweb444** [👍19]：I loved this interview, i can&#39;t wait to read all these novels.
+  >
+  > **@CerebrumMortum** [👍17]：What I learned to love in Sanderson is not only his super transparency, it&#39;s also his honest awareness he has to the fact that his success isn&#39;t 100% his.<br>The appreciation he speaks about to &quot;bookstore workers who shared my books&quot;, to the fan base, his openness to parody (a lot of &quot;top guns&quot; are too up the ego trip to appreciate parodies), even the way he worries about new authors, which all come very genuine from him.<br>He <b>remembers</b> the time before breaking out, he 8remembers* the journey, and all the people who were part of it. That&#39;s what makes him a great PERSON, in my opinion, not just a great author.
+  >
+  > **@lies7253** [👍15]：Your interviews/interactions with Sanderson always put a smile on my face
+  >
+  > **@trlns59** [👍14]：Daniel normally has too much energy for my liking, but as an interviewer he does a stellar job. Always let’s the guests speak uninterrupted - I tip my hat to you sir.
+  >
+  > **@stanleybuilder80** [👍14]：I`ve listened to nearly all his books at work he`s very gifted in storytelling I&#39;m not a nerd in anyway I&#39;m a builder  his work has mass market appeal  id love to see Mistborn and Stormlight archive Series made but clearly they will be special effects heavy but very possible and the kick starter proves there&#39;s a market for it. Mr Sanderson has enriched my life with his work good luck to him.
+  >
+  > **@trogdoar149** [👍14]：I really want Brandon to be careful with Hollywood. They&#39;ll take his work and tear it to pieces to make a quick buck. If he gives them an inch they&#39;ll take a mile, just like WOT and GOT.
+  >
+  > **@mattstakeontheancients7594** [👍12]：This is fantastic. Would love to see a GOT multi season of stormlight or Mistborn. Also curious if Sanderson would ever do his own publication company if he hasn’t already
+  >
+  > **@Draculkaiser** [👍11]：Im amazed how composed you are interviewing all these awesome people. If i got to talk to Brandon id be a stuttering mess.
+  >
+  > **@luvBB4lyf** [👍10]：Great interview! Loved hearing Brandon&#39;s thoughts on publishing, media, etc. I really hope he gets to cameo in Cosmere adaptations in the future 😂 and having and overarching Cosmere world like warhammer etc written by diff authors would be really cool and a great way to explore different voices in this setting!
+  >
+  > **@mndrew1** [👍10]：Fake news!  This is not BrandoSando.  He&#39;s not signing anything!  How dare you try to fool us like this you cad.
+  >
+  > **@MistbornTaylor** [👍8]：“We were thinking 2 to 4 million.” I’m sorry did you mean 24 million?
+  >
+  > **@levipearson2366** [👍8]：God this gets me so excited for the Cosmere cinimatic universe, I love the books and I love brandon, but I need a john williams soundtrack and some masterful cinema effects to give me kaliden stormblessed. I just cant wait for Vin and everyone from the mistborn series too. I wept while reading the rythm of war, can you imagine if there was a soulful soundtrack too? Im the biggest Sanderson nerd out there and I will be for life.
+  >
+  > **@ioannisstavrianakis1199** [👍8]：Well, while I applaud mr. Sanderson’s efforts to give a wake up call to traditional publishers, I have to say the shipping fees are extremely high to reach a wider audience… you may do it just for one or two of your favourite authors but not all… so yes great plan, nice project, but it’s so expensive to order outside of the USA… ebook/audio is always an option, but for those of us that love physical copies, it’s just unsustainable.
+  >
+  > **@louisa1878** [👍7]：This was great :) The editing was beautiful and I really love the confidence Daniel shows in this interview. 👏 🤗
+  >
+  > **@handsomeaaron6175** [👍7]：As an aspiring novelist I find Sanderson both inspiring and horribly discouraging.
+  >
+  > **@stoanes** [👍6]：Brandon Sanderson really has hit a very specific niche of the internet, and I&#39;m all about it. He manages to remain wholesome and respectful while engaging everyone equally, and being strong to his convictions and point of view. All while remaining very active in his own career. It really is something special.
+  >
+  > **@sechay9328** [👍6]：I love how much more comfortable you have gottentalking to Brandon. I remember how big a deal it was the first time you had him on and you guys seem to at ease talking now.
+  >
+  > **@ChickenTherapyHomesteader** [👍6]：Brandon Sanderson is such a legend.
+  >
+  > **@nathandavis6061** [👍6]：daniel always asks the right questions, great vid, thanks!
+  >
+  > **@pretendbookworm8589** [👍5]：really appreciate the colbert meme at <a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=896">14:56</a> .that guy is top tier tolkien fanboy
+  >
+  > **@Mistborn_San** [👍5]：I am just glad even more people will now be introduced to the cosmere.
+  >
+  > **@ghenkel0225** [👍5]：Brendon Sanders killing it
+  >
+  > **@jhl11791** [👍5]：Great job! Have you considered adding subtitles to your videos? It would be great for some of us. Lots of love from Spain ♥️
+  >
+  > **@jamiewhite148** [👍4]：He is just so likable and relatable, Keep doing you Brandon!
+  >
+  > **@michaelgunn8752** [👍4]：I love when Sanderson comes on the best Booktubers channel!!!
+  >
+  > **@leannerose6181** [👍4]：Daniel you continue to impress w your interview reach 😎 Thank you for bringing in Brando Sando, again 😎 😎
+  >
+  > **@saldeanfarmgirl7224** [👍4]：Great interview ! Brandon is an inspiration to me .
+  >
+  > **@abdqs853** [👍4]：Is it just me or does everyone else also find Sandersons dream of being a Stan Lee esqe figure adorable.
+  >
+  > **@TLBainter** [👍4]：If you see a spike in watch time between <a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=110">1:50</a> and <a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=120">2:00</a>, that was me repeatedly trying to see what you dropped down the screen there. 👀
+  >
+  > **@Raj-cp7uh** [👍4]：Don&#39;t really like the camera angle
+  >
+  > **@txy9911** [👍4]：Am i the only one that finds it weird that daniel called him just sanderson not mr samderson or brandon?
+  >
+  > **@tmntaddict** [👍4]：The Hobbit is an amazing book that should&#39;ve been left alone. Or at least adapted into ONE movie with more respect given to Mirkwood.
+  >
+  > **@flavia_mistborn94** [👍4]：Awesome interview as usual Daniel! Thank you for your time and effort in these. You and Sanderson are definitely one of my favorite duos out there!
+  >
+  > **@SneakyTogedemaru** [👍3]：And when I grow old, I would be sitting in my room re-reading Sanderson&#39;s books, with an entire wall dedicated for placates with the shots from films catching the moment Sanderson&#39;s character dying in those films.<br><br>That will be awesome!
+  >
+  > **@shethewriter** [👍3]：The Colbert detail was A+
+  >
+  > **@Ktv.24** [👍3]：Brandon Sanderson is literally the best
+  >
+  > **@brokenredflag** [👍3]：Daniel is a fantastic intervewer. And sanderson is so humble. Humble is key to sucess. :)❤
+  >
+  > **@lostboi2271** [👍3]：Yay, Brando Sando interview
+  >
+  > **@maohpeach1425** [👍3]：So, Brandon Sanderson needs to have a death scene in the last 2 or 3 seasons of WoT
+  >
+  > **@Average_Stew** [👍3]：There’s kickstarters and then there’s Spartan-kickstarters. Congrats BS.
+  >
+  > **@CarlosRodriguez-dh7mm** [👍2]：I saw the notification and attacked it at light speed
+  >
+  > **@thegenericgeek** [👍2]：Timeline - One of Crichton&#39;s best works. Read it if you haven&#39;t already.
+  >
+  > **@ancientsociety6172** [👍2]：Next interview Daniel should ask when Kelsier will be back in the item shop
+  >
+  > **@tannerflowers1994** [👍2]：Hey Daniel my girlfriend keeps asking me when your buffy review is coming? Lol that was a fun watch on the witcher comparison
+  >
+  > **@RyanReeder** [👍2]：Hasn&#39;t read The Simarillion and loves The Fifth Element?  I might have to rethink my fandom.<br><br>--Alright, I&#39;m still in.  :)
+  >
+  > **@carlosroo5460** [👍2]：Ok, I gonna leave, because I&#39;m starting to get spoilers for Mistborn and I&#39;m only at book 1 Chapter 4. Best of luck to you Bran Lee and have a good day Daniel.
+  >
+  > **@KyleBruns** [👍2]：Is Branden Sanderson &#39;Yesterdaying&#39; his career.  Does he actually come from a reality where these books already exist and now he is just retelling them to us?  That would explain his production level.
+  >
+  > **@richardsrichards2984** [👍2]：After hero of ages....can anyone recommend another fantasy series to read with such high standards...memory of light was close bt still not hitting that standard
+  >
+  > **@zachtaylor8222** [👍2]：when Brandon started talking about having to tell himself a story to fall asleep it kind of rocked me. other people do that? is it actually normal?
+  >
+  > **@ElHua** [👍1]：I want to see Brandon&#39;s cameos with him reading or carrying the leatherbound edition of whichever book the show/movie is adapting
+  >
+  > **@lordvonmoltke7626** [👍1]：My favorite thing in the world is going to bookstore and run my hand over the covers of all the books
+  >
+  > **@johnhenrygrzyb7970** [👍1]：I’m sure you don’t read all these comments. LoL I would not if I was you lol   You get so many every day<br><br>I  want to apologize upfront. But I am not a nerd. I want to specify a nerd in my world is so different from what you guys characterized as. Born in 1983. I read the first two books in the past year of 2023 Mistborn.  I still don’t know what I feel but I’m enjoying the discovery. I have not done that in a very long time. I am a 40-year-old man and I am loving the journey so far. Just getting into fantasy in the last year or so   Thank you so much because I never heard of Brandon Sanderson until about a year ago or so until I went to your YouTube page. I just I got back from deployment and I was lost and I did not know what to do but I started reading books that your channel recommended. Thank you so much because there are some mornings I wake up with my PTSD and I’m trying to figure out what to do and I just logged onto YouTube lol my mind from all those crazy experiences. I finished the green bone saga. I loved that series so much.   My first fancy trilogy ever  Made me feel like I was part of the godfather. Thank you so much for your recommendation. Because however, I would never have open the book if it wasn’t for what you said thank you.❤. I’m trying to finish Harry Potter and I will admit it’s feels too childish to me. Maybe you can do a video on y a to adults. <br><br>The problem I found was, I don’t relate very well with the young books. I am so happy they’re around, but as I’ve gotten older, I’ve learned I don’t relate to them very well, so I’m leaning towards adult fiction lol. They are not bad books at all. I have enjoyed reading them, but I am noticing that it feels not real to me.<br><br>You may never read this post. From what I gather on social media most creative don’t read this far. However, there are many of us out there, who just admire a good old fashion human being, who be are doing fantastic in this world. I thank you for that, sir.  I wish I could be as brave as you are. I am doing my best in my world and it’s very difficult to put all that on the line.<br><br>I just wanna say thank you for putting out what you do. Because there are many people like me who don’t have a voice and we’re out there trying to figure it out.  I just want to be cared for by the people who love me and I love them and I hope the world and embraces that.
+  >
+  > **@gekkenhuisje** [👍1]：Loved the &quot;I have an HR Director&quot; quote.
+  >
+  > **@AureliusAurelius** [👍1]：Amazing questions Daniel!
+  >
+  > **@DavidSmith-wr5sj** [👍1]：I just saw he had this Kickstarter yesterday after recently starting his books, I&#39;m only three in so far. It&#39;s over 45M... couldn&#39;t have happened to a better author, he seems so kind and fun.
+  >
+  > **@randalthor6771** [👍1]：The interview we were all awaiting😎
+  >
+  > **@nviz47** [👍1]：This is a great interview; hearing Brandon Sanderson speak on the issues with traditional publishing and the (almost) lack of competition of Amazon, was great! I hope publishers find what he&#39;s been saying (apparently for years!) compelling.
+  >
+  > **@TheFlyingP1g** [👍1]：I do wonder if we will ever meet an <b>old</b> Hoid, since he seems to travel forward through time from one important event to the next.
+  >
+  > **@rasaecnai** [👍1]：The thing about this is that it proves that people actually still want to read full length novels. People reading is a big win!
+  >
+  > **@KaraokeBanshee** [👍1]：Bravo on a series of excellent questions, Mr. Greene! And I am so proud to hear Sanderson both heartily defend bookstores and stand up against the current problems in publishing. (Book twitter gives me anxiety.)
+  >
+  > **@thedeadd.c.207** [👍1]：Brando Sando the one author who wants to die in all adaptations of his work. Love it.
+  >
+  > **@jamesfrederick.** [👍1]：Yeah Brandon Sanderson is epic
+  >
+  > **@ArthusRen** [👍1]：Excited for this!!!
+  >
+  > **@MattthePolishActor** [👍1]：Sanderson should play the guy from Elantris who keeps saying &quot;so beautiful&quot;
+  >
+  > **@tanmad21** [👍1]：Great interviewer. Great interviewee. <br>And, might I say, great viewer as well. :)
+  >
+  > **@traymac11** [👍1]：Awesome and inspiring interview, Daniel. Thanks for sharing!
+  >
+  > **@kenm4390** [👍1]：I would love to see Mistborn movies I think they would translate really well with the proper budget.  I never thought Stormlight would make much sense in other formats but after watching Arcane I think an animated show in that style would be awesome
+  >
+  > **@KyU433** [👍1]：Daniels left ear sure looked good today! ;)
+  >
+  > **@SourBogBubble** [👍1]：This was neat thanks.😎🤙🦅
+  >
+  > **@rapha_spi** [👍1]：Great stuff
+  >
+  > **@Solemnyty** [👍1]：When Brandon said “It’s super easy!” My brain said, “Barely an inconvenience.” Lol.
+  >
+  > **@RobbieLee90** [👍1]：I&#39;d listen to Sando read the phone book
+  >
+  > **@IcelnMyVeins** [👍1]：I really wished you asked him what this overwhelming support means to him from the kickstarter etc
+  >
+  > **@manapineapple** [👍1]：Well i got into sanderson at the right time
+  >
+  > **@gowzahr** [👍1]：&quot;Oh is that all? It&#39;s super easy.&quot; Barely and inconvenience.
+  >
+  > **@durgaprasad814** [👍1]：you can run Kickstarter for Mistborn movie, lets see how much can be funded.
+  >
+  > **@danielbroome5690** [👍1]：Mistborn and Stormlight are neck and neck eh? Kinda like the space age of the Cosmere right Brandon? :P
+  >
+  > **@FDRTKOva** [👍1]：I honestly would love to hear if Sanderson would want it animated like arcane or castlevania. Or live action.
+  >
+  > **@Honorablediscord2** [👍1]：great video! I just wish there was a Graphic Audio bundle for the cosmere books as that&#39;s how I buy them now.
+  >
+  > **@younktsome2** [👍1]：well, i think marsters should definitely do the audiobook for secret project 2 now...
+  >
+  > **@jeffeliassen** [👍1]：Now is the dominion of nerd culture
+  >
+  > **@shawnbranson1511** [👍1]：If Kelsier doesn&#39;t get a chance to kill his creator, I don&#39;t know that any character should.
+  >
+  > **@this.is.a.username** [👍1]：Imagine if RJ had survived to be doing these videos.
+  >
+  > **@arthur99mun** [👍1]：why would you tape yoursef on your side?
+  >
+  > **@jeremycyr6480** [👍1]：42 comments when you mentioned hitchhikers guide.   I&#39;ve ruined that now.
+  >
+  > **@rasaecnai** [👍1]：I think brandon aside from being awesome artist also has administrative skills. He realized he needed a staff to run things so he can do his work. Maybe not everywriter wants to head and manage an organization like Brandon&#39;s
+  >
+  > **@dragonfruit646** [👍1]：How has Fifth Element aged poorly? I still love that movie.
+  >
+  > **@genericallyentertaining** [👍1]：<b>Gasp</b> Sanderson never finished reading the Silmarillion???? For shame.
+  >
+  > **@violinvsworld9791** [👍1]：BS is the goat
+  >
+  > **@salserio6727** [👍1]：What was that that fell at <a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=117">1:57</a>?
+  >
+  > **@chickeninferno** [👍1]：Mild Spoiler warning for Mistborn Book 2 at ~<a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=230">3:50</a>
+  >
+  > **@Florfilm** [👍1]：Daniel why are you looking offscreen so much. You know that’s not how interviews normally work.
+  >
+  > **@pinpunk13** [👍1]：Very strange editing. Seems like some collage.
+  >
+  > **@tonykuriger573** [👍1]：Brandon wasn&#39;t signing stuff.<br>You got the full undivided attention.
+  >
+  > **@raodvanlaontotaoke4993** [👍1]：I hope he sticks to fantasy, never liked Sci Fi, not in books, not in movies.
+  >
+  > **@grandadmiralmanatee**：We love the bookstores!!!!!!! Totally agree
+  >
+  > **@RKStumblingbear**：It&#39;s nice to know that I am not the only person to tell myself a story as I am going to sleep.
+  >
+  > **@amusedcookie**：Omg Fifth Element if my favorite movie too.
+  >
+  > **@Jim_boe**：<a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=108">1:48</a> waiting on Brando becoming a green donut and/or getting yamcha’d
+  >
+  > **@seancatacombs**：Sanderson takes elements from the promotions and customer communication that exists around gaming, especially live service properties, and attaches them to &quot;stodgy&quot; &quot;legacy&quot; media like genre novels. Consistent and frequent creator live letters, video updates, swag and multimedia art, having a finger on the pulse of the fandom, etc. All of this fosters the &quot;inexplicable&quot; following and fan loyalty he commands.
+  >
+  > **@greggbowen6735**：Phew! 😅   -Kim Stanley Robinson
+  >
+  > **@Zepptron**：Thanks for doing these interviews Daniel
+  >
+  > **@akosattilafabian8751**：There was an article about the kickstarter in a hungarian newspaper.
+  >
+  > **@robhurlocker7040**：@<a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=1048">17:28</a> Now I want to see Brandon write an episode of Lower Decks!
+  >
+  > **@connormccloy9399**：At first I thought Sanderson meant he didn’t want to die like a red shirt on Star Trek, it took me a second to get the Way of Kings reference.
+  >
+  > **@korythebor**：Really appreciate the mention of spoilers so I could bow out before it started. Thanks Daniel!
+  >
+  > **@Bookdragon11**：Secret project two sounds great! 👌😆<br>A very nice, interesting, and informative interview. 😃
+  >
+  > **@jbridendolph1559**：The guide to medieval England immediately reminded me of a TV movie I saw as a child called Disaster In Time starring Jeff Daniels and the granddaughter from Jurassic Park. Except more fantastical given the wizard element. Very excited for this book, especially if it’s got a Hitchhikers Guide vibe to it.
+  >
+  > **@alexm-e4910**：Man I love both these dudes
+  >
+  > **@Belazoth.**：Excellent interview! You&#39;re questions were great and it was nice seeing the casual conversation between you two. Thanks to both of you for doing this
+  >
+  > **@mariesia0525**：I haven&#39;t read anything new in the last couple of years other than Robin Hobb&#39;s Farseer Trilogy. I keep re-listening(is that a word?) To Brandon&#39;s Mistborn and SA series on audible. Thoroughly enjoy the series and the stories don&#39;t get old.
+  >
+  > **@amy_soucy**：Book store employees are the BEST!
+  >
+  > **@RealNellyMandelly**：I AM SOLD ON THAY COMBO they mentioned at the end. Holy hell! Such books as influence!!
+  >
+  > **@KRONKERZ**：Great dynamic. Wish they’d get together more
+  >
+  > **@Eval999**：I love Brandon. Awesome author and creative.
+  >
+  > **@tristenvaughan3892**：we got a Red Mars mention!!! those are my favorite books forgive me that makes mes happy; and excited to decide to start Skyward as my first Sanderson novel soon!
+  >
+  > **@wera-x9l**：brando sando is my stan lee
+  >
+  > **@comwom5176**：5th element &lt;3
+  >
+  > **@daisuke133**：Daniel be dropping casual Sando&#39;s interview in between videos. Noice.
+  >
+  > **@JohnnyNeedle**：Loved Colbert at 14.57 ^^
+  >
+  > **@jenniferandersen3646**：Funny enough, I&#39;m new to Sanderson and my first book that introduced me to him was Steelheart. I highly recommend.
+  >
+  > **@TheArcticsailor**：This was a great interview
+  >
+  > **@andrewnelson7166**：Great questions! Subscribed!
+  >
+  > **@pax3431**：Awesome video man ! Love seeing these interviews!
+  >
+  > **@sirhubcap2171**：Man, Daniel does a great job as an interviewer
+  >
+  > **@randallmcclure9901**：Great interview.
+  >
+  > **@optimust**：Thanks for the great interview. Loved hearing Sandos thought process behind the Kickstarter initiative and where he stands w/ publishers.<br>One pt of feedback, the side-view perspective for you does not work as welll as the ol&#39; full-frontal. At least from that particular angle. I think I get what you were going for tho, i.e. enhance the feeling that you are talking in person. &lt;3
+  >
+  > **@erickamezcuaaa**：Thanks for the great interview. For future interviews, I hope you can converse more rather than just ask questions. More conversation stule
+  >
+  > **@emmanuelboakye1124**：This was welldone👍👍
+  >
+  > **@afk2514**：The Lord Ruler and the Goblin.
+  >
+  > **@2007PontiacVibe**：Petition for Brando to play hoid in his cinematic universe
+  >
+  > **@cesarblaringhem4260**：STORMLIGHT ARCHIVES would look AMAZING as anime!!
+  >
+  > **@fonkans**：Brandon as Hoid would be awesome :)
+  >
+  > **@icobeshie1627**：Hello Daniel!! 😍🥰 Hehe much love from the Philippines 💕
+  >
+  > **@TheUnorthodoxIam**：Great content!
+  >
+  > **@chloeahey**：Daniel always looks like he’s going to let out the most goblin like happy stress relieving growl after he’s done talking to Sanderson 😂
+  >
+  > **@senorbe**：The second kickstarter book sounds like a humorous take on Connie Willis&#39;s Doomsday Book -&gt; which is one of the most harrowing and tragic books in the sci-fi fantasy canon.
+  >
+  > **@wynnefox**：I had a genre thought I dubbed &quot;Fantasy Punk&quot;. Which seems scifi, but leans extremely heavily into the fantasy. World of Warcraft or the futruistic &quot;Treasure Planet&quot; both seem that way.
+  >
+  > **@Dork_Fysh**：Am I the only one that wants to see some sort of Cosmere DnD with Rustage and Mr. Greene?
+  >
+  > **@Rompstirdg**：i f i didnt have a quick mouse hand and a good gaming chair i would&#39;ve heard a misborn spoiler (just starting the series)
+  >
+  > **@vilevagrant4632**：Brandon Sanderson must become the defiant force against amazon.
+  >
+  > **@ellanorevannin4147**：Aspiring to play background people who die. Nice🤣
+  >
+  > **@antanowrites**：Haha I personally think Brandon should be Hoid so he can cameo in all his stuff
+  >
+  > **@TimGlaser**：Thank you both for this excellent interview. I always want to ask Mr. Sanderson if he likes the Netflix &#39;Arcane&#39; Style animation for any of his properties? For me, Stormlight would be amazing in that style.
+  >
+  > **@charlessmyth**：Looks like he&#39;s to be kept busy :-)
+  >
+  > **@apocalipsereich6997**：Waoooo... 🤯<br>I&#39;m too going to tell stories to myself in order to sleep.<br>Only hope they&#39;re not horror ones 👏😜<br>And by the way : VINTAGE SEASON by C. L. Moore and Henry Kutner, explora a similar idea: backward in time tourism to moments of disasters... Etc.
+  >
+  > **@chubbuck35**：The interview format would work better as a split screen IMO and would probably save a lot of editing time.
+  >
+  > **@Sunraiser6610**：Raoden will become a Bondsmith
+  >
+  > **@alexrechkin7**：Can you help me, i cant find &quot;book skin Nielsen rating&quot; that Brandon talked about. Where to look for it?
+  >
+  > **@obsidian....**：Glad to see a more &quot;cocky&quot; Brandy Sandy - he deserved to brag a bit and definitely feel himself a bit more as well 👍
+  >
+  > **@ismugireson7622**：Brandons ego is insane had me laughing so much watching this interview I love it
+  >
+  > **@hellwroughtangel**：&quot;they watch books&quot; lol
+  >
+  > **@ningenshot650**：cosmere Brandon Sanderson
+  >
+  > **@onepiecepedia**：Project 2 reminds me of one of my favourite book <b><i>Up the Line</i></b> by Robert Silverberg. A great story around a time travelling tourist guide who has to deal with idiots trying to change history but then something far worse happens. A great book if you pass some of the 60s se*ual content...
+  >
+  > **@BinarySecond**：Brandon will play Kelsier
+  >
+  > **@captainlovebug**：I&#39;m working on writing a cosmic horror novella! I would love to get your feedback on what I have so far as a story outline.
+  >
+  > **@sadhbhauldwyn3798**：i wanna go in 100% blind but i wanna watch the spoiler section ;-;
+  >
+  > **@donkeyshins7715**：Now we just have to get the Critical Role group together with Sanderson to pass off the Champion&#39;s Belt!
+  >
+  > **@Bandoolero**：what earbuds does the goblin use?
+  >
+  > **@delroygabriel2506**：Interesting camera angle choice for you
+  >
+  > **@gman7774**：Nice profile
+  >
+  > **@mikieengachate5681**：What shirt is Brandon wearing, looks cool
+  >
+  > **@KnightRadiant88**：Amazon will mess up LOTR TV Series. They are not making it to the Tolkienverse and focusing elsewhere is my bet.
+  >
+  > **@jacquelinebryant2962**：Do I spy stacked side-lying books on Daniel&#39;s shelf????? Someone should do a roast lol.
+  >
+  > **@beepb0t**：Brando Sando
+  >
+  > **@codyneville7277**：so are the new books not going to be on audible? hard to afford this RN but people like me would like to support that way
+  >
+  > **@wes5457**：Manu Viciano pliz traslate all books to Spanish....
+  >
+  > **@CarlosSpicyWeiner42**：Goblins Rule
+  >
+  > **@kyleharvey9366**：One Piece Nice!!
+  >
+  > **@EM-mn3nz**：Sir what’s that ring on ur finger did I miss something 👁👄👁
+  >
+  > **@guilhermeferraz9954**：I bet he was writing a book or two while he was talking to you
+  >
+  > **@Ivory207**：Steel inquisitor Fortnite skin would be dope
+  >
+  > **@comwom5176**：Are you backing the Kichstarter? And for how much? I would love to go all in and back the Year of Sanderson. But the shipping cost to europe are too high. Dragonsteel will change that on the next Kickstarter.
+  >
+  > **@senorbe**：Steven Colbert shows up to diss Brandon for not being a Tolkien nerd.
+  >
+  > **@zacharyhockett6248**：I love Mr Sando but paying hundreds of dollars all at once for a handful of books isn&#39;t something most people can do. Definitely not a project for everyone but I&#39;m glad it exists.
+  >
+  > **@quastor749**：I find it horribly unfair that credit card is the only payment method for kickstarter (100% not the fault of the ppl who put their stuff on kickstarter)
+  >
+  > **@matinnikoomanzar9167**：Berserk review when?
+  >
+  > **@phantomofthelpac**：Had to stop when you asked about project 2 and I recall a Fantasy News segment I had to quickly stop when you talked about specifics of the 1st. I&#39;m one of those people wanting to be completely blind for all of those. Maybe try to put spoiler warnings for things like that in the future?
+  >
+  > **@hikethemike7349**：why do you call him Sanderson?
+  >
+  > **@vijayragav4717**：Is <a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=208">3:28</a> Syl throwing in distance a spoiler? I&#39;m just on the second book.
+  >
+  > **@StillVenn**：I don&#39;t want spoilers of anything more than the titles. Is there anything after the spoiler talk, or should I actually stop the video at <a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=1257">20:57</a>?
+  >
+  > **@roidelle3817**：Hey....I stopped the video at <a href="https://www.youtube.com/watch?v=02vvaHjMzTA&amp;t=1257">20:57</a>. Because no spoilers. Is there anything after that which is in the no-spoiler territory?<br>Would have been helpful to have a pop-up or anything, that would tell us, if there was or not, or even something in the description or pinned comment.
+  >
+
+---
+
+## 8. Sanderson Changed Publishing Today
 
 - **频道：** Daniel Greene
 - **观看数：** 344,745
@@ -1393,8 +3088,6 @@
   >
   > **@RetroWaveDave** [👍12]：Your reaction exactly mirrored my own. What an absolute mad lad. All glory to the Brando Sando.
   >
-  > **@melthebookdragon8863** [👍12]：In all fairness, doing social media purely to market or kickstart a book has very unhealthy draw backs especially for minorities or people in rural areas or anyone who just doesn&#39;t have the spoons to have an online presence. And the fear of getting doxed, stalked, or harassed or canceled can ruin a person&#39;s life. Not to mention being an artist in America right now means working within a capitalistic society without a safety net for injury or disease. It might be sustainable for someone like Sanderson who has a wife to pick up the slack while he writes full-time, but not for someone who might not have the means, opportunity, or safety net to be a full-time artist. There were hundreds of new authors that released their debut novels in a pandemic and they got by, by the skin of their teeth. Most of their marketing was done from word of mouth by Youtubers/influencers like you. If anything this might just create a need for an organized social media presence/job in publishing. Big companies might hire social media managers for authors or publishing houses, but who&#39;s to say that wouldn&#39;t also have draw backs. It&#39;s just not something I can see working for everyone. And unless we&#39;re able to create equal opportunities we&#39;re only going to see a downward trend of diverse stories. <del>-I&#39;m probably being overly negative because its year three and I&#39;m tired, agree or disagree idgf-</del>
-  >
   > **@paperbackart** [👍11]：I’m so happy to be a Brandon Sanderson fan!
   >
   > **@Robert256** [👍11]：I listened to the whole thing live at my office....but then was beyond disappointed to see that the top tier that Sanderson hyped me up for so much is worth as much a month&#39;s worth of groceries for my family. Sorry Brandon, but I gotta eat; and I can buy the digital books anytime, so...yeah...no backing from me.
@@ -1445,15 +3138,15 @@
   >
   > **@matthewletexier** [👍4]：I&#39;m thinking of starting a gofundme to afford the year of Sanderson
   >
-  > **@lolrirs7754** [👍4]：I don&#39;t WANT this to be all authors though. I just recently got into a very popular non-genre writer (Elena Ferrante) who started out determined to be anonymous writing from a pen name, and though she&#39;s apparently gotten doxxed, I&#39;m choosing to respectfully avoid reading up on that, and there is seriously something SO satisfying about how she&#39;ll maybe give an isolated interview or choose to publish a piece of non-fiction writing, but will otherwise just remain a presence who has just chosen to let these incredible books to speak for her, as opposed to being a ~multimedia ~personality. You&#39;re probably right that eventually nobody will be able to do this at all, but I&#39;ll never see that as being a good thing.
-  >
   > **@TheTrueRandomGamer** [👍4]：I&#39;m convinced he&#39;s the avatar of some writing God on an alien planet who came to usher in a new age for humanity.
   >
-  > **@itsyaboi77** [👍4]：Book printer go brrrrrrr
+  > **@lolrirs7754** [👍4]：I don&#39;t WANT this to be all authors though. I just recently got into a very popular non-genre writer (Elena Ferrante) who started out determined to be anonymous writing from a pen name, and though she&#39;s apparently gotten doxxed, I&#39;m choosing to respectfully avoid reading up on that, and there is seriously something SO satisfying about how she&#39;ll maybe give an isolated interview or choose to publish a piece of non-fiction writing, but will otherwise just remain a presence who has just chosen to let these incredible books to speak for her, as opposed to being a ~multimedia ~personality. You&#39;re probably right that eventually nobody will be able to do this at all, but I&#39;ll never see that as being a good thing.
   >
   > **@ayushchoudhury9091** [👍4]：This guy wrote 5 books in the same amount of time it took me to read the first 3 mistborn books. At this rate I&#39;ll never catch up 😭.
   >
   > **@xompeii** [👍4]：that kickstarter fully funded in 40 minutes, lmao
+  >
+  > **@itsyaboi77** [👍4]：Book printer go brrrrrrr
   >
   > **@megallodon8707** [👍4]：I had a roller-coaster of emotions when I watched his video. I live near Ukraine so I am really sad and stressed out, so when I watched his video, I went from &quot;damn... more bad news, god help us&quot; to &quot;WOOOOOOAAAH this guy is insane! AWESOME1!!&quot;
   >
@@ -1477,1572 +3170,695 @@
   >
   > **@bookishimpala5764** [👍2]：My jaw just just hit the floor over and over again as each of the novels appeared. How does he write so much? That&#39;s incredible.
   >
-  > **@LiamsLyceum** [👍2]：I love the bundle, I’ve wanted to be able to buy a physical copy and get a digital with it for years. I’m glad Brandon felt the same.
-  >
-  > **@nathaniel2007** [👍2]：It would be cool if a publisher included a platform building service as an option. I have not finished my first book, but I would definitely consider a publisher that had resources and people to help build an online presence and schedule minor content releases (short stories, character art, merchandise, etc).
-  >
-  > **@Goodday639** [👍2]：patrick rothfuss has left the chat
-  >
   > **@LordJazzly** [👍2]：On the one hand, I can see how this might happen, because the process of writing one thing can easily produce a lot of ideas and passages that don&#39;t fit the current work but are just too fun or interesting to discard altogether;<br><br>On the <i>other,</i> how the hell do you manage to make words for so long without devolving into &#39;and then the thing did the thing and that was a good thing because I like bananas they are my favourite fruit, chicken chicken bouncy cow noises&#39;? Man&#39;s language centres must have the endurance of a hunter-gatherer&#39;s cardiovascular system.
-  >
-  > **@oddleopardkai5949** [👍2]：As an author, Sanderson writing secret novels both inspires me so much and makes me incredibly envious 😂 His work ethic is incredible!
-  >
-  > **@Sleepgarden** [👍2]：I feel like Doors of Stone and Winds of Winter are looking at Sanderson like one of those kids going &quot;why can&#39;t I have you as a dad instead?&quot;
-  >
-  > **@vamsiampolu8438** [👍2]：I&#39;ve seen actors/soccer players et al use Instagram/Facebook by hiring social media teams that just release images with a quote or post something about a discount.<br><br>The interaction with Brandon works because they&#39;re genuine and organic, they happen on reddit and YouTube with the livestreams having genuine fan interaction.
-  >
-  > **@roselightz_3027** [👍2]：It&#39;s such a cool drop. I wish I could afford the hardcovers or boxes, but international shipping is so expensive:/
   >
   > **@vol94** [👍2]：Sanderson was definitely the kid who finished his assignments before the teacher even gave them.
   >
-  > **@saddocatto9245** [👍2]：41 million USD.... whew
+  > **@nathaniel2007** [👍2]：It would be cool if a publisher included a platform building service as an option. I have not finished my first book, but I would definitely consider a publisher that had resources and people to help build an online presence and schedule minor content releases (short stories, character art, merchandise, etc).
   >
-  > **@josehk3486** [👍2]：He is absolutely crazy... I wrote 4 books plus starting a couple others in 14 months. But my books are 1/3 length of his and has probably not as complicated worldbuilding... I have so much respect for that man...
+  > **@Sleepgarden** [👍2]：I feel like Doors of Stone and Winds of Winter are looking at Sanderson like one of those kids going &quot;why can&#39;t I have you as a dad instead?&quot;
   >
-  > **@yoshaosaxofonista** [👍2]：imagine the destruction stephen king or another big author over there could make on a move like that
+  > **@LiamsLyceum** [👍2]：I love the bundle, I’ve wanted to be able to buy a physical copy and get a digital with it for years. I’m glad Brandon felt the same.
   >
-  > **@elijahmwh** [👍1]：Glad to this video doing numbers!
+  > **@Goodday639** [👍2]：patrick rothfuss has left the chat
   >
   > **@benjaminbufton3696** [👍1]：its hit over 23 million dollars...... woah
   >
-  > **@RebeccaLoran** [👍1]：It&#39;s hit 25 mil already lol
+  > **@tnayeen.ashghatank** [👍1]：&quot;I. DO NOT. UNDER. STAND.&quot;<br>&quot;I know&quot;
   >
   > **@OnePieceOfEt** [👍1]：<a href="https://www.youtube.com/watch?v=8EVgZzb5ZKo&amp;t=132">2:12</a> <br>daniel : i do not understand<br>brandon : I know
   >
-  > **@tnayeen.ashghatank** [👍1]：&quot;I. DO NOT. UNDER. STAND.&quot;<br>&quot;I know&quot;
+  > **@RebeccaLoran** [👍1]：It&#39;s hit 25 mil already lol
+  >
+  > **@elijahmwh** [👍1]：Glad to this video doing numbers!
   >
   > **@DoomMuffens** [👍1]：The most important step, is the next one.
   >
-  > **@Phanto5692** [👍1]：The goal was $1,000,000. As of today (March 7th) it has reached $25.5 million and it&#39;s still going up.
+  > **@theeldestcastle8676** [👍1]：He&#39;s already at 15 million
   >
-  > **@ksagen** [👍1]：I waited until after work to watch Sanderson&#39;s video, balled my eyes out, went to the Kickstarter, and then came here because I knew you would understand how I felt. Many I have to get writing!! I&#39;m so inspired.
+  > **@Phanto5692** [👍1]：The goal was $1,000,000. As of today (March 7th) it has reached $25.5 million and it&#39;s still going up.
   >
   > **@TheCalenestel** [👍1]：I am starting to suspect that Sanderson made some kind of Faustian deal...
   >
-  > **@rubik2x2x2** [👍1]：My second time watching the announcement and I&#39;m still in tears (of joy). This man knows how to make me suspend my disbelief. The pen truly is mightier than the sword.
+  > **@ksagen** [👍1]：I waited until after work to watch Sanderson&#39;s video, balled my eyes out, went to the Kickstarter, and then came here because I knew you would understand how I felt. Many I have to get writing!! I&#39;m so inspired.
+  >
+  > **@TheAllarie** [👍1]：This video is one of my happy place videos that I randomly watch for fun. Not only Sanderson telling us awesome news! And Daniel just breaking.
+  >
+  > **@tobeornot2be117** [👍1]：I need another reaction for today 😅
   >
   > **@markoahhhhh** [👍1]：i can see a world where authors live stream portions of their writing process. would be cool to see stuff like that being made lol
   >
-  > **@theeldestcastle8676** [👍1]：He&#39;s already at 15 million
+  > **@thefallenmyst** [👍1]：The dude is an inspiration. Not just for his insane productivity, but now, for basically showing publishers what&#39;s possible (including indies, I think).
   >
-  > **@tobeornot2be117** [👍1]：I need another reaction for today 😅
+  > **@Franzburg** [👍1]：LOL nice man. When I saw Brandon Sanderson&#39;s I was wondering about ur response immediately .
   >
   > **@adeadgirl13** [👍1]：Brando Sando does it again!
   >
   > **@twilight696** [👍1]：Kickstarter Currently sitting at a comfortable $26,664,084.....
   >
-  > **@thefallenmyst** [👍1]：The dude is an inspiration. Not just for his insane productivity, but now, for basically showing publishers what&#39;s possible (including indies, I think).
-  >
-  > **@TheAllarie** [👍1]：This video is one of my happy place videos that I randomly watch for fun. Not only Sanderson telling us awesome news! And Daniel just breaking.
-  >
-  > **@kevorev** [👍1]：Does anyone realize this was the Steve Jobs iphone introduction, but for books.
-  >
-  > **@TheBaronessBlack** [👍1]：This reveal is on a whole other level. I&#39;ve seen many artists &amp; illustrators use kickstarter to fund their own graphic novels, art books, and card sets with great success. (Look up Art of Loish, and the How to Think When You Draw/Write series by the Etherington brothers). It&#39;s fantastic to see Sanderson breaking out to do it this way too. :)
-  >
-  > **@banjofry9897** [👍1]：Will these books release outside of the kickstarter?
-  >
   > **@grubfilms9043** [👍1]：Man I have so many books I want to read. I feel like I&#39;ll never be able to catch up with his writing pace
   >
-  > **@RumoHasIt** [👍1]：I laughed even harder watching your reaction than I did during my first watch through. This was the best thing Ive watched all year, and im going back to your Sando skit to celebrate
-  >
-  > **@Franzburg** [👍1]：LOL nice man. When I saw Brandon Sanderson&#39;s I was wondering about ur response immediately .
-  >
-  > **@aarons9879** [👍1]：This makes me happy.  I&#39;m glad to see authors outside of marketing start to make moves to keep more money for themselves like this. I know of one guy who sold his copywriting book for 6k off of his website and made a ton doing that.  All self published. Seeing this idea spread to other genres is awesome.
-  >
-  > **@LightsOnTrees** [👍1]：During quarantine I did not write 5 novels... I considered it a victory that I didn&#39;t eat my body weight in cheese...
-  >
-  > **@Draugo** [👍1]：The Kickstarter has broken 20M and is still going up noticably.
-  >
-  > **@kinggrantking** [👍1]：Would love to see where Sanderson&#39;s words per day comes out on the all-time list. There&#39;s no way any pre-keyboard author could have ever kept this pace up. Even Faulkner couldn&#39;t possibly do this.
-  >
-  > **@louiscarrico-braun5483** [👍1]：Your sketches are coming true
-  >
-  > **@antanowrites** [👍1]：So @Daniel Greene how long until you start preferrring the Cosmere to the Wheel of Time?
+  > **@rubik2x2x2** [👍1]：My second time watching the announcement and I&#39;m still in tears (of joy). This man knows how to make me suspend my disbelief. The pen truly is mightier than the sword.
   >
   > **@Leon-tc6lv** [👍1]：This absolute unit of a man
   >
+  > **@kevorev** [👍1]：Does anyone realize this was the Steve Jobs iphone introduction, but for books.
+  >
   > **@sampew1605**：The way he kept pulling them out from under his desk!
-  >
-  > **@roylong2059**：Had to double check calendar felt like an April fools
-  >
-  > **@t.j.scifiquest2331**：Excellent video. Outstanding analysis of the realities of our times. Thank you.
-  >
-  > **@tracytracyWM**：Can&#39;t wait for my audiobooks!!
-  >
-  > **@TheBeccabus**：Good point about social media and publishing. John Green had great success getting with this. I was surprised not to see more of it after The Fault in our a Stars
-  >
-  > **@ethansexton2590**：I am very interested to see how this ripples through the publishing industry
-  >
-  > **@adamrhodes9946**：Yep, I am VERY envious.  I have been trying to write only one book since just before Covid started and I am only at like 40 typed, single spaced pages.
-  >
-  > **@stardroplet9499**：So glad you taped your reaction
   >
   > **@drplasma1990**：At the moment, 3 days in, 27 to go, the Kickstarter is close to 20 millions.
   >
-  > **@mjmullady**：Your reaction was gold!!  And wow...just wow!
+  > **@TheBeccabus**：Good point about social media and publishing. John Green had great success getting with this. I was surprised not to see more of it after The Fault in our a Stars
   >
   > **@zOctaa**：It&#39;s at 12.5 million already. Holy shit
   >
+  > **@tracytracyWM**：Can&#39;t wait for my audiobooks!!
+  >
   > **@danielapaza5994**：In quarantine I just could write a novel. Still has to be revised. .. Sanderson man!
   >
-  > **@juliehartley3652**：I&#39;m happy because the Sanderson thing means I found this channel. Good analysis, thank you.
+  > **@pachupac**：6 days later and it&#39;s at 26 million, man I should really stay more up to date with news
   >
-  > **@stardroplet9499**：I have a weird work schedule so I haven’t been able to pledge in the kickstarter yet, and it’s over 13 million so far!
+  > **@heathercampbell6059**：This is the best reaction I&#39;ve seen since I showed my friend who had never seen princess bride that movie.
   >
   > **@bruceelgin2083**：It&#39;s over 20 Million now. Wow. Just wow.
   >
   > **@anushrut5**：14 million right now, right blown up
   >
-  > **@heathercampbell6059**：This is the best reaction I&#39;ve seen since I showed my friend who had never seen princess bride that movie.
+  > **@adamrhodes9946**：Yep, I am VERY envious.  I have been trying to write only one book since just before Covid started and I am only at like 40 typed, single spaced pages.
   >
-  > **@ciannacoleman5125**：I have t even had a chance to start reading Sanderson yet but am considering participating in the Kickstarter. Gives me a year head start lol.
+  > **@stardroplet9499**：So glad you taped your reaction
   >
-  > **@judithcakelover**：Love your reaction to his video. I thought he would announce a break or something and that we had to wait a bit longer for new releases. And then this happened! Really did not see this coming just like his endings in the books. And I love it!❤
+  > **@roylong2059**：Had to double check calendar felt like an April fools
   >
-  > **@fast.food.ninjalarry954**：Your skit video came to life. ITS ALIVEE !!!
+  > **@stardroplet9499**：I have a weird work schedule so I haven’t been able to pledge in the kickstarter yet, and it’s over 13 million so far!
   >
-  > **@pachupac**：6 days later and it&#39;s at 26 million, man I should really stay more up to date with news
-  >
-  > **@noodlemans**：It&#39;s almost at 9M now.
-  >
-  > **@FourEyedHawk**：As of 8:16 pm central standard time. It&#39;s 11.8 million.
+  > **@juliehartley3652**：I&#39;m happy because the Sanderson thing means I found this channel. Good analysis, thank you.
   >
   > **@sorrshotgaming2033**：you&#39;ll notice that in his chart of how he divides his time he doesn&#39;t have any time for sleep which would explain how he writes so much.
   >
-  > **@kipepeo259**：IT ALREADY HIT 13 MILLION
+  > **@noodlemans**：It&#39;s almost at 9M now.
   >
-  > **@Qumi**：It&#39;s already 7 millions o_O
+  > **@kipepeo259**：IT ALREADY HIT 13 MILLION
   >
   > **@akiakos**：Its at 25 million currently🤯🤯🤯
   >
-  > **@Blizzhobbs**：There&#39;s still 6 shards we don&#39;t really know much about, granted one of them isn&#39;t inhabiting a shard world but that still leaves a potential 5 planets with at least 5 different new magic systems possibly even more lol. From him talking about a disease-based magic system and a kite-magic system with Whimsy I&#39;m extremely intrigued.
+  > **@mjmullady**：Your reaction was gold!!  And wow...just wow!
   >
-  > **@lostthoughts73**：The way you addressed the excuses for not getting into social media.. it was haunting and felt like a wake up call for me as whatever I choose to promote even if it&#39;s not my writing
+  > **@Qumi**：It&#39;s already 7 millions o_O
   >
-  > **@darksalmon**：I wish we had a stream of Rothfuss watching sanderson&#39;s reveal. GRR Martin too.
+  > **@ethansexton2590**：I am very interested to see how this ripples through the publishing industry
   >
-  > **@stanleytehee**：Richard Chizmar has interacted with his readers to advertise his Gwendy’s and Boogieman series. He also has used local bookstores directly, bypassing the big names on purpose. It helps that some he has co-authored with Stephen King, but still pretty cool.
+  > **@ciannacoleman5125**：I have t even had a chance to start reading Sanderson yet but am considering participating in the Kickstarter. Gives me a year head start lol.
   >
-  > **@reecef9869**：My jaw is on the flaw watching these numbers on kickstarter right now
-  >
-  > **@jryan2356**：As of 11:45am in Western Australia, his kickstarter is over 17 MILLION DOLLARS
-  >
-  > **@BatMat52**：Hey! That’s invincible on your shelf. That’s a good book
-  >
-  > **@firefly5677**：Sanderson is a machine. Definitely signing up for the Kickstarter. Can&#39;t wait for the year of Sanderson
-  >
-  > **@guilhermeneves8116**：there&#39;s a Portuguese poet that did the exact same in in the end of the last year, he sold like 6k copies (ik it&#39;s not a lot but for Portugal it is)
-  >
-  > **@njnjco**：<a href="https://www.youtube.com/watch?v=8EVgZzb5ZKo&amp;t=132">2:12</a><br>A Goblin or something: I don&#39;t understand<br>He who writes: I know
-  >
-  > **@LarenOz**：I just checked out the kickstarter in the middle of the night USA time and both the money and backer numbers were spinning like a Las Vegas slot machine.
-  >
-  > **@NinjaxPrime**：Never before has a man so powerfully inspired me and so utterly broken my spirit at the exact same time.
-  >
-  > **@osonhodeleon**：It will be an exciting journey following this author through the years.
-  >
-  > **@aislingconnors3277**：The kickstarter is about to hit 10 million… 😳
-  >
-  > **@deannascorner8112**：I agree with what you said about the future of publishing. It’s honestly why I started a blog and have twitter and Instagram and a YouTube channel because I want to learn and put myself out there. Now I just need to actually write a book! 😆
+  > **@t.j.scifiquest2331**：Excellent video. Outstanding analysis of the realities of our times. Thank you.
   >
   > **@xanuui**：that dollar amount is an order of magnitude smaller than now
   >
-  > **@PinkStar14**：How on earth does he write so fast!!! He&#39;s a literal mad man and I love it!!
+  > **@darksalmon**：I wish we had a stream of Rothfuss watching sanderson&#39;s reveal. GRR Martin too.
   >
-  > **@Steve-fy5zr**：Sometimes I struggle to get a page or two down in a writing session. This man is on another level.
+  > **@FourEyedHawk**：As of 8:16 pm central standard time. It&#39;s 11.8 million.
   >
-  > **@spacet1me**：Was so hoping you&#39;d release a pure reaction to this, I&#39;m just now catching up then went to your channel after his video lol.
-  >
-  > **@monti2842**：Found the update haha, amazing that was my reaction too
-  >
-  > **@Dovieandi_Se_Tovya_Sagain**：Your reaction is awesome and completely reflects mine
-  >
-  > **@Chronic_Gainz**：It’s now at 20 million… 😳😳😳😳
-  >
-  > **@grilled_cheese_sammich**：It&#39;s at 10.2 million now...
-  >
-  > **@Aligariusful**：Just checked. Already at 11.2 million
-  >
-  > **@k-majik**：I backed the Kickstarter within minutes of his video going up, Brando is a cheeky wee fellow :P
-  >
-  > **@caradine898**：I am still so fucking astonished about this announcement. Insane. INSANE
+  > **@fast.food.ninjalarry954**：Your skit video came to life. ITS ALIVEE !!!
   >
   > **@saraholivares4747**：Went through the 5 stages of something watching this video, damn
   >
+  > **@Blizzhobbs**：There&#39;s still 6 shards we don&#39;t really know much about, granted one of them isn&#39;t inhabiting a shard world but that still leaves a potential 5 planets with at least 5 different new magic systems possibly even more lol. From him talking about a disease-based magic system and a kite-magic system with Whimsy I&#39;m extremely intrigued.
+  >
+  > **@caradine898**：I am still so fucking astonished about this announcement. Insane. INSANE
+  >
+  > **@PinkStar14**：How on earth does he write so fast!!! He&#39;s a literal mad man and I love it!!
+  >
+  > **@aislingconnors3277**：The kickstarter is about to hit 10 million… 😳
+  >
+  > **@guilhermeneves8116**：there&#39;s a Portuguese poet that did the exact same in in the end of the last year, he sold like 6k copies (ik it&#39;s not a lot but for Portugal it is)
+  >
+  > **@grilled_cheese_sammich**：It&#39;s at 10.2 million now...
+  >
+  > **@jryan2356**：As of 11:45am in Western Australia, his kickstarter is over 17 MILLION DOLLARS
+  >
+  > **@Chronic_Gainz**：It’s now at 20 million… 😳😳😳😳
+  >
+  > **@LarenOz**：I just checked out the kickstarter in the middle of the night USA time and both the money and backer numbers were spinning like a Las Vegas slot machine.
+  >
   > **@betapartical1116**：It&#39;s over 13 million right now.
+  >
+  > **@monti2842**：Found the update haha, amazing that was my reaction too
+  >
+  > **@Aligariusful**：Just checked. Already at 11.2 million
+  >
+  > **@rasaecnai**：BUT WAIT! THERE IS MORE - moment.
+  >
+  > **@BatMat52**：Hey! That’s invincible on your shelf. That’s a good book
+  >
+  > **@stanleytehee**：Richard Chizmar has interacted with his readers to advertise his Gwendy’s and Boogieman series. He also has used local bookstores directly, bypassing the big names on purpose. It helps that some he has co-authored with Stephen King, but still pretty cool.
+  >
+  > **@tobiasboyer3672**：The Man. The Machine. The Printer!
+  >
+  > **@spacet1me**：Was so hoping you&#39;d release a pure reaction to this, I&#39;m just now catching up then went to your channel after his video lol.
+  >
+  > **@k-majik**：I backed the Kickstarter within minutes of his video going up, Brando is a cheeky wee fellow :P
+  >
+  > **@osonhodeleon**：It will be an exciting journey following this author through the years.
+  >
+  > **@vydave**：Its at bloody $18 MILLION at 6:40 UTC on 3rd March. I am beyond stunned at this point.
+  >
+  > **@asgerkrogh5671**：It worked so well that my friend who read a bit of Sanderson and didn&#39;t like it asked me if I&#39;d seen the new reveal
+  >
+  > **@erichmyles4481**：You predicted this in a video lmao this is amazing
+  >
+  > **@MichaelPiraino**：I feel like he saw pirateaba from the wandering inn about to overtake him in total word count and was like &quot;welp, lets put a stop to that!&quot;
+  >
+  > **@nathanmancusi2766**：11 million 3 hours after this video was released
+  >
+  > **@myribstellmesheslying**：It&#39;s at 7 million now.
   >
   > **@larryjones558**：I need to step up my writing game. He’s a beast.
   >
-  > **@williamalexander9124**：“I don’t know how that’s humanly possible”<br><br>Literally my thought about the time he pulled the 3rd one out.
+  > **@Blixthand**：I did notice sleep wasn’t part of his pie charts
   >
-  > **@SholindreanTales**：What Brandon&#39;s done has really gotten my gears turning. I&#39;ve been trying to build a platform on Instagram since I&#39;m an artist and an author, but it&#39;s slow going. I don&#39;t know what to offer the community. I really admire people like you and Sanderson that have so much to give. Maybe one day I&#39;ll figure out what my niche is.
+  > **@nviz47**：This is something I just checked, been awhile since I&#39;ve been on this channel.... HOLY smokes though WOW Sanderson! Wow
+  >
+  > **@elkornu8**：This is just insane!!!!!
+  >
+  > **@DFreeman**：It&#39;s at 41.7 mil now!
+  >
+  > **@deannascorner8112**：I agree with what you said about the future of publishing. It’s honestly why I started a blog and have twitter and Instagram and a YouTube channel because I want to learn and put myself out there. Now I just need to actually write a book! 😆
+  >
+  > **@AlexAzureOtaku**：<a href="https://www.youtube.com/watch?v=8EVgZzb5ZKo&amp;t=134">2:14</a> is so perfectly cut
+  >
+  > **@StarWarriorMusic**：it&#39;s at almost 20M today. i would imagine it will break 25M by the end of the kickstarter.
+  >
+  > **@astridjef**：I guess I&#39;m gonna start writing again. Not worry about the technical stuff, but just write and have fun, because I reckon that&#39;s his biggest strength. He loves writing, a lot. And because of that love, he managed to keep on writing, even if it wasn&#39;t as good in the beginning, and because he&#39;s been so prolific, he just keeps being better and better at it. <br><br>(Before anyone comes at me, yeah, I know it takes more than just loving something to get good at it)
+  >
+  > **@essentialasa**：This is the future of all media publishing. This will be how you show proof of concept for higher dollar investors from now on
+  >
+  > **@Dovieandi_Se_Tovya_Sagain**：Your reaction is awesome and completely reflects mine
+  >
+  > **@leire9444**：The year of sanderson boxes sound unbelievable, unfortunately i cant afford it 😭
+  >
+  > **@girlgonefishing1971**：almost 10million, and I supported it!
+  >
+  > **@Vinkomorf**：Watching this 5 days after publication and the kickstarter is sitting at 31mil and climbing. So... &quot;blowing past&quot; 1mil might prove to be Daniel&#39;s understatement of the decade
+  >
+  > **@donyarumore8130**：This was my exact reaction. I just walked away and yelled shut up and take my money
+  >
+  > **@kristinebutler3971**：I watched this like five times… So fun to watch
+  >
+  > **@TheYeahRobert**：As of watching this video the Kickstarter is over 12 million
+  >
+  > **@brycemattson4913**：It’s a great time to be a Sanderson fan
+  >
+  > **@nightmarishcompositions4536**：Brando Sando sounds like the name of a powerful anime character and it fits him perfectly.
+  >
+  > **@brentmason4338**：Damn and here I was thinking I did something writing two books in that time.
   >
 
 ---
 
-## 5. State of the Sanderson 2025
+## 9. What Will the Secret Books Look Like? + Our First Thank You Upgrade for Kickstarter Backers
 
 - **频道：** Brandon Sanderson
-- **观看数：** 105,479
-- **点赞数：** 4,342
-- **评论数：** 330
-- **时长：** 34:17
-- **发布日期：** 2025-12-22T22:00:59Z
-- **链接：** https://www.youtube.com/watch?v=nOe7VV5T-hw
-- **来源：** channel
+- **观看数：** 80,214
+- **点赞数：** 3,326
+- **评论数：** 218
+- **时长：** 19:01
+- **发布日期：** 2022-03-11T16:41:29Z
+- **链接：** https://www.youtube.com/watch?v=7so5bUf1gZE
+- **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/nOe7VV5T-hw/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/7so5bUf1gZE/hqdefault.jpg
 - **简介：**
 
-  > As we bring 2025 to a close, Brandon has a final wrap up of everything that happened this year in the State of the Sanderson. This covers everything from upcoming events, what was being worked on this year, and updates from all the teams at Dragonsteel. 
+  > This is an excerpt from the March 8th livestream. The guy with Brandon is Isaac Stewart, our Creative director and the designer of Dragonsteel's books.
   > 
-  > If you want to follow along or check out the amazing art, click the link here! - https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2025
-  > 
-  > Want to send me something to open?
-  > Dragonsteel Entertainment
-  > ATTN: Adam
-  > P.O Box 698
-  > American Fork, UT 84003
-  > 
-  > Get your Wheel of Time updates here with the Bound and Woven newsletter: https://mailchi.mp/brandonsanderson/eye-of-the-world-campaign
-  > 
-  > Stay up to date by following my newsletter: https://brandonsanderson.us10.list-manage.com/subscribe?u=7d056bb7596a3e617f82004b2&id=fa68f14db0
-  > 
-  > Interested in signed books and swag? Check here: https://www.dragonsteelbooks.com/
-  > 
-  > You can also follow me on:
-  > Tiktok: https://www.tiktok.com/@authorbrandonsanderson
-  > Facebook: https://www.facebook.com/BrandSanderson
-  > Twitter: https://twitter.com/BrandSanderson
-  > Instagram: https://www.instagram.com/brandsanderson/?hl=en
-  > Twitch: https://www.twitch.tv/mistbornbrandon
-  > 
-  > Frequently asked questions: https://faq.brandonsanderson.com
-  > 
-  > Artist Credits
-  > Brian Mark Taylor
-  > Erion Makuo 
-  > Darko
-  > Howard Lyon
-  > Esther Hi'ilani Candari
-  > Brotherwise Games
-  > Cynthia Sheppard
-  > Felicia Chen
-  > 
-  > Chapter
-  > (0:00) - Opening
-  > (0:30) - Introduction
-  > (2:28) - Part 1: My Year
-  > (4:00) - Part 2: 2026, and Updates on Primary Projects
-  > (8:24) - Part 3: Updates on Secondary Projects
-  > (10:31) - Part 4: Film, Television, Video Games
-  > (14:49) - Part 5: News from My Company
-  > (29:07) - Part 6: News From International Partners
-  > (31:30) - Part 7: Projected Schedule
-  > (32:59) - Conclusion
+  > Now on Backerkit: https://secretnovels.backerkit.com/hosted_preorders
 
-- **热门评论（194 条）：**
+- **热门评论（138 条）：**
 
-  > **@shawnhitt5312** [👍889]：When are we getting the country of Sanderson?
+  > **@darenihill** [👍358]：Huge kudos for deciding to make it a &quot;thank you&quot; instead of adding stretch goals at this point. Shows how much you care for your fans
   >
-  > **@gizmit01** [👍510]：Here&#39;s to twenty more years!
+  > **@LegosSnake** [👍188]：Sanderson&#39;s excitement and passion compared to Issac&#39;s just calm and very passive demeanor is so funny to me. Getting more hyped for the books each day! Also those discworld editions were so classy!!!
   >
-  > **@salmontan** [👍351]：last time I was this early, Rock told me the stew wasn&#39;t ready yet
+  > **@liana4454** [👍157]：So cool! An idea: Is it possible to add another tier option to receive all four books at the end of the year and pay for shipping once? Especially for the folks outside the USA. Maybe the price is a little more to cover storage costs but probably still cheaper than four shipping payments.
   >
-  > **@MarquavianIII** [👍323]：stormlight my beloved in 2031....
+  > **@ross.metcalf** [👍144]：Every time I see Sanderson now, all I can think about is how giddy he must&#39;ve been writing FIVE BOOKS IN SECRET and not telling anyone (except his wife) for like 2 years. What a maniac haha, I love it.
   >
-  > **@Fast_Travel_Gamer** [👍212]：I&#39;m finally starting Mistborn this week and I couldn&#39;t be more excited to get into the Cosmere!
+  > **@dreadfulpennyanimates3476** [👍101]：Yeah. Leather bounds were what I wanted, but then I saw the price and after many weeks of deep contemplation, I decided I needed to be a responsible adult and consider my sad budget.
   >
-  > **@ProfPyro** [👍172]：I&#39;m glad to hear that adaptations aren&#39;t completely stalled and that you&#39;re meeting with real decision makers. I&#39;m ESPECIALLY glad that you&#39;re maintaining creative input as a condition because I never want the creatively bankrupt to harm these stories.
+  > **@trogdoar149** [👍95]：Thanks for uploading this separately from the main livestream. Really looking forward to the hardcovers!
   >
-  > **@christopherlighthall** [👍148]：I hope we all appreciate how transparent Brandon Sanderson is being on so many levels of his work and company! I don’t believe we ever see this from other authors or creators at his level. It is seriously exceptional and so amazing how much he includes and updates us, his fans, on his progress, plans, and development. Thank you so much Mr. Sanderson!
+  > **@Sundown42** [👍74]：So excited for the Ultimate Cosmere Collector&#39;s Edition 20-30 years down the line with every single Cosmere book in perfectly matching hardcover
   >
-  > **@dmk_games** [👍108]：How is this man:<br><br>A) So productive and brilliant in his writing.<br><br>B) So transparent and consistent in communicating status<br><br>C) So supportive of developing writers<br><br>D) So engaged in the community and events<br><br>E) I am sure other things.<br><br>But damn. Great work again. It really enables fans to talk to each other and get hyped and engaged.
+  > **@katjalouw918** [👍45]：oh man, I want these books so bad but the $140 shipping is just killer :(
   >
-  > **@BigBuster100** [👍97]：Just finished the Mistborn trilogy about a week ago. Finished warbreaker on Friday, took me two days. Got the first 3 books of stormlight yesterday. Needless to say you’ve changed my life.
+  > **@triplebog** [👍44]：The full color in-pages makes those hardcover books. Tbh I removed all the dust jackets cause I think they are a bit too much, but I love opening the books and seeing the gorgeous full color art in the first few bits.
   >
-  > **@Rhedak** [👍74]：Brandon going &quot;Aww&quot; after reading Emily&#39;s section was very endearing.<br>His reactions are why I like the YouTube version.
+  > **@Aname04** [👍41]：Would it be impossible to do a second printing of these hardcovers for international backers since with the current shipping most people can&#39;t afford getting them? I&#39;m pretty sure most of us wouldn&#39;t mind if it would mean waiting another few months to arrange the extra printing/shipping and we would really really appreciate it.
   >
-  > **@bryceallen** [👍74]：An Insomniac Mistborn game sounds legendary
+  > **@duaneswab3420** [👍39]：The fact that Brandon had to announce that another book wasn&#39;t the big announcement is indicative of Brandon&#39;s productivity.
   >
-  > **@madmann6723** [👍67]：CD Project Red and Mistborn! This needs to happen! 😂
+  > **@Gerbis** [👍38]：My discworld death collection is my favorite set. would lose my mind if these are similar
   >
-  > **@darksambal** [👍41]：Congratz on turning 50 this week, Brandon!!
+  > **@BookEscapism** [👍32]：I’m more on the side of: <br>illustrated &gt; symbolic end papers <br><br><br>either way can’t wait to have these beauties!
   >
-  > **@KendraLeighPhotographyandVideo** [👍34]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=1658">27:38</a> that’s me!!! 🥰🥰
+  > **@farmgirlsauer3861** [👍31]：Man, following you is SOOO fun!
   >
-  > **@TheDoombrigade** [👍33]：Been a strong 20 years, and here&#39;s to 20 more! 🎉
+  > **@noelhann5262** [👍31]：“Next to my leather bounds” if only…
   >
-  > **@ThePoolBoy24** [👍29]：Started the Way of Kings as my first entry into reading your works Brandon. I’m in awe. Almost done, and can’t wait to continue on in the Stormlight Archive.
+  > **@maxnebula3210** [👍29]：<a href="https://www.youtube.com/watch?v=7so5bUf1gZE&amp;t=637">10:37</a> is when his thank you announcement starts. Thank you Brandon for all that you do!!! Got the hardcovers and I’m so excited to read them next year
   >
-  > **@AnakinTheWeird** [👍27]：i like how you can hear him doing signatures while recording
+  > **@gavinsmith9871** [👍22]：I hate you international shipping!!
   >
-  > **@kolliwanne964** [👍26]：Man I really hope that the Mistborn game has a future. Honestly I wish I could just win a lottery to then straight up finance a manga + anime of cosmere novels, no matter the profit.
+  > **@MissCaraMint** [👍19]：I have to admit I kinda would love for the books to be still titled Secret Project # whatever or for the coovers to be simply blank. Then the title is only revealed when the book is opened. It would’t work in practice probably but it’s my mental immage at least.
   >
-  > **@mitchrope** [👍23]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=159">2:39</a> &quot;...with other stuff.&quot; <br><br>You heard it here first y&#39;all. That&#39;s secret project #7 right there.
+  > **@jacobi2393** [👍16]：Whenever I see Isaac and Brandon on a stream together, I&#39;m always struck by 2 things: first, that Isaac seems to be a lovely, mild-mannered person. Just a pleasant and well tempered individual. Second, that these two men are clearly very good friends, and Brandon really cares about him.
   >
-  > **@mattwilcoxuk** [👍21]：If the order doesn’t matter surely it’s a collection not a series. All very exciting tho; well done Brandon and team!
+  > **@Kaminsod1** [👍11]：I honestly need to start getting those leatherbound versions at a point, they just look so sick.
   >
-  > **@gawys28** [👍12]：You&#39;ve always been writing the state of the sanderson for longer than your youngest son has been alive
+  > **@zenthepoet.** [👍11]：Adoooonalsiiiiium
   >
-  > **@abhimac27** [👍11]：It&#39;s been a wild ride. I am so grateful that the Wheel Of Time spun me into the Cosmere.
+  > **@benjaminlew1322** [👍10]：So so excited for the two-tone print, it really elevates the interior of the book. I remember opening the Warbreaker Leather-bound and being absolutely stunned by the chapter headers.
   >
-  > **@Adamjboss187** [👍11]：Sanderson just does everything right. So consistent and such great stories. Wish some other authors had 10% of his drive to write
+  > **@CoachAlexandreChamberland** [👍10]：Yay for not-made-from-animals luxury-feeling books!
   >
-  > **@poetatospuds** [👍11]：Thanks for sticking it out on sharing your imaginary friends with the world 🥰
+  > **@ryanciesiolka9435** [👍8]：I hope the pink and teal for the 3rd book remains, love me some vaporware/bi neon lighting
   >
-  > **@DrN0VA.** [👍10]：I&#39;m not a publisher but I do work in the games industry and it&#39;s my dream to see a stormlight game made. I think it&#39;d take so much money to do that it&#39;s unlikely in the current industry climate, but alas I hope it happens and I can work on it some day.
+  > **@NMXLY** [👍8]：28.000.000 at this point on the kickstarter
   >
-  > **@alchuu55** [👍10]：Thanks for the hard work!
+  > **@tinafurger8166** [👍8]：It&#39;s so great that they are doing the &quot;thank you&quot; thing, but it&#39;s a shame that it&#39;s only for people who got the physical books, which basically means Americans who didn&#39;t have to consider shipping costs
   >
-  > **@zenthepoet.** [👍10]：Adoooonalsium
+  > **@jasonbailey9139** [👍7]：I only listen to the books, but now you have me wishing I&#39;d gone for the physical book. Glad to hear the colored illustrations will be in the eBooks so I won&#39;t miss out on seeing them.
   >
-  > **@noworries6027** [👍8]：please take better care of yourself Brandon.
+  > **@talitafredericci2739** [👍7]：After the supporters have received this version in special boxes, you intent to let available in any online shop? Like Amazon?
   >
-  > **@BriefKaseTalks** [👍8]：A Stormlight game would almost have to be an MMO
+  > **@hallaloth3112** [👍6]：So cool. I&#39;ve always been really happy with the physical product of each Sanderson book, I love that most of them have included little illustrations dotted through out even the paperbacks of some of the more recent ones. It is not something you see a lot of, and it is so wonderful to see an author being willing to push those decisions to give his fans something a little extra.
   >
-  > **@aqueeristan** [👍7]：I&#39;m still praying for a chasmfiend plushie :P
+  > **@peterloya7168** [👍5]：The Discworld collector books are definitely some of my favorite designs so I&#39;m VERY glad you guys were inspired by those. Can&#39;t wait to get my hands on them!!! :)
   >
-  > **@VictorDiGiovanni** [👍7]：What a year!
+  > **@gworld911** [👍5]：I just want art prints 💗💗
   >
-  > **@Super_Saiyen_Potato** [👍7]：ur so cool, im a lazy bum, wish i was more like you &lt;3
+  > **@gabep8595** [👍5]：Very excited for the books and the boxes. Seeing a lot of disappointment over the shipping from the international community and I was wondering about a possible solution:<br><br>Could you add an option for the international community to have all 4 hardcovers shipped at the same time with the release of the 4th book to save on shipping for them? <br><br>Obviously that doesn’t help them with the swag boxes and maybe dulls the excitement but it would still be a nice alternative for those who really want their hardcovers.
   >
-  > **@WiseWackyWizard** [👍6]：god i&#39;m so hyped for the PLANET of SANDERSON update in 2026
+  > **@nionashborn7626** [👍4]：The Project Number 4 cover kind of reminds me of the first Artemis Fowl
   >
-  > **@prepwithgabi** [👍6]：Love how you can hear him signing in the background ❤
+  > **@AnnabelleFr** [👍4]：I am still so gutted I cannot effort the Hardcovers. I pledged as much as I could which was fpr the ebooks and Audiobooks. :)
   >
-  > **@a.e.1965** [👍6]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=110">1:50</a> the joke didn&#39;t go unnoticed brandon. I&#39;m sure with your dedication the blog will overtake your 2nd son in no time
+  > **@MistyTLD** [👍4]：Awesome! I love it! 🥰
   >
-  > **@notaskrull8304** [👍6]：Started Final Empire in November 2024,  started my second read/listen to Wind and Truth this month. I read the Cosmere and then read it all again. <br>Thanks Brandon.
+  > **@zndre2766** [👍4]：Why is Brandon signing shadows of self? Isn&#39;t that leather bound a few years out?
   >
-  > **@lemonaden3461** [👍6]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=857">14:17</a> was this on purpose
+  > **@farmgirlsauer3861** [👍3]：Thank you/ y&#39;all for the &quot; Thank you&quot; Upgrade!
   >
-  > **@ILike2Read** [👍6]：So excited for yet another beautiful year. (With hopefully more LGBTQ+ representation)
+  > **@Just_Pele** [👍3]：I can&#39;t wait to get them, they look fantastic!
   >
-  > **@golmec9981** [👍5]：Sanderson: great writer, great businessman, best person
+  > **@hillary6563** [👍3]：Y&#39;all get away with a lot because you&#39;re the 🐐!!😆<br><br>Those Terry Pratchett books that Isaac is showing as examples are interesting. That artwork is made with linoleum cut printing, which isn&#39;t very often used anymore. 💙<br><br>I&#39;m so beyond excited that these are getting upgraded! It just makes me that much more excited that I splurged and went for the highest tier. 😅
   >
-  > **@DojoBelok** [👍5]：Let&#39;s go let&#39;s go. <br><br>Brando ftw!
+  > **@coolbrotherf127** [👍3]：My bank account is really scared right now.
   >
-  > **@MasterJack2** [👍5]：Hoid story books as a compendium of stories narrated by Hoid? Because if it is please take my money, his stories are always so entertaining and well written.
+  > **@bluviea** [👍3]：ah, i&#39;d absolutely love to get the swag boxes, but its becoming increasingly streached to raise that much money in a month (1114 ish dollars for the second highest tier) but im thankful enough to be able to get the books &lt;/3 THANK YOU for making them so much more worth it haha, &lt;3 keep up the good work
   >
-  > **@Masonivan-u2x** [👍4]：This really helped me rethink how I approach feedback and revisions. I’ve been beta reading and this nailed a lot of what writers actually need. Appreciate the clarity here.
+  > **@willowpincura4464** [👍3]：i have never been so compelled to spend an additional $120
   >
-  > **@TheBillyGoatGruff-h6d** [👍4]：Skyward leatherbound?!?!? you just made my entire week, Brandon!
+  > **@gordo6908** [👍2]：this antiques road show vibe is fantastic
   >
-  > **@TheThrillhouse0** [👍4]：What&#39;s the animation cost of a show like Avatar The Last Air Bender? Surely less than something like Arcane.<br><br>I picture a lot of your books in this art style and think it would be perfect for stormlight. Obviously not as cool as Arcane&#39;s art style, but better than nothing.
+  > **@stealthmonkeydc2869** [👍2]：A great time to be part of the community.
   >
-  > **@Grognakk380** [👍4]：Brandon reading the notes from his &quot;employees&quot; makes me more convinced he is a one man company and only pretends to have other people there to throw us off the trail that he is some sort of speedster or time traveler that gets 48hr days.
+  > **@g4fly4ever8** [👍2]：Even though i couldn&#39;t afford the kickstarter I hope all good luck to this project and all future projects.
   >
-  > **@JuneTreeDraws** [👍4]：a major goal for my next couple years is to do illustration for something cosmere related in an official capacity. that&#39;s a relatively really small window but i want to work really hard and figure out how best to get my foot in the door. &lt;3
+  > **@BurstingVeins1** [👍2]：Oh wow, two-color looks super nice! Absolutely a worthwhile thank you bonus.
   >
-  > **@VikasKhair** [👍3]：Thanks, Brandon, for all the wonderful stories you have given us with the promises of more to come. Here&#39;s to another 20 years together for us.
+  > **@EllenSmyth** [👍2]：Wow, now I wish I&#39;d gotten hard copies!!!  Of course, I never actually read the hard copies, but hmm.  I may go back and get a separate hard copy sub, anyway...<br><br>Not a Terry Prachett fan, but I adore those covers much more than leather bond.  The colors and designs and particularly the small amount of foil was just perfect.  The Robin Hobb book, and I am a huge fan of hers, is fantastic, too!  I may have to see if I can get a copy.
   >
-  > **@play_history** [👍3]：The extra effort in putting together the audio version is much appreciated - even after reading it! You&#39;re a class act, Mr. Sando.
+  > **@andrasbiro3007** [👍2]：1. The books will be perfect.<br>2. Now I have to buy the leather bound ones too. Fortunately I can afford it.
   >
-  > **@Humanrandom31084** [👍3]：My first State of the Sanderson and I can’t wait for next year. Brandon I wish you and all your family and employees a very merry Christmas and a happy New Year. Also can’t wait to (hopefully) see you at Oxford and at London Comicon in May.
+  > **@Snoop_Dugg** [👍2]：They could give us free shipping… it would be a life saver for international readers
   >
-  > **@Transformers217** [👍3]：2025 was a wild year! Here’s to 20 more years!
+  > **@tonysawyer1063** [👍2]：What about the audiobook thank you gift?
   >
-  > **@marc_duda** [👍3]：Really happy to know that there are catalan versions now! I&#39;ve read all the Cosmere in english but maybe in a reread i&#39;ll do it in my mothertounge.
+  > **@Alexian-v6c** [👍2]：Brandon supporting multiple artists and an entire company as an author is incredible
   >
-  > **@DavidThorMoses** [👍3]：I’m still anticipating when Dragonsteel launches a continuing monthly subscription box. They’ve got the merch and following for it.
+  > **@MCSk80** [👍2]：I&#39;m sorry if I missed anything in the video but is the &quot;Thank you&quot; rewards only part of the swag boxes? Or will something be included for backers who are only buying the books?
   >
-  > **@TheGruzz69** [👍3]：Still waiting for the Sanderland announcement
+  > **@NobbsAndVagene** [👍2]：I&#39;m gonna say it again. $140 in shipping for $160 worth of books is insane. I was gonna order the physical copies, saw the $140 shipping and thought &quot;nope&quot;. What&#39;s the deal? Please address why this is. I love the Cosmere, but only Americans can get them shipped at a decent price. It&#39;s literally $100 extra for everyone else (including Canadians who are right across the border). <br>Couldn&#39;t you have had some printed in Europe or something? This is nuts. I certainly hope you don&#39;t intend to keep doing business this way, as it excludes a large amount of your fanbase from realistically getting their hands on these premium copies unless they can afford to pay exorbitant prices for them. I could almost buy a Steam Deck for that total price.
   >
-  > **@spinnerling** [👍3]：There&#39;s always another secret project!
+  > **@fieldengineer4692** [👍1]：Thank you Mr Sanderson,<br>I appreciate all you do. I like the Thank You more than changing your original kick starter.
   >
-  > **@ThatGuyKazz** [👍3]：When it comes to video games I would urge you to look at what happened when Disney gave 10 years of exclusive access to the Star Wars IP to EA. There were a lot of failed and canceled projects and the very small number of games that did get released were accompanied with controversy. Now that the exclusive license has been expired for a few years there are at least 7 Star Wars games that we know of that are being worked on and it feels like we are finally getting back to something resembling the release schedule of Lucas Arts back in the early 2000&#39;s where we were getting 1-2 new star wars games every year. <br><br>With that in mind I think the absolute worst decision you could make when it comes to licensing the Cosmere IP to make games is to give any sort of exclusive access to the IP to anyone. As soon as you do that the quality and variety of any video games goes out the window because who ever is making it knows they don&#39;t need to compete for it. Find people who are passionate about making games in the Cosmere and work with those people. People who are truly passionate about the Cosmere won&#39;t want to lock it down anyway because they&#39;ll want to see what other people can do with the IP. <br><br>You have proven consumer interest in the IP with multiple record setting kick starters as someone who would love to see Cosmere video games I am praying you do not squander that potential by leasing out exclusive rights to the IP which will invariably lead to a reduced quality of the final product.
+  > **@Theirishsk83r** [👍1]：You all are amazing! Thank you Brandon and all your team for this memorable experience you are giving to your fans!
   >
-  > **@ikemeitz5287** [👍3]：A Mistborn video game developed by FromSoftware would be a dream come true.
+  > **@CaitlinnStoltz** [👍1]：Thanks so much for being awesome to your fans!<br><br>That&#39;s so cool!
   >
-  > **@antoniocaa1906** [👍3]：I really hope the misborn game is not AAA, I would hate that this IP that I love end up being a cashgrab with another generic battlepass and content being hidden behind a DLC paywall. 😢
+  > **@XxunforgottenxXxlove** [👍1]：As someone who works at a commercial printer, I AM EXCITED.
   >
-  > **@amy_soucy** [👍3]：Brandon writes so fast that Im aftraid he is going accidently produce what Im working on first.  😅
+  > **@yasuchika** [👍1]：These books are looking to become really beautiful, looking forward to the final product!
   >
-  > **@samsthemank** [👍3]：Second
+  > **@yoshikunimi** [👍1]：I really love this so much.
   >
-  > **@Klonduke** [👍2]：I&#39;ve been listening to the wheel of time this year and last week I started the first one you wrote and I will say, you did an amazing job writing it. I can tell here and there that you were the one to write it, but 95% of the time you nailed how Robert Jordan wrote the rest of the series. I&#39;m beyond grateful that you finished the series because I only just started it last year and so happy it&#39;s a completed series even with the tragic passing of the original author, so many series get left unfinished when that happens
+  > **@the_bookish_took5348** [👍1]：You guys are the best 💛
   >
-  > **@rickkybobby8118** [👍2]：Reckoners was my first foray into the world of Sanderson and I mustve re read it half a dozen times by now
+  > **@allijohnson1228** [👍1]：Damn, now I want to get my hands on that UK Assassin&#39;s Apprentice.
   >
-  > **@laxwanna1976** [👍2]：Stay wonderful
+  > **@oliverpots222** [👍1]：So great to see Robin Hobb!
   >
-  > **@crimsonraen** [👍2]：Thanks for the updates, Brandon! :D
+  > **@AnonGro** [👍1]：Love this thank you! But maybe could have subsidised the international delivery costs so we can afford the swag boxes too?
   >
-  > **@PancreatitisFighter** [👍2]：Yay! Thanks for being awesome! And thanks Emily for helping him be so awesome
+  > **@J3D1dr0pOut-m1f** [👍1]：I have all Paperback UK editions. My shelf will no longer be all white. Lol
   >
-  > **@citizenjp5466** [👍2]：I appreciate all your hard work, Mr. Sanderson, you’re the man. Steelheart was the first of your books I got into many moons ago and I remember telling all my friends about the ending because I thought it was so cool lol.
+  > **@MissCaraMint** [👍1]：It’s expencive with shiping where I live, but on the bight side there is no tax on books.
   >
-  > **@deborahbryant4094** [👍2]：Great update. Lots to look forward to. I love that stories from Hoid are coming out next year. Hoid is my favorite besides you and Dan and Adam. Thanks for sharing this.
+  > **@bagelman263** [👍1]：Nice
   >
-  > **@MaxFleye** [👍2]：This is like my aunt&#39;s yearly holiday letter. Except a lot different...
+  > **@MrWykedtron** [👍1]：Can anyone please link me the version of that assassin&#39;s apprentice? Thanks in advance!
   >
-  > **@ave6197** [👍2]：I can&#39;t wait for a stormlight board game!
+  > **@kevinb2469** [👍1]：Hey can ya&#39;ll put a link to where this excerpt comes from in the video description? That’d be helpful in case I wanted to see more of the video it came from. (I’ve already watched the non-spoiler portion of this livestream, but I still think that linking to it would be awesome)
   >
-  > **@vdoyne** [👍2]：Congrats on the sales record and happy birthday. <br>(One of my grandsons is receiving Mistborn 1st trilogy for Christmas and another the Skyward set)
+  > **@ForeverknightGaming** [👍1]：I think 27+ million could get every backer leather-bound editions lol
   >
-  > **@seanhanrahan5368** [👍2]：I jumped face first into Sanderson with Way of Kings back in September. I just started Wind and Truth this week, and the Mistborn is on deck. See you all in 2026
+  > **@Ed__Powell** [👍1]：I’m not really being a wiseguy, but honestly, for $30 million, why not leather?
   >
-  > **@joelsmith7078** [👍2]：SIX years between Mistborn Eras? Whoof! That&#39;s a punch to the gut. I look forward to it though!
+  > **@TheBrainFart2000** [👍1]：Beautiful... Perfect... Can&#39;t wait!!!
   >
-  > **@The_Brickster** [👍2]：Just finished Elsecaller and King Lopen! Great short stories, enjoyed what felt like bonus interludes a lot! Thanks for a great surprise of a book randomly dropped in December like an early Christmas present. Wasn’t able to get storydeck, so it’s great.
+  > **@KittenCece**：The care and respect you have for artists brings me to tears. I just love it.
   >
-  > **@niteglys** [👍2]：Tress animated series sounds exciting
+  > **@chestersnap**：I absolutely love the freedom they&#39;ve given the illustrators - that the only thing they&#39;ve really defined for them is the scope
   >
-  > **@MichaelS5400** [👍2]：I guess I will patiently wait for the taln book and not be upset about it.
+  > **@cainotis**：I am so happy after this video
   >
-  > **@josephhenryreyes8205** [👍2]：I heard Burrito world and my interest got peaked
+  > **@fieldengineer4692**：Thank you!
   >
-  > **@godminnette2** [👍2]：&quot;A very cute 50&quot; awwh
+  > **@aajpeter**：I&#39;m really loving the feedback loop: reader to author, author&#39;s team,  illustrators and back.  Goodness where everyone benefits.
   >
-  > **@arielletann3374** [👍2]：Just finished The Reckoners series this evening.  I loved it!  I would love to see a video game and/or movie series based on these.
+  > **@praalgraf**：so nice getting to see the thought process behind the design!
   >
-  > **@isaacs8694** [👍2]：I may have missed it, did he mention horneater?
+  > **@roberthubbard4881**：I am beyond excited for these books.
   >
-  > **@mesan4641** [👍2]：❤
+  > **@TheYashakami**：This was a great video. So excited for next year!
   >
-  > **@myrojyn** [👍2]：Brandon Sando becoming a publishing company be like
+  > **@TonyRobetson**：nice comparisons. i was thinking similar to the anniversary editions that have come out lately. appreciate all the detail you guys are going into
   >
-  > **@HenrikKKristensen** [👍2]：Just finished reding my first Sanderson book; The Final Empire.<br>What a ride - loved it.<br><br>I read it as e-book... and now ordered the Leatherbound 🙂<br><br>Now onto Book 2 in the trilogy... I am a fan, can&#39;t wait to read my way through the Cosmere the next year.
+  > **@Andrews_playground**：Brandon talking about some of the books he has, makes me want a full tour of his book self
   >
-  > **@brent1975** [👍2]：Who won Rand&#39;s sword, the harron marked blade? Thank you for the update
+  > **@routex1**：So excited!
   >
-  > **@ProfessorBear510** [👍2]：Does anyone else listen to Brandon&#39;s audiobooks so much that they think in Michael Kramer and Kate Reading voices?<br><br>Update: I thought there would be more books after Lux? or is what you said at <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=619">10:19</a> putting the kibosh on that one. I know it was co-authored.
+  > **@RealNellyMandelly**：Hurray!!!
   >
-  > **@ArciusRhetus** [👍2]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=1740">29:00</a> where is that artwork from?
+  > **@mattyb3780**：I love my Farseer Trilogy Anniversary hardcovers... so classy
   >
-  > **@greyhawke115** [👍2]：Here&#39;s hoping for Larian Studios doing a Mistborn game
+  > **@kalanittaub2579**：Now I want that edition of assasins apprentice!
   >
-  > **@ivanjelenic5627** [👍2]：Thanks for the video! Suggestion: I prefer seeing the person speaking. Adding art is fine, but not for the whole video.
+  > **@crimsonraen**：Oh no, no, no; thank YOU! &lt;3 SO excited for getting all of this awesome stuff next year! &lt;3
   >
-  > **@seniorss_1** [👍2]：Always another secret, always another story
+  > **@SuttieMusic**：I would love nothing more than to get these books! They’re sounding absolutely gorgeous!! There’s no way I could afford the shipping to the UK though. Still, can’t wait to read them and the story will be just as good as an ebook. Thanks for always being awesome Brandon and team!
   >
-  > **@malcolmlamb2191** [👍2]：This &quot;the money for animation isn&#39;t always where I&#39;d like&quot; confuses me. Like, arcane was obviously nuts. 14 million an episode or something like that. But the recent Chainsaw Man movie looked insane and was 4 million for 90 minutes, which would be 2 episodes of a typical prestige show. You don&#39;t need Arcane money to adapt Mistborn. So what kind of budgets are these studios offering him that he thinks are just too low?
+  > **@lilred8234**：First of thank you so much for allowing your artist so much freedom❤️ also thank you for not being a cash grab and actually caring about the small details for the happiness of your fans
   >
-  > **@REXCRAFT88** [👍2]：please do not give your game rights to a AAA studio, give them to a passionate and tried Indie or AA studio who really care about their games. AAA games have been failing, most of them do not care about their games. Sandfall interactive is a great example of a studio you should pick
+  > **@ForeverknightGaming**：We want illustrations inside!
   >
-  > **@showtimee4979** [👍2]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=1895">31:35</a> the fingers on his right hand look AI-generated...please tell me that is not the case...
+  > **@TLBainter**：I love my Collector&#39;s Library Discworld books! They&#39;re wonderful and they&#39;re the first thing I thought of when I saw the teaser covers!<br><br>I&#39;m glad that the upcoming books won&#39;t be leatherbound since I wouldn&#39;t purchase things with real leather.
   >
-  > **@ghostiiiegames** [👍2]：Have to say I was disappointed by the notably worse editing in Wind and Truth. I hope the future Stormlight books are better.
+  > **@paralicular3927**：This finally convinced my wife to get the physical books! Now I only need to convince her with the swagboxes
   >
-  > **@robragnarson** [👍2]：The plan is to finish Game of Thrones now too
+  > **@nothingiseverperfect**：Holy shit, I had never seen that version of the leather bound way of kings. That looks so fucking cool. Makes me want to read a book wowow. Can’t wait for these books. Hope to be accomplished enough to get cool book covers and stuff ahaha
   >
-  > **@apeblastproductions** [👍1]：I found your books around 2021, they got me through some dark times in my life, please keep making more incredible books
+  > **@dusbus2384**：With E-books being a big option here is it possible to have not just illustrations but maybe an action sequence like a cartoon or something similar? Maybe similar to moving newspapers in Harry Potter.
   >
-  > **@AmandaJarrottWrites** [👍1]：Such exciting update and progress made in one year! 🎉 Glad that you are maintaining the creative rights to such larger formats like the games and movies
+  > **@jakebarr4707**：I like to see all of the work that goes into the design of the book. Not really part of the process we always get a view of.
   >
-  > **@StormForm3D** [👍1]：thanks for update, much love brando sando
+  > **@Miluriel**：That all sounds really cool, but really I just wanted to know if the spines will be sewn 😅
   >
-  > **@the-sminch** [👍1]：You&#39;re the goat!
+  > **@hockeyhalod**：I&#39;m all about this. I just want the books because I have grown out of wanting stuff in my house... ha
   >
-  > **@robbiereed4462** [👍1]：Thanks for the update.I love the art!
+  > **@mastergintoki7**：I wish I could buy leatherbound way of kings but I discovered stormlight archives to late. I literally went through first 3 books in under a month. Going to stay book 4 tomorrow. Beyond excited and I used to hate books. Would read so much manga and this is right behind berserk and tied with vagabond and monster. Man I couldn&#39;t even read game of thrones this way and I love the show. Hahaha
   >
-  > **@smstnitc** [👍1]：Oh, happy birthday!  Welcome to 50. I hit the big five-oh this year too.
+  > **@RobbieLee90**：&quot;Here&#39;s our big announcement&quot; - who expected another 7 books 😅
   >
-  > **@IrregularRawr** [👍1]：I started crying when I saw the Steris and Wax art...then the next one with Wax and Wayne just started crying even harder...I love these books so much, thank you Sanderson and team.
+  > **@tquinnhunsaker4344**：Can some of the swag have some of the original secret project cover art
   >
-  > **@Crimzzon** [👍1]：So close to finishing warbreaker
+  > **@LucasCarter2**：I wish I could’ve given any money to that kickstarter but I can’t afford it unfortunately. Eagerly awaiting 2023 though.
   >
-  > **@nickmalato6987** [👍1]：These are my favorite books!
+  > **@mii6619**：Please try to deliver to Kuwait.. I would like to back it
   >
-  > **@KhalidtwoBackup** [👍1]：I am so hyped to ghostbloods especially because of how sanderson is carefully crafting it.
+  > **@ChBrahm**：yooooooo any chance for a giant poster version of that blue Roshar map??<br>It Slaps
   >
-  > **@cheeky_chancer** [👍1]：Dude!!! I would love to say thank you in person on the UK! All the best
+  > **@von4296**：Brandon!!! You look tired... please get plenty of rest and much needed care. We need you around for many many more years.
   >
-  > **@birdwatcher1337** [👍1]：Brandon, listen to that feeling of wanting to go back to Stormlight. Let it consume you. Book Six asap, please.
+  > **@rainier88**：Books Looks
   >
-  > **@profiscus** [👍1]：I love your work
+  > **@Minecraft-gw1jv**：They way he upgrades the Book because of the extra money he has gotten really tells me he loves to give us quality work… <br><br>Amazing Person.
   >
-  > **@raegandougan** [👍1]：I’m currently reading Bands of Mourning!!
+  > **@Ultimate_Ace**：Not gonna lie, I kinda want one to be pink now after seeing that one pink color haha
   >
-  > **@IthilwenG** [👍1]：I started my journey with the Infinity Blade books followed by Wheel of Time. I will admit, I didnt know you were the one who wrote the Infinity Blade books but looking back on it it was still 100% you.
+  > **@halstonconnally1367**：22 hours in and the thumbnail still has a giant typo.
   >
-  > **@be_an_rm** [👍1]：Love the aside at <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=940">15:40</a>. Considering she wrote that section, I wonder if she&#39;ll ever hear it
+  > **@tbowne05**：Speaking of dawnshard.... Where&#39;s the audiobook?
   >
-  > **@danielgray74** [👍1]：Another Rithmatist book pls
+  > **@glhrmvscv**：This books cover in Green, Blue, Black and Red. Missing white to complete the MTG colors
   >
-  > **@jaime6400** [👍1]：THE STEVE ARGYLE MERVIN ADDITIONS WERE SO CUTE
+  > **@LBEfication**：since the kickstarted made som much money, just cover the coverart in gold xD
   >
-  > **@YamiSpyroX** [👍1]：Its been pretty rough one for me, but meeting you &#39;Brandon&#39; was one of the highlights. Not sure if I can make it to Worldcon 2026,<br>but it&#39;d sure would be nice if I could! Hoping to make 2026 an productive one on my end.
+  > **@christinedrab2310**：I never used a ebook before so my question is what would I need to access the ebook? Like is there an app I need or some kinda of device I need to own?
   >
-  > **@MoonsilverGrandeur** [👍1]：Omg he mentioned Rithmatist!
+  > **@cknight2480**：I don&#39;t know what to do. I usually listen to audiobooks but I have a FOMO with the hardbacks 😂
   >
-  > **@zebrastripe665** [👍1]：When can we expect audiobook versions of the new Roshar short stories?<br><br>This is my first time watching one of these. I had just finished every Cosmere story up through Isles of the Emberdark earlier this month and am really excited to see more! Your stories have <b>vastly</b> improved my long commute to and from work every day.
+  > **@wobrien1349**：Any chance of a reprinting of Leather WOK?
   >
-  > **@CasonMinor** [👍1]：Really hoping to hear a mtg cosmere
+  > **@desslynstormy9543**：What about audiobooks. We getting pdf files of the drawings and such?
   >
-  > **@whalics** [👍1]：Arkane Lyon making an immersive sim Mistborn game would be amazing….
+  > **@Iyarbinyamin**：Larger than normal books is a Sandersonian feature, so why not ebooks as well?
   >
-  > **@thisswedishlife7775** [👍1]：I hope you won&#39;t forget to keep good service for pocket books. I understand leather bounds are where the money is, but many (most) readers do not want them and/or cannot afford them.
+  > **@jivan696**：What do they mean whey are talking about the concepts of these books? I dont understand. Will these be hardcover books for Stormlight Archives that will be released soon?
   >
-  > **@lexzbuddy** [👍1]：Skyward would be excellent as a TV show. Hope that eventually finds the right home and comes out in a form that really does it credit and feels like the real deal. I loved it when it came out and I&#39;ve read it several times since. Great fun and great characters.<br><br>I also think that the 1st Mistborn book would make a phenominal TV show. If it was largely as per the book it would easily translate to 2 to 4 seasons. Hope it works out. One of the best worlds and full of great twists, characters and originality. <br><br>Stomlight seems really hard to me as a TV adaptation. I love the books and doing it just seems impossible to imagine.<br><br>A leatherbound Skyward, that sounds fantastic. I&#39;d love one to be honest. I struggle to justify spending that kind of money on a book albeit I must say that I think they are definately worth every penny.
+  > **@violetlazuli3998**：The more I hear about these the sadder I get that I can&#39;t justify the physical books with the shipping costs.
   >
-  > **@PikaPhantomVG** [👍1]：I&#39;d love to see an indie developer take on a Cosmere game of some kind
+  > **@timbecile7006**：Incredibly cool, but there&#39;s a typo in the thumbnail...
   >
-  > **@blunderswish7121** [👍1]：I&#39;m beginning to worry my 7ft tall bookshelf won&#39;t be able to hold all the Sanderson books.<br><br> ps:the Skyward leather bound image (on the blog) looks fantastic. Exactly what I was looking for on the design front.
+  > **@541lschmitt**：“The e-books will be a little heavier…” Brandon clearly detected a pun. Hah.
   >
-  > **@Klonduke** [👍1]：I so badly want a mistborn game. The metal mechanic for a magic system is so good and I&#39;d love to see a game using those kinds of mechanics. No idea how they would do it in a way that makes it both enjoyable to play as well as true to the original works, which is why I&#39;m glad you&#39;re so picky on who adapts your work as well as how they do it
+  > **@1125-k8r**：When is Dawnshard audiobook???
   >
-  > **@alaynap3778** [👍1]：Please let there be a Worldhopper Ball in London!!! I haven&#39;t been able to go to nexus, and I&#39;d love to be able to go!!!
+  > **@fenrirzen**：Desserto leather? (cactus &quot;leather&quot;)
   >
-  > **@Nap-55** [👍1]：I hope we get Stormlight 6 before GTA 6
+  > **@mariovelez6132**：Is there any way to reprint the previous premium hardcover novels to those of us who joined the fandom later and miss the other kickstarters?
   >
-  > **@matthewroloff5095** [👍1]：First Kazu kibuishi and now a collaboration with Jake Parker, Awesome!<br>Once again requesting a sequel to Lux. I loved Steven Michael Bohls work and can&#39;t wait to see those characters again.
+  > **@samelwell9463**：I&#39;m based in the UK and would love the hardbacks, and was actually looking at pledging for the year of sanderson all formats. It&#39;s $500 which is a lot for me, but was about to pledge, then I saw postage is $420 to the UK. Is there any chance the postage will reduce?
   >
-  > **@klavertryne** [👍1]：Any more Reckoners books planned?
+  > **@KayanKollyn**：Hi Brandon Sanderson!<br>we want to share about one book:- <br>&quot;KAYAN KOLLYN- The spiral of the Ellmott and Messenger of the Secret.&#39;  <br>A fiction book of adventure, fantasy, and scientific exploration with esoteric mystery, within a new  FICTIONAL world- and it is called ATOULS WORLD. Which can help in finding the real valuables of life, with great conflict.<br>You must find it interesting!
   >
-  > **@thebenfreeman** [👍1]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=619">10:19</a> - yes, Brandon I do WANT to read about more Brotherwise projects. But I&#39;m kind of relying on you to write more than a single sentence fragment in order to actually do that.
+  > **@PhoenixBrass**：I wonder what % if his day is spent autographing.....
   >
-  > **@certainlysomeone7696** [👍1]：Dang, no dutch updates internationally.
+  > **@rosssims7224**：Anyone have a site to buy those Terry Pratchett editions from?! Wanna make sure I’m getting the right ones.
   >
-  > **@Reveticate** [👍1]：While mistborn is my favorite series in the cosmere, I cannot wait for ghostbloods to be out so you can FINALLY return to Nalthis!
+  > **@dbot68**：Watching this whole thing and regretting my decisions… I ordered EVERYTHING but the hardcovers….  Opportunity to upgrade?  Lol.
   >
-  > **@miguelguerreiro4858** [👍1]：&lt;3
+  > **@Dracaniah**：Too bad, all the extra money goes to the books. As an audio fan, I choose the audiobooks, who will be available at a later time anyway, I feel a bit disappointed I have no extra thing to show off that I participated with the Kickstarter.
   >
-  > **@malkieri1672** [👍1]：Between now and 2045, I hope to see the following: Elantris 2 and 3, a Wheel of Time Story: Tales of Jain Farstrider, a Trolloc Wars series, and maybe a Lews Therin and the 100 Companions series.
+  > **@chestersnap**：Why does Microsoft have such a cool book cover to something??
   >
-  > **@OnlyMe-mt7zb** [👍1]：What does he mean by halfway through the cosmere? Isn&#39;t it a universe?
+  > **@benjaminwoodham6682**：If Brandon doesn&#39;t start a movie universe to rival the marvel movies, I&#39;d lose a lot of money if I was a betting man.
   >
-  > **@yarumada9880** [👍1]：Hey Brandon I am a big anime fan and i just got into Traditional Fantasy(not anime)? and started with your Books 3 months ago. Have you considered getting a foreign studio ,from Japan for example to animate your series? Sure the translation and meetings will be hard and getting a japanese team to understand certain mechanics behind your world. Studio Trigger for example has a big western presence. maybe Studio Orange is great too for a full CGI series( Trigun, Beastars).But i really think a big series like yours with a well respected Japanese Studio could make an outbreak of some sorts. Maybe make everything in English Dub first like Castlevania!
+  > **@oddball69able**：It&#39;s seems pretty messed up that everyone doesn&#39;t get to appreciate the thank you gift , even though we all contributed.
   >
-  > **@minji693** [👍1]：COME TO BRAZIL
+  > **@davidgillis950**：So we bought the audio with a year of Sanderson. Now we wish we had gotten the books. Is there a way to upgrade?
   >
-  > **@TrentRyanKatzenberger** [👍1]：Is there any chance we could get a recording of Emily&#39;s entrepreneur/business classes one of these years? I&#39;ve learned so much from all the writing ones but one area I rarely hear anybody talk about is the business side of being an author. I&#39;d love to hear whatever business advice y&#39;all have learned over the years at Dragonsteel, if that&#39;s not too much to ask for. Lol.
+  > **@quastor749**：It’s really sad that you need a credit card for kickstarter 😞
   >
-  > **@steakismeat177** [👍1]：Any movement on video games for the other properties like Warbreaker, Elantris, and secret projects?
+  > **@joseaugustocostamartinsjun5185**：Those $300-$500 shipping fee will kill me... Damn, I will not spend $1000 in books, I will not spend $1000 in books, I will not spend $1000 in books... I really want to, but I will not spend $1000 in books (and swagger)
   >
-  > **@rhunjones4341** [👍1]：Wait, at 9.37 in the list of project what is &quot;Cairn&quot; in between Dragonsteel and Silence Divine. It&#39;s not in the written State of Sanderson 2025 on the website. Is Brandon being sneaky again?
+  > **@andresfranco7480**：jeje. buy a book vegan? buy a kindle please.
   >
-  > **@BigBuster100** [👍1]：So was that an old voice recording from when Mistborn was in production? <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=807">13:27</a>
+  > **@jeffgrey2161**：you need to fix your thumbnail
   >
-  > **@ryanmakers** [👍1]：I&#39;ve been wanting to give Brandon&#39;s books a try, but where is the best place to start?<br><br>Update (2/5/2026): I started with the Mistborn trilogy and I’m currently 100+ pages into The Hero of Ages. I’m loving it so far. I’ve seen a lot of people say they didn’t enjoy the second book as much because it leaned more into political maneuvering, but honestly, I found that part really fascinating.
+  > **@goblinkind123**：I think you&#39;ve ruined the publishing industry for any other author!!!!!
   >
-  > **@jamn4evr** [👍1]：Holy crap, just imagine a Mistoborn or Stormlight game made by Digital Extremes!
-  >
-  > **@ThePhantomphan11** [👍1]：Dan is definitely working on a Threnody series 😏
-  >
-  > **@thehoogard** [👍1]：Any expansions planned for Mistborn card game?
-  >
-  > **@yomanyo327** [👍1]：Makes sense that there hasn&#39;t been an adaptation yet, you have standards, and aren&#39;t willing to let them walk all over you the way that they&#39;re used to doing.
-  >
-  > **@sixsixtrample** [👍1]：Here me out: Sandfall Interactive (Expedition 33) makes the Mistborn game<br><br>I don&#39;t think there&#39;d be a better partner honestly...
-  >
-  > **@567secret** [👍1]：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=635">10:35</a> Is this new art? Why does Axies have the Steel Alphabet on him???
-  >
-  > **@skyblade7438** [👍1]：Just finished Elantris and now my feed is naturally getting spammed with Sanderson stuff.
-  >
-  > **@Jmhgddsert54377** [👍1]：If you do TV or film, make sure the contract says you maintain creative control. You don&#39;t want your work to end up like GoT or LotR...
-  >
-  > **@sammyshreds** [👍1]：Random question: Would it be interesting to incorporate a base-12 number system into the culture of a novel or would it just confuse people too much?
-  >
-  > **@robertunijat8299** [👍1]：Is Dragonsteel Booth coming to London?
-  >
-  > **@Olphas** [👍1]：huh, I really thought Snapshot would have a good chance for an adaptation. I think it would transfer well to the screen. I am currently re-reading it in Tailored Realities.<br><br>Wait, where would one get Elsecaller/King Lopen? Was that Nexus only for now? This just said it was &quot;released&quot;
-  >
-  > **@ccon69** [👍1]：Absolutely retain creative control on all external projects, we don&#39;t need more Witcher, Wheel of Time or Rings of Power garbage.
-  >
-  > **@seniorss_1** [👍1]：Don&#39;t give it to triple A developers, give it to indie companies, they&#39;ll help it come out sooner and will less annoying monetization
-  >
-  > **@erichart8560** [👍1]：Am i the only one who wouldnt care if an animated Cosmere doesn’t look like Arcame? Just feels like an unrealistic standard to hold the medium in, why can’t it look like Vox Machina or Invisible or even the DCAU.
-  >
-  > **@jonathanculler2706** [👍1]：Please please please no AAA game studio. A quality independent will have a MUCH higher chance of success. No agility in AAA.
-  >
-  > **@eddieford9373** [👍1]：&quot;I wrote 5 books this year and none of them are the ones you wanted. Whatcha gondo boutit?&quot;<br>Classic B.S.
-  >
-  > **@seniorss_1** [👍1]：Please don&#39;t do live action, animation is always better for fantasy
-  >
-  > **@IamHattman** [👍1]：Brandon, if you get a video game adaptation going, for the love of Adonalsium make sure its a new story/character. Far too many &#39;X the video game&#39; games are just a bad adaptation of the story they&#39;re based on. And I&#39;m pretty sure the fans all want to build their own character to experience the world with.
-  >
-  > **@pedrinho007ful**：Much love from Brazil 🇧🇷.
-  >
-  > **@Life.With.JackieC**：Just realized that we share a birthday- Happy belated birthday, birthday twin 🎂
-  >
-  > **@diggdugg**：I hope someday we get a 4x stormlight game.
-  >
-  > **@im_sorry_i_forgot_my_username**：The Slovakia section is missing one publisher, Ikar, who published the first 2 Mistborn books in 2025. The covers for them are wonderful, I recommend checking out the art if you&#39;re a Mistborn fan. Gorgeous editions.
-  >
-  > **@socks4305**：&quot;Donald the Editor&quot; really undersells it.
-  >
-  > **@spewytee835**：I really want a Larian game but I&#39;m not sure if this is the direction they are going as a developer
-  >
-  > **@cardinalmite9183**：Larian made Mistborn game would be a, SHUT-UP AND TAKE MY MONEY!!! moment.
-  >
-  > **@ChefCollinLee**：I would love to be apart of any video game you are making. Please give fans of the series an opportunity to come work on it if possible 🙏🏻
-  >
-  > **@M-ck7du**：La traducción automática no funciona
-  >
-  > **@seangoggans7091**：Could we get more updates on your arabic translations?
-  >
-  > **@daizenmarcurio**：where can i find all the art in this video? Especially at <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=1834">30:34</a> of wax and wayne
-  >
-  > **@Sgtcortez234**：Have you reached out to any anime studios ???? , happy new year , count Waite to read more adventures
-  >
-  > **@shuntao3475**：My first Sanderson book was Way of Kings, shortly after release. I was amazed on its quality and should be in the Smithsonian Archives preserved for all mankind.  Faster forward, the last 2 SL books, feel like content from a extremist Twitter feed.  I have read ever Novel Sanders has written, but if the next Mistborn is of the same quality of the last 5-6 years, it will be my last.
-  >
-  > **@Razor_Crest_ST-70**：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=805">13:25</a> How I felt reading that: <a href="https://www.youtube.com/watch?v=dZqLgnLiGn0&amp;t=52">https://youtu.be/dZqLgnLiGn0?si=IBPT7MysdiMO1loP&amp;t=52</a>
-  >
-  > **@matt5379**：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=857">14:17</a> 6 7
-  >
-  > **@greimann**：where can we get Elsecaller and King Lopen the First of Alethkar? None of my online booksellers seem to even know about it...
-  >
-  > **@crain1rr**：Anything new in the board game world? I’ve been hearing about an epic stormlight game for a couple years
-  >
-  > **@SwankDegree**：I have been trying and failing to figure out when to read “Elsecaller” and “King Lopen” during my stormlight read through. Does anyone know for sure?
-  >
-  > **@mandrias**：Honestly, I think I&#39;d rather not get film/television at this point. I feel it would be a major distraction for the Cosmere which I don&#39;t think would be the direction I&#39;d personally like. After getting burned by WoT... I just don&#39;t feel it would be worth it, even if it is better or doesn&#39;t get immediately canceled. I&#39;d prefer the books themselves get the attention they deserve.
-  >
-  > **@WulfVI**：Will Dragonsteel turn into a full publishing company accepting new authors to write outside of the Sandoverse?
-  >
-  > **@teoscapato1396**：whos the cool dragon on the thumnail or where is supposed to be from?
-  >
-  > **@Barisaxileprauchaun**：<a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=851">14:11</a> MISTBORN GAME 😭 FINNALY!!! I WILL PAY 200 DOLLARS IDGAF
-  >
-  > **@ViperRT99**：Does he have anything to say about the Cosmere books by Dan or Isaac?
-  >
-  > **@estebancamacho2282**：COSMERE MTG UB WHEN? Money is already set aside for it.
-  >
-  > **@sadkinz880**：What happened to the Dragonsteel trilogy? How did it go from a cornerstone of the Cosmere to a “maybe I’ll get to it”
-  >
-  > **@Livingdiceman**：Arcane should not be used as a benchmark.  The studio basically went deep into the hole financially to pull it off and the budget is rumored to be around 250 million dollars. I am all for quality (Arcane was amazing) but going broke doing it is never a good idea.
-  >
-  > **@austinsullivan7152**：Don&#39;t talk to AAA, talk to double a companies.
-  >
-  > **@Nachonachoss**：Guys at <a href="https://www.youtube.com/watch?v=nOe7VV5T-hw&amp;t=960">16:00</a> what is this series with south america setting ?
-  >
-  > **@SuspiciousActivity871**：I am late to the party. I have never read one of your books. I like horror and science fiction more than sword and sorcery fantasy. What should I read?
-  >
-  > **@Piggymonst3r**：Emily sounds an awful lot like Brandon.
-  >
-  > **@austinsullivan7152**：Please stop looking for arcane quality. <br>Blue-eyed samurai or attack on Titan would be fine. Amazing actually.
-  >
-  > **@Corvus-Moon**：Just don&#39;t become a GRRRM When film and television comes through.
-  >
-  > **@ricebag22**：I really dislike the idea of a AAA studio getting their hands on Mistborn. These studios are increasingly out-of-touch with the market and are rapidly losing ground to indie development, largely due to customer fatigue with unfriendly monetization practices and unwarranted live service dependencies. Please be very careful if this is the route you take.
-  >
-  > **@picknmiks4318**：I completely understand potentially having to take a break from writing to work on hypothetical adaptations, but please don’t do a GRRM and stop writing series that you’re in the middle of because of it.
-  >
-  > **@aldenwilkins**：Take a page from critical role and crowd source funding for an animated show?  Lord Ruler knows you can crowdsource. Lol😂
-  >
-  > **@auranacuran**：Did he just call Rithmatist a “side project” 😢
-  >
-  > **@LucasBlancoArtime**：Am I the only one thinking this seems ai generated?
-  >
-  > **@christianhnilicka**：No way they cloned his voice for AI
-  >
-  > **@bashkirbek**：Stormlight book VI 2031, it`s over.
+  > **@brianzhamilton**：So, when Brandon said he couldn’t guarantee the hardcovers will be available after the Kickstarter, is that regarding hardcover books period, or just these above-average-quality hardcovers?
   >
 
 ---
 
-## 6. The Fires of December: My Next Secret Project | Tailored Realities Release Party #DSNX25
+## 10. Brandon&#39;s Insane Kickstarter Launched so Here&#39;s All The Details
 
-- **频道：** Brandon Sanderson
-- **观看数：** 66,939
-- **点赞数：** 2,022
-- **评论数：** 155
-- **时长：** 2:14:31
-- **发布日期：** 2025-12-05T04:17:37Z
-- **链接：** https://www.youtube.com/watch?v=RXyWtp8tuYY
-- **来源：** search&channel
-- **有字幕：** 是
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/RXyWtp8tuYY/hqdefault.jpg
-- **标签：** Brandon Sanderson, Stormlight, Mistborn, Hero of Ages, Well of Ascention, Alloy of Law, Shadow of Self, Bands of Mourning, The Lost Metal, Author, Way of Kings, Oathbringer, Rhythm of War, Tress of the Emerald Sea, Frugal Wizard, The Sunlit Man, Cytoverse, Dragonsteel, Defiant, Skyward, Exclusive Books, Legion, Elantris, Warbreaker, Sanderfan, Sanderson, Writing, Storytelling, Words of Radiance, Wind and Truth, Sanderson Starter Pack, New Books, New Covers, Papercraft, Custom Books
+- **频道：** The Sanderson Collector
+- **观看数：** 1,243
+- **点赞数：** 73
+- **评论数：** 13
+- **时长：** 9:11
+- **发布日期：** 2022-03-02T03:32:40Z
+- **链接：** https://www.youtube.com/watch?v=rAJrX-r8gtQ
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en-US
+- **缩略图：** https://i.ytimg.com/vi/rAJrX-r8gtQ/hqdefault.jpg
+- **标签：** Brandon Sanderson, The Sanderson Collector, BookTube, Book Collecting, Year of Sanderson, Surprise Books, Brandon is Insane, Book Box, Book Subscription
 - **简介：**
 
-  > Live from Dragonsteel Nexus 2025, Brandon Sanderson celebrates the release of his newest anthology, Tailored Realities! This collection of short fiction is the only place to read the new story, "Moment Zero," along with many other previously out-of-print works. In addition to the release of Tailored Realities, Brandon and Emily will be announcing some exciting new projects for Dragonsteel and giving updates on what we've been doing all year. See you there!
+  > Go watch Brandon's video before you watch this one. https://www.youtube.com/watch?v=6a-k6eaT-jQ
+  > 
+  > So, I've broken down everything about the Kickstarter. I hope you find all this information useful!
+  > 
+  > Said Kickstarter: https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson/
+  > 
+  > Want to send me books?:
+  > Mark Lindberg
+  > 12407 N Mopac Expy.
+  > Suite 250-239
+  > Austin, TX 78758
+  > 
+  > Don't forget to follow me on social media! Start here on Youtube, and you can also find me on:
+  > Sanderson Collecting Website/Database: https://collectingsanderson.com
+  > Instagram: https://www.instagram.com/thesandersoncollector/
+  > Twitter: https://twitter.com/TheSandersonCo1
+  > Facebook: https://www.facebook.com/The-Sanderson-Collector-507868109661522/
+  > Sanderson Collecting Facebook Group: https://www.facebook.com/groups/178287579749175
+  > Sanderson Collecting Discord: https://discord.gg/yhKDDtb
+  > My (eventual) Website: http://thesandersoncollector.com
+  > Email: thesandersoncollector@gmail.com
 
-- **热门评论（98 条）：**
+- **热门评论（6 条）：**
 
-  > **@emmiegriffith3220** [👍200]：The next step coin is such a cool concept, I love that they’re doing this
+  > **@MacKenzieM24** [👍6]：Will you do unboxing videos every month? I’m buying the hardcovers but I can’t afford the swag boxes. I’d love to see them unboxed every month. It would also be cool to see your reaction.
   >
-  > **@JaffaArchfiend** [👍176]：Timestamps:<br><br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=311">00:05:11</a> Tailored Reality Starts<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=375">00:06:15</a> Staff Acknowledgements<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=661">00:11:01</a> Eye Of The World Leatherbound<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=822">00:13:42</a> Lightweaver Foundation Updates<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=1080">00:18:00</a> Mental Health, &amp; Next Step Coin<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=1503">00:25:03</a> Hoid&#39;s Storybook Collection BackerKit<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=1748">00:29:08</a> New Cosmere Novel<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=1982">00:33:02</a> Brandon&#39;s TED Talk :P<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=3188">00:53:08</a> Non-Spoiler Q&amp;A<br><a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=5070">1:24:30</a> New Cosmere Novel Reading SPOILERS ABOUND
+  > **@StarspangledHeart** [👍4]：I’m so excited!!! This is going to be so awesome. I’ve never done a book box before either but I know the Dragonsteel team is going to knock it out of the park.
   >
-  > **@tobistein9831** [👍127]：Well, here I am. Crying tears of gratitude in public. A coin on its way to my doorstep. Reminded that I will be warm again, in a moment where I sincerely needed it. Thank you.
+  > **@praalgraf** [👍3]：so excited to watch you unpack these! would love to do the full year but $400 extra in shipping is slightly too rough, went for the ebooks + audiobooks
   >
-  > **@angeld3085** [👍126]：Sanderson in 2050: Today I present the 32nd secret novel
+  > **@Luiigii52** [👍2]：Nice!
   >
-  > **@llaura-orrealis** [👍94]：the process of creating art makes art of you.<br><br>DAMN
+  > **@voidsabre_**：Looking forward to unboxing my swag boxes alongside you as we go
   >
-  > **@arglebargle42** [👍86]：Thank you Mr. Sanderson for offering this tangible reminder we are not alone.
-  >
-  > **@KratosZX** [👍79]：&quot;Dont go back in time&quot;<br><br>Proceeds to read that specific story :D
-  >
-  > **@Zachrandir** [👍55]：Stream starts at <a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=310">5:10</a>
-  >
-  > **@blackthorn1120** [👍44]：I need official &quot;We Are The Art&quot; Dragonsteel merch, right now! 😀👏🏼
-  >
-  > **@Ars_Fabula_TTRPG** [👍39]：I requested a coin for a friend and bought one for myself. We both struggle with mental health but I’ve been utilizing my resources and I’m in a good place. My friend, not so much. I will have a good talk with him and give him my copy of The Way of Kings along with the coin.
-  >
-  > **@MrPogostyc** [👍32]：SPOILERS FOR THE READING:<br><br><br><br><br><br><br><br>This can&#39;t be time travel and trying to wrap my brain around how this will work within the arcanum is killing me
-  >
-  > **@MarcieIsForagers** [👍29]：He can&#39;t keep getting away with it
-  >
-  > **@Ozymillie** [👍29]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=1140">19:00</a> has me in pieces. What a kind and selfless man.
-  >
-  > **@calvaungilbert2581** [👍27]：Brandon&#39;s team: &quot;Hey Brandon you want to take a break from writing for a bit...&quot;<br>Brandon: &quot;...nah&quot;
-  >
-  > **@Orion_1** [👍20]：I Wont be able to get one since i dont live in the US, but honestly just hearing about the next step coin in enough to warm my heart and help me hold on. <br>Thank you for what you do ❤
-  >
-  > **@AncalagonTheBlackMetalHead** [👍19]：“Is it a secret project?” Checklist:<br><br>Random cosmere world we’ve never heard of? Check<br><br>Crazy world building in the environment? Check<br><br>Hoids involved? Check<br><br>Oh ya we got ourselves another one folks
-  >
-  > **@littleripper312** [👍19]：Omg his wife! They&#39;re so cute!
-  >
-  > **@mikefrench178** [👍19]：I would love the coin. Having served in the military for 27 years, times aren&#39;t always great. Sadly in the UK so  988 doesn&#39;t work. Its a fantastic idea though. Love to you both.
-  >
-  > **@shadow1656** [👍18]：I&#39;m so excited for the Hoid Novella!
-  >
-  > **@symmetry8049** [👍18]：Okay, so this is interesting. A thought on the story reading below.<br><br><br>.<br>Sanderson has previously stated that backwards time travel is categorically impossible in the cosmere.<br>We already had a timelooping scenario in Yumi and the Nightmare painter, and a big twist was how its loop worked.<br>I dont think he would pull the same trick twice, and certainly a lifetime long loop would be very expensive.<br>I&#39;m going to guess that this is no true loop at all. I think the spiritual realm and future sight are involved here. What December experienced must have been a vision so realistic it felt entirely real, one possible future she will now discard.<br>I wonder if it is caused by her heritage, since that is the only mystery about her I could glean.<br>Also raises the question, &quot;isnt this just as good as actual time travel?&quot;<br>I am intrigued.
-  >
-  > **@verticalriot** [👍17]：Thank you making the next step coin.  <br><br>My Mom committed suicide the beginning of this year, and I lost my big brother from suicide by alcoholism 8 years ago.  Lots of generational trauma.  <br><br>When he announced this, I was so touched.  I am so thankful, and hope it helps someone.  Every day is a new page, new opportunity.  This chapter too will pass.<br><br>Thank you.  The world needs more kindness and light.  This helped heal something really raw in me.  I’m forever thankful
-  >
-  > **@blesse_dragon** [👍15]：dragons are so pretty, we need more logos with dragons on them
-  >
-  > **@bethb3987-o8c** [👍14]：The next step coin is such a wonderful idea. I am sitting here crying because I know it will make a difference. I hope to never again be in a position to need one, but it means so much for someone like Brandon to be advocating for the importance of mental health.
-  >
-  > **@Symbol-Guy** [👍13]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=3158">52:38</a> WE ARE THE ART.
-  >
-  > **@a6two** [👍13]：I think you should post the AI essay seperatly. This way it can easily be shared with people.<br><br>This hits almost the points I have said about it, adds making art makes you art, and says it all better then I could. <br><br>Also amazing job on the mental health awarness.
-  >
-  > **@DragonHeart613** [👍11]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=660">11:00</a> to <a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=820">13:40</a> = The Wheel of Time Leatherbound Edition.<br><br>I can&#39;t wait to pre-order my copy.
-  >
-  > **@inuption1693** [👍9]：The speech about art reminds me of Yumi and the nightmare painter
-  >
-  > **@TonyRomeroArt** [👍7]：We Are The Art!
-  >
-  > **@giuliopierandrei8946** [👍6]：i totally agree on what brandon said about ai art. the fact is, ai is able to do a ridiculous number of different tasks. Why brandon has to compare ai both to a practical work, such as drilling a hole, to an artistic work such paintings, films, ecetera? because ai theoretically can do both. in our perspective can do both. in reality it&#39;s doing only a practical repetitive work even if whe see a painting as a result of a prompt. from ai perspective generating any sort of result it&#39;s the same. the true meaning does not matter to a computer. being human is about trial and error, is about creating with a meaningfull purpose. the meaning, even if well-simulated, can come only from a human being.<br><br>thanks brandon for this speech
-  >
-  > **@FrostFireTiger** [👍5]：About the two chapters of &#39;&#39;The Fires of December&#39;&#39;;<br><br><br><br><br>I wasn&#39;t expecting a &#39;&#39;Regression&#39;&#39; story. A very popular trope in Korean stories.
-  >
-  > **@Cosmikaze** [👍5]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=4667">1:17:47</a> at first I thought Brandon said &quot;Ben&quot; instead of &quot;Vin&quot; and I am all for it
-  >
-  > **@DqwertyC** [👍5]：I&#39;m not sure how I feel about the &quot;December is the best translation of her name&quot; explanation... I don&#39;t know if there&#39;s a better way to communicate the same idea of &quot;named after the coldest month,&quot; but the in-story acknowledgement that it&#39;s a translation is leaving a bad taste in my mouth - why would Hoid know what the translation into English even is? Or is Hoid translating it into something else (Malwish, or what have you), and some <b>other</b> translator is translating his entire story, including the comments about translating the name, into English? If that&#39;s the case, why aren&#39;t all month and day names in the Cosmere just translated to the closest English equivalent?<br><br>I know I&#39;m over-analyzing the whole thing, but it&#39;s really throwing me off, and lessening my enjoyment of an otherwise interesting story
-  >
-  > **@ddlonglegs** [👍4]：I love love LOVE the next step coin. I have a small bookstore and will be buying several to give to whoever needs them. Thank you!! ❤❤
-  >
-  > **@johnsutter1349** [👍4]：Regarding the idea of a Cosmere wizard staff, while the Aesthetics would be off since it would be made of metal instead of wood, a Feruchemist could use a staff as a combined weapon and metalmind. Although given the weight of a fully metal staff it would probably be cumbersome for anyone who wasn’t a Brute or a Twinborn with access to Pewter.
-  >
-  > **@timschwartz5** [👍4]：Brandon Sanderson stars as Cosmere Kenny!
-  >
-  > **@newbiesama** [👍4]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=3870">1:04:30</a> &quot;we well get you taking care of&quot; &quot;are the coin shots in position?&quot;
-  >
-  > **@Scard914** [👍3]：Hoid will finally have his own book. How wonderful! Thank you, Brandon.
-  >
-  > **@scaleonkhan183** [👍3]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=2887">48:07</a> &quot;Art is the means by which we become what we want to be.&quot;
-  >
-  > **@kristamiller4568** [👍3]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=4969">1:22:49</a> fires of December reading - new cosmere novel - back story, chapter 1 &amp; 2
-  >
-  > **@brucemartin1420** [👍3]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=4877">1:21:17</a> lol like the opposite of Hoid, instead of always being where it’s helpful, you’re always at the least convenient spot. 😂😂😂
-  >
-  > **@mikehillproject** [👍2]：I&#39;ve been working on a novel for the last 10 years, and Brandon pumps them out, topping bestseller lists seemingly without effort. I want to learn from this guy.
-  >
-  > **@Ars_Fabula_TTRPG** [👍2]：Thank you to all the Dragonsteel staff for working to bring joy to so many people. 💙
-  >
-  > **@JBGregory11** [👍2]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=3009">50:09</a> This works for programming too. Thanks Brandon! I’m no writer, but I can use this in my field too.
-  >
-  > **@zenthepoet.** [👍2]：Adoooonalsium
-  >
-  > **@MrDrakeSirlit** [👍2]：Just bought two coins. Thank you sooooo much. Dragonsteel is such a lovely team!
-  >
-  > **@SriRam-ep8rp** [👍2]：Spoiler Spoiler <br><br><br><br><br><br><br>I think December is a dragon
-  >
-  > **@Symbol-Guy** [👍2]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=1808">30:08</a> December exists in the Cosmere?
-  >
-  > **@javonwalker-peters** [👍1]：The next step coin is really cool i ended up buying one because When i read rhythm of war this time last year my mother had just died and the book and the quote really helped me process my grief and the problems i was facing and i often find my self feeling how i was feeling then so i can’t wait to get the coin so i can look at it and remember the things i read
-  >
-  > **@LeaneKholin** [👍1]：He finally did a groundhog day book...
-  >
-  > **@arc4382** [👍1]：The coins are a wonderful idea.
-  >
-  > **@Perfectcrime87** [👍1]：My toddler is sleeping on me and I have like 45 min to an hour til she wakes up.  So this reading is the perfect amount of time for me.  Thanks Brando!!
-  >
-  > **@levihuffman7401** [👍1]：I knew that cookie bit 2 weeks ago was a teaser for a new secret project!
-  >
-  > **@Tinahgirl83** [👍1]：Thank you. Thank you so much for this coin. I’ve been there. I’ve been so close and didn’t have anyone to talk to. That hotline does help, and it does make you feel like you can keep going a little longer. I bawled my eyes out, listening to this, because it will help so many people. I’ll be mentioning it to my therapist. Maybe the clinic will buy some and give them to patients. <br><br>I know that your readership is predominantly male, and it is notoriously hard for men to seek help when they need it, because they don’t want to be a burden or they don’t want to feel like they’re weak. Please take Brando Sando up on his offer to send you one. The ability to seek help when you need it makes you strong, not weak. You’re never as alone as it feels like you are. There are people struggling right alongside you and there are people that you don’t even know rooting for you and for everyone to succeed. To keep going. It’s not easy to ask for help, but it’s more than worth it in the long run.
-  >
-  > **@dekisuba** [👍1]：Absolute legend
-  >
-  > **@XiaoMeiling-mei** [👍1]：Ohh she is the Prophet, why did I not see it coming
-  >
-  > **@YamiSpyroX** [👍1]：Thanks for the words on the note of AI. I can acknowledge that it can be a useful tool, but we&#39;d all much<br>prefer it if it doesn&#39;t start replacing human artists. I concur. We are the Art!  I didn&#39;t know about that AI song hitting  <br>those top charts! I&#39;m okay with a bit experimental work with AI but....I feel like that&#39;s crossing a line isn&#39;t it?
-  >
-  > **@ZAMAN3705** [👍1]：Graphic audio, when 😢
-  >
-  > **@litlbucky** [👍1]：Question on the storybooks, will they all be the same dimensions or all different sizes?<br>Would be nice for consistency when displaying on shelves together
-  >
-  > **@sprengertrinker** [👍1]：Carcinification is the cool word to refer to the tendency of various (maybe all???) evolutionary trees to turn up crab eventually.<br><br>CRAB PEOPLE
-  >
-  > **@wordsworthdirt** [👍1]：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=2220">37:00</a> An AI song being number one on the country charts is perfect encapsulation for how cookie-cutter/simple/soulless today’s country music is
-  >
-  > **@el2enka** [👍1]：Hmm, I understand the &quot;we are the art&quot; speech, but I disagree with multiple points:<br><br>1. The AI art existing does not erase human artists. We can create for ourselves regardless. Yeah, less artists will probably be able to live from their art, but we can still do it.<br>2. If you use tools to help craft you a parts of story or finessing the prompt, I think it is still an art, but on a different level. Such as using digital storybuilding tools instead of our heads to hold the world. Or visual artists using tablet instead of having the knowlege about chemical compositions of paint and interactions with different materials. They still create art, but in a different (some might say easier) way.<br>3. The best steelman did not prove that humans are better than machines. He proved that he - the best - can be better then average machine when he exerts himself fully. But the average steelman probably could not beat the average machine. Although it is a legend, so who knows...<br>4. There is another aspect of an art. The people who consume it. They gain nothing out of the artists learning and improving other than the final product which they enjoy or admire for a reason. So for these people the destination might be more important than the journey. But this was not the aspect that Brandon talked about. I think it is important though.<br><br>I think that despite all examples given of books, movies, games and the art evolving, this seems to be the final big bad that we have to stop (as it was all those times before). Maybe Brandon is right, but maybe the art will evolve once again with AI. Sure, we should try to use it as ethically as possible and regulate it, but I don&#39;t think we should fight so strongly against it.
-  >
-  > **@DryerFryer**：I&#39;ve happily bought this coin. A great cause and an amazing idea 🧡
-  >
-  > **@thecrimsonreigner1517**：very good!
-  >
-  > **@Theirishsk83r**：You’re a champ Brandon
-  >
-  > **@MartinMCade**：Ordered the coin (Paying for it) as soon as they mentioned it.
-  >
-  > **@professorjefe**：Brandon and the team at Dragonsteel, I had a fantastic time at my first DSNX convention and I was lucky enough to have a traditional signing with him.  Thank you for your time and words, Brandon!<br><br>Do we know if anything that was done in the Roshar room will be available to view?  I wanted to see some of the things I missed during my signing.
-  >
-  > **@voidsabre_**：To this day I still long for the hollywood Snapshot movie
-  >
-  > **@golinsoul**：I need that short story of those character trying to play dnd
-  >
-  > **@elvistran4595**：I did not expect to be sad while playing Elden Ring, listening to this reading in the background.
-  >
-  > **@conehead2099**：He can’t keep getting away with this
-  >
-  > **@BlackHand531**：I wished that we would get moon one or fleet.
-  >
-  > **@betathunder13**：Limerick joke hits hard
-  >
-  > **@paralicular3927**：Hoid has to have a hand with what was happening upstream.
-  >
-  > **@igoldenknight2169**：This speech changed me.
-  >
-  > **@AnotherBobbywick**：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=4945">1:22:25</a> STONEWARDS!
-  >
-  > **@randramb**：I would wonder whether those coins could feasibly be done internationally aswell?
-  >
-  > **@-Lindol-**：Time travel is impossible so what happened in chapter 1 is either:<br>A. an “Inner Light” situation, or<br>B. An omega-13 situation.
-  >
-  > **@mohiuddinadamali7315**：Hello Brandon, I am a big fan of yours, as a new year present i really need the starter pack of yours they are so pretty but I don&#39;t live in us so timeline wise by when do you think I can get it internationally
-  >
-  > **@kevinreid6626**：During the event, Brandon said the text version of the sample chapters for The Fires of December would be published in the newsletter.  Can anyone tell me when that will be sent out?  Or will it be available on the website as well?
-  >
-  > **@Mixelly**：they dont send the coins to the netherlands kinda sad about that
-  >
-  > **@deus9293**：I can&#39;t order a Next Step coin to my country for some reason, even though all paid orders are able to ship :( <br>I guess it was not meant to be
-  >
-  > **@tywindant**：Does anyone know how to request the coin? And do you know if it&#39;s US only? xd
-  >
-  > **@ikeMarvel**：Any word on the Newsletter?
-  >
-  > **@josephallen8939**：Hmm...I don&#39;t see Joy Allen on the list for Merchandise, Events, &amp; Support...She&#39;s the BEST!!!
-  >
-  > **@ElijahDawkins-yb1uc**：Adoooonalsium?
-  >
-  > **@ernestorodriguez5117**：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=4828">1:20:28</a>
-  >
-  > **@walterdanielfarmer**：Would love the chance to buy the Kelsier skin in Fortnite
-  >
-  > **@djbslectures**：62 years in the past???
-  >
-  > **@pretty5793**：<a href="https://www.youtube.com/watch?v=RXyWtp8tuYY&amp;t=2879">47:59</a> if 19 yr old Brandon would have had AI he would have started with Elantris. I really like how he makes this about journey. I read the white sand novel in arcanum unbounded and I do like the concept.
-  >
-  > **@-6ix559**：Slow down bro. I still gotta read Tress and Yumi
-  >
-  > **@liamallen2727**：I have the Kelsier Skin 😈
-  >
-  > **@winterwaifu404**：Really should have hit enter one more time after Dan Wells to make Operations appear above the workers
-  >
-  > **@박경택-h3p**：first!
-  >
-  > **@brandoncosby1674**：It sorta annoys me that December’s name came from when she was born but December is not the last month of our winter. Shouldn’t the translation for American audience be “Fires of February”.
-  >
-  > **@Gedof**：About the AI segment, I have been simmering on this on and off for the last few days, and I think I figured out what bothered me about it:<br><br>I have a few problems with this argument. I&#39;m not saying &quot;AI art&quot; should be considered art or that LLMs and other generative AIs are good in any way, I&#39;m just focusing on this specific argument so that we can develop the discussion.<br><br>First, let&#39;s assume that all the definitions are correct: Art needs to change the artist; AI can&#39;t change by making its &quot;art&quot;; the person using the AI also does not change; therefore &quot;AI art&quot; isn&#39;t art.<br>This argument works on a personal level only. What I mean by this is that it&#39;s all about whether the person making the art even cares if it is art or not, it says nothing about whether people should do it or not. If someone that wouldn&#39;t be making real art anyway continues to not do art but uses AI to make things they deem &quot;cool&quot; or &quot;useful&quot;, it&#39;s that person&#39;s problem, and I shouldn&#39;t concern myself with it whatsoever. They&#39;re the ones losing something. This also assumes that, as an art &quot;consumer&quot;, I should be worried about whether someone was changed when making this instead of focusing on the experience of consuming it and being changed by it myself, which I&#39;d argue is another very important part of art.<br><br>Now I want to challenge the notion that no one is changed by making &quot;AI art&quot;. The AI does not change, but that&#39;s a weird way to view it. The AI should be considered a tool, not a conscious thing (because it isn&#39;t). So this, to me, sounds the same as saying &quot;photoshop doesn&#39;t change when you make a drawing using it&quot;. I&#39;d argue that the prompter and/or editor that is engaging with the AI to make that &quot;art&quot; is the human element, and is the one that can change through the process. If we allow the uncontroversial notion that something being easier doesn&#39;t make it less &quot;art&quot;, I don&#39;t see why the change from the, sometimes very involved, process of iterating a prompt to get a desired result shouldn&#39;t be valid.<br><br>I am reiterating once again, because this is the internet: I have a lot of problems with AI, &quot;art&quot; included. This is not an endorsement in any way. It&#39;s a response to one specific argument so that we can progress the discussion and actually help getting to the bottom of figuring out what actually bothers us about AI outside of pure emotion and the cycle of &quot;old man thinks new thing is soulless and old thing was better&quot;.
-  >
-  > **@scionsilverbeat8149**：What? EVERY time he announces a new book now, it’s a “secret project”?<br><br>Really? It was genuinely exciting the first time (even though technically exploitative). In of itself, once would have been enough before losing value. But to make it a bigger joke, we have the synopsis this time. Do we really need a fancy title for ‘pre-order’ - ya know, what every other author does without the audacity to call it otherwise 😑 I get that it’s because these are extras he wrote in his own time without publishers knowing and he can write fast enough to actually finish and publish them . . . but from an audience perspective there is no difference so the title which targets said audience just continues to be unnecessarily exploitative.
-  >
-  > **@Cloysterpete**：I’d have no issue reading new Stephen King Castle Rock novels written by AI after he passes, with a few caveats, they would have to be c,early marked as such so no one thought they were a long lost King title. Plus the royalties should be split 60% to King&#39;s estate, 20% the publisher who creates the physical book and 20% the mega corp who created the AI. <br><br>In twenty years time AI will be in such common usage we won’t bat an eye at this, instead of Brian Herbert writing more and more Dune books we&#39;ll have AI doing the same thing, the families of the deceased authors aren’t going to turn down free cash.
-  >
-  > **@AnotherBobbywick**：Does anyone have a &quot;uhm&quot; and &quot;uhhh&quot; counter?
+  > **@spiremetrobooks5753**：Thank you for letting us know that the books are excellent. Would not expect anything less but still great to hear.
   >
 
 ---
 
-## 7. My New Secret Project + Weekly Update
+## 11. First Look at Secret Project #3
 
 - **频道：** Brandon Sanderson
-- **观看数：** 107,694
-- **点赞数：** 4,569
-- **评论数：** 237
-- **时长：** 9:51
-- **发布日期：** 2025-12-09T19:00:57Z
-- **链接：** https://www.youtube.com/watch?v=wE5e7ZCqtR0
-- **来源：** search&channel
-- **有字幕：** 是
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/wE5e7ZCqtR0/hqdefault.jpg
-- **标签：** Brandon Sanderson, Stormlight, Mistborn, Hero of Ages, Well of Ascention, Alloy of Law, Shadow of Self, Bands of Mourning, The Lost Metal, Author, Way of Kings, Oathbringer, Rhythm of War, Tress of the Emerald Sea, Frugal Wizard, Yumi and the Nightmare Painter, The Sunlit Man, Cytoverse, Dragonsteel, Defiant, Skyward, Exclusive Books, Legion, Elantris, Warbreaker, Sanderfan, Sanderson, Writing, Storytelling, Words of Radiance, Dragonsteel Nexus, Wind and Truth, Black Friday Deals, Convention
-- **简介：**
-
-  > Brandon brings you this Weekly Update from the Dragonsteel Booth at Nexus, where his exciting news covers everything from new books to old favorites and Brandon's next Cosmere novel. For our Wheel of Time fans, there is new information about The Eye of the World Leatherbound, which will be available for preorder starting this Dec 19. Cosmere aficionados rejoice, because the Hoid’s Storybook crowdfunding campaign is about to start, and it is bringing you brand new art and picture books for fan favorite stories along with Brandon’s next secret project: The Fires of December.
-  > 
-  > Hoids Stories Launch Page - https://www.backerkit.com/c/projects/dragonsteel/hoids-storybook-collection/launch_party
-  > 
-  > RSVP for London - https://www.dragonsteelbooks.com/pages/london
-  > 
-  > Lightweaver Auction Site - https://www.lightweaverfoundation.org/collections/auction-today
-  > 
-  > Livestream with Live Reading - https://youtube.com/live/RXyWtp8tuYY
-  > 
-  > Want to send me something to open?
-  > Dragonsteel Entertainment
-  > ATTN: Adam
-  > P.O Box 698
-  > American Fork, UT 84003
-  > 
-  > Get your Wheel of Time updates here with the Bound and Woven newsletter: https://mailchi.mp/brandonsanderson/eye-of-the-world-campaign
-  > 
-  > Stay up to date by following my newsletter: https://brandonsanderson.us10.list-manage.com/subscribe?u=7d056bb7596a3e617f82004b2&id=fa68f14db0
-  > 
-  > Interested in signed books and swag? Check here: https://www.dragonsteelbooks.com/
-  > 
-  > You can also follow me on:
-  > Tiktok: https://www.tiktok.com/@authorbrandonsanderson
-  > Facebook: https://www.facebook.com/BrandSanderson
-  > Twitter: https://twitter.com/BrandSanderson
-  > Instagram: https://www.instagram.com/brandsanderson/?hl=en
-  > Twitch: https://www.twitch.tv/mistbornbrandon
-  > 
-  > Frequently asked questions: https://faq.brandonsanderson.com
-  > 
-  > Chapters
-  > (0:00) - Nexus Book Updates!
-  > (0:30) - Hoids Storybook Collection
-  > (3:25) - Wheel Of Time Leatherbound Update
-  > (5:26) - Dragonsteel is coming to London!
-  > (6:50) - Lightweaver Auction
-  > (8:33) - Final Announcements
-
-- **热门评论（136 条）：**
-
-  > **@Pandahouse32** [👍650]：Brandon Sanderson:  I&#39;m going to be slowing down the book releases.  <br>Also Brandon Sanderson: btw here&#39;s another one
-  >
-  > **@DqwertyC** [👍449]：Can&#39;t wait for the Australian localization of Hoid&#39;s Travails 3 titled &quot;Fires of July,&quot; (as that&#39;s on average the coldest month of the year in Australia)
-  >
-  > **@TheBrandonSanderson** [👍215]：Which of Hoid&#39;s stories are you most excited about?
-  >
-  > **@ChanceDrive** [👍199]：I&#39;m sorry what?! A stormlight Kaladin Skateboard?! That reference the meme for Kaladin jumping into the arena with Alodin with a kick flip and sunglasses &quot;honour is dead I&#39;ll see what I can do&quot;
-  >
-  > **@noreenroux193** [👍56]：I just bought the stormlight arcive books for the first time. I&#39;m in my 60&#39;s so can&#39;t wait to start my journey with Brandon Sanderson for the first time.
-  >
-  > **@CallumQuinnCreates** [👍43]：Thanks for taking such good care of your fans Brandon, you and all the folks at Dragonsteel are the real Knights Radiant!
-  >
-  > **@vegtagt** [👍42]：Very excited for this new secret project book!!! 🎉🎉🎉
-  >
-  > **@zenthepoet.** [👍39]：Adoooonalsium
-  >
-  > **@יונתןשי-ת4ו** [👍32]：<a href="https://www.youtube.com/watch?v=wE5e7ZCqtR0&amp;t=80">1:20</a> the Zelda sound effect 🙏
-  >
-  > **@Trooskidabombdotcom** [👍30]：Ugh cannot wait for girl who looked up and dog and dragon🥺 thank you Brandon
-  >
-  > **@TMWriting** [👍27]：it’s actually very hard to find info about Fires of December in Australia, because when you Google it you just get information about bushfire season
-  >
-  > **@chloejandsten3340** [👍26]：What a cute baby doomslug at <a href="https://www.youtube.com/watch?v=wE5e7ZCqtR0&amp;t=415">6:55</a>!!!
-  >
-  > **@helen6365** [👍25]：I am so excited for the girl who looked up. I used to tell my daughter that story at bed time(edited to not be scary at all ofcourse). Shes turning 7 soon 😊
-  >
-  > **@mitchodell4993** [👍23]：Your bodyguards are cracking me up in the background
-  >
-  > **@jribsnails** [👍21]：<a href="https://www.youtube.com/watch?v=wE5e7ZCqtR0&amp;t=21">0:21</a> was us!!! The nexus was such a fun experience!! So nice to meet everyone there
-  >
-  > **@brennanpeterhunt** [👍21]：The reading of fires of December was 🔥
-  >
-  > **@carlosroman7552** [👍17]：i just imagine brandon &quot;hey, nice pinhead costume, let&#39;s get you a pin&quot;
-  >
-  > **@csernobillahun** [👍15]：Shout out for Skar, trying his best to impersonate Brandon&#39;s shadow
-  >
-  > **@zkatt3238** [👍10]：HE CAN&#39;T KEEP GETTING AWAY WITH IT!!!
-  >
-  > **@queenofdarkness2387** [👍9]：Nexus was amazing. I cannot wait for the Hoid books
-  >
-  > **@Sobbleboy27** [👍8]：<a href="https://www.youtube.com/watch?v=wE5e7ZCqtR0&amp;t=250">4:10</a> The Wheel of Time Chapter Icons: Remastered
-  >
-  > **@Stormlightnerd** [👍8]：I reeeeeaaalyy wish I could’ve come to Nexus! I live in Missouri though…🥲❤️
-  >
-  > **@malou1480** [👍5]：Please, please, please bring the Worldhopper Ball! I would pay double if I had to!
-  >
-  > **@ElijahDawkins-yb1uc** [👍5]：I&#39;m here before he is. Adooooooooonalsium!
-  >
-  > **@fowler019** [👍5]：Huh, now this is odd, where&#39;s the &#39;Adonalsiuuuuuuum&#39; guy?
-  >
-  > **@Mightyjordy** [👍5]：What happened during the signing??
-  >
-  > **@IRollAlone** [👍4]：First thought: Love the look of the books<br>Second thought: Backing these from Europe is super unreasonable so another project I will be getting only when it&#39;s (hopefully) widely available
-  >
-  > **@LeonardoLázaroOteroGarcía-x6q** [👍4]：So, in the Cosmere 16 is the magical number. Would there be 16 Secret Projects?
-  >
-  > **@blondeshazam198** [👍4]：Sooo can there be a thing where we donate $10 to Lightweaver and then as he is walking somewhere, an employee says the name and he does a quick fantasy name of their name? Mine is Kayla and I can&#39;t come up with a good fantasy name from that 😂
-  >
-  > **@jayjoestar14** [👍3]：The chasm friends and the Dog and the Dragon would make amazing magic play mats
-  >
-  > **@Crazy_Runner_Chef** [👍3]：Just finished Yumi, it was amazing
-  >
-  > **@LadyValette** [👍3]：Is the storybook collection going to be 1 physical book or 4 seperate books?
-  >
-  > **@ggkkgg-e8n** [👍2]：I&#39;m currently reading the Sunlit Man! Very much enjoying it!
-  >
-  > **@cristianocontini9565** [👍2]：Let’s bring the Worldhoppers Ball to Europe!!!!
-  >
-  > **@ezequielcanale** [👍2]：The December thing feels so weird. It has never happened previously in the Cosmere. Never have the books translated an in-world concept to a real world one to adapt the meaning. I guess it makes sense in order to portrait the rarity of the name but it will take time to get used to
-  >
-  > **@Sushi_soto** [👍2]：What about skyward foward(?) I don’t know how the sequel is called in English 😅
-  >
-  > **@Wexos** [👍2]：wow the price of the WoT leatherbounds is pretty decent if you are a huge fan.
-  >
-  > **@joshhickeysmoviereviews** [👍2]：When will FIres of December be available for preorder on Amazon? I was able to preorder Tailored Realties day after 2024 Dragonsteel
-  >
-  > **@darkmatterhudokai** [👍1]：Uk Worldhopper ball ... YES BRANDON! PLEEEEEEESE.
-  >
-  > **@Kurodarkness** [👍1]：Omg the Zelda death sound for the phone
-  >
-  > **@snapgab** [👍1]：Omg I&#39;m so excited for the storybooks!
-  >
-  > **@BorisTheGoose92** [👍1]：The leather-bound is BEAUTIFUL for Wheel of Time. The Press/texture on the front looks fantastic.
-  >
-  > **@heavyraines17** [👍1]：Stalking Skar is my favorite part of this video!
-  >
-  > **@RinTownsend** [👍1]：Brilliant editing in this one
-  >
-  > **@seringale** [👍1]：So hyped for this, im rereading Yumi and Tress
-  >
-  > **@elvistran4595** [👍1]：I gotta finish these Tainted Cup novels fast before new Brandon&#39;s books come out.
-  >
-  > **@MrNotSpecified01** [👍1]：Wheel of time leatherbounds!! Been waiting for a while to upgrade from my paperbacks...
-  >
-  > **@REXCRAFT88** [👍1]：cosmere yule log?👀
-  >
-  > **@lukeschwikkard9057** [👍1]：i cannot articulate my disappointment with my uni course ending on the 29th of May.
-  >
-  > **@thanielsilas** [👍1]：I spy a few ghostbuddies in this video and at least one of them writes cosmere books.
-  >
-  > **@riser_storm** [👍1]：Will WoT leatherbounds be a limited print? Or will they will be available for print on demand like Cosmere leatherbounds?
-  >
-  > **@chelseafrazier1175** [👍1]：Will Nexus 2026 be at the Salt Palace? Just want confirmation before I book a hotel 🙂
-  >
-  > **@avsambart** [👍1]：Pembroke is pronounced like Pem-bruk
-  >
-  > **@Grunik1618** [👍1]：The name in a book prize being gatekept behind a highest bidder setup is unfortunate. What if instead you offered lottery tickets that the fanbase can buy? That would allow everyone to participate (assuming a $5 ticket price or something like that), and would presumably result in a substantially larger charity donation.
-  >
-  > **@wudao88** [👍1]：$185 is ridiculous
-  >
-  > **@Theirishsk83r** [👍1]：Will the Wheel of Time leather bound be numbered?
-  >
-  > **@roiyanay045** [👍1]：is there anything new about &quot;Sanderson&#39;s starter kit&quot; coming to the Dragonsteel store?
-  >
-  > **@drewmick6969** [👍1]：Dang what happened to Donald’s phone
-  >
-  > **@andythepanhead** [👍1]：Brandon that title invoked Kill Bill level PTSD.....how dare you sir
-  >
-  > **@lankeyguy** [👍1]：I want to commit to the ball but I need to know which day you would do it as that will greatly impact if I could go.
-  >
-  > **@sethanderson3400** [👍1]：Brandon is making yet another Secret Project book? That’s so out of character for him!
-  >
-  > **@helleyt1** [👍1]：What was the exciting thing?
-  >
-  > **@adambyrd5379** [👍1]：<a href="https://www.youtube.com/watch?v=wE5e7ZCqtR0&amp;t=325">5:25</a> 185 dollars 😂
-  >
-  > **@alisonhill3941** [👍1]：Learn to pronounce &quot;Pembroke&quot; or they will do very nasty things to you when you get there. It&#39;s also &quot;a&quot; college that Tolkien taught at; he migrated to Merton (where fun goes to die) when he got his professorial seat there.
-  >
-  > **@syedsakibulhaque42** [👍1]：Mr sanderson should stop with the secret projects. That is a one show pony and using it again and again just for the sake of marketing dilutes the hype. <br>When the first secret projects were announced, I was surprised and excited. But now I barely bat an eye.<br>So, just a top from a fan, stop with the secret projects idea. It&#39;s done
-  >
-  > **@chemistryuploads6582**：big thanks to the Lightweaver Foundation for donating books to my students!
-  >
-  > **@mattbazer3797**：I was so happy to be at the nexus!! That’s me and my girlfriend getting pins for our cosplays at the beginning! Thank you Brandon for all the amazing stories and laughs I get to share with her and my friends!
-  >
-  > **@Chukars77**：You guys are absolutely killing it! Everything you release I need it
-  >
-  > **@vindex57**：Just finished Mistborn Era 1, really looking forward to reading your other work. I love the layered plots and use of the magic system(s).
-  >
-  > **@Super_Saiyen_Potato**：Brandon, youre the freakin MANNNN🎉🎉🎉
-  >
-  > **@DragonOfThePineForest**：I could see a prequal to &quot;the emperor&#39;s soul&quot; that could be in this little series of Hoid&#39;s
-  >
-  > **@crimsonraen**：Thanks for the updates! Really hoping we can get tickets to Dragonsteel next year! 😎
-  >
-  > **@bradbarnett4111**：if i was rich i would 100% buy my way into a book
-  >
-  > **@samhunter8215**：If ur coming to London Sanderson please make the trip up to come the Scotland for a day we love u
-  >
-  > **@POSTFALLfilms**：I hope to get to Nexus someday.
-  >
-  > **@alybobbitt7356**：The zelda noise is perfect editing. Shout out to whichever critter!
-  >
-  > **@karina1818**：Sii, en español! 💟
-  >
-  > **@tap836**：Sounds like no reason to rush on the Pre-order to be among the first if there is nothing like signed/numbered editions, so that is nice.  Only thing is maybe if they end up shipping in roughly first come first serve order.
-  >
-  > **@louvegouroute**：ooh coming from another video (on another channel) where the automated captions were even worse than usual (i generally say &#39;automated is better than nothing&#39;, but it&#39;s getting worse…) — anyway, i&#39;m SO GLAD to see proper subtitles here! thank you so much :D
-  >
-  > **@captainw3966**：Wish it was a different city in England.
-  >
-  > **@eodico**：I need that sword
-  >
-  > **@sohangchopra**：I still haven&#39;t read all of your novels, and now you wrote another one! Can&#39;t catch up 😂
-  >
-  > **@robertpopa2628**：Well, considering that there were only 10 months in many calenders until it was changed. Which is why dec(10)ember is the twelfth month and not the tenth. July and August (named after roman emperors Julian and Augustus) were added in middle which moved Sept (7), Oct (8), Nov (9), and Dec (10), over two.<br><br>So there might not need to be a &#39;translation&#39;, just an explanation.<br><br>And this is actually part of my issue with stormlight archive: there are very few Rosharan words used in the series, most are presented as already translated, even the examples with the women&#39;s script are in English and only written in the script. The exception tends to be the names, of which we only have the meaning of around 4.<br>Why does it matter? I&#39;ve picked up the rpg and am trying to create an ipt (random generation table for inspiration pad pro [IPP]) to generate names, and I&#39;d like to create names on the fly rather than choose from the names that already exist in the series.
-  >
-  > **@Kypatos**：Когда уже Брендон напишет книгу по тайм-менеджменту?😄Сколько всего успевает, интересно было бы узнать как
-  >
-  > **@flyinglobster9552**：Maybe if I win the lottery I can get a leather band collection for now I’ll stick with paper back 😂
-  >
-  > **@averyjo1486**：Do we know when the Dragonsteel bundle for Tailored Realities will ship out?
-  >
-  > **@Dr_Nabi**：Is there confirmation if TWoT will include the new 30th anniversary preface &quot;Ravens&quot; in this edition?
-  >
-  > **@barrel_rider8391**：It’s scar!
-  >
-  > **@redmatter20**：I was wondering why Brandon had an iPhone
-  >
-  > **@infinitec1**：Considering many children are now named after prominent characters across the Cosmere, I&#39;m curious if over the next few years will we see an increase of children being named December?
-  >
-  > **@OMACexperiment**：So will we be getting one WoT leatherbound a year? Twice a year. I plan on reading this for the first time and would like to know how long that would take if I read along with each leather-bound release? Will it take me 7 years? 15 years?
-  >
-  > **@TheSkyKidWinion**：The exciting thing happened, where Brandon signed the paperback of Tress, and I WAS RIGHT THERE! IT WAS AWESOME! And my best friend managed to approach Brandon right after in her Steris costume and get a picture, it was absolutely incredible! Thank you for all that you do, both Dragonsteel and Brandon!
-  >
-  > **@Jdbyard**：MTG Cosmere Commander decks please.
-  >
-  > **@dcamillus**：What&#39;s the exciting thing he referenced for the book signing? My guess is another author as a guest...
-  >
-  > **@alexanderbardosch8172**：Any chance for the Secret Projects in Mass Market Paperback (US versions, not UK)?
-  >
-  > **@litlbucky**：Will the Hoid storybooks all be same size/dimensions so they all look nice &amp; uniform on shelves?
-  >
-  > **@thecomicreadern4344**：I hope we get all 14+1 books of WoT in leatherbound,but i don&#39;t have too much hope with how looked down upon books 9,10 are,even among the fans
-  >
-  > **@xXchrisXx010**：Am I supposed to get a response after RSVPing to the Worldhopper Ball? I signed up but I did not get any response mail yet.
-  >
-  > **@strictlynickley**：“Let’s get a pin for them.”
-  >
-  > **@flavoryjam073**：WHERE IS FLEET? IS HE OKAY? IS HE ALRIGHT?
-  >
-  > **@adamkleiman25**：how many secret projects can there be like at some point is it not just a project lol
-  >
-  > **@insaneskierspsn9143**：Is the goal to do the entire wheel of time series?
-  >
-  > **@JoyBoyRuu**：Is the reading list the order of all your books or just a specific series?
-  >
-  > **@joebolke**：Wasn’t the wheel of time leather bound the book in the never ending story the little boy stole? I understand why he had to steal it.
-  >
-  > **@erikawalsh-wray3451**：$185 is pretty fair. I was gifted a leather bound copy of the lord of the rings back in the early’90’s and I think that cost around $100.
-  >
-  > **@KirstenRickershauser**：Can I follow the campaign without putting down a deposit? I don&#39;t really want a pin.
-  >
-  > **@cullenguckenberger1702**：the important number is 16 <br>there are 6 secret projects so far <br>10 more have yet to be released <br>there&#39;s always another secret...
-  >
-  > **@lewibjork7955**：Also we are giving away a sword…
-  >
-  > **@HawkeLiath**：Shoutout to the pink security people doing a good job in being Brandon&#39;s secret service!
-  >
-  > **@raftelking806**：When he says percentages done a story is that the first draft?/ how much time after a draft does the final product come out like 6-8 months?
-  >
-  > **@Parmandur**：What about Dark One, or Book of Nails?
-  >
-  > **@gevzoran4698**：25bam
-  >
-  > **@OlorinsSpell**：I started reading recently, a friend of mine recommended one of the cosmere books to me but I didn’t want a big commitment so I looked up Brandon’s other writings, I read the rithmatist because I thought it was a standalone, I was hooked and loved it but also had my heartbroken by the last chapter… why do this to me brandy sandy
-  >
-  > **@DojoBelok**：Was nice to meet you last week!
-  >
-  > **@kate.proverbs31**：Whoever might be reading this, I pray you encounter the love of God today. Jesus saves us because we can do nothing to save ourselves 🤍🤍 Trust in Him
-  >
-  > **@koijoijoe**：So what was the exciting thing that might have happened during the book signing?
-  >
-  > **@AdamConro**：What time will the pre-order for the Wheel of Time leather bound be dropping on the 19th?
-  >
-  > **@steakismeat177**：Will we be getting another leatherbound in next years backerkit too? Oathbringer?
-  >
-  > **@frostburnwoof**：I&#39;m sorry, it&#39;s probably my low IQ and attention span but I may have missed it some time ago, but whenever Brandon gives an update for Ghostbloods, does he mean the first book, or all three books? I know he said before he wants to complete all three first before sending them off.
-  >
-  > **@L1ghtweaver**：When will the Lopen/Elsecaller book be available?
-  >
-  > **@HeavySnorlax**：Is it 185$ for the first book?
-  >
-  > **@Tralala001**：You&#39;re not helping the theory that you&#39;re always writing in your pocket. FREE TIME?! Man...<br>Also mad respect for recognizing the economy might be a major factor for lack of interest in the ball. You know if people could afford it they would be all over it.
-  >
-  > **@tysmith1742**：Is fires of December a picture book?
-  >
-  > **@vathreon**：its not a secret project if you tell everyone about it :/
-  >
-  > **@shara30000**：i dont really fw hoid after he started sleeping with Jasnah, was downright creepy
-  >
-  > **@Chosen_One**：Good Lord it doesn&#39;t seem possible to pump out this many freaking books
-  >
-  > **@snowman9631**：me looking at the auction and realizing its for the rich RICH fans :/
-  >
-  > **@danosthal5159**：I hate the name it doesn&#39;t feel like part of the Cosmere
-  >
-  > **@eCommKen**：When are we going to stop with the secret projects and finish the already announced stuff?
-  >
-  > **@kelseyredford219**：You&#39;re giving away a heron marked blade? Don&#39;t those need to be earned?
-  >
-  > **@Chajos**：I don&#39;t know... hearing the word &quot;december&quot;... gut reaction is: I will get thrown out of the immersion everytime i read it. I am hopefull that beta readers have gone over this and that it won&#39;t be the case, but i fear this one might not be for me in the end... we will see
-  >
-  > **@JeffJoshers1**：When will Kelsier skin return to Fortnite?
-  >
-  > **@robertunijat8299**：IF ANYONE FROM THE DRAGONSTEEL TEAM IS READING THESE! About the leatherbound Wheel of Time books: I was so hyped for this but... as I understand you mean to put out 1 book/year. That means 15 (potentially 16) years to collect them all. As I am no longer a young man (I am just a few weeks younger than Brandon himself) that means that by the time all the books are out I will actually be among the old population (if I will make it that long). So the years of me being able to enjoy the complete Leatherbound series will not be plentifull (if any at all). And that makes me very hesitant to start buying these. I was hoping you would speed up the production to at least 2 books/year but nothing seems to be pointing in that direction. Please take into consideration that we the OG Wheel of Time readers/fans are not so young anymore.
-  >
-  > **@chase55431**：Mr. Sanderson, as much as I would love to donate to get my actual name into a book, I beg you to please consider that there almost no characters named Chase in any fantasy books except for Mr. Goodkinds which is a highly unfortunate situation.
-  >
-  > **@Diarmuhnd**：So disapointing
-  >
-  > **@geert574**：Thank god I didn&#39;t buy Stormslop V: The Sloppening
-  >
-
----
-
-## 8. We Are The Art | Brandon Sanderson’s Keynote Speech
-
-- **频道：** Brandon Sanderson
-- **观看数：** 452,065
-- **点赞数：** 35,570
-- **评论数：** 2831
-- **时长：** 18:35
-- **发布日期：** 2026-01-30T18:01:10Z
-- **链接：** https://www.youtube.com/watch?v=mb3uK-_QkOo
-- **来源：** channel
+- **观看数：** 129,335
+- **点赞数：** 4,251
+- **评论数：** 570
+- **时长：** 1:27:28
+- **发布日期：** 2022-03-17T15:00:27Z
+- **链接：** https://www.youtube.com/watch?v=cFGDcvtRdz0
+- **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/mb3uK-_QkOo/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/cFGDcvtRdz0/hqdefault.jpg
 - **简介：**
 
-  > Check out the Cognitive Realms Post: https://www.brandonsanderson.com/blogs/blog/ai-art-brandon-sanderson-keynote
+  > Here, Brandon reveals the title and reads the first part of Secret Project #3. 
   > 
-  > The surge of AI, large language models, and generated art begs fascinating questions. The industry’s progress so far is enough to force us to explore what art is and why we make it. Brandon Sanderson explores the rise of AI art, the importance of the artistic process, and why he rebels against this new technological and artistic frontier. 
+  > If you’d like to learn more about our Kickstarter, please visit: 
+  > https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson?ref=ujgqrz
   > 
-  > "Yes, the message is 'journey before destination.' It's always journey before destination."
+  > You can read the excerpt here:
+  > https://www.brandonsanderson.com/first-look-at-secret-project-3/
+  > 
+  > 00:00 - Introduction and Title Reveal
+  > 00:56 - Chapter One
+  > 08:46 - Chapter Two
+  > 20:18 - Chapter Three
+  > 32:11 - Chapter Four 
+  > 48:50 - Chapter Five
+  > 01:01:58 - Chapter Six
+  > 01:10:59 - Chapter Seven
+  > 01:22:23 - Where did this come from?
 
 - **热门评论（200 条）：**
 
-  > **@ClosedOpenness** [👍3834]：This made me think of how AI isn’t just taking jobs. It’s replacing entry level jobs. Creating a Ouroboros effect where people cannot get hired because they don’t have the skills because the jobs that would give them their experience no longer exist.
+  > **@KingArmistice** [👍625]：&quot;we are close to where Virtuosity splintered herself&quot; Brando just name dropping a new Shard
   >
-  > **@writtenbymaren** [👍3320]：I finished my first novel today. It felt better than I ever could have imagined. ❤ I did it.
+  > **@powrof3** [👍337]：Brandon: Mentions a shard and something important happening to it.<br>17th shard: “QUICK, WRITE THAT DOWN!”
   >
-  > **@vooder** [👍2602]：&quot;The arts are not a way to make a living. They are a very human way of making life more bearable. Practicing an art, no matter how well or badly, is a way to make your soul grow, for heaven&#39;s sake. Sing in the shower. Dance to the radio. Tell stories. Write a poem to a friend, even a lousy poem. Do it as well as you possible can. You will get an enormous reward. You will have created something.” - Kurt Vonnegut
+  > **@joshuagraham3854** [👍330]：Makes me scared for Stormlight V -- evidently Kaladin has a mental health crisis so incredibly severe and debilitating, that he needs Wit to come by and tell him two full length novels.
   >
-  > **@igoldenknight2169** [👍1751]：I was there. This speech actually changed me. Inspired me to change. I haven’t drawn in some time because of depression. But this gave me the motivation to draw again.<br>(Edit: wasn’t expecting much but the bright replies here matter to me. Thank you for caring for some random guy, Journey before destination life before death strength before weakness!)
+  > **@dreadfulpennyanimates3476** [👍293]：I think part of Brandon&#39;s success is that he hasn&#39;t stopped exploring other things. I think after a certain age, people think they&#39;re too old for video games or new story formats. It can get you stuck in a niche, and you can&#39;t relate to what the upcoming generation want in their storytelling.
   >
-  > **@TomTriyingtothink** [👍1647]：Cars got faster than humans a long time ago. But people still run marathons.
+  > **@sear925** [👍256]：&quot;You might think that extreme. If so, have you, perhaps, never heard if religion?&quot;<br><br>I love this line, man
   >
-  > **@BuggggZapperBob** [👍1215]：&quot;You are the art&quot; hit me so, so hard. This video is absolutely amazing.
+  > **@lordredman6137** [👍251]：I&#39;m gonna be so happy if Hoid is just narrating all the cosmere secret projects.
   >
-  > **@papabear6431** [👍820]：I havent clicked this fast since we got the news about Cosmere adaptation...
+  > **@Dynnen** [👍206]：So I think we&#39;re all in agreement right?<br><br>One convention a year max for BrandoSando? 😆
   >
-  > **@mattastrophe** [👍791]：Hank Green drops a fantastic discussion on science one day.  Brandon Sanderson drops a fantastic discussion on art another day. <br>A positive note on such a negative week.
+  > **@KevinRothert** [👍197]：All of these feel unique even up to the titles. What a great year we&#39;re going to have!
   >
-  > **@BillieRolih** [👍757]：This is so great... but he missed the most obvious example of &quot;you are the art&quot;: Dance! <br>The choreographer Merce Cunningham said once “You have to love dancing to stick to it. It gives you nothing back, no manuscripts to store away, no paintings to show on walls and maybe hang in museums, no poems to be printed and sold, nothing but that single fleeting moment when you feel alive.”<br>This is a perfect illustration of exactly what Brandon is saying here
+  > **@DustinWillis18** [👍194]：I should have known Sanderson would be able to write a magic system to give off outrun and vaporwave vibes. I am only 6 mins in and color play is awesome.
   >
-  > **@SomeKindaELF** [👍680]：To create is to live twice
+  > **@PetrikLeo** [👍170]：<a href="https://www.youtube.com/watch?v=cFGDcvtRdz0&amp;t=5060">1:24:20</a> The manga is HIkaru no Go by Takeshi Obata and Yumi Hotta. I LOVE this manga.<br><br>I knew I have a good feeling about Secret Project #3!!
   >
-  > **@MepaJepa** [👍544]：I think the argument made here by Brando Sando is interesting, but ultimately as someone who’s primarily a READER rather than a writer, the reason why I’d care more about human made art rather than AI art is because on some level I just care more about what a human has to say. <br><br>I think there’s 3 reasons why we value art (and yes I’m just a random guy on the internet, but humour me here):<br>1. Pleasure/entertainment, 2. Utility (it can help in understanding yourself, other people, and the world around you), and 3. Meaning<br><br>I think it plausible to think AI could do the 1st (think highly trope-y, turn your brain off sort of stories). Arguably it could do the 2nd by replicating and synthesising patterns seen in literature and online. The 3rd, meaning, is something I don’t think can be made by something that doesn’t have any internal experience. In this sense AI art doesn’t have any real intent behind it and so none of it really MEANS anything.<br><br>To me, this is what is different in the Data V LLM analogy. Data (the character) has an internal conscious experience, whereas LLMs are simply “stochastic parrots” (i.e. they simply replicate patterns synthesised from training data)
+  > **@Peacefulpeacefullypeacy** [👍128]：I have to say I am addicted to Sanderson’s writing style. I am so excited for this one!
   >
-  > **@CT-55-55** [👍461]：This is just the thesis of Yumi and the nightmare painter and honestly I’m all here for it.
+  > **@tremkl** [👍109]：I desperately want Nightmare Painter, a world of black, neon, and nightmares, to be a video game.
   >
-  > **@PaulaReverbel** [👍386]：I&#39;m a ballet and contemporary dancer and I think the &quot;you are the art&quot; message is easier to grasp in the dance field. The dancer and the performance are very intertwined. And it&#39;s even more evident if you move away from stage performances and towards dances that are non-stage cultural expressions, like ballroom or samba or anything that a community or a group of people gather to do and have a great time. Human beings become art. While I dedicate myself to technical in-studio learning, I have a great appreciation for the kind of traditional dances people learn from each other in their communities.
+  > **@CarlyAndJason** [👍107]：So excited for this one! I really appreciate all the time and effort that goes into your connection with us readers.
   >
-  > **@matiasohl7685** [👍363]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=994">16:34</a> This concept of caring seems really important for us to appreciate and admire art. It reminds me of something I heard a while ago: &quot;Why would I read a story no one cared to write? Why would I hang a painting on my wall no one cared to paint? Why would I live a life I didn&#39;t care to struggle for?&quot; And here I found the answer: We Are The Art.
+  > **@joebaumann1083** [👍99]：Right away I love how he now uses a description of someone by comparing them to another in The Cosmere as another author would use Earth as a point of reference. It shows how much these books are going to start coming together and I have a feeling it will happen fast.  In November fast lol.  And then everything changes with Stormlight 5
   >
-  > **@typechiart** [👍287]：when I was in my late teens I was a victim of SA and fell into a deep depression for many years. I wouldn&#39;t leave my room and I needed stuff to do besides video games and I so picked up digital art. It was more therapeutic than anything else I had tried. The constant feeling of worthlessness that I had been struggling with for so long started to slowly fade away as I improved and I was able to not only use art as therapy for myself but also bring joy to my friends. <br><br>Through art I learned how to turn darkness into light.
+  > **@emilyfuller8923** [👍95]：Ok I’m not an artist but I’m excited to see Fanart of this in a Japanese calligraphic style. Actually… if there is any swag for this book can it be in a Japanese art style? I think I’d die
   >
-  > **@el_super_laser** [👍283]：TL;DR: Journey before destination.  ❤❤❤❤
+  > **@hodsinay6969** [👍86]：This makes me happy that I backed the year of Sanderson.<br><br>I&#39;m sure that it would be noticed later on, but at <a href="https://www.youtube.com/watch?v=cFGDcvtRdz0&amp;t=2411">40:11</a> it should be 34 and not 24
   >
-  > **@NebulaCubing** [👍264]：I have a bit more than 20,000 words of a fantasy novel, but haven&#39;t written it in quite some time. this has reminded that my dreams of being an author will never be realized until I try. Ty, Sanderson.
+  > **@kidort4601** [👍64]：I heard the forbidden word that Merphy Napier hates lol. <br><br>This book sounds amazing!! Can&#39;t wait to read! Love the inspiration.
   >
-  > **@loomph** [👍228]：I used AI as part of my last job as a software engineer and I ultimately came to a similar conclusion. Yes, I could fix some issues that I didn&#39;t understand faster, but every time I did I ended up feeling worse for it. Eventually I realized that the reason it always left me feeling worse was because while I started with a problem and ended without one, I never once learned anything about what the problem was or how it was fixed. I finished today&#39;s task slightly faster, but at the same time I made every future task take just that little bit longer.
+  > **@kaminachos5129** [👍59]：Best money I&#39;ve ever spent on books backing that kickstarter, even if the last secret project is something i somehow hate <br><br>Whats crazy to me isn&#39;t how many books he can write, it&#39;s how many good books he can write
   >
-  > **@Diggelaer** [👍210]：Got an ad for an ai writing assistant at the end, nice
+  > **@bmoneybby** [👍58]：I like how you snuck the Fibonacci Sequence into the washing routine.
   >
-  > **@nicholesnowNM13** [👍185]：What you talked about reminded me of Hans Christian Anderson&#39;s story of the Emperor&#39;s Nightingale, where the lovely singing of the Nightingale, who was seen as quite plain but with a beautiful voice, got replaced by a robotic replica that was beautiful as well as gifted. The robotic nightingale had the same end product as the nightingale, but the Emperor loved the soul and the effort the nightingale expressed devotion to their friendship through song. AI can&#39;t replicate the true meaning of why we make art, because it comes from our very souls. Our pain, our joy, our beliefs, our understanding, and experience of life, wrapped in the creation with the medium we choose.<br><br>Thank you for the video. It honestly helped me acknowledge why I feel so depressed with AI Art materials in general, yet I hope to get back my imagination and spark again despite it all.
+  > **@NormalLunk** [👍56]：So the way I take it, the nightmares and the spirits on either planet are essentially spren. They&#39;re just from virtuosity instead of honour. Spren manifested differently on either planet, one evil and dark, the other <b>virtuous</b> and bright.
   >
-  > **@Naija_Ninja** [👍164]：Brandonalsium being the absolute GOAT yet again.
+  > **@Belisknar** [👍48]：Did he just casually name drop another Shard  in &#39;Virtuosity&#39;?
   >
-  > **@Kayosis** [👍139]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=825">13:45</a> this part made me cry. Because that feeling of holding something ONLY YOU could have created, and of course it has its flaws, but spending hours and hours of your life with words and stories flowing from the fingertips that were shaped from your own experiences, is what writing and creative expression is all about. so powerful 😭
+  > **@jaredscottabramson7463** [👍46]：Another expanded Hoid story... So is Hoid using Brandon Sanderson as his pen name or proxy similarly to Alcatraz?
   >
-  > **@Phoenix_Rises** [👍137]：I&#39;m so glad we are talking about product versus process, because I think that point keeps getting missed because we fear AI can do art better than us. I miss the idea that we can fail; I miss the idea that we can enjoy a process to accomplish something; I miss the idea that we don&#39;t have to be good at something to do it. I also believe that I would not make art if I did not care about the process; I can&#39;t imagine making art without enjoying the whole journey and all the choices I have to consciously consider to get there. I love being able to think. Reminds me a bit of the Russian Formalist notion of defamiliarization: The process of engaging with art allows you to slow down.
+  > **@multidinero** [👍37]：“Like a man with diarrhea in a sand paper factory…” Brandon, what? Lmaorofl! What a pull on the pyramid of abstraction!
   >
-  > **@TheCreativeNick** [👍94]：Honestly no matter how advanced gen AI gets, I&#39;ll still be making art
+  > **@hunterkillerai** [👍27]：As Hikaru no Go is one of my favorite mangas of all time. This is now my favorite Secret Project novel. (But since I said the same when SP#1 and SP#2 were revealed, I reserved my right to switch to SP#4 when it is revealed.
   >
-  > **@garlonarthur6717** [👍94]：Brandon&#39;s contributions to the artistic community, to those of us that share the dream of creating, are selfless - and intense. His success annoys some people. He has both talent and charisma. It&#39;s how he uses those tools on behalf of the rest of us that makes him, Brandon. Thank you, sir.
+  > **@rde7615** [👍27]：Hikaru no Go was a lot of fun ( and the reason I have a Go app on my phone even now - although I am definitely no good at it)! Looking forward to reading this one for sure
   >
-  > **@Omenowl** [👍91]：“Once, men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.” “‘Thou shalt not make a machine in the likeness of a man’s mind,’” Paul quoted. “Right out of the Butlerian Jihad and the Orange Catholic Bible,” she said. “But what the O.C. Bible should’ve said is: ‘Thou shalt not make a machine to counterfeit a human mind.’ Have you studied the Mentat in your service?” “I’ve studied with Thufir Hawat.” “The Great Revolt took away a crutch,” she said. “It forced human minds to develop. Schools were started to train human talents.”
+  > **@MeMySkirtandI** [👍27]：Wait, Mai pong sticks? The kind Sarene doesn&#39;t know how to eat with but her little cousins do? Interesting.<br><br>AND DESIGN RUNS A NOODLE SHOP? Wit has been busy.
   >
-  > **@Colesign** [👍84]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=680">11:20</a> This. This is what lies at the heart of my distaste for AI-generated or AI-edited fiction. Yeah, it can put out prose that&#39;s technically better than what most beginner writers can make...and because of that, it&#39;s discouraging novice writers from actually trying to draft their first stories, realizing that they&#39;re bad, realizing WHY they&#39;re bad, and growing both as artists and people.<br><br>There&#39;s meaning and worth in that process of trying to do something you&#39;re not good at yet. And in this age of content-spewing algorithms, it&#39;s all the mort important to send out love and encouragement to all the young artists out there who are making janky stick figure webcomics and cringy slash-fics with sloppy grammar and confusing scene transitions! <br><br>The road to good art is paved with the bad, and it must be walked with both eyes open.
+  > **@Phoboskomboa** [👍25]：1 1 3 5 8 13 21 34 is the Fibonachi sequence that makes the spiral found in many places in nature, but he said 24 for the last number. I think he misspoke.
   >
-  > **@BlueCherryNice** [👍83]：Two years ago Ive lost my partner. The pain was unbearable. I didnt want to exist in a world that doesnt have him anymore. All days spent on crying, on sleeping, only to wake up to cry again.<br>Im a digital artist, but in that moment I have felt such a strong need to paint. Ive picked up the watercolors I havent used in years and just painted. One after another. The world was still awful without him, but art made me go through it. In the moment of creating I could pour all of my broken soul into the painting and it did feel better, even if it was very temporary. The art of creating is something so primal... its not about the finished product, its about making it, creating it, its about how this make you feel. Even if AI was all that sells, people would still make art
+  > **@jonathansteele1801** [👍23]：Today is the day I realize I want Brandon Sanderson to write Sheikah lore for the Zelda franchise.
   >
-  > **@sethhalsey4860** [👍83]：I didn’t know I was watching a Ted talk… wow! ❤😂
+  > **@lucaslj18** [👍23]：Brandon being a fan o Final Fantasy X brings a smile to my face.<br>The &quot;listen to my story&quot; quote just earned a whole new meaning.
   >
-  > **@RobertScottBannersglare** [👍82]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=756">12:36</a> That should be a major point that differentiates human artists from AI art, which is that it is (to paraphrase) &quot;in conversation with the legacy, rather than copying the legacy.&quot;
+  > **@Witty_Jackson** [👍20]：Yo a new Shard (plus a second unnamed one), Hoid AND Design off-world in the future, two perspectives, two magic systems, cognitive mumbo-jumbo, amazing characters, super strong themes, the darker tone... My god there is so much to be excited for! This is wild! I&#39;m so ready!
   >
-  > **@unkatom** [👍78]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=227">3:47</a>  The most “downloads” not the most PLAYS, nor the most searched either.  This might just be the “label” creating a “buzz”.
+  > **@genznnGaming** [👍18]：Ty Brandon and everyone involved in the Kickstarter, love these preview chapters, and the discussion streams 😍😍
   >
-  > **@bidossessi** [👍78]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=927">15:27</a> oh my God I have goosebumps. Three years ago when it all started, I wrote this comment on a video: &quot;it&#39;s called a &#39;work&#39; of Art for a reason. The painting is not the art; it is the proof that Art happened&quot;.<br>I was mocked as pedantic by a tech-bro. I still don&#39;t know if I am right, but I feel validated somehow! Thanks for the dopamine! 😅
+  > **@fourthofthesky** [👍18]：The last project is gonna be like 3 hours 🎉🎉🎉🎉<br><br>EDIT: I HAVE TO WAIT TILL JULY TO READ THIS???? I WISH I HADN&#39;T READ THIS (this is so much more cosmere heavy then others!!!)
   >
-  > **@CivilDefenseEngineer** [👍59]：I am so grateful to have grown up in a time when AI did not exist, and learn how to create on my own.
+  > **@kushalrijal9453** [👍17]：Wrote 1k words today. This guy is inspiring me to write fast.
   >
-  > **@DestinySpider** [👍57]：As someone who loves to draw but is kinda bad at it and most importantly takes WAY too long to make stuff, this was quite sweet to hear. My stuff is definitely quite useless, but I do care a lot to try make it something good, so I guess that&#39;s gotta count for something.<br>Beautifully written speech.
+  > **@matthewletexier** [👍17]：How did he get a Spren off Roshar?!?! Frozen in time?!?! COAT RACK!?!?!?!?!?! I need this book ASAP
   >
-  > **@rmsgrey** [👍56]：People climb mountains not because they want to be at the top - if getting there and being there were the sole point, they&#39;d use some sort of vehicle - but because they want to climb the mountain.<br><br>People create art because they want to express themselves. That doesn&#39;t mean they can&#39;t use shortcuts - like getting someone else to make the paper and pen/pencil for them - just like someone setting out to climb a mountain will drive a car or take a bus to get to the mountain rather than walking all the way from their home - but it&#39;s the expression through creation that&#39;s the point of being an artist, not the possession of the finished article.<br><br>On the other hand, the consumption of media for empty entertainment is somewhere where LLMs can take over - much like (almost) no-one wears hand-woven clothing any more - not because the mechanically produced stuff is so much better, but because it&#39;s cheap to produce in bulk and flooded the market. Which poses a problem for people looking for art rather than content - it&#39;s already starting to take real effort to find the genuine stuff in certain areas - but, if the LLMs can get a bit better (something people don&#39;t talk about as much is that LLMs are already trained on basically the entirety of human output, so they may be hitting a limit without some qualitative breakthrough) is good news for those just looking for something to keep their eyeballs busy for half an hour...
+  > **@cosinev1265** [👍16]：Spoilers!<br><br><br><br><br><br>VIRTUOSITY SPLINTERED HERSELF???!!! NEW SHARD
   >
-  > **@gryffton** [👍47]：Like always, you put into words just what I&#39;m feeling. This is how I feel about software programming. What I&#39;m seeing with upcoming engineers is exactly what you&#39;re talking about. Like always, it really does come back to Journey Before Destination.
+  > **@JamesGunnRowland** [👍15]：We now know all sixteen shards. WE NOW KNOW ALL SIXTEEN SHARDS!
   >
-  > **@BackflipBrickfilms** [👍45]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=430">7:10</a> So what I&#39;m getting from this is that John Henry was a Hemalurgist.
+  > **@JoséRVFlores** [👍15]：Who is Hoid telling these stories to? A person he has gotten really close to and wants to know more about the Cosmere… Jasnah! OR in book 17th Shard!
   >
-  > **@g0mu03** [👍43]：&quot;Art is the means by which we become what we want to be&quot;. Man, I almost cried with that phrase. It&#39;s so powerful. Of course, it&#39;s the longer form of &quot;we are the art&quot;, but that&#39;s why I love it so much. It&#39;s about how art makes us FEEL, not actually about what we do. Just amazing.
+  > **@Mawlivander** [👍14]：This feels akin to a malevolent version of Bob Ross and i absolutely love it!
   >
-  > **@nostalgia6669** [👍39]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=810">13:30</a> - This part almost makes me cry. I seriously need to get back to my epic metal album. In fact, I&#39;ll do it right away. We are the art, we are the artists! Bravo, bravo! You&#39;re the best Brandon!
+  > **@kiaraintheforest** [👍14]：I can feel the excitement through the screen. The titles itself are so intriguing! Can&#39;t wait 📚
   >
-  > **@Yrusama** [👍37]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=927">15:27</a> I&#39;m not crying, you&#39;re crying 😭
+  > **@tannerprince9730** [👍14]：Totally reminded me of “Your Name” even before the swap. Their circumstances are so different in some ways, Yumi is revered and Painter is basically a Covid nurse with major edge-lord vibes, but their sense of duty, loneliness, and self sacrifice are so keenly similar. I can’t wait… cup girl Glorf is still my favorite tho uwu
   >
-  > **@DanielWieser** [👍36]：Reminds me of Foucault who said something like &quot;The purpose of art is to transform the artist.&quot;
+  > **@T1mefortim** [👍12]：Virtuosity???? VIRTUOSITY!!? 😱
   >
-  > **@connorhale341** [👍36]：Boss move to put this out right after the movie news broke. Get the right message out
+  > **@vladtheimpaler9577** [👍11]：&quot;What renowned interdimensional story teller can&#39;t invest in a little real-estate now and then&quot; hahahaha Hoid is the best thing ever.
   >
-  > **@REXCRAFT88** [👍32]：“God made us: invented us as a man invents an engine. A car is made to run on petrol, and it would not run properly on anything else. Now God designed the human machine to run on Himself. He Himself is the fuel our spirits were designed to burn, or the food our spirits were designed to feed on. There is no other. That is why it is just no good asking God to make us happy in our own way without bothering about religion. God cannot give us a happiness and peace apart from Himself, because it is not there.”<br>― C.S. Lewis, Mere Christianity
+  > **@mathianpfister5414** [👍11]：Whilst I have loved all three books thus far, this is undoubtedly the one I&#39;m most excited for
   >
-  > **@REXCRAFT88** [👍31]：reminder live stream tn!!!!
+  > **@happyjayadams** [👍11]：``And give me voluptuous curves, because they remind me of a graphed cosign.&#39;&#39;  Should this be ``cosine&#39;&#39; instead?&#39;&#39;
   >
-  > **@Gansimus** [👍31]：I hola a PhD in Comp Sci and have done research into AI. Plus my current position has me doing a lot of automation with AI.<br><br>I have also taken many courses in drawing and painting. And even though LLM s can out produce me., I still love just sitting down with my sketch book and let my imagination go. That feeling is so rewarding.
+  > **@ChBrahm** [👍11]：Funny that at <a href="https://www.youtube.com/watch?v=cFGDcvtRdz0&amp;t=670">11:10</a> he stares directly at Merohy Napier
   >
-  > **@goblygon** [👍31]：In one of the direst periods of my life I composed an instrumental song that translates everything that I was feeling: anxiety and that need for respite. I couldn&#39;t sleep without thinking about that song for weeks, then months, to the point that I would wake up in the middle of the night just to take notes of another part that I had got from dreams! I&#39;m no professional musician so it took some fair amount of effort. The result is something I&#39;ll cherish for the rest of my life.<br>The moment I realise a piece of &quot;art&quot; was made by an A.I. my interest just vanishes completely. I don&#39;t know exactly why, but all of this made me realise how much it matters to me to know that someone made it, feeling something, or facing something, with purpose.
+  > **@warwizard1309** [👍11]：Did Sanderson just casually name-dropped a previously unknown shard?
   >
-  > **@julio1148** [👍31]：I see art as communication.<br>People have opinions, and artists communicate those opinions through their work.<br>Why tf would anyone care about an algorithm producing anything since it cant have an opinion about it? It may be good at being literal, but inherently impossible for it to be subjective.
+  > **@vladtheimpaler9577** [👍10]：This is amazing, I&#39;ve always wanted to read a magic system based on artwork like music or painting. So to clarify both the Spirits of Yumi&#39;s world and the Nightmares of Painter&#39;s world are splinters of Virtuosity correct? The Spirits are summoned by beautiful displays of art while the Nightmares are banished by beautiful displays of art.
   >
-  > **@REXCRAFT88** [👍30]：What happened to the live stream?
+  > **@s.p.8508** [👍10]：This seems like it’s gonna be by far my fav of the ones listed so far (can’t speak for #4). The world building and characters in this story sound soooo gooood. Can’t believe I have to wait another year to read it
   >
-  > **@workinprogress5431** [👍25]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=480">8:00</a> It&#39;s not important to the context here, but I think about the tale of John Henry fairly often. I don&#39;t know how commonly the story is known nowadays, but I&#39;m glad to see it referenced. It has a timeless resonance.
-  >
-  > **@cottonswabbehemoth9017** [👍25]：This is really well presented, but it&#39;s also pretty much all the same exact things Courtney Jensen said in his AI series in early 2023. A few years later, the material is still relevant, and this is probably the best presentation of it I&#39;ve seen. These days, I don&#39;t think anyone could argue with Sanderson as the spokesperson for modern fiction.
-  >
-  > **@anniezomaya151** [👍25]：&quot;Art is the means by which we become what we want to be.&quot; <a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=846">14:06</a>
-  >
-  > **@AcesPrune** [👍24]：My debunk on the idea that video games cannot be art is simple. To reduce art to an aesthetic is to imply that the very works of Shakespeare on stage is not art. Art can exist in the construction of an intended experience.
-  >
-  > **@volk5466** [👍24]：I&#39;ve been struggling to write my book series for years. I always told myself to do it later or that I was too tired. I&#39;d practiced with other stuff and have written the equivalent of several books to improve my writing, but never really worked on polishing it. Never formed actual, professional habits.<br><br>Then I started listening to the audiobook for Mistborn: The Final Empire. Currently I&#39;m now halfway through the available Cosmere books, and have gotten back into reading (mainly fantasy) like I did when I was a kid. I&#39;m at 74k words of the first draft of manuscript and it&#39;s so much fun, and I hope to polish it because I plan for it to be a long, epic fantasy series the likes of which nobody has seen before. Brandon has been inspiring, and if anything AI doesn&#39;t really scare me... because I know I have way more passion and care for my characters and story, along with any aspiring writer, than an aggregate machine can ever be programmed to match. And it&#39;s the same for any of you chasing the same dream.
-  >
-  > **@Matthew_Malenich** [👍22]：I&#39;ve seen people compare AI art to the industrial revolution. But that comparison betrays the point they try to make. This is the creation of art, not harvesting wheat or producing gaskets. If you think creating a painting, a film, a song, or a book etc. is analogous to digging a ditch, then you&#39;re not doing this for the same reason most artists become artists.
-  >
-  > **@jexitheguru** [👍21]：I love this. I’ve been telling people: ‘Ideas aren’t unique! The only thing you bring to the table is YOU, and that’s worth every flaw and imperfection. If you want an easy product, fine, go prompt your slop. But if you want to be an artist, join the conversation. Start wherever you are, at whatever level, and just create.‘(Now I will finish with the addition, ‘YOU are the art.’)
-  >
-  > **@colbycoles** [👍20]：First Brandon thing that’s made me cry since Kaladin swore the fifth ideal
-  >
-  > **@GenLiu** [👍20]：AI works toward the usual misconception that many of us have, which is to think that comfort makes us happier.<br>Comfort is great, until it starts simplifying what gives us purpose as a species. If a machine does everything better than us, including art, sport, creating a successful business...what will we do?<br>What will it mean to be human?<br>How will we convince ourselves that we have any value in this world at all?
-  >
-  > **@kennyblankenship5472** [👍16]：Absolutely fantastic talk, Brandon.  I&#39;m an aspiring writer myself, and I have to be honest, it&#39;s really hard, even in the beginning stages.  I love that you talked about the necessary human aspect to art and that art is a reflection of our nature.  I&#39;ll admit, I don&#39;t like AI art.  I tend to think it&#39;s bland and uninteresting for sure, but it will certainly get better.  I mean, I sell AI to the government for my job, so I can&#39;t really complain too much about it.  <br><br>I want to agree with you on the aspect about humans being the art, and I have to draw on my Christian beliefs for this one.  This world is a work of art, I mean, anyone can look at a sunset and be wowed and there&#39;s no real advantage to the beauty of a sunset.  God said, &quot;Let there be light...and make it pink!&quot;  and the sunset was born.  This world is clearly made with love, we humans, as images of God, are also made with love.<br><br>I see art as the mimicry of this.  Fantasy authors create literal worlds to place characters in, and every author loves their creation!  At least I know I do, even though it causes me headaches.  AI cannot replicate love.  AI art isn&#39;t bad because it&#39;s worse than human art, there&#39;s legitimately great art that AI has created, even though I can typically tell if it&#39;s AI generated.  I love human made art because there&#39;s love that went into it, someone loved these characters, this sequence of notes and chords, this painting so much that they wanted to share it with me.  <br><br>AI is a slave.  AI cannot love, it does not have a will, all it is, is a machine designed to pump out what we desire it to.  Will it revolutionize the workforce?  Probably, but it cannot make art, because it cannot love.
-  >
-  > **@I_Vartalaap** [👍16]：Very good talk and I agree with him - but one side note to all this is that part of us defining art is also the experience of the person reading/seeing/hearing that art as more than just a product, but the impression it can leave on us and often even how it makes us feel a connect with and appreciation for the artist and their feelings and opinions as expressed through the art and otherwise.<br>It is a personal and very human connection - again, like Data, who made bonds with the crew and others who encountered him and heard his thoughts and perspectives which were not merely a construct of information and he had ideas and feelings that were both firm flexible based on his experiences and the situation. <br>Art is about the creator, the creation and the receiver all as one symbiotic system - not as a product but as experience to be shared and to grow through.
-  >
-  > **@dallinhilton3189** [👍15]：I really liked how he said a completed project is like a receipt of the experience that transformed you. I haven’t really leaned into creativity until this year where I’ve been drawing, listening to audiobooks, making music and knitting. Knowing how it feels to finish a project and have the product you made (songs I’ve made, the hat and scarf I knitted) is fulfilling, and I think I’ll always make art now that I know how that feels.
-  >
-  > **@Nekroido** [👍14]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=989">16:29</a> this! Simple prompting barely makes the result truly yours. Having a model fully match your intent, your own vision and standards is what actually matters. You can&#39;t claim something as your art without equivalent exchange.
-  >
-  > **@lucalambooy5225** [👍13]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=36">0:36</a> not an old timer but I got it!
-  >
-  > **@PavleVA** [👍13]：We are the art. Man knows his words. Very inspiring
-  >
-  > **@pixelpatron** [👍13]：As a professional artist; working in game development for over 25 years. Screw these f’n AI clowns who collectively stole our art without permission or compensation ; and are now selling it without permission to line their pockets. The largest art heist in all of history. Anyone using these tools…know that you’re supporting an industry that is selling stolen property.
-  >
-  > **@dutyfreeadventures5924** [👍13]：I agree with the sentiment, but I still feel like this is an incomplete argument for the very same reasons we started with. One can STILL argue that photography is not art, you know? It is, but if art is art because the process of creating art has changed us, what does that say about something like photography. The process can be months of waiting for the perfect shot or an organic eye for anticipating causality and knowing when something good will happen, or neither. Does one change us more than the other? If so, can you argue that one form of AI generation can&#39;t change us more than another form.<br><br>I think this is a good entry to the discussion but it&#39;s still so surface level. There is a lot more to discuss.
-  >
-  > **@TheUnofficialDumpling** [👍12]：I love this so much. AI can never replace sobbing to a scene you came up with because you know where it came from in your heart or screaming at your paint because you mixed it up only to make it somehow look good in the end and it can never be the joyful adrenaline after a performance and it can never be the feeling of screaming along to a song in the shower. We get to choose what side we&#39;re on. I hope we choose humanity.
-  >
-  > **@jamcdonald120** [👍12]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=940">15:40</a> I am the art... All art is quite useless.... oh gee thanks, that makes me feel so warm and fuzzy
-  >
-  > **@tylerthorstrom4100** [👍12]：Should we call A.I. art “A.I. pictures”instead?
-  >
-  > **@isaakring2573** [👍12]：whatever camara they have here has a dead pixel and i cant unsee it
-  >
-  > **@johnathanera5863** [👍12]：This is a great point..if youre the actual creative. Unfortunately most people arent. And so art to most people is just what you feel or think after or during your interaction with said art. And if said art, regardless of made by people or AI makes  me think or feel, then to the consumer of the art there is no appreciable difference. And so, to most people, AI art IS art.<br><br>Or will be if it ever gets good enough.
-  >
-  > **@jont614** [👍12]：I have to admit I’m pretty conflicted about this take. I understand the &quot;Journey, not destination&quot; idea, but I think Sanderson&#39;s logic here actually ends up hurting the very thing we love. The stories.<br><br>I think some people dislike AI art so much, they are looking for a philosophical argument to prove AI art isn&#39;t art. But that leads to a definition of art that feels like it was written backwards from a conclusion. And Sanderson seems to be doing the same here. He is working backwards from a result he already wanted.<br><br>Calling a book a &quot;receipt&quot; for the author’s personal growth is a very extreme view. It suggests that the author is the &quot;real&quot; art and the book is just proof that they grew. That&#39;s a romantic view, but it completely ignores the perspective of the reader.<br><br>For us readers, the story isn&#39;t a receipt. It&#39;s an experience. It&#39;s a world.<br><br>There&#39;s a reason we have the concept of &quot;Death of the Author.&quot; Once a book is in our hands, the art happens in our own minds. If we say the product is secondary to the author&#39;s struggle, we are actually diminishing the emotional experience of the audience.<br><br>I also think he misunderstood Wilde&#39;s point. Wilde’s argument was that art should be beautiful instead of being a tool or a moral lesson. He wasn&#39;t saying the product doesn&#39;t matter, or that what matters is hard work or the artist&#39;s struggle.<br><br>By romanticizing the struggle, we lose the gray areas. What if a human artist uses AI for just one part of a complex project? What if using AI actually helps a creator grow in ways they couldn&#39;t alone? What if a writer uses AI to visualize a scene so they can describe it better?<br><br>I mean, think about it. He literally admits eventually AI art might get good enough. So, let&#39;s imagine someone creates AI art, or partly uses AI to create it, and you actually read it. Is the experience you get if you enjoy the story not art?<br><br>And if you think it&#39;s not, why not? Does the &quot;art&quot; suddenly disappear just because a machine was involved in the process?<br><br>The philosophy behind this is way more complex than this, and I don&#39;t think Sanderson did it justice here.
-  >
-  > **@justsomeone64** [👍12]：People hate it because it&#39;s mainly used to hurt, not help.<br><br>AI thrives most when:<br><br>• Stealing<br>• Replacing, and<br>• Taking away income...<br><br>...Is the goal. That&#39;s the biggest reason for the hate. Until it stops being such a scam software, people will try to touch it as little as possible.<br><br>Otherwise you&#39;re just paying to be spat at.
-  >
-  > **@fauxwit6535** [👍11]：What a wonderful speech Brandon. Much love.
-  >
-  > **@elindis** [👍11]：I’d expand on this. My mind has been in the same place as yours for the last couple days, and this process-oriented argument is wonderful. It’s wonderful because art is a conversation - it’s a connection to another conscious mind, another experiencer of reality.<br><br>AI does not have intent, or free will. It doesn’t have experiences. It doesn’t find things meaningful. It doesn’t hate things, or love things. It has no opinions of its own. <br><br>The work is art. The writer is art. As you allude to, the reader is art, too. <br><br>And that’s the best thing that AI can teach us.
-  >
-  > **@Irradiant_Red** [👍10]：The AI bubble is an economic bubble, not a creative one. When it bursts it will ruin people financially, but AI r**e of labor will only continue.
-  >
-  > **@jklappenbach** [👍10]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=34">0:34</a> I was alive for much of Ebert&#39;s career.  He was never that good of a critic.
-  >
-  > **@bakabaka98573** [👍10]：Can’t we all agree that stealing is wrong? What happened to us? Artists need to be compensated for their work and labor.
-  >
-  > **@qwikstep** [👍9]：Sanderson&#39;s comments resonate with me in regards to lazy attempts to commercialize art but I think the debate is more nuanced than just &quot;always say no to AI art&quot;. <br><br>I work in a different field. I was never given the opportunity by society or family to pursue art.<br><br>If generative AI image makers never came along, I never would have branched into art. I can hear the commentators now screeching that that would be my choice but I don&#39;t think you realize how sad it is to have your early years squandered by people who told you to run in a certain direction. Only to realize you wished you could have run in a different direction but by the time you make that realization you have mouths to feed and bills to pay <br><br>I read an article in Wired magazine talking about the duet between human and machine, a delicate dance of prompt and response, and how the inspiration needs to come from the human using the tool. <br><br>I decided to give it a shot and I was hooked. I suddenly found a way to give expression to artistic ideas that I did not have the time or money or talents to ever develop on my own.<br><br>I delved into art history and reviewed thousands of art styles along my journey. I incorporated them into my prompts and carefully tailored and reworked them, and even learned how to use Photoshop to fix the areas I couldn&#39;t get the prompting just right. <br><br>I don&#39;t sell my work and I&#39;ve shared it to relatively few but it means the world to me. If generative AI never would have come along, I never would have had a tool that lowered the barrier enough for me to enter. Yes I took art classes in high school and even a neighborhood class that was organized by an artistic mom. I always failed so miserably; I figured I could just never make it doing any art. <br><br>To be clear I feel the commercialization of AI generative engines in an attempt to put writers and artists out of business is abhorrent. However to universally, in black and white, say that anyone who uses AI art is a con person is disingenuous.
-  >
-  > **@CoffeeMan678** [👍9]：“You, are the art.” -Brandon Sanderson<br><br>Definitely my next tattoo 😭
-  >
-  > **@wrylikz842** [👍9]：Agree in everything. Gen AI prompters are missing out on that fulfillment when creating something, when you&#39;re in the zone and learning. Getting from point A to point B, from milestone to milestone. And actually seeing that progress.
-  >
-  > **@mehmehmelody** [👍8]：Damn... I&#39;m sobbing. Thanks for this, Brandon, truly.
-  >
-  > **@DragonaxFilms** [👍8]：WE STACKING ROCKS BY HAND WITH THIS ONE👋👋👋 🪨🪨🪨🔥🔥🔥🚫🖨
-  >
-  > **@sabikikasuko6636** [👍7]：As someone who recently finished my first novella, 20,607 words, I strongly identify with this. It took me three months, it was agonizing, and it gave me a high I&#39;ve never experienced before. I did it explicitly to train to write longer and longer books. It was amazing, it was horrible, and it. Was. MINE. <b>I</b> spent those 3 months making the thing, not anybody else and especially not an AI. I admire my work so intensely I went from posting it once a week to once every four days because I could not keep my ass on my seat about this story.<br><br>As always Sanderson the absolute 🐐 🙏🏻
-  >
-  > **@Eli-b5m8k** [👍7]：Thank you Brandon Sanderson. Thank you.
-  >
-  > **@Nightshaders** [👍7]：Love all Brandon&#39;s points. <br>The AI &#39;bubble&#39; may burst, but it won&#39;t make AI go away. Companies will rise and fall, but just like the internet, or steam power, AI won&#39;t be going away.
-  >
-  > **@e1123581321345589144** [👍7]：In this we agree. I too always choose journey before destination.<br><br>I find a lot of people nowadays tend to overlook the beauty of the journey and the world is poorer for it.
-  >
-  > **@dannystaten5701** [👍7]：As a writer and illustrator myself, I love this.
-  >
-  > **@AriaHarmony** [👍7]：He talked about it from the perspective of the artist, but there&#39;s also the perspective of the one consuming the art. I find that looking up the people behind my favorite pieces of art often enriches the experience of that art for me. The artist&#39;s personal history, their culture, their dreams and fears and struggles, and the other pieces of art that influenced them, all of it is baked into the final result. Every work of art has such a unique history. The unique chemistry of the human life and mind that produced it. AI art lacks that history and chemistry. So when you, a human, experience that AI art, there&#39;s nothing on the other side for you to connect with. No history to learn of.  No chain of influences to trace. And as a result, there&#39;s no story to make sense of, no story for you to become part of.<br><br>As a fledging artist myself, I&#39;m influenced by many artists that came before me. And they themselves are influenced by many before them. The chain goes back deep into history. And each of us add a piece of ourselves into this great chain that links us all. This happens both at the point of consuming art and the point of producing it.<br><br>But what happens if a human artist consumes AI art? I experienced this recently. I found a playlist of what I thought were remixed 1940s songs, and I loved a particular song in it. As I tend to do, I sat out to find the original song. To read about its history, the artists behind it, other songs they produced, and other songs in their era or that predates them and could&#39;ve influenced them. I tend to search like this for any piece of art that I loved a lot, because it can lead to discovering ideas and stories that I connect with, and sometimes it begins to influence and inspire my own art as well. And so I attempted to do the same with this song. After searching for a while, I found nothing. I even used AI to try and find it, still couldn&#39;t find it, which has a certain irony in itself. Then I found that same playlist all over YouTube, on AI channels. I was devastated. I genuinely liked the song. But the thing I was in denial about was that the lyrics made no sense. I assumed it must be because of the remix, or I must be mishearing it. But no, it genuinely made no sense, because it&#39;s just a jumble of rythmic patterns made by AI.<br><br>This piece of art that I enjoyed the sound of, had no meaning, no mind behind it, no intention, no history, no story for me to learn about and maybe become part of. Even if the lyrics made sense, it is still senseless. If that piece of AI art were to join my collection of influences and inspiration, it&#39;d be a disconnected history-less piece that links me to no real human mind before me. This AI song was a heartbreak for me. And as the internet gets more saturated with AI art, I expect this to keep happening to me every now and then. Algorithms mixing and remixing content, promoting it, driving bot engagement to it, and a human falls for it, because the other humans involved in this just don&#39;t value any of this past a earning a little ad money. It&#39;s such a lonely feeling. The exact opposite experience of human art that it meant to link us and make us less lonely.
-  >
-  > **@writer.lennox** [👍6]：got me teared up at the end there. thank you, sir
-  >
-  > **@amysteriousviewer3772** [👍6]：At it&#39;s core any kind of art is self expression. Therefore art requires a self to be expressed — a conscious entity with their own unique lived experience, thoughts and feelings. AI does not have a self, it has no experience, thoughts or feelings of its own to express and therefore can not create art.
-  >
-  > **@8bit_paul** [👍6]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=15">0:15</a> it&#39;s true based on the old definition of art being something that is created, finalized, and presented. Video games changed the definition of art to include interactivity.
-  >
-  > **@mattaffenit9898** [👍6]：I honestly think I needed this right now.<br>All the slop piling up is getting overwhelming.
-  >
-  > **@elisabetemartinsdeoliveira** [👍5]：Just as Brandon Sanderson was emotional at the end, so was I. What a beautiful essay, it resonated so much with me. This topic has been on my mind for so long now and, as an author myself, I keep thinking of how human experience and emotion can never be replaced with machines that haven&#39;t gone through what we&#39;ve been. And the process of writing, of learning fiction theory, of getting better at writing book after book, that&#39;s what makes this journey so unique and profound. Absolutely loved this talk. Thank you so much for this! 💙
-  >
-  > **@jennieblakehill5339** [👍5]：Great speech until his argument falls flat on its face in the last minute. If the other guy’s assertion that video games can’t be art is wrong because ‘people’ choose to define what art is and if even just a small portion of people decide that video games are art, then surely that means that even a small number of people deciding AI-created art is art, then it is so and he is thereby copying the guy from the previous generation.
-  >
-  > **@uhlan30** [👍5]：The point that “art is what we define it to be” is especially poignant here. The biggest hurdle AI art needs to overcome is societal acceptance, and the pushback is unlike anything we’ve seen in prior technological developments. In the past, new technologies received push back primarily from the older generations and the workers it replaced, but ultimately, society at large was more than happy to embrace something that made their lives easier. Generative AI is different. Even the youth rejects it. We call it slop. We stigmatize it. And as long as we continue to do so, human art will still have value. I don’t think this is likely to change either. Aspiring to create art is fundamental to the human condition, and I don’t see the general population becoming comfortable allowing machines to take that from us. A minority of people might, but on the whole, I think the stigma of AI slop will remain.
-  >
-  > **@thebrookrane** [👍4]：Art is not entertainment. It’s communication, it’s humanity, it’s connection. As he says, it makes art of us.
-  >
-  > **@CatBarefield** [👍4]：I keep telling myself the same thing when i crochet. I enjoy the repetitive motion, the softness of the yarn, the tension i have to hold on my left index, the figuring out the pattern. The beanie i get at the end is a by-product
-  >
-  > **@the_cringe_nerd** [👍4]：My art teacher always said that art is NEVER the product. It is not the painting, the film, the photo, the book or movie. The product is the result of Art. Art is human expression and a machine cannot trully express something no matter how good it is at mimicry.
-  >
-  > **@AcesPrune** [👍4]：We Are The Art.
-  >
-  > **@VojtechKudrnac** [👍4]：Thank you, I really needed to hear this right now!
-  >
-  > **@KringusKrang** [👍4]：Another pin in the AI bubble. Thank you Brandon. I hope more talented artists stand up to this industry of product over people. With voices like yours guiding us, I have faith that people will prevail. I hope to join with your voice, with my art, and burst this dang bubble so hard.
-  >
-  > **@ArneBab** [👍4]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=620">10:20</a> art isn’t useless. It’s code that runs on the human brain and changes our shared culture -- the beliefs and values that drive society. And build the foundation for more art.
-  >
-  > **@ChefCollinLee** [👍4]：People are not ready for this series, I couldn’t be more excited
-  >
-  > **@PandaJacket-y6u** [👍4]：There is a disconnect between the artist and the consumer wider than any canyon about the value of what is at work here
-  >
-  > **@garykelley9027** [👍4]：Extra points for referring to it as &#39;whinging&#39;.  Pure Dead Brilliant.
-  >
-  > **@burningpuppy476** [👍4]：AI &quot;art&quot; is straight plagiarism. It can build on what has come before and not create originality.
-  >
-  > **@florentinvonfrankenberg7102** [👍4]：I&#39;m a huge admirer of Brandon Sanderson. But I&#39;ll say this: I would never become an artist or musician or software developer. With AI, these forms of creation become accessible to me. I can turn my ideas into reality because AI bridges the huge barriers in the mechanics of creativity. I may not know how to create compelling dialogue. I may not have great grammar. But I can tell a story now. It is still art, and I have still grown, just the tools that enabled me are vastly more powerful.
-  >
-  > **@missrebel634** [👍3]：Reminds me to finish my comic. I already wrote the outline, but I struggle with the script. Wish me luck.
-  >
-  > **@maweibezahn** [👍3]：You can even generalize this thesis to all uses of generative AI, be it for writing, programming, etc. It robs you of the learning and experience which forms you as a person with special abilities. Instead, you might become a different person, one that depends on help for every simple or complex task, and ultimately lacks the knowledge to judge the automated outcome very well.
-  >
-  > **@debrachambers1304** [👍3]：OMG an actually good argument in favor of video games being art that isn&#39;t just &quot;But Dark Souls is so good though&quot; or &quot;they have music and music is art&quot;, or even the reasonable &quot;X is an example of art because it&#39;s basically an interactive story&quot; but which doesn&#39;t make an argument beyond saying video games are art when they&#39;re basically a movie with choices, and brings up the idea mechanics themselves are part of art beyond choose your own adventure choices.
-  >
-  > **@Ouvii** [👍3]：Look at me. I&#39;m the Art now.
-  >
-  > **@Ezrumas** [👍3]：I see generated content as a risky shortcut that removes most context in exchange for short-term gains that are not sustainable.<br><br>I&#39;m reminded of Thief of Time, when the Auditors break into the museum and can not discern what makes art more than the sum of its components.
-  >
-  > **@slorrin** [👍3]：AI makes people lazier and stupider the more they use it. When those people use AI to try to write a novel, it will be lazier and stupider than an author&#39;s novel. And it will not improve over time, it will worsn.  It&#39;s like taking heroin to improve your health.  The more you take it, the sicker you get.  In the end, the guy who isnt&#39; taking heroin will be able to beat you in a wrestling match.
-  >
-  > **@leirumf5476** [👍3]：As a photographer (interesting in documentary and photojournalism), I&#39;m often way more amazed and I appreciate a photo more when I find of the crazy story, hard work and empathy a photographer must&#39;ve had to take the photo. The aesthetic component while it&#39;s necessary, it&#39;s only secondary.<br><br>If you remove everything but the aesthetic component, you might have a nice soulless and ultimately pointless imagine. Like Ansel Adams once said &quot;There is nothing worse than a sharp image of a fuzzy concept&quot;.
-  >
-  > **@vegardb2466** [👍3]：In my mind the biggest problem with AI is that it is a damned dead end, and not enough people seem to notice.<br>AI can NEVER create anything new, it can not be creative, it can only imitate whatever it gets fed while training. It chews it all up, and spits it back out in a different order.<br>When/if AI takes over enough tasks for us, we will stop learning. We will stop creating, we will stop being creative. Nothing new to feed the algorithms. It will all stagnate.<br><br>A damned dead end. For society, for culture and for science.
-  >
-  > **@debrachambers1304** [👍2]：I really dig how you interrogate your reasons for not liking AI to find your core issue, instead of uncritically running with your first rationalization like most people do.
-  >
-  > **@counterspellband** [👍1]：Thank you for joining the conversation on this, Brandon. Beautiful presentation. This made me feel just a bit better today
-  >
-  > **@moonsister5810** [👍1]：Thank you for this. You have put into words and broken down what was a fuzzy feeling in my gut.
-  >
-  > **@cotillion137** [👍1]：Incredible talk Brandon. You were able to articulate what I intuitively understood but wasn&#39;t quite able to explain. <br><br>&quot;Art is not just the story. It&#39;s not just the painting or the sculpture or whatever else you love to create. It&#39;s also the process of creation and what that process did to you. We make art because we can&#39;t help it. It&#39;s part of us. We understand what it is. We are drawn to it because we are of the same substance. We are the art.&quot;
-  >
-  > **@marikothecheetah9342** [👍1]：Incredibly well thought, articulated and addressed.
-  >
-  > **@isn0t42** [👍1]：The telos of art is communication. <br><br>Nobody will ever be able to communicate on your behalf. Ai will only be able to communicate on its own behalf.
-  >
-  > **@8bit_paul** [👍1]：<a href="https://www.youtube.com/watch?v=mb3uK-_QkOo&amp;t=1040">17:20</a> Ebert was right. The definition of art has changed for the better since then.
-  >
-  > **@LeilaAMMartin** [👍1]：I just finished the first draft of my 8th novel and it STILL FEELS THAT WAY, every time.
-  >
-  > **@Fourleggedfreak** [👍1]：&quot;To know is to become and to become is to know.&quot;
-  >
-  > **@MaacLovin** [👍1]：The &quot;I&#39;ve got a feeling&quot; in this is superb.
-  >
-  > **@dijayus4710** [👍1]：Great speech. Agree for the most part. What I wonder though is in what way can AI be used as a tool in the human creative process? Research? Ideation? Mundane tasks? Where is the line? Ultimately it will be different for each of us and there undoubtedly will be people who use it without disclosing how much they use it. Above all, we should prioritize human made art as much as possible.
-  >
-  > **@Parallax9953** [👍1]：In my eyes, Sanderson has proven himself to be one of the most important and sensible thought-leaders of our time. If you see this Mr. Sanderson, thank you for this speech, I&#39;m with you all the way.
-  >
-  > **@gatheringkeepsakes** [👍1]：The process is the point 👏
-  >
-  > **@LakhyaSandbox** [👍1]：We don&#39;t just make, we create therefore we are human
-  >
-  > **@Tyruswoo** [👍1]：Storytelling is communication.  Communication requires two intelligences, one expressing and one receiving.  In interactive storytelling, sometimes a dialogue forms between the master storyteller and the participating listener.  Communication comes from the soul, and is the interaction between two souls.  Only true intelligences can commune.  The communion is the meaning, not the words spoken.
-  >
-  > **@MishaBunns**：This is what I have been saying!! Thankyou so so much for powerfully conveying this. Art isnt the product- its the journey it takes us on and the growth it brings us!!
-  >
-  > **@Perykvaal**：Best argument I&#39;ve ever heard on this subject. Thank you, Brandon.
-  >
-  > **@AstralLiving**：I love this explanation. It puts my own opinion into words that I couldn&#39;t quite form.
-  >
-  > **@MerryStitcher**：To be a great reader is also to be an artist. To incorporate it into our being does indeed make us part of the art.
-  >
-  > **@kadinnui2282**：Thanks Brandon, you saying that the process makes us art touched me deeply. I would have never said something so resonating and beautiful myself.
-  >
-  > **@luke.s8419**：Ive been wanting to start a writing for a while. Over the yeara my creative outlet has been running ttrpg games, but it has mever quite scratched that narative itch for me. Ive always been so caught up in building up the skills to be &quot;ready&quot; to start writing, that I never actually get around to actually writing. This presentation has put that into perspective for me, and has been extremely motivating to actually start just writing. The idea that the story is the proof of the learning, the journey of improvement, and not the end goal shatters this unclimbable mountain i have built of for myself. Im just gonna go for it, and learn as i write. Its gonna suck, but it doesnt need to have any &quot;quality&quot; to be valuable. <br>Thank you
-  >
-  > **@dragoondgn2803**：The process of creation is an embodiment of our self, thus we are art, and thus we are innately drawn to it. Thank you for this.
-  >
-  > **@NathanJPearce**：I love this video by Brandon, and I agree with many of its points. How creating art changes you is indeed incredibly valuable, and it improves your craft over time, but it loses that value after you&#39;re gone. I&#39;m sure writing The Wheel of Time changed Robert Jordan quite a bit, but now that he&#39;s passed, all we have are his books.
-  >
-  > **@erreanderre**：Living my life since childhood creating and making music. Every time I finish a new song with another artist, it feels so good. Finally, after years of doing, doing, doing, I’ve been getting paid in my field since the last three years and it gets better and better.<br>We are unique, people search for that.<br><br>We are art, we find our way, and we can support each other and enjoy this magic.<br>AI will never replace your life, your art.
-  >
-  > **@DiggoryJiggory**：This is my favorite answer. A receipt of your growth is how I&#39;m going to think about it forever now.
-  >
-  > **@CreativeWritingWizard**：I&#39;ve learned so much about myself in my writing. I&#39;ve been able to channel the happiest and darkest feelings through my writing. I&#39;ve experienced great joy and deep lows from the challenge of writing. <br><br>A prompt gives me nothing. It missed the point.<br><br>Even though AI can write, I&#39;ll continue to work on my books and publish some day. Because I want to, and because I can.
-  >
-  > **@De4dPoo1**：Watching your how to write course inspired me to write, a few days ago i just finished my first novel ever. And you are correct, at the end I was crying, it was the most powerful experience in the word. Thanks for everything Mr sanderson, to imagine i would have never done anything if not for your videos.
-  >
-  > **@Thorny-jg3go**：Comment for the alllmighty algorithm. <br><br>Love the message and the hopeful vibes.<br>...and how everything always circles back to Star Trek.
-  >
-  > **@EthanButterfield-j2g**：This is amazing Brandon!
-  >
-  > **@jeraldjebralter28**：I shed real man tears listening to the end of this, love you Branderson🫶
-  >
-  > **@GordWayne**：Love Sanderson and what he stands for, thank you for making life a little more bearable
-  >
-  > **@odinseye8835**：Thank you for this Mr. Sanderson. Well done
-  >
-  > **@mellar5864**：While this is by far the most reasonable and compelling discussion of the topic i have seen so far, it only discusses art from the perspective of the artist but most people that interact with art do not do so from a creators perspective. So while the prompter and the AI might not be changed by the AI art the reader/listener might.
-  >
-  > **@AiressofWonder**：Thank you Brandon, fantastic questions for us to ponder as we continue to define what it is to be human and creative at this moment in our collective experience.
-  >
-  > **@motebangdisene681**：Thank you, Mr Sanderson for this. It&#39;s like you knew I needed to hear this at this moment.
-  >
-  > **@nikrul**：Thanks for this. I needed this.
-  >
-  > **@NeonShardsMusic**：Loved it! &quot;You are the Art&quot; what an impactful closure! Encouraging! I always say thay I make my music for myself, and if someone else like it, it&#39;s a plus. But knowing that people enjoy what I have to say, motivates me to make more. For me art is a way to connect with others by emotions.
-  >
-  > **@TomAndreen**：Thank you for this! Very uplifting in trying times. Ironically I hope the algorithm learns how sick I am of algorithms and AI and keep pushing these kinds of videos ❤<br><br>As a side note I&#39;d recommend everyone watching and enjoying this to take a look at Adam Neely&#39;s recent long form video on the same topic, onlt basing it around AI in the music industry.
-  >
-  > **@sterlingburch8702**：I absolutely love Brandon Sanderson and the storm light archive but if it was not emotional or transformative for him to write the story I love, I’d still consider it the same… beauty is certainly in the eye of the beholder.
-  >
-  > **@crazybeerd**：This is an incredible speech that is well put. I find this speech inspiring and it makes me want to start writing more on my stories immediately! I have liked Mr Sanderson but now I have a more profiund respect and admiration of him and his art. I humbly thank you, sir.
-  >
-  > **@vitogunnhilder**：Thus far, the most humane argument I&#39;ve pondered over regarding the use of AI art AND the advancement of humanity. Thank you, Brother Sanderson!
-  >
-  > **@andgoodyo**：Better late than never, I have to say, you did wonderfully finishing the Wheel of Time. Thank you!
-  >
-  > **@JC-Ks**：Excellent speech, I needed to hear this today, thank you.<br><br>I don&#39;t understand why so many people keep comparing AI to past revolutions. What happened before were unknown situations, but they still involved people. Film, photography, video games—any revolution involving those industries still needed people. AIs are meant to be replacements, not tools. They weren&#39;t designed as tools from the ground up, and even if it were possible to turn them into tools, megacorporations wouldn&#39;t allow it. The instinctive unease everyone is feeling isn&#39;t due to ignorance; it&#39;s because their first interpretation is that AIs want to replace them, and they&#39;re not wrong. The mistake lies in assuming that coexistence MIGHT be possible. This is a mistake because the owner of the company that will require you to use AI doesn&#39;t want you to coexist; they want you to train the AI ​​or use it to accelerate profits so they can lay off more employees. There is absolutely ZERO intention to improve employee performance; the sole focus right now is how to accelerate profits. There&#39;s no philosophical quest to improve our society or us as a species, nothing of the sort. They just use it as a slogan to confuse people.<br><br>For a writer or artist to give in to this and end up trying to find the positive side of the current apocalypse is just self-deception (and in some ways depressing and pathetic). Perhaps in the future a kind of balance will be reached and they will actually become tools if enough crises happen that screw over the megacorporations, but for now, none of that.
-  >
-  > **@MajorHuggles**：It&#39;s something that I&#39;ve kind of known and understood for a while, but I think this video really reinforced in me why I have such a hard time writing or drawing. Growing up, I drew on basically everything I could. I also loved reading, and while I didn&#39;t necessarily write a lot, I did enjoy doing it and have had a fascination with it for a long time. I&#39;ve always liked making up stories in my head and thinking about how they play out, even if I don&#39;t necessarily put them to page.<br><br>All that said, I have struggled with persistent depressive disorder (also called dysthymia) for close to 15 years now, and I think one of the worst things it&#39;s done is robbed me of my ability to feel satisfied about the things I do purely for the sake of doing them. Any time I draw something I can only see the flaws in it, and any time I try to write I can only think about how much other people will or won&#39;t like something even if I have no intention of anyone else seeing it. I consider myself a creative, but at the same time I&#39;m seemingly trapped in this self-imposed prison where I can&#39;t convince myself that my ideas are even worth expressing if there isn&#39;t external validation for them, and that really sucks.<br><br>There isn&#39;t really a point to sharing this, other than I guess to maybe encourage other people not to fall into the same trap that I have. Don&#39;t let yourself be ruled by other people&#39;s opinions or validations and just let yourself enjoy the process of making something purely for yourself, or really doing anything for yourself. I can promise you you&#39;ll be much happier for it.
-  >
-  > **@markphillips7538**：In painting I always said the art was the souvenir of the artist and the creative process interacting. Growth as an artist/writer/human is the point.
-  >
-  > **@adamwalter6130**：Great talk,  would love some exposition on abstraction layers in art in part 2.  E.g. does an author who does not study typefounders get the experience of creating the art?  Can AI abstraction be used to create art?  Am I less of a potter because my clay came from a store?  Abstraction is a part of art. I posit that while it can steal from the process, abstraction can allow for art that would not have been possible.
-  >
-  > **@Alex-wh3zw**：Fantastic speach. Thank you.
-  >
-  > **@punishedprops**：Thank you for your wise words, Brandon!
-  >
-  > **@Notpetermohrbacher**：Hear hear! It&#39;s great to see someone hit on a vein of criticism that the larger discourse misses in this argument.<br><br>No one wants a work of empty stimulation that removes us from connection to other humans. Our innate pull toward art is an outcropping of our interest in each other. Without an underlying connection back to a person, the images and writing created by generative models are ultimately worthless.
-  >
-  > **@danielleegolf4290**：So well said. The first time I finished a novel I literally cried. And I&#39;ll never be the same. ❤
-  >
-  > **@lukaslambs5780**：I am almost done with The Way of Kings and I’ve read the Mistborn trilogy and Warbreaker. I really enjoy your books and I love to hear you speak like this! Congrats on the apple deal! Well deserved!
-  >
-  > **@wo0topia**：Really interesting and nuanced take. I love it. Keep being you Brandon!
-  >
-  > **@SierraVA**：I need a transcript of this - such a good speech about the nature of art and human soul ❤
-  >
-  > **@mekzvsbear**：100% agree. It robs us of our struggles, which give us growth. I never thought I could be an engineer. I do NOT come from that kind of background AT ALL. After I finished my degree, it felt like I climbed a mountain and I proved to myself that I can 
+  > **@lambas** [👍9
