@@ -1,17 +1,132 @@
 # YouTube 视频分析报告（Score >= 30）
 
-**生成时间：** 2026-03-03T14:47:31.132554
-**搜索来源：** NoshOne, UC6tW3j0KsOlMKpGejWmz8xg
-**总收集：** 71 | **排除不相关：** 12 | **最终保留：** 59
-**有字幕(API)：** 0/59
+**生成时间：** 2026-03-03T17:51:02.612088
+**搜索来源：** UC6tW3j0KsOlMKpGejWmz8xg, NoshOne
+**总收集：** 96 | **排除不相关：** 35 | **最终保留：** 61
+**有字幕(API)：** 0/61
 
 ---
 
-## 1. Nosh AI Robot Chef Demo | Cook Full Meals Hands-Free with the Smart Robot Chef
+## 1. Nosh : The World's First Robo-chef for Homes
 
 - **频道：** Let's Nosh!
-- **观看数：** 35,856
-- **点赞数：** 321
+- **观看数：** 124,932
+- **点赞数：** 976
+- **评论数：** 74
+- **时长：** 0:59
+- **发布日期：** 2024-11-07T09:35:44Z
+- **链接：** https://www.youtube.com/watch?v=qhV1lXGUOsQ
+- **来源：** search&channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/qhV1lXGUOsQ/hqdefault.jpg
+- **简介：**
+
+  > Preparing meals at home just got a whole lot easier, no more stress, just tasty food made effortlessly. Whether it’s a quick snack or your favorite meal, Nosh is here to help.
+  > 
+  > Watch the video to see how Nosh can make cooking simple for you!
+  > Don’t forget to subscribe for easy recipes and tips with Nosh. 
+  > 
+  > #Nosh #CookingSimplified #HomeMeals #YourKitchenBuddy #EasyCooking
+
+- **热门评论（44 条）：**
+
+  > **@deeksham6486** [👍18]：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
+  >
+  > **@ghhdgjjfjjggj** [👍12]：I&#39;m totally sold on this idea.
+  >
+  > **@Thewhiteandorange** [👍10]：Nosh precisely measures and adds: water, oil, spices....microplastics and mold growing inside those internal water tubes.
+  >
+  > **@filmynerdy** [👍7]：Hey Team Nosh, this product is tempting and brilliantly amazing... I am curious for electrical specifications part, if you ask me to be precise I want to know about power consumption of this product. It is how much Watt?
+  >
+  > **@latvork3044** [👍6]：Most time consuming is cutting vegetables and preparing need something for that.
+  >
+  > **@lokeshkumarsingh5797** [👍6]：How about if power is cut midway of cooking .. where will it start after power comes back
+  >
+  > **@Montresia1** [👍5]：Dont heat the food in plastic or hold liquids in plastic or i will not buy and i will tell everyone i know not to buy. Use quality materials please!! otherwise Im very hopeful and have been waiting for this!
+  >
+  > **@teehee-a1** [👍4]：I&#39;m rooting for a more cost effective model. This is such a great product to have
+  >
+  > **@zainsyed9811** [👍4]：Can’t it source and fill the ingredients itself?
+  >
+  > **@AshokRajuArumuganeri** [👍3]：👍👍👍👍👍
+  >
+  > **@couldbericher** [👍3]：How easy/hard is it to clean this? Including all the areas that food comes in contact with..
+  >
+  > **@adithalee8660** [👍3]：So it&#39;s just for Indian foods??
+  >
+  > **@GUNVALKERIE** [👍3]：I&#39;m liking this NOSH thing... But... What about the amount one would make from this machine?  What if one serving is not enough?  It would be nice if it can do my MAC &#39;N CHEESE 😁
+  >
+  > **@NandiniNiranjan2025** [👍2]：I was excited with this product in the market and bought it in September 2025 for ₹70K. Initial 5 dishes turned out pretty good. Although most of the preparation is done by the user, taste at the end was good and I was happy. But as I started trying different dishes, I found some of them burnt, bland in taste, undercooked, etc. As a working couple with 2 school going kids, we couldn&#39;t rely on this anymore. Lost time and good ingredients forcing us to make alternate preparations. Team is not helping to out issues. I have finally put the device for resell. <br><br>So think before buying.
+  >
+  > **@jyotiboriwale9308** [👍2]：Pune delivery available
+  >
+  > **@olympuszeus5362** [👍2]：How much time it needed to cook
+  >
+  > **@BishalRai-p1s** [👍1]：So many people this machine
+  >
+  > **@Ms.Divine2024** [👍1]：882nd like Yum Yum Looks Great
+  >
+  > **@rks9180** [👍1]：Awesome would like to learn more about it 👍
+  >
+  > **@greatgirl3011** [👍1]：Can i adjust the time for making dishes? Like if i want to make suji halwa and nosh just fries suji for 3 minutes while i want to fry suji for 5 minutes, can i do that in nosh?
+  >
+  > **@anonyx_0** [👍1]：I have an idea, earth has a lot of recipes, so why not pre-loaded
+  >
+  > **@akkishah9311** [👍1]：What about cleaning of those oil and water containig pipes? And as they will be carried through solenoid valves what about cleaning of them?
+  >
+  > **@vishalgoud3105** [👍1]：But still we have to cut all the vegetables rytt?🥵
+  >
+  > **@XuanLinhVu** [👍1]：Hi, I&#39;d like to market this to Vietnam market. Our cooking style is quite similar to Indian. Who should I contact?
+  >
+  > **@JioFamilyTv** [👍1]：Rs 75000 is the Price
+  >
+  > **@akshatchandra4466** [👍1]：Is out for sale in the market? <br>And where can I get it from
+  >
+  > **@MrYougetvinod** [👍1]：I am waiting for the demo in cochin
+  >
+  > **@ajaypreet** [👍1]：Deliver to canada please
+  >
+  > **@SaritaS-q7x** [👍1]：This product seems like an upgrade of Nymble. looks good. Wish this product was freely available in the market and had better warranty and more service centers.
+  >
+  > **@gauria6688** [👍1]：You should at least have a chopping feature for onions, tomatoes, garlic, and ginger, as they form the base for most recipes. Include vegetable cutting for select veggies and focus on a limited range of dishes like sabji, curry, dal, and kadhi.
+  >
+  > **@Vandanatripathivlog** [👍1]：What is the price
+  >
+  > **@Vandanatripathivlog** [👍1]：Can you give us demo at our place
+  >
+  > **@BkDas-uh8ze**：Can it cook regular staple food
+  >
+  > **@marymagdalene891**：I don’t see link to product?
+  >
+  > **@MATHSWISDOM**：Cost please, and link to buy
+  >
+  > **@vjb3952**：Cost
+  >
+  > **@GathiyaKha**：🕵️
+  >
+  > **@RayTheBos**：i dont need scam
+  >
+  > **@dafien**：So the proposition is to keep 80% of human labour and move it earlier in the process. Have the machine regulate time and stirring, call it a robot and charge a premium. I think the problem was in the board room.
+  >
+  > **@mkmsagar1109**：Hi how can i connect costumer care i have points to discus
+  >
+  > **@PranoyM**：Why does Automation always seem to focus on the most enjoyable parts of labour leaving the dirty work for humans? The actual cooking part is one of the most enjoyable things you can do - while peeling and cutting veggies and cleaning dishes is what most people don&#39;t want to do.
+  >
+  > **@wolftoons**：Background music is super distracting!!!  Hire human editors!!!
+  >
+  > **@kiritik1163**：Are you guys delivering it to Hyderabad?
+  >
+  > **@573ashish**：Price? How is it different from what Wonderchef offers?
+  >
+
+---
+
+## 2. Nosh AI Robot Chef Demo | Cook Full Meals Hands-Free with the Smart Robot Chef
+
+- **频道：** Let's Nosh!
+- **观看数：** 35,879
+- **点赞数：** 322
 - **评论数：** 79
 - **时长：** 11:17
 - **发布日期：** 2025-07-19T13:27:23Z
@@ -82,9 +197,9 @@
   >
   > **@sumant.mishra**：bhai, please make music volume low.
   >
-  > **@charanyalala**：Please let us know if this available in US and Canada
-  >
   > **@jayatisengupta1857**：If you need 3 items in 30 minutes how to sort it out...when I can use 3 induction or gas simultaneously
+  >
+  > **@charanyalala**：Please let us know if this available in US and Canada
   >
   > **@humnarizvi6**：While making kheer ..what about masala box
   >
@@ -92,31 +207,31 @@
   >
   > **@TheDesiStand**：Please make the irr!tating background music louder. 🤦‍♂
   >
-  > **@rajdeep1043**：Okay, that sounds good. But honestly, if someone is already putting in the effort of cutting and grinding ingredients, then cooking a little more doesn’t feel like much extra work.<br>If I m planning to buy this for my parents, and it still involves this level of preparation, then it’s almost like doing the full cooking process anyway. In that case, it feels like there’s still a long way to go before it truly becomes convenient.especially if the main goal is to simplify cooking
-  >
   > **@Ayush-n4x6s**：Wonderchef is good
   >
-  > **@amitarora9813**：I paid them a token advance 5 years ago and now they dont answer my emails or provide updates! Beware!
-  >
-  > **@Ayush-n4x6s**：Preparation mai hai aadmi khatam ho jata hai
+  > **@rajdeep1043**：Okay, that sounds good. But honestly, if someone is already putting in the effort of cutting and grinding ingredients, then cooking a little more doesn’t feel like much extra work.<br>If I m planning to buy this for my parents, and it still involves this level of preparation, then it’s almost like doing the full cooking process anyway. In that case, it feels like there’s still a long way to go before it truly becomes convenient.especially if the main goal is to simplify cooking
   >
   > **@tanveer1232**：Hyderabad biryani Banakar Dikhao
   >
+  > **@amitarora9813**：I paid them a token advance 5 years ago and now they dont answer my emails or provide updates! Beware!
+  >
   > **@bilquisfathima6767**：Is it available in Canada?
+  >
+  > **@Ayush-n4x6s**：Preparation mai hai aadmi khatam ho jata hai
   >
   > **@VSACorpHyd**：Can it cook for 4 adults?
   >
   > **@ftajay**：I like but you showing some rice which is dry=&gt; it not washed . All the dry grains and pulses are full of pesticides unless you are using organic ( Now this also i am not sure as pest are not attacking even after 3 months and earlier it used to do). Anyhow  please make sure the recipes  are washed like rice , dals . Even phoa/Flattened Rice we have to wash and drain,
   >
-  > **@somecommentator**：One more question: the cooking vessel is made of non-stick alluminium, right? But it says dishwasher safe in the listing. Is it really dishwasher-safe?
-  >
   > **@shwetad3251**：Can it make laddus
+  >
+  > **@somecommentator**：One more question: the cooking vessel is made of non-stick alluminium, right? But it says dishwasher safe in the listing. Is it really dishwasher-safe?
   >
   > **@parnashreepal7307**：What&#39;s the price this gazette, may I know  ?
   >
-  > **@ajitkumarp1026**：Too much plastic coming into contact with superheated food n oil. Recipe for cancer?? Same with the other brands too. Dangerous until it’s foodgrade till it’s steel all through .
-  >
   > **@somecommentator**：I&#39;m considering to buy it. Alredy added to cart. Waitinf for some info. Can I customize the recipe or add something new? I understand it cannot cook roti etc. i also want to check the whole menu before buying. Whwre do I find these info?
+  >
+  > **@ajitkumarp1026**：Too much plastic coming into contact with superheated food n oil. Recipe for cancer?? Same with the other brands too. Dangerous until it’s foodgrade till it’s steel all through .
   >
   > **@sharathk1881**：Another Rotimatic ala disaster is waiting to happen. Lots of people bought into the hype and now they can&#39;t get refunds. Don&#39;t depend on AI for everything. This machine will never replicate the food you like to eat. If you can&#39;t cook, rely on home cooked tiffin service (in the US too) which is easier, cheaper.
   >
@@ -125,125 +240,10 @@
 
 ---
 
-## 2. Nosh : The World's First Robo-chef for Homes
-
-- **频道：** Let's Nosh!
-- **观看数：** 124,920
-- **点赞数：** 976
-- **评论数：** 74
-- **时长：** 0:59
-- **发布日期：** 2024-11-07T09:35:44Z
-- **链接：** https://www.youtube.com/watch?v=qhV1lXGUOsQ
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/qhV1lXGUOsQ/hqdefault.jpg
-- **简介：**
-
-  > Preparing meals at home just got a whole lot easier, no more stress, just tasty food made effortlessly. Whether it’s a quick snack or your favorite meal, Nosh is here to help.
-  > 
-  > Watch the video to see how Nosh can make cooking simple for you!
-  > Don’t forget to subscribe for easy recipes and tips with Nosh. 
-  > 
-  > #Nosh #CookingSimplified #HomeMeals #YourKitchenBuddy #EasyCooking
-
-- **热门评论（44 条）：**
-
-  > **@deeksham6486** [👍18]：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
-  >
-  > **@ghhdgjjfjjggj** [👍12]：I&#39;m totally sold on this idea.
-  >
-  > **@Thewhiteandorange** [👍10]：Nosh precisely measures and adds: water, oil, spices....microplastics and mold growing inside those internal water tubes.
-  >
-  > **@filmynerdy** [👍7]：Hey Team Nosh, this product is tempting and brilliantly amazing... I am curious for electrical specifications part, if you ask me to be precise I want to know about power consumption of this product. It is how much Watt?
-  >
-  > **@latvork3044** [👍6]：Most time consuming is cutting vegetables and preparing need something for that.
-  >
-  > **@lokeshkumarsingh5797** [👍6]：How about if power is cut midway of cooking .. where will it start after power comes back
-  >
-  > **@Montresia1** [👍5]：Dont heat the food in plastic or hold liquids in plastic or i will not buy and i will tell everyone i know not to buy. Use quality materials please!! otherwise Im very hopeful and have been waiting for this!
-  >
-  > **@teehee-a1** [👍4]：I&#39;m rooting for a more cost effective model. This is such a great product to have
-  >
-  > **@zainsyed9811** [👍4]：Can’t it source and fill the ingredients itself?
-  >
-  > **@AshokRajuArumuganeri** [👍3]：👍👍👍👍👍
-  >
-  > **@couldbericher** [👍3]：How easy/hard is it to clean this? Including all the areas that food comes in contact with..
-  >
-  > **@adithalee8660** [👍3]：So it&#39;s just for Indian foods??
-  >
-  > **@GUNVALKERIE** [👍3]：I&#39;m liking this NOSH thing... But... What about the amount one would make from this machine?  What if one serving is not enough?  It would be nice if it can do my MAC &#39;N CHEESE 😁
-  >
-  > **@NandiniNiranjan2025** [👍2]：I was excited with this product in the market and bought it in September 2025 for ₹70K. Initial 5 dishes turned out pretty good. Although most of the preparation is done by the user, taste at the end was good and I was happy. But as I started trying different dishes, I found some of them burnt, bland in taste, undercooked, etc. As a working couple with 2 school going kids, we couldn&#39;t rely on this anymore. Lost time and good ingredients forcing us to make alternate preparations. Team is not helping to out issues. I have finally put the device for resell. <br><br>So think before buying.
-  >
-  > **@jyotiboriwale9308** [👍2]：Pune delivery available
-  >
-  > **@olympuszeus5362** [👍2]：How much time it needed to cook
-  >
-  > **@BishalRai-p1s** [👍1]：So many people this machine
-  >
-  > **@Ms.Divine2024** [👍1]：882nd like Yum Yum Looks Great
-  >
-  > **@rks9180** [👍1]：Awesome would like to learn more about it 👍
-  >
-  > **@greatgirl3011** [👍1]：Can i adjust the time for making dishes? Like if i want to make suji halwa and nosh just fries suji for 3 minutes while i want to fry suji for 5 minutes, can i do that in nosh?
-  >
-  > **@anonyx_0** [👍1]：I have an idea, earth has a lot of recipes, so why not pre-loaded
-  >
-  > **@vishalgoud3105** [👍1]：But still we have to cut all the vegetables rytt?🥵
-  >
-  > **@akkishah9311** [👍1]：What about cleaning of those oil and water containig pipes? And as they will be carried through solenoid valves what about cleaning of them?
-  >
-  > **@XuanLinhVu** [👍1]：Hi, I&#39;d like to market this to Vietnam market. Our cooking style is quite similar to Indian. Who should I contact?
-  >
-  > **@JioFamilyTv** [👍1]：Rs 75000 is the Price
-  >
-  > **@akshatchandra4466** [👍1]：Is out for sale in the market? <br>And where can I get it from
-  >
-  > **@MrYougetvinod** [👍1]：I am waiting for the demo in cochin
-  >
-  > **@ajaypreet** [👍1]：Deliver to canada please
-  >
-  > **@gauria6688** [👍1]：You should at least have a chopping feature for onions, tomatoes, garlic, and ginger, as they form the base for most recipes. Include vegetable cutting for select veggies and focus on a limited range of dishes like sabji, curry, dal, and kadhi.
-  >
-  > **@Vandanatripathivlog** [👍1]：What is the price
-  >
-  > **@SaritaS-q7x** [👍1]：This product seems like an upgrade of Nymble. looks good. Wish this product was freely available in the market and had better warranty and more service centers.
-  >
-  > **@Vandanatripathivlog** [👍1]：Can you give us demo at our place
-  >
-  > **@BkDas-uh8ze**：Can it cook regular staple food
-  >
-  > **@marymagdalene891**：I don’t see link to product?
-  >
-  > **@MATHSWISDOM**：Cost please, and link to buy
-  >
-  > **@GathiyaKha**：🕵️
-  >
-  > **@vjb3952**：Cost
-  >
-  > **@RayTheBos**：i dont need scam
-  >
-  > **@dafien**：So the proposition is to keep 80% of human labour and move it earlier in the process. Have the machine regulate time and stirring, call it a robot and charge a premium. I think the problem was in the board room.
-  >
-  > **@PranoyM**：Why does Automation always seem to focus on the most enjoyable parts of labour leaving the dirty work for humans? The actual cooking part is one of the most enjoyable things you can do - while peeling and cutting veggies and cleaning dishes is what most people don&#39;t want to do.
-  >
-  > **@mkmsagar1109**：Hi how can i connect costumer care i have points to discus
-  >
-  > **@wolftoons**：Background music is super distracting!!!  Hire human editors!!!
-  >
-  > **@kiritik1163**：Are you guys delivering it to Hyderabad?
-  >
-  > **@573ashish**：Price? How is it different from what Wonderchef offers?
-  >
-
----
-
 ## 3. A dream 7 years in the making, we’re officially global. @letsnosh is now in the US 🇺🇸#robochef
 
 - **频道：** Let's Nosh!
-- **观看数：** 5,740
+- **观看数：** 5,742
 - **点赞数：** 45
 - **评论数：** 0
 - **时长：** 1:02
@@ -258,8 +258,8 @@
 ## 4. Trying A $1500 Robot Chef
 
 - **频道：** Blatant Reviews
-- **观看数：** 3,382,373
-- **点赞数：** 168,230
+- **观看数：** 3,382,404
+- **点赞数：** 168,231
 - **评论数：** 3035
 - **时长：** 1:50
 - **发布日期：** 2025-10-07T21:48:49Z
@@ -367,33 +367,23 @@
   >
   > **@TheOriginalGangsterIsHere** [👍2]：Bro is cooking with a gaming PC
   >
-  > **@ChillSkillGaming** [👍1]：&quot;it just dropped flower&quot; cracking me up so hard bro thats def salt not flour :sob
-  >
   > **@rileybankswho** [👍1]：Need this asap! Whats the brand/ model?
   >
   > **@ViDusk** [👍1]：bro has an dual fan gpu hanging in robot chef. gotta watch that food in ultra settings with ray tracing.
   >
-  > **@Dingleberryjerry-s6b** [👍1]：Nah I like my chicken raw
-  >
-  > **@julian4414ify** [👍1]：Bro at that point just put it on a skillet and flip it yourself 😭😂
-  >
-  > **@shadow-f4d1i** [👍1]：At this point  even the chef&#39;s are in trouble 😵‍💫😵‍💫.
+  > **@ChillSkillGaming** [👍1]：&quot;it just dropped flower&quot; cracking me up so hard bro thats def salt not flour :sob
   >
   > **@UdaySharma-kn1du** [👍1]：Cleaning would be a excruciating.😅
   >
-  > **@frankhanley808** [👍1]：A stirring robot for 1500 😂😂
-  >
-  > **@Dingleberryjerry-s6b** [👍1]：Clankers better at cooking then the Brit’s
-  >
-  > **@kathyfann** [👍1]：Wonderful where can we get one ha ha ha ❤ this amazing absolutely for disabled or elderly or anyone really
-  >
-  > **@GJ-mn9ly** [👍1]：By the time you put all the food into each pod, you could of made it yourself 😂.
-  >
-  > **@quincytransval3311** [👍1]：Honestly, its easier just to cook it yourself.
+  > **@shadow-f4d1i** [👍1]：At this point  even the chef&#39;s are in trouble 😵‍💫😵‍💫.
   >
   > **@cin3motion** [👍1]：Human cooking will always hit different💯
   >
-  > **@penjaminfrankln** [👍1]：Hold up why does 1500 not sound too expensive for what im getting
+  > **@julian4414ify** [👍1]：Bro at that point just put it on a skillet and flip it yourself 😭😂
+  >
+  > **@RITUJena-n9y** [👍1]：It has a old 1080ti in it what happens if i put a 5090 in it ?
+  >
+  > **@frankhanley808** [👍1]：A stirring robot for 1500 😂😂
   >
   > **@kingsapming** [👍1]：Either bad lighting or his right arm is twice the size of his left arm!
   >
@@ -403,281 +393,291 @@
   >
   > **@Bmoreflow**：I thought that was the new unique pc case craze looked like a two fan gpu
   >
+  > **@downloadboy9554**：Is that ui opensource or something I see it everywhere
+  >
+  > **@nahednajifadel7752**：Can you make bigger portions with it
+  >
+  > **@ahasantrishan5083**：i thought its a case dew to the gpu hanging
+  >
+  > **@justrandom90**：Bet there comment somewhere saying bout clanker cooking food in this videos
+  >
+  > **@VaqueroCervantez**：Bro I need you workout regiment
+  >
   > **@sekyung2069**：this is like that show where it 3d prints food and sprays scent on it at the end
   >
   > **@mr.nissim**：Seems super difficult to clean
   >
-  > **@downloadboy9554**：Is that ui opensource or something I see it everywhere
-  >
-  > **@VaqueroCervantez**：Bro I need you workout regiment
-  >
-  > **@ahasantrishan5083**：i thought its a case dew to the gpu hanging
-  >
-  > **@nahednajifadel7752**：Can you make bigger portions with it
-  >
-  > **@justrandom90**：Bet there comment somewhere saying bout clanker cooking food in this videos
-  >
-  > **@raghavagnihotri21**：I wasn&#39;t expecting bro to be so buff
-  >
-  > **@HC6657-RS**：I thought that wss a gaming cpu
-  >
-  > **@th4t0n3p3rs0n-X**：“ even the robot seasons its food” damn.
-  >
   > **@rivero94**：That&#39;s gotta be the next video!! How to clean this shit
-  >
-  > **@rash6650**：&quot;I&#39;m about to abuse that robot&quot;<br><br>The terminator&#39;s first victim right there
-  >
-  > **@tayyabashraf4676**：before starting the vedio i thought bro bought a high end pc!!
   >
   > **@thacarter497**：How easy is it to clean
   >
-  > **@orginal-name**：i thought that was a RTX 3060 fora sec
-  >
-  > **@MRromeroo1**：If you made a whole series of all the meals it cooks. I&#39;d binge watch.
-  >
-  > **@timothydutoit7066**：This is oddly dystopian
-  >
-  > **@Patryk.Kraska**：Voice sounds like johny depth
-  >
-  > **@andrewbottiger**：Literally still doing all the laborious parts
-  >
-  > **@Fast4VVard**：This is one step closer to the instant pizza like in back to the future
-  >
-  > **@jasongrant2366**：Bro freaked out when it put the chicken in 😭
-  >
-  > **@zambitiber1394**：Tech malfunction.<br>Robot burned my house down.
-  >
-  > **@_Kev_n**：Food graphics finna be outta this world
-  >
-  > **@bangpalin8653**：i thought that was Gaming PC
-  >
-  > **@0xfzns**：It is just just a fancy mixer with timer
-  >
-  > **@SeydinaSow-u6r**：Who else noticed his right arm vs left arm 😂
-  >
-  > **@DavidLiberman23**：Make more meals bro I need this
-  >
-  > **@dr.kawasaki7380**：&quot;Even the Robot seasons his food&quot; 🤣💨💨
-  >
-  > **@EDMAEVERYWHERE**：“I’m not cooking nothing! … I’m about to abuse that robot!” 💀
+  > **@gokto**：This is crazy! I need this.
   >
   > **@abesview5855**：Honestly this is amazing very intuitive and outside the box thinking.
   >
-  > **@diamondorm9920**：This is so much work lol might as well cook myself
-  >
-  > **@Brado1343**：bro why is there an rtx 2060 hanging in the thing
-  >
-  > **@mhgscrubadub9917**：I love how you fill up the containers and need to clean them only for it to just dump it in the pan
-  >
-  > **@SubhashReddy-y9w**：&quot;Even the robot&#39;s seasoning its food&quot;<br>*Crying in british&#39;s cusine😭
-  >
-  > **@indianplaying6022**：Can&#39;t believe we got a clanker cook. Damn
-  >
-  > **@Neonx88x**：I thought of that scene where she makes the ham 🍖 😅
-  >
-  > **@gokto**：This is crazy! I need this.
-  >
-  > **@unknowngirl3678**：“Even the robot seasons it’s food”😂
-  >
-  > **@kariithimwangi1554**：Bruh i thought it was a PC at first
-  >
-  > **@afrivolouspursuit3147**：I love cooking but this could be cool maybe the only clanker I&#39;d trust until I see it slip in an extra ingredient bottle
-  >
-  > **@KOSYOUNG**：This is that Le Spatula 3000
-  >
-  > **@Chinmaya20**：I was thinking why the hell u need a gpu in a cooking machine
-  >
-  > **@JdksXjbds-s3o**：Is this not just an oven
-  >
-  > **@RivalHighlights**：this is actually crazy if it&#39;s reliable
-  >
-  > **@alideees**：This is the most dystopian shit I’ve ever seen.
-  >
-  > **@itsmichael1369**：This is the definition of money buys happiness
-  >
-  > **@publicneucence**：I think that one was second cause there was one on shark tank
-  >
-  > **@Clone683**：As someone who hates cooking this is absolutely something id use
-  >
-  > **@NIN9TEENwKhailee**：This is insane. Thank you for making this video
-  >
-  > **@winoo7963**：It&#39;s preparing the ingredients and the cleaning that take up most of the time, cooking is the easy part.
-  >
-  > **@toddsmith1969**：&quot;I&#39;m not cooking nothing&quot; 😂😂😂
-  >
-  > **@HazySkies94**：Damn where do i get one?
-  >
-  > **@mr_business_24**：Just cheaper and easier to get the ready meal from the store or batch prep yourself.
+  > **@DavidLiberman23**：Make more meals bro I need this
   >
   > **@calcifer0.o**：How do you clean the pan and the spinner thing? Does it have to be disassembled?😅
   >
-  > **@justsomecheesecake**：I feel at this point just make it yourself
+  > **@HC6657-RS**：I thought that wss a gaming cpu
   >
-  > **@hasanarli**：I thought this was a coffee machine with a crazy GPU
+  > **@HazySkies94**：Damn where do i get one?
   >
-  > **@abuhabibalkhair250**：Now all we need is a fridge attachment so you can just load up and not have to worry about ingredients and stuff for atleast a week or two
+  > **@0xfzns**：It is just just a fancy mixer with timer
   >
-  > **@pudgbee8218**：Dawmit even robot season their chicken.
+  > **@NIN9TEENwKhailee**：This is insane. Thank you for making this video
   >
-  > **@nebiyousolomon5282**：I thought it was a PC case first with a GPU hanging 😂😂😂😂😂😂
+  > **@orginal-name**：i thought that was a RTX 3060 fora sec
   >
-  > **@TripleXGames**：by the time he&#39;s done prepping im already eating
+  > **@diamondorm9920**：This is so much work lol might as well cook myself
   >
-  > **@io3000gamma**：pair this with a meal prep delivery service.
-  >
-  > **@Bee_Rah**：How about a video on how to clean this goes....😂😂😂
-  >
-  > **@cowperm**：I want a dishes robot more.
-  >
-  > **@jasondekock1683**：Literally  just stirrs food 😂
-  >
-  > **@Ocean-wx4rq**：Running dish washer simulator at 16k 120 fps is an unbelievable feat
-  >
-  > **@furioustester4056**：&quot;that&#39;s a weird PC case&quot;<br>&quot;Wait what?&quot;
-  >
-  > **@Hxtting-Whites**：Even the robot seasons it’s food
-  >
-  > **@davidgr1tu**：The amount of time you would save with this thing would be crazy
-  >
-  > **@OneFyzz**：I thought this would be the most expensive pc built
-  >
-  > **@golee-khan5778**：I thought you were about to show off a PC build lol
+  > **@MRromeroo1**：If you made a whole series of all the meals it cooks. I&#39;d binge watch.
   >
   > **@RajDatta-c9d**：Where can I buy one
   >
-  > **@robertking9988**：😂😂😂😂 even the robot seasons is foodlol
+  > **@Neonx88x**：I thought of that scene where she makes the ham 🍖 😅
   >
-  > **@DVDMAN222**：equiped with a handy two fan rtx 4080 lmfao
+  > **@raghavagnihotri21**：I wasn&#39;t expecting bro to be so buff
   >
-  > **@ecetiger16**：Looks like more effort than cooking it yourself
+  > **@Fast4VVard**：This is one step closer to the instant pizza like in back to the future
   >
-  > **@odd02**：@<a href="https://www.youtube.com/watch?v=tbjUWq0UpK8&amp;t=275">4:35</a> unless you&#39;re Billy with a couple item or fed then you most certainly can 😅😂
-  >
-  > **@markgarcia6746**：Cooking with more steps
-  >
-  > **@pwnz27**：They need a robot that cleans the dishes after now
-  >
-  > **@Sennenscooks**：It’s basically just a mixer haha
-  >
-  > **@theeyeofmango**：I&#39;d take a food prep robot that cuts and portions food over one I have to cut and portion food for. It&#39;s just a standing mixer with a funnel.
-  >
-  > **@AforArdi-tg**：that robot got in the wrong house, let it goooo 🤣
-  >
-  > **@VTO3000**：brother forget the robo food the gains are insane
-  >
-  > **@lightingfox3111**：That looked like a pc
-  >
-  > **@TfYouLookinAt1**：Bro skipped the cleanup 😢
-  >
-  > **@zelos96**：That&#39;s alot of washing up to do
-  >
-  > **@heresthething5379**：It already doing all the prep work , the bot is just adding things in the correct order which is easy.  That&#39;s most of cooking anyway, knowing the correct order to add ingredients and having the instinct to know when
-  >
-  > **@nj_editz2**：I thought it was a 3050 hanging there 😂
-  >
-  > **@nikhilthakur9581**：Brooo its literally just a stirrer lmao
-  >
-  > **@andrewfrey5562**：Seems like the same amount of work as cooking
-  >
-  > **@duck1408**：I fully thought it was a $30k gaming pc lol
-  >
-  > **@sabinamagar142**：That rich laugh at the end😢
-  >
-  > **@stephanied1028**：Our grandchildren aren’t even going to know what a stove is.
-  >
-  > **@justin_sample**：Where’s this shirt from?
-  >
-  > **@bareu3392**：Is there a robot to clean it?
-  >
-  > **@beeziy4818**：Honestly you still need to prep everything and put it all in with extra steps like proper pan or cup for seasoning and chicken etc. might aswell just cook
-  >
-  > **@LilMienKid916**：Wall-E coming to fruition.. 🤦🏻‍♂️😭😭
-  >
-  > **@rj_the_mc4378**：Let me know when it can clean itself
-  >
-  > **@subinneupane9223**：So basically a stirring machine
-  >
-  > **@mrgenesis6289**：I thought it was a PC
-  >
-  > **@gorgeouswan1768**：Bruh it looks like it can run gta 6
-  >
-  > **@NBRHUDEugene**：Bros arms looking jacked haha
-  >
-  > **@varrelxx**：this is more work than actual cooking
-  >
-  > **@Javeer89**：It is a interesting device. Like having the ingredients bought, cut and assorted is the hardest part. But after that you&#39;re chilling for the cooking.<br><br>The only way this piece of tech takes off is if there is a dedicated industry that sells you pre-cut and assorted ingredients ready for loading into this machine.
-  >
-  > **@iggswanna1248**：i was like wtf is a RTX2080 doin in the kitchen
-  >
-  > **@mrgantatalks6552**：Not me thinking it&#39;s a gaming PC🤣😭
-  >
-  > **@BiblioMane-ir1qm**：What with miss matched arms
-  >
-  > **@Nightstick24**：I was thinking “that’s the stupidest thing” the entire time, but the real-time photos and timer are such a good idea.
-  >
-  > **@ashwintripathi250**：How many cuda cores does your Coker has
-  >
-  > **@Simone-k3p**：Uncle Roger having a seizure somewhere
-  >
-  > **@polarity099**：what gpu does your chef use
-  >
-  > **@assarlannerborn9342**：Oh I really like the concept. This definitely could be amazing if it’s flexible and not to hard to maintain
-  >
-  > **@kodalrahman5034**：I legit thought u went from cooking to GPU reviewing
-  >
-  > **@Ichabod_Jericho**：We are getting so close to Star Trek style dining
-  >
-  > **@autodidact7127**：Cooking but with extra steps
-  >
-  > **@ParadoxGod22**：These clankers can&#39;t keep getting away with this!!!
-  >
-  > **@shadow_gaming93-32**：Cleaning bouta go crazy though
-  >
-  > **@dillydilly8330**：1500$ for a clanker is crazy
-  >
-  > **@susmeow-jn9lr**：i want one with rtx5090
-  >
-  > **@sickofseeingjustsomeguywit8168**：We never needed Robot chef, we needed a robot dishwasher.
-  >
-  > **@alexanderSprunger**：Dude thats sick
-  >
-  > **@cocolovesmaya**：i have rheumatoid arthritis and working exhausts me so much and makes cooking a grueling task that i used to enjoy this would be game changer for me. i’m thinking of saving up for one
-  >
-  > **@TheGourmetHusband**：So it dumps and mixes its doesnt chop?  does it require you to cut food to a proper size to work? i guess its a start
-  >
-  > **@NIN9TEENwKhailee**：Oh it’s happening
-  >
-  > **@MangoIsLove55**：I thought that looked like a 4070 😂
-  >
-  > **@RaduOcean-y6y**：Does it have auto-cleaning or does it come with an extra robot cleaner? Thank you.
-  >
-  > **@Vettenight**：Definitely getting this
-  >
-  > **@Shadnova**：Did he just blur the chicken ?
-  >
-  > **@JeremyRodriguez-l7n**：I can see the maintenance bills now....
-  >
-  > **@theneg5054**：Bro that&#39;s not the first we got that shi in india about 1 yr -2 yr ago
+  > **@tayyabashraf4676**：before starting the vedio i thought bro bought a high end pc!!
   >
   > **@sns122089**：As someone at the end of their rope who could use any help given this looks great. However, how do you clean it and how much to fix?
   >
-  > **@sebyrobbin**：Will it wash the plates?
+  > **@justin_sample**：Where’s this shirt from?
+  >
+  > **@RaduOcean-y6y**：Does it have auto-cleaning or does it come with an extra robot cleaner? Thank you.
+  >
+  > **@assarlannerborn9342**：Oh I really like the concept. This definitely could be amazing if it’s flexible and not to hard to maintain
+  >
+  > **@Patryk.Kraska**：Voice sounds like johny depth
+  >
+  > **@ashwintripathi250**：How many cuda cores does your Coker has
+  >
+  > **@afrivolouspursuit3147**：I love cooking but this could be cool maybe the only clanker I&#39;d trust until I see it slip in an extra ingredient bottle
+  >
+  > **@mr_business_24**：Just cheaper and easier to get the ready meal from the store or batch prep yourself.
+  >
+  > **@TheGourmetHusband**：So it dumps and mixes its doesnt chop?  does it require you to cut food to a proper size to work? i guess its a start
+  >
+  > **@justsomecheesecake**：I feel at this point just make it yourself
+  >
+  > **@BiblioMane-ir1qm**：What with miss matched arms
+  >
+  > **@publicneucence**：I think that one was second cause there was one on shark tank
+  >
+  > **@polarity099**：what gpu does your chef use
+  >
+  > **@rash6650**：&quot;I&#39;m about to abuse that robot&quot;<br><br>The terminator&#39;s first victim right there
+  >
+  > **@indianplaying6022**：Can&#39;t believe we got a clanker cook. Damn
+  >
+  > **@Clone683**：As someone who hates cooking this is absolutely something id use
   >
   > **@zevlife7932**：Does it clean its self?
   >
-  > **@BlasphemousBuddha420**：Damn clankers😂
+  > **@winoo7963**：It&#39;s preparing the ingredients and the cleaning that take up most of the time, cooking is the easy part.
   >
-  > **@six_eyes_zak**：that do not have feelings in it
+  > **@theneg5054**：Bro that&#39;s not the first we got that shi in india about 1 yr -2 yr ago
   >
-  > **@Oxiliary.**：You just did all the hard bit of cooking
+  > **@mhgscrubadub9917**：I love how you fill up the containers and need to clean them only for it to just dump it in the pan
   >
-  > **@dev2Game**：Damnn bro you ripped asf😂
+  > **@Vettenight**：Definitely getting this
+  >
+  > **@JdksXjbds-s3o**：Is this not just an oven
+  >
+  > **@Brado1343**：bro why is there an rtx 2060 hanging in the thing
+  >
+  > **@th4t0n3p3rs0n-X**：“ even the robot seasons its food” damn.
+  >
+  > **@andrewbottiger**：Literally still doing all the laborious parts
+  >
+  > **@abuhabibalkhair250**：Now all we need is a fridge attachment so you can just load up and not have to worry about ingredients and stuff for atleast a week or two
+  >
+  > **@bangpalin8653**：i thought that was Gaming PC
+  >
+  > **@RivalHighlights**：this is actually crazy if it&#39;s reliable
+  >
+  > **@SeydinaSow-u6r**：Who else noticed his right arm vs left arm 😂
+  >
+  > **@SubhashReddy-y9w**：&quot;Even the robot&#39;s seasoning its food&quot;<br>*Crying in british&#39;s cusine😭
+  >
+  > **@Chinmaya20**：I was thinking why the hell u need a gpu in a cooking machine
+  >
+  > **@unknowngirl3678**：“Even the robot seasons it’s food”😂
+  >
+  > **@sagardixit9247**：Wait those spices, can use our own or do we have to buy those packets from the company
+  >
+  > **@_Kev_n**：Food graphics finna be outta this world
+  >
+  > **@theeyeofmango**：I&#39;d take a food prep robot that cuts and portions food over one I have to cut and portion food for. It&#39;s just a standing mixer with a funnel.
+  >
+  > **@Bee_Rah**：How about a video on how to clean this goes....😂😂😂
+  >
+  > **@DVDMAN222**：equiped with a handy two fan rtx 4080 lmfao
+  >
+  > **@beeziy4818**：Honestly you still need to prep everything and put it all in with extra steps like proper pan or cup for seasoning and chicken etc. might aswell just cook
+  >
+  > **@jasongrant2366**：Bro freaked out when it put the chicken in 😭
+  >
+  > **@NoBs1987**：So what did it actually do?
+  >
+  > **@timothydutoit7066**：This is oddly dystopian
+  >
+  > **@davidgr1tu**：The amount of time you would save with this thing would be crazy
+  >
+  > **@heresthething5379**：It already doing all the prep work , the bot is just adding things in the correct order which is easy.  That&#39;s most of cooking anyway, knowing the correct order to add ingredients and having the instinct to know when
+  >
+  > **@sebyrobbin**：Will it wash the plates?
+  >
+  > **@cocolovesmaya**：i have rheumatoid arthritis and working exhausts me so much and makes cooking a grueling task that i used to enjoy this would be game changer for me. i’m thinking of saving up for one
+  >
+  > **@susmeow-jn9lr**：i want one with rtx5090
+  >
+  > **@zelos96**：That&#39;s alot of washing up to do
+  >
+  > **@bareu3392**：Is there a robot to clean it?
+  >
+  > **@golee-khan5778**：I thought you were about to show off a PC build lol
+  >
+  > **@Javeer89**：It is a interesting device. Like having the ingredients bought, cut and assorted is the hardest part. But after that you&#39;re chilling for the cooking.<br><br>The only way this piece of tech takes off is if there is a dedicated industry that sells you pre-cut and assorted ingredients ready for loading into this machine.
+  >
+  > **@dr.kawasaki7380**：&quot;Even the Robot seasons his food&quot; 🤣💨💨
+  >
+  > **@Ocean-wx4rq**：Running dish washer simulator at 16k 120 fps is an unbelievable feat
+  >
+  > **@alideees**：This is the most dystopian shit I’ve ever seen.
+  >
+  > **@ecetiger16**：Looks like more effort than cooking it yourself
+  >
+  > **@rj_the_mc4378**：Let me know when it can clean itself
+  >
+  > **@sebastianvidalhernandez8910**：Did u clean the chicken tho?
   >
   > **@airsantempire**：im not cleaning that, it needs to also was itelf
   >
-  > **@D3athSniper2203**：As a pc builder,i thought that was some decapitated pc
+  > **@itsmichael1369**：This is the definition of money buys happiness
   >
-  > **@Three2wan0**：Me: oh new cpu case? *Clicks<br><br>Hello i have a cooking robot. 😂
+  > **@cowperm**：I want a dishes robot more.
+  >
+  > **@alexanderSprunger**：Dude thats sick
+  >
+  > **@furioustester4056**：&quot;that&#39;s a weird PC case&quot;<br>&quot;Wait what?&quot;
+  >
+  > **@Shadnova**：Did he just blur the chicken ?
+  >
+  > **@Nightstick24**：I was thinking “that’s the stupidest thing” the entire time, but the real-time photos and timer are such a good idea.
+  >
+  > **@TripleXGames**：by the time he&#39;s done prepping im already eating
+  >
+  > **@voken1380**：I think this is amazing and should be implemented everywhere in the world
+  >
+  > **@andrewfrey5562**：Seems like the same amount of work as cooking
+  >
+  > **@mystik8177**：I was about to comment he never heard of thermomix but no thermomix is that good xD
+  >
+  > **@sourgrape_s**：Might as well get a multicooker... That&#39;s also hands off and you do the prep anyways you can get recipes... literally anywhere online lol need to fry something get an air fryer or pan lol as a matter of fact my multicooker has a sauté feature that does shallow frying pretty well.
+  >
+  > **@nebiyousolomon5282**：I thought it was a PC case first with a GPU hanging 😂😂😂😂😂😂
+  >
+  > **@Kxng_Ulare**：I might as well just cook if i have to do all that prepping
+  >
+  > **@wildingvix1946**：Is it using a 2030 Nvidia migth as well cook it myself
+  >
+  > **@NIN9TEENwKhailee**：Oh it’s happening
+  >
+  > **@tarunsharma4230**：what is that a 5090?
+  >
+  > **@toddsmith1969**：&quot;I&#39;m not cooking nothing&quot; 😂😂😂
+  >
+  > **@OneFyzz**：I thought this would be the most expensive pc built
+  >
+  > **@io3000gamma**：pair this with a meal prep delivery service.
+  >
+  > **@EDMAEVERYWHERE**：“I’m not cooking nothing! … I’m about to abuse that robot!” 💀
+  >
+  > **@zahara9848**：In the future this should be paired with Tvs and when can finally achieve the dream of eating whats on tv
+  >
+  > **@SleepyMusa**：Yup im buying one of these now, this is a game changer.
+  >
+  > **@itzme4007**：Now what did you have for juice 🤔
+  >
+  > **@zambitiber1394**：Tech malfunction.<br>Robot burned my house down.
+  >
+  > **@markgarcia6746**：Cooking with more steps
+  >
+  > **@hasanarli**：I thought this was a coffee machine with a crazy GPU
+  >
+  > **@KOSYOUNG**：This is that Le Spatula 3000
+  >
+  > **@sabinamagar142**：That rich laugh at the end😢
+  >
+  > **@robertking9988**：😂😂😂😂 even the robot seasons is foodlol
+  >
+  > **@TenHorizons**：How is washing it?<br>Edit: also does the ingredients come out of the containers properly? Say we have butter, does the butter stick to the container instead of dropping onto the pan?<br>Otherwise I think it is pretty good. Howany times I have avoided to cook because I didn&#39;t want to stand around frying at the pan, and how many times I opted to use my steam oven to come instead
+  >
+  > **@manudelaisla77**：You have to cut, clean and prepare all and then takes out the only part that you can enjoy, cooking it. then clean everything. If the roboto clean and cut Im in xdd
+  >
+  > **@lightingfox3111**：That looked like a pc
+  >
+  > **@kariithimwangi1554**：Bruh i thought it was a PC at first
+  >
+  > **@pudgbee8218**：Dawmit even robot season their chicken.
+  >
+  > **@shadow_gaming93-32**：Cleaning bouta go crazy though
+  >
+  > **@BryanGlasper-q4r**：Where can I  buy
+  >
+  > **@EmilianodelaBarreraOchoa**：Put the link
+  >
+  > **@Username-cb4fg**：Wonder how those fans will look after a few uses with the grease build up.
+  >
+  > **@auzp**：So a Thermomix with extra steps and way too many things to clean afterwards?
+  >
+  > **@pwnz27**：They need a robot that cleans the dishes after now
+  >
+  > **@Hxtting-Whites**：Even the robot seasons it’s food
+  >
+  > **@amphibiangoddess**：This is great! I want one!
+  >
+  > **@jasondekock1683**：Literally  just stirrs food 😂
+  >
+  > **@gyrthez246**：There is no way anybody who has actually tried to learn how to cook would be bad enough to resort to using this
+  >
+  > **@six_eyes_zak**：that do not have feelings in it
+  >
+  > **@odd02**：@<a href="https://www.youtube.com/watch?v=tbjUWq0UpK8&amp;t=275">4:35</a> unless you&#39;re Billy with a couple item or fed then you most certainly can 😅😂
+  >
+  > **@BlasphemousBuddha420**：Damn clankers😂
+  >
+  > **@travpro5840**：Now juist have a robot to prep all my food. Feels like that the pain in cooking.
+  >
+  > **@varrelxx**：this is more work than actual cooking
+  >
+  > **@dasbeesteees**：Food taste is subjective how tasty it can make up still excellent time saver, wish it could cut and peel veggies too. This part is the hardest.
+  >
+  > **@MehdiGuizani**：It’s missing love ❤ a ingrediënt that makes or breaks a dish
+  >
+  > **@kristoferhutter3873**：So 1500 for an automated mixer?
+  >
+  > **@ParadoxGod22**：These clankers can&#39;t keep getting away with this!!!
+  >
+  > **@nikhilthakur9581**：Brooo its literally just a stirrer lmao
+  >
+  > **@Lex8_559**：So he did everything except pour and stir lol he couldve just used a pan and the timer. He still measure chopped sourced ingredients  etc
+  >
+  > **@sickofseeingjustsomeguywit8168**：We never needed Robot chef, we needed a robot dishwasher.
+  >
+  > **@AbuZuzzi**：That would be a pain to clean every time.
+  >
+  > **@jliddy**：That looks like more work than just cooking 😂
+  >
+  > **@unityhb8252**：if you can prep the ingredients you can cook it
+  >
+  > **@kyungkim5570**：But does it clean itself tho? 🤔
+  >
+  > **@autodidact7127**：Cooking but with extra steps
   >
 
 ---
@@ -685,7 +685,7 @@
 ## 5. Meet Nosh: The AI-Powered Home Cooking Robot!
 
 - **频道：** India Mobile Congress
-- **观看数：** 25,163
+- **观看数：** 25,172
 - **点赞数：** 338
 - **评论数：** 7
 - **时长：** 1:06
@@ -709,62 +709,19 @@
   >
   > **@noschkin2** [👍1]：my name is Nosch
   >
-  > **@funmasti29**：❤❤❤❤❤❤
-  >
   > **@manikanthkommoju3176**：it is like nymble/posha
+  >
+  > **@funmasti29**：❤❤❤❤❤❤
   >
   > **@pranampankaj9273**：is the bowl teflon coated?
   >
 
 ---
 
-## 6. Watch now, Nosh live on ZeeTV and Zee5 only on Ideabaaz #aicooking #zeetv #zee5 #cooking #airobot
-
-- **频道：** Let's Nosh!
-- **观看数：** 2,358
-- **点赞数：** 18
-- **评论数：** 0
-- **时长：** 0:20
-- **发布日期：** 2025-12-22T11:06:52Z
-- **链接：** https://www.youtube.com/watch?v=Xp-m-tqkD_I
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/Xp-m-tqkD_I/hqdefault.jpg
----
-
-## 7. Unboxing @letsnosh : The AI Robot Chef That Cooks for You #aichef #cookingrobot #nosh 
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,683
-- **点赞数：** 27
-- **评论数：** 2
-- **时长：** 2:36
-- **发布日期：** 2025-09-23T14:10:57Z
-- **链接：** https://www.youtube.com/watch?v=4Iwr7Ed-tzU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/4Iwr7Ed-tzU/hqdefault.jpg
-- **简介：**
-
-  > Say hello to ​⁠@letsnosh  – the AI Robot Chef that makes fresh, delicious meals with zero hassle. From box to kitchen counter, watch how this smart chef comes to life and see if it really lives up to the hype.
-  > 
-  > Would you let an AI cook your everyday meals? Drop your thoughts below 
-  > 
-  > #nosh  #aichef  #unboxing  #smartcooking #aicookingmachine
-
-- **热门评论（1 条）：**
-
-  > **@joo1249**：I love this one..
-  >
-
----
-
-## 8. Nosh Ai Robot Chef Review - Meet the Future of Home Cooking
+## 6. Nosh Ai Robot Chef Review - Meet the Future of Home Cooking
 
 - **频道：** Organizopedia
-- **观看数：** 152,515
+- **观看数：** 152,548
 - **点赞数：** 1,096
 - **评论数：** 138
 - **时长：** 9:55
@@ -796,7 +753,7 @@
   > 
   > #Nosh #RobotChef #NoshRobot #AICooking #Smartcooking
 
-- **热门评论（82 条）：**
+- **热门评论（81 条）：**
 
   > **@radhikarangwani875** [👍70]：Meal prep actually takes a lot of our time. Cooking that on a stove   is not time consuming. So if we hv to do the meal prep and then put the ingredients in this machine. We might as well use 15 min of extra time and do the cooking ourselves.  I find it waste of money because the cost price is also very high.  I guess approx 60000/- plus. So it&#39;s a utter waste of money that can be put to good use by buying something that is worth paying for .  This is my opinion but to each its own.
   >
@@ -842,17 +799,17 @@
   >
   > **@mathsncertcbse** [👍2]：Next level. Very nice. New revolution in home cooking
   >
-  > **@GupshupCookingvlog** [👍1]：Beautiful sharing 🎉😊
-  >
   > **@saswatab79** [👍1]：Wow! Robots which can cook is eventually becoming a reality.
   >
   > **@waiwai5233** [👍1]：The value comes in difficult dishes that you buy outside like Cantonese BBQ pork belly, roast duck, pork, Neapolitan pizza and other dishes that requires constant monitoring or easy to over/undercook. If a robot can prep ingredients including proteins and clean that would be the biggest game changer.
   >
+  > **@GupshupCookingvlog** [👍1]：Beautiful sharing 🎉😊
+  >
   > **@toradrow777** [👍1]：For the elderly or disabled I could see this as quite a boon, so long as subscription fees are low. For most people, save your money and learn to cook.
   >
-  > **@PrachiPrakash-nc2uo** [👍1]：amazing
-  >
   > **@sweetyrai100** [👍1]：It will more useful by adding chopping n adding in it or making of puree
+  >
+  > **@PrachiPrakash-nc2uo** [👍1]：amazing
   >
   > **@littlebumzz** [👍1]：What about the taste
   >
@@ -866,51 +823,51 @@
   >
   > **@rachitbalani** [👍1]：Add airfyer and microwave capabi.ty and boom
   >
-  > **@purvakerkar4017**：Thanks for sharing 🎉🎉
-  >
   > **@Kewlzter**：A crockpot and pot stirrer, would do exactly the same thing.
   >
   > **@AnkitMondal-we9vr**：How chimney works and filter longevity
   >
-  > **@rachitbalani**：This is amazing
-  >
-  > **@seanbellfort2298**：🤗🤗🤗🤗Must buy🤗🤗🤗
-  >
-  > **@AkashRajput-by8jp**：nice
-  >
-  > **@sandhyagokhale247**：Is there an auto switch off function?
+  > **@purvakerkar4017**：Thanks for sharing 🎉🎉
   >
   > **@gijo401**：The hard part of cooking is the prep work, you still have to chop everything and fill in the items, the actually heating the ingredients is the easy part of cooking. Hope the next version can chop and prep food.
   >
   > **@noneya404**：As an American who&#39;s taught himself restaurant style Indian cooking... I must have this.  We would be eating Indian every day!
   >
+  > **@prakashsharan5789**：Mixie shoud be integral part of it.
+  >
+  > **@rachitbalani**：This is amazing
+  >
+  > **@sandhyagokhale247**：Is there an auto switch off function?
+  >
   > **@SridharSrinivasan-p8k**：Can it make south indian food sambar rasam dosa idilli and chapati.   Demo please with price please
   >
-  > **@PrashantYadav-dy2gz**：Is there any subscription plan?
-  >
-  > **@prakashsharan5789**：Mixie shoud be integral part of it.
+  > **@seanbellfort2298**：🤗🤗🤗🤗Must buy🤗🤗🤗
   >
   > **@Abhishek-kx4pn**：What about non veg like chicken,  fish?
   >
+  > **@VenusDrip**：Where to weigh the ingridients? The halwa definitely looks undercooked.
+  >
+  > **@AkashRajput-by8jp**：nice
+  >
   > **@sunilmazumdar5501**：Can It Cook Donauts Cookies Choco  Muffins Cakes.Etc.
   >
-  > **@VenusDrip**：Where to weigh the ingridients? The halwa definitely looks undercooked.
+  > **@PrashantYadav-dy2gz**：Is there any subscription plan?
+  >
+  > **@Mr.Blaze3**：Any time saved would be spent cleaning and servicing it...
   >
   > **@Carolina-mw4po**：Amazing! Does it offer other than indian recipes?
   >
-  > **@Mr.Blaze3**：Any time saved would be spent cleaning and servicing it...
+  > **@kirath-730**：I would love to buy it if it can cook for 4 to 5 people, in Ahmedabad the cook charges 10K for 2 times and still they want you to prepare everything like daal and, rice cleaned and washed, sabzi washed and cut, and still not perfect taste, every day daal taste and consistency changed, only sabzi allowed if 2 are required not happy.
   >
   > **@dipensen1**：Amazing ....... from where to buy it ?
   >
   > **@PaongulChongloi**：Nangna chabado uraga chak lammr
   >
-  > **@kirath-730**：I would love to buy it if it can cook for 4 to 5 people, in Ahmedabad the cook charges 10K for 2 times and still they want you to prepare everything like daal and, rice cleaned and washed, sabzi washed and cut, and still not perfect taste, every day daal taste and consistency changed, only sabzi allowed if 2 are required not happy.
-  >
   > **@majadevSaha**：Kitne logo ka khana bana sakta hai aur kitne saal tak chalega
   >
-  > **@aashirsayed**：Did this make roti or paratha
-  >
   > **@maxroderics**：Agar itna cutting chopping main khud kar lunga toh khana bhi khud bana lunga didi... Problem ke liye solution banaya hai ya solution ke liye problem?
+  >
+  > **@aashirsayed**：Did this make roti or paratha
   >
   > **@travel2toast**：What is price in india? And where to buy?
   >
@@ -924,23 +881,23 @@
   >
   > **@mayak2676**：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping function
   >
-  > **@HalimMallick-q1l2x**：What is the price of it ?
-  >
   > **@fat2fitby2027_Jan**：But who is going add the ingredients to the machine?
+  >
+  > **@HalimMallick-q1l2x**：What is the price of it ?
   >
   > **@binakumari2722**：I prefer cooking myself
   >
   > **@vj.d81AMS**：How can every claim that they are the first Ai robot cooking company.. Ridiculous!! Do still ppl fall for this marketing buzz words.. This shows how much you can trust them... And during review why they always show a easy recipe??.. Good product for today but never  buy it if it can&#39;t give you the value you need for the next 5 years
   >
-  > **@Shivaansi**：Useless, so much time taking for all this. Self cooking is more convenient in less time. Hassle free.
-  >
   > **@smtkumar007**：i think AI is just marketing gimmick , if u control everything from the start there is no need for the AI, Just timely control of falling of ingredient
   >
   > **@Rups78**：The main boring part is making ingredients ready for someone. If I need to make ingredients ready for robot and wait for 40 mins for one sabji, better I will make it ready for my self and make the sabji in 20 mins.
   >
-  > **@Factbasedislam**：👎
+  > **@Shivaansi**：Useless, so much time taking for all this. Self cooking is more convenient in less time. Hassle free.
   >
   > **@HolyRamanRajya**：This is not a review
+  >
+  > **@Factbasedislam**：👎
   >
   > **@0309shweta**：Too much pastic
   >
@@ -948,11 +905,9 @@
   >
   > **@brajyalakshmi5425**：It&#39;s not Suji Halwa that looks like something else. I think ground nut and almond are raw in this robot. Not frying properly.<br>Waste of money.<br>Robots never replace humans.
   >
-  > **@sudhan2768**：if its coated with chemical, then who ever uses this will have to pay for the diseases that comes with this machine freee of cost................................................
-  >
   > **@nirajprasad99**：Waste of money
   >
-  > **@ratnamurlidharan9885**：Halwa is pathetic….💔 Elaichi totally forgotten 😂…
+  > **@sudhan2768**：if its coated with chemical, then who ever uses this will have to pay for the diseases that comes with this machine freee of cost................................................
   >
   > **@edwinrodrigues9814**：Pls.... help Gaza.....!
   >
@@ -965,46 +920,86 @@
 
 ---
 
-## 9. Upgrade your kitchen with ​⁠@letsnosh the robo-chef for perfect meals, no skills needed!
+## 7. Sowmya’s experience with Nosh - World’s First Robo Chef! #nosh #robochef
 
 - **频道：** Let's Nosh!
-- **观看数：** 22,549
-- **点赞数：** 289
-- **评论数：** 11
-- **时长：** 0:58
-- **发布日期：** 2025-05-09T15:09:40Z
-- **链接：** https://www.youtube.com/watch?v=ufbmAm44zk0
-- **来源：** channel
+- **观看数：** 28,995
+- **点赞数：** 218
+- **评论数：** 52
+- **时长：** 4:23
+- **发布日期：** 2025-03-20T10:55:33Z
+- **链接：** https://www.youtube.com/watch?v=fG90h-1Pyzc
+- **来源：** search&channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/ufbmAm44zk0/hqdefault.jpg
-- **热门评论（9 条）：**
+- **缩略图：** https://i.ytimg.com/vi/fG90h-1Pyzc/hqdefault.jpg
+- **简介：**
 
-  > **@sgshilpagupta** [👍2]：I like to take demo
+  > When Sowmya experienced @letsnosh , she didn’t just try it — she took a closer look at what sets us apart. Her review, from quality to taste, reflects our promise: thoughtfully prepared, flavour-driven products that deliver, every time.
+  > 
+  > #nosh #noshreview #clientexperience #qualityineverybite #robochef
+
+- **热门评论（26 条）：**
+
+  > **@alfs9094** [👍7]：Chopping and weighing features should get added to this as chopping is more cumbersome and getting the correct amount of the ingredients in is very important for the final taste.<br>Since the focus is to make cooking easier such features are a must and also least amount of washing after cooking makes it efficient. Otherwise if a househelp is required then might as well hire her for 2 tasks than one.
   >
-  > **@noboni6437** [👍2]：Is it subscription based?
+  > **@xinspiredu3294** [👍5]：No one can Replace Ma ka hat ka khana but when your are alone at home without family its a game changer 😊❤
   >
-  > **@Sandip-pf3xo** [👍1]：Excellent
+  > **@aswinisahoo1977** [👍3]：What about washing after cooking?
   >
-  > **@sgshilpagupta** [👍1]：From vadodara gujarat
+  > **@hapsn5413** [👍2]：Does it make roti?
   >
-  > **@lakshmilakshmi-wf5jj** [👍1]：How to clean it
+  > **@ericdasilva3421** [👍2]：Make Nosh++, just get from market dump onions potatoes and all vegetables and also non veg items. Nosh++ will be smart enough to identify the vegetables peel, wash , chop and then cook
   >
-  > **@santhoshps-d8j** [👍1]：can i use it for commercial purpose
+  > **@avinashevilmonsterkane995** [👍2]：Will it resume after powercut
   >
-  > **@sschlerp** [👍1]：Cost?
+  > **@saisagartata9464** [👍2]：Where is Nosh+ where i just need to add vegetables and ingredients it cuts itself and makes curry .<br><br>Cutting vegetables at times is more problematic than cooking itself
   >
-  > **@madhurask5**：Hi<br>When will I get demo in Pune
+  > **@nikhilbalchandani665** [👍1]：Great
   >
-  > **@nonamemage6599**：Scam
+  > **@bhargavk1515** [👍1]：It would be great if there was a refrigerated unit that would have large storage, so that I would have to just fill ingredients once a week. It should be sold seperately like an attachment.
+  >
+  > **@steelbirds** [👍1]：Nice presentation
+  >
+  > **@jyotiboriwale9308** [👍1]：Ye cutting ka option Auto dena chahiye usmay.uskay liye he yime jada jata hey
+  >
+  > **@mayak2676** [👍1]：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function
+  >
+  > **@ARA-d1p9r** [👍1]：Actually concept चांगला आहे पण फार बेसिक आहे. ..मशीन actually आधी सांगणार कि प्रत्येक कप्प्यामध्येय काय भरायचेय आणि किती वजनाचे ...आम्ही पूर्ण भरू ना कप्पे ..ऑटोमॅटिक आहे, ai आहे तर मग machine ने weight करून तेवढेच वापरायला पाहिजे ना!  आपल्या आई ना किंवा बायकोला 2 कांदे चिरायचे एवढे माहित आहे,. पण machine ने 170 grams सांगितले तर पोहे बनवन्यात energy टाकायची कि weight करून ते 7-8 कप्पे भरण्यात!  आणि त्याचे आपण 75k pay करायचेत. .छान
+  >
+  > **@bitu0091** [👍1]：Can we adjust salt for the recipe
+  >
+  > **@LazzyBoy-p5b** [👍1]：Cost and is it available in India
+  >
+  > **@mayak2676** [👍1]：Meal prep takes more time than actual cooking.  We need a robotic chopper, dicer &amp; slicer
+  >
+  > **@lalithapriyas6237**：Good to hear....❤<br><br>Thanks for the scientists who invented this💪💪💪
+  >
+  > **@rahulv74**：I have seen its live demo in Bangalore. It is an amazing appliance.
+  >
+  > **@nishant2204**：If you could add auto cleaning also it would have been very convinient.
+  >
+  > **@jyotiboriwale9308**：Regualr sabji bna skti heyvkya Machine
+  >
+  > **@shwetapandey1463**：Can we cook food without onion and garlic?
+  >
+  > **@jyotiboriwale9308**：Cutting and chopping complete then i am interested any demo available pune maharashtra
+  >
+  > **@morshalinvora5852**：It cook nonvage food?
+  >
+  > **@prasenjitllspl**：This product has some missing elements <br>Chopping AI skills<br>Reheating<br>Air fryer <br>Including This 3 can make this product a game changer.
+  >
+  > **@mayankpatel3737**：Price?
+  >
+  > **@ARA-d1p9r**：Actually the concept is good but very basic. ..the machine will actually tell you first what to fill in each compartment and how much weight...why so? You are saying its automatic, right? Then we will fill the compartments completely..if it is AI enabled then the machine should weigh it and use only that much quantity! our mother or wife knows that she should chop 2 onions,. But if the machine says 170 grams, should we put energy into making poha or into weighing ingredients manually and fill 7-8 compartments! By that time we can make poha ourself 😂<br>And should we pay 75k for that. .good !!
   >
 
 ---
 
-## 10. AI Robot Chef Nosh Review 🤖 Taste Test + Honest Cooking Demo | Smart Cooking
+## 8. AI Robot Chef Nosh Review 🤖 Taste Test + Honest Cooking Demo | Smart Cooking
 
 - **频道：** Vaishnavi Patidar
-- **观看数：** 16,177
+- **观看数：** 16,192
 - **点赞数：** 171
 - **评论数：** 51
 - **时长：** 10:29
@@ -1068,17 +1063,17 @@
   >
   > **@ishanichakravorty1608**：The rabdi looks so tempting, thanks for sharing about this amazing miracle of a machine
   >
-  > **@sekharcn**：is it cook well ?
-  >
   > **@hrituparnasinha1866**：Nice
   >
-  > **@heenapatel3053**：Can you please let me know for how many people it cooks?? Because look like ingradient containers look really small for big batch.  Look like for only 2 people enough ingradient load in ingradient tray... how about making own recipe??
+  > **@sekharcn**：is it cook well ?
   >
-  > **@unpluggedboss391**：To me- all these robo cooks are fancy items. Anyways, Upliance is clearly ahead in this case. It can chop anything by itself whereas in case of Nosh, u have to do that on ur own (which may be an issue for sb). Btw Nosh is a premium variant which is quite obvious, but Upliance offers u even its 2nd version at around half of Nosh&#39;s price. To me, if u really don’t have any knowledge of cooking (!), Upliance must be a better option than Nosh.
+  > **@heenapatel3053**：Can you please let me know for how many people it cooks?? Because look like ingradient containers look really small for big batch.  Look like for only 2 people enough ingradient load in ingradient tray... how about making own recipe??
   >
   > **@MishaAdventures**：Cost please
   >
   > **@shwetad3251**：But kya tomato puree humein banani hai..ya iski recipe bhi hai jo nosh banayega.... secondly veggies cut karta hai ya humein cut karna hai
+  >
+  > **@unpluggedboss391**：To me- all these robo cooks are fancy items. Anyways, Upliance is clearly ahead in this case. It can chop anything by itself whereas in case of Nosh, u have to do that on ur own (which may be an issue for sb). Btw Nosh is a premium variant which is quite obvious, but Upliance offers u even its 2nd version at around half of Nosh&#39;s price. To me, if u really don’t have any knowledge of cooking (!), Upliance must be a better option than Nosh.
   >
   > **@samrudhinakhwa2452**：Is this available in US and how many servings can be cooked at a time?
   >
@@ -1087,39 +1082,127 @@
 
 ---
 
-## 11. Chef vs Nosh | Cajun Chicken Pasta Cook-Off #nosh #aichef 
+## 9. Nosh Bangalore Demo: Real Reactions!
 
 - **频道：** Let's Nosh!
-- **观看数：** 1,516
-- **点赞数：** 14
-- **评论数：** 8
-- **时长：** 7:17
-- **发布日期：** 2025-09-28T11:36:32Z
-- **链接：** https://www.youtube.com/watch?v=zFHn2O7Qmk0
+- **观看数：** 10,863
+- **点赞数：** 122
+- **评论数：** 9
+- **时长：** 0:41
+- **发布日期：** 2024-11-28T11:39:20Z
+- **链接：** https://www.youtube.com/watch?v=iYixyZmG-WE
 - **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/zFHn2O7Qmk0/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/iYixyZmG-WE/hqdefault.jpg
 - **简介：**
 
-  > What happens when a professional chef competes with Nosh, the world’s first AI Robot Chef?
-  > Both are making Cajun Chicken Pasta — but while the chef boils pasta and makes the sauce separately, Nosh does it all at once with just a tap.
+  > Nosh brings convenience and taste together, making home cooking a delight. See how families are loving every dish!
   > 
-  > 👨‍🍳 Chef’s way: multiple steps, constant attention.
-  > 🤖 Nosh’s way: one-tap cooking, zero hassle.
-  > 
-  > Same dish. Different journeys.
-  > Which one would you pick?
-  > 
-  > Bring home @letsnosh  today and experience cooking like never before.
-  > 
-  > #ChefVsNosh #aichef #robotchef  #CajunChickenPasta #nosh #letsnosh
+  > #NOSHCooking #NoshDemo #Comfortfood
 
-- **热门评论（2 条）：**
+- **热门评论（7 条）：**
 
-  > **@BalajiGattu** [👍1]：No Doubt the Nosh have done it&#39;s job but their acting 😶
+  > **@deepakbijalwan2674** [👍3]：How about industrial setting ..I mean for a small restaurant which faces issues on labour ,cooks etc ..if u have an industrial machine with limited number of skus like poha,maggi,vermicelli etc trust me it will revolutionise horeca segment..
   >
-  > **@VIDSviewbook** [👍1]：How it boiled pastas?
+  > **@Facts4uu555** [👍1]：4 aana muragi 12 aana masala😂😂😂
+  >
+  > **@deepakbijalwan2674** [👍1]：Lemme know if u have one
+  >
+  > **@nikhilbalchandani665**：Great going ❤
+  >
+  > **@shwetayana55**：Where can we get demo?
+  >
+  > **@pranampankaj9273**：is the bowl teflon coated?
+  >
+  > **@pranampankaj9273**：do you have a service center/ showroom in bihar?
+  >
+
+---
+
+## 10. Nosh AI Cooking Robot Honest Review &amp; Demo | 500+ Free Recipes | Neera Mishra
+
+- **频道：** Neera Mishra
+- **观看数：** 7,551
+- **点赞数：** 56
+- **评论数：** 14
+- **时长：** 8:56
+- **发布日期：** 2025-09-07T05:30:11Z
+- **链接：** https://www.youtube.com/watch?v=KCpCUFBr6zA
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en-IN
+- **缩略图：** https://i.ytimg.com/vi/KCpCUFBr6zA/hqdefault.jpg
+- **简介：**
+
+  > The Nosh AI Cooking Robot 🤖 is the World's first smart cooking machine. It cooks 500+ recipes across cuisines like pulao, butter chicken, Chilli Paneer & pasta, completely hands-free. No stirring, no waiting, no stress… just fresh, homestyle food made for you.
+  > Why I love it ❤️
+  > * Hands-free & AI-powered
+  > * 500+ recipes to choose from
+  > * Healthy & diet-friendly options
+  > * Compact & super easy to use
+  > Perfect if you’re a busy professional, working parent, or just someone who wants delicious food without spending hours in the kitchen.
+  > Made in India 🇮🇳 | By Euphotic Labs
+  > 
+  > Checkout my Intagram: https://www.instagram.com/homethreadsbyneera/
+  > 
+  > 👉 Check it out: https://www.letsnosh.io
+  > 📸 Instagram: https://www.instagram.com/letsnosh.io/
+  > ▶️ YouTube: https://www.youtube.com/@letsnosh
+
+- **热门评论（7 条）：**
+
+  > **@ElixirFlambeau** [👍1]：Looks good. But worried about the cleaning.
+  >
+  > **@RashmiChatiyar** [👍1]：Please give your kitchen tour
+  >
+  > **@secularvadi8975** [👍1]：They should improve it by adding automatic  vegetables chopping facility
+  >
+  > **@mayak2676** [👍1]：5 mins meal prep😳! Are you kidding! <br>Meal prep takes more time than actual cooking. Without chopping,  dicing, slicing mechanism,  this is only partially helpful. Plus too much of plastic compartments....definitely not healthy
+  >
+  > **@deepunt11**：Nice presentation.. very useful
+  >
+  > **@prateekchakraborty4395**：Which one is better ?upliance or nosh ? Upliance is much cheaper than nosh .
+  >
+  > **@patriciajones5470**：Ugh! Why the voice over?? You are completely understandable. Such a shame.
+  >
+
+---
+
+## 11. Real Owners, Real Stories | Meet Nosh Champion Supriya
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,030
+- **点赞数：** 39
+- **评论数：** 7
+- **时长：** 1:55
+- **发布日期：** 2025-08-31T05:20:11Z
+- **链接：** https://www.youtube.com/watch?v=YHswfWtzTpk
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/YHswfWtzTpk/hqdefault.jpg
+- **简介：**
+
+  > Between being a mom, an engineer, and someone who trains, balance mattered — but food was always the compromise.
+  > 
+  > With Nosh, Supriya found her rhythm again. Fresh, low-oil, no shortcuts. For her, it’s not just convenience, it’s time and energy for what truly matters.
+  > 
+  > #RealOwnersRealStories #NoshChampion
+
+- **热门评论（6 条）：**
+
+  > **@priyanshukedia8369** [👍1]：Wonderful Supriya....Proud of work that you are doing
+  >
+  > **@SushmaPraveen-vg8wr** [👍1]：Wow Supriya 👌 you inspire me in every way 🙂
+  >
+  > **@stuartb4u** [👍1]：@supriya.. please make video on pre cooking preparations for planned dishesh.....
+  >
+  > **@ShadesofArchhana** [👍1]：This is wow
+  >
+  > **@pradhanyaji1019** [👍1]：Wow..Sup
+  >
+  > **@shaheedaasantewaa1395** [👍1]：It&#39;s so expensive. Reduce the price for us to afford
   >
 
 ---
@@ -1127,7 +1210,7 @@
 ## 12. This Kitchen Robot Can Fully Cook Anything! 🤯
 
 - **频道：** Beebom
-- **观看数：** 737,866
+- **观看数：** 737,953
 - **点赞数：** 17,952
 - **评论数：** 267
 - **时长：** 1:07
@@ -1194,9 +1277,9 @@
   >
   > **@biswaranjanbanchhor699** [👍3]：Productivity 🌚
   >
-  > **@karthikeyan0289** [👍2]：Cutting is 70% of the cooking, remaining 30% is the fun part of the cooking.
-  >
   > **@kushalsingh21509** [👍2]：No talking about productiveness in november my freind 😅😅
+  >
+  > **@karthikeyan0289** [👍2]：Cutting is 70% of the cooking, remaining 30% is the fun part of the cooking.
   >
   > **@tushar007k007** [👍2]：If you&#39;re in India, just hire a didi/bhaiya and tell them what to cook
   >
@@ -1210,19 +1293,19 @@
   >
   > **@dailysauce0** [👍1]：I would better want to buy a dishwasher that has an automatic plating mechanism( robotic arm that takes dishes from the sink , clean n finally puts them in self) when it comes. Cuz cooking is fun.
   >
-  > **@boomsmmpanel** [👍1]：Im vegetarian..<br>then proceed to licking fingers😅😂
+  > **@saimadhavarao** [👍1]：Actually saw a similar product on US Shark Tank called Chefee. Although I should clarify that was little more bigger and expensive but in theory both are doing the same thing.
   >
-  > **@shantanunaik1855** [👍1]：Cleaning&#39;s gonna be a headache.
+  > **@boomsmmpanel** [👍1]：Im vegetarian..<br>then proceed to licking fingers😅😂
   >
   > **@AmitDJ_90** [👍1]：And inbetween power cut off😂
   >
-  > **@saimadhavarao** [👍1]：Actually saw a similar product on US Shark Tank called Chefee. Although I should clarify that was little more bigger and expensive but in theory both are doing the same thing.
+  > **@shantanunaik1855** [👍1]：Cleaning&#39;s gonna be a headache.
   >
   > **@aiverselabyt** [👍1]：Productivity ☠️
   >
-  > **@tiwari6638** [👍1]：BRO enlightened my heart by saying , he is vegetarian. Same same no difference..<br><br>mukambo khush hua,.....
-  >
   > **@MaxGaming-ip4tc** [👍1]：Cooking is something really PRODUCTIVE! It is something for people who don&#39;t have time to spare at all.
+  >
+  > **@tiwari6638** [👍1]：BRO enlightened my heart by saying , he is vegetarian. Same same no difference..<br><br>mukambo khush hua,.....
   >
   > **@rajraj-u7l9f** [👍1]：I wonder what productivity comes from a body lotion and tissue papers
   >
@@ -1230,123 +1313,129 @@
   >
   > **@srinivasguptha9538** [👍1]：The machine is actually doing easiest part of cooking.
   >
-  > **@wheatencandy00** [👍1]：If u want to buy, the price is 74,999.90 only 😊
-  >
   > **@Krishfor** [👍1]：Nosh ... ₹74,999 only 😅
+  >
+  > **@wheatencandy00** [👍1]：If u want to buy, the price is 74,999.90 only 😊
   >
   > **@anirbansarkar9872** [👍1]：It can&#39;t even cook any Tandoori items
   >
-  > **@bindaasmard664** [👍1]：Preparing all ingredients for cooking takes a huge amount of time and efforts, actual cooking takes barely fraction of time and efforts.
+  > **@Ms.Divine2024** [👍1]：16k like Cool Nice
   >
   > **@ayushsonimzp** [👍1]：Something productive 👽
   >
-  > **@Ms.Divine2024** [👍1]：16k like Cool Nice
+  > **@bindaasmard664** [👍1]：Preparing all ingredients for cooking takes a huge amount of time and efforts, actual cooking takes barely fraction of time and efforts.
   >
   > **@himanshutalegaonkar2522**：The day a robot can chop, prepare ingredients and clean afterwards i will consider, otherwise mixing stuff together and watching your dish come to life is pure satisfaction.
   >
-  > **@paperfrog07**：It looks way much easier than clean it later
-  >
   > **@dexteralphonso5824**：There is a Wonderchef one that also cuts before cooking
+  >
+  > **@paperfrog07**：It looks way much easier than clean it later
   >
   > **@cannotthinkofanybetterhandle**：I will wait for a robot that could actually go buy vegetables and ingredients, chop the veggies, prepare food and clean everything up.
   >
   > **@MukundaKaruppaiyaPunggolss**：nah i wonder how well his one hand workout went
   >
-  > **@thetravelpedia**：😂😂 piyush goyal sahi hai bhai. Tech mai bhi khana hi banayenge hum
-  >
   > **@DarkestScreens**：Bro said he was vegetarian but at the last he ate the biryani
-  >
-  > **@amandavas9365**：I’m going to buy this for my mom so that he can finally be relieved of her cooking duties.
-  >
-  > **@spaceadvanture6458**：I believe chopping is the hardest part in cooking, and robot is doing the fun part 😂
   >
   > **@atf_hd**：If i have to do the cleaning, cutting and getting the items<br>I might as well get blender /mixer,/cooker /microwave and do it myself
   >
+  > **@harshvraj**：This will save time and resources by a lot
+  >
+  > **@amandavas9365**：I’m going to buy this for my mom so that he can finally be relieved of her cooking duties.
+  >
   > **@Sunit_17**：Laziness at its peak. 💪
+  >
+  > **@spaceadvanture6458**：I believe chopping is the hardest part in cooking, and robot is doing the fun part 😂
   >
   > **@sukuna-gtr**：Oh god, now we have to put ingredients according to slots and also we have to wash them every time we use?
   >
-  > **@harshvraj**：This will save time and resources by a lot
+  > **@Aakash.1997**：Watched this already in MrWhostheboss&#39;s video
+  >
+  > **@Thank_Me_Later**：Smart cooking 🔪🍳 😂😂
   >
   > **@hardikpalrecha7714**：Fhr bhi bartan toh dhone hi padenge 😂
   >
   > **@3tapgamer999**：Chalo.... Ab Blade runner ka Joi jaisa bhi koi aa jaye 🫠
   >
-  > **@Aakash.1997**：Watched this already in MrWhostheboss&#39;s video
-  >
   > **@ankitdutta8101**：It won&#39;t be able to beat maa ki hath ka bana hua khana 🥰
+  >
+  > **@TheLifeofKaty**：Well, cooking is never painful once you learn it. It&#39;s prep and cleaning after that&#39;s boring. I am happy with my food processor and dishwasher. However, I will still love to have it, because my teen kids will benefit from it the most. They can make yummy dishes for themselves.
+  >
+  > **@architthamke7046**：Sir please suggest something for post acne marks 😢<br>My grade 4 acne is worsen
   >
   > **@PampaHalder-f6h**：Same as Joker !
   >
-  > **@SubodhPrasadSuman**：Vaypari and Zamindar laughing😂 in corner
+  > **@roman19sk**：Price?
   >
   > **@rajabhishek6293**：Ai can think for u! Robot can work for you, so dependent , so comfortable,
   >
   > **@pardhuphaniram6008**：Nivea and tissues productive 😂😂
   >
-  > **@yuvrajpandit4125**：Bhai itne ingredients ready kiye hai toh tawe ma bhi daal hi dunga na.😂
-  >
-  > **@Thank_Me_Later**：Smart cooking 🔪🍳 😂😂
-  >
-  > **@야햐-l9b**：It’s doing the good part and making us the the hard and boring part
-  >
-  > **@TheLifeofKaty**：Well, cooking is never painful once you learn it. It&#39;s prep and cleaning after that&#39;s boring. I am happy with my food processor and dishwasher. However, I will still love to have it, because my teen kids will benefit from it the most. They can make yummy dishes for themselves.
-  >
-  > **@espio3364**：I can cook, I just need one that can do mundane tasks like cleaning
-  >
-  > **@aryasancheti3229**：Isme toh mera ghr chala jayenga
+  > **@SubodhPrasadSuman**：Vaypari and Zamindar laughing😂 in corner
   >
   > **@rudresh_singh**：Actually the cooking is a art so it can&#39;t be machinied, if you prepare veggies and wash dishes after cooking then it&#39;s good
   >
-  > **@vishnudileep645**：Scrubbing of that non stick pan with a metal scrubber made me cringe🥲🥲 Rip to whoever cooks in it..
-  >
-  > **@architthamke7046**：Sir please suggest something for post acne marks 😢<br>My grade 4 acne is worsen
-  >
-  > **@NaraPlayz-c5v**：theres one in the west, its called Posha Cooking Robot
+  > **@yuvrajpandit4125**：Bhai itne ingredients ready kiye hai toh tawe ma bhi daal hi dunga na.😂
   >
   > **@NandoJunkie**：OMG 😂😂😂😂 THE LOTION I WAS NOT READY FOR 😂😂😂😂
   >
+  > **@espio3364**：I can cook, I just need one that can do mundane tasks like cleaning
+  >
+  > **@NaraPlayz-c5v**：theres one in the west, its called Posha Cooking Robot
+  >
   > **@balukumarPraveenP**：Sell ur car or bike to get this!!😂
   >
-  > **@roman19sk**：Price?
+  > **@야햐-l9b**：It’s doing the good part and making us the the hard and boring part
   >
-  > **@AmanRaj2003.**：But this machine can&#39;t give maa ke hath ka pyar
-  >
-  > **@RamP-Mad**：Cancelled my dates iphone, this will do the work.
+  > **@vishnudileep645**：Scrubbing of that non stick pan with a metal scrubber made me cringe🥲🥲 Rip to whoever cooks in it..
   >
   > **@Blazegaming_og-v4v**：But, I am non-vegetarian. So, parcel at my address...😂❤
   >
-  > **@shardulcharming**：Naaaahhh...I wanna go much lazy way...I will get robot that can cook, do dishes and clean kitchen later.
-  >
-  > **@anilloutombam**：Thank god , I can cook
-  >
-  > **@samarjitmazumder7746**：Most hard productivity 🌚🌚🌚🌚☠️☠️☠️
-  >
-  > **@srajs3745**：Prepping all the ingredients for a cook is the main work. Come back when you have a robot that goes to market bargains the veggies for a good price brings home cleans it chops it and cooks it and then serves it all through a command.
-  >
-  > **@vishirajpal1375**：and it Costs Rs- 82K
-  >
-  > **@athravpawar6715**：Can this robot make roti or chapati
-  >
-  > **@vijaybhanuprathap9985**：Watched it in mrwhosetheboss channel
-  >
-  > **@ratulghosh8174**：Doesn&#39;t seem to be poductive at all, after cutting it will not take much time to cook it . What&#39;s the point of buying it?
-  >
-  > **@nikhilrao7355**：product name ?
-  >
-  > **@bijaymohapatra2661**：Moturiser and tissue
-  >
-  > **@adidkhan8749**：Cleaning?
+  > **@aryasancheti3229**：Isme toh mera ghr chala jayenga
   >
   > **@ShayNoHope**：Kitne lakh ka hai? I need it.
   >
-  > **@thanospachisia971**：Khanna banna acche se aa jaye to pet bhi bhar loge to jeb bhi
+  > **@nikhilrao7355**：product name ?
+  >
+  > **@shardulcharming**：Naaaahhh...I wanna go much lazy way...I will get robot that can cook, do dishes and clean kitchen later.
+  >
+  > **@athravpawar6715**：Can this robot make roti or chapati
+  >
+  > **@adidkhan8749**：Cleaning?
+  >
+  > **@vijaybhanuprathap9985**：Watched it in mrwhosetheboss channel
+  >
+  > **@AmanRaj2003.**：But this machine can&#39;t give maa ke hath ka pyar
+  >
+  > **@srajs3745**：Prepping all the ingredients for a cook is the main work. Come back when you have a robot that goes to market bargains the veggies for a good price brings home cleans it chops it and cooks it and then serves it all through a command.
+  >
+  > **@RamP-Mad**：Cancelled my dates iphone, this will do the work.
+  >
+  > **@ratulghosh8174**：Doesn&#39;t seem to be poductive at all, after cutting it will not take much time to cook it . What&#39;s the point of buying it?
+  >
+  > **@sauravbadaik4169**：awesome 😢
+  >
+  > **@chidanandg8216**：Is it subscription based
+  >
+  > **@samarjitmazumder7746**：Most hard productivity 🌚🌚🌚🌚☠️☠️☠️
+  >
+  > **@anilloutombam**：Thank god , I can cook
   >
   > **@devskhobragade**：I&#39;m Vegetarian was 😂
   >
-  > **@Sandeep-ln2tw**：Finally, shaadi karne ki jaroori nahi😂
+  > **@vishirajpal1375**：and it Costs Rs- 82K
   >
-  > **@ps4392**：Those who actually cook know the actual labour goes in peeling washing cutting chopping 😂
+  > **@SushantParab**：72k only
+  >
+  > **@RishabhKumarRoy**：good for baclor
+  >
+  > **@anjulasangar9174**：❤️
+  >
+  > **@SmartTechInsights-Official**：BTW Devender How Was The Taste?
+  >
+  > **@bijaymohapatra2661**：Moturiser and tissue
+  >
+  > **@popeefrog4358**：How about washing?
   >
   > **@filminewsyt**：Brother it&#39;s out of stock
   >
@@ -1354,105 +1443,99 @@
   >
   > **@SanjayJuhiMahir**：Roti?
   >
-  > **@SmartTechInsights-Official**：BTW Devender How Was The Taste?
-  >
-  > **@rohitv9076**：The problem is with cleaning the veggies and chopping it and the keeping the masalas handy. Once everything is ready one can cook way faster and better than this.
-  >
-  > **@SushantParab**：72k only
-  >
-  > **@sauravbadaik4169**：awesome 😢
-  >
   > **@Lovejeetsingh3**：Ok guys price 74k h
   >
-  > **@chidanandg8216**：Is it subscription based
+  > **@thetravelpedia**：😂😂 piyush goyal sahi hai bhai. Tech mai bhi khana hi banayenge hum
   >
-  > **@pavanyn609**：Chopping vegetables and waking utensils have been the problem for me. I can cook them easily so waste of money in my perspective
-  >
-  > **@RishabhKumarRoy**：good for baclor
-  >
-  > **@anjulasangar9174**：❤️
-  >
-  > **@mazinabs**：What id gpt is integrated with it 😂😂<br>More productive work😂😂
-  >
-  > **@greattimetalksofficial1330**：He is vegetarian but taste chicken leg masala 😂😂😂😂
-  >
-  > **@popeefrog4358**：How about washing?
-  >
-  > **@BharathShivakumar**：Wait a minute. This was the same machine which got rejected for funding in shark tank India, because it did not make food, that good. You should give us an honest review on the taste as well.
+  > **@ps4392**：Those who actually cook know the actual labour goes in peeling washing cutting chopping 😂
   >
   > **@rajasekharv8788**：Posha remastered
   >
-  > **@Planeroutes**：70k seriously 😅😂
-  >
-  > **@SaswataMishra1**：Wall E doesn&#39;t seem very far. Keep your hard skills intact Brothers. AI has already made u dependent for soft skills. <br><br><br><br>Btw how much is this priced at. 4 lakhs. 😂😂😂😂
-  >
-  > **@BlackRock-b7m**：company indian but <br>product is chainese 😂😂😂
+  > **@thanospachisia971**：Khanna banna acche se aa jaye to pet bhi bhar loge to jeb bhi
   >
   > **@rakshithkumarms9450**：Price?😂
   >
+  > **@rohitv9076**：The problem is with cleaning the veggies and chopping it and the keeping the masalas handy. Once everything is ready one can cook way faster and better than this.
+  >
+  > **@Sandeep-ln2tw**：Finally, shaadi karne ki jaroori nahi😂
+  >
+  > **@Planeroutes**：70k seriously 😅😂
+  >
+  > **@mazinabs**：What id gpt is integrated with it 😂😂<br>More productive work😂😂
+  >
+  > **@pavanyn609**：Chopping vegetables and waking utensils have been the problem for me. I can cook them easily so waste of money in my perspective
+  >
+  > **@SaswataMishra1**：Wall E doesn&#39;t seem very far. Keep your hard skills intact Brothers. AI has already made u dependent for soft skills. <br><br><br><br>Btw how much is this priced at. 4 lakhs. 😂😂😂😂
+  >
+  > **@BharathShivakumar**：Wait a minute. This was the same machine which got rejected for funding in shark tank India, because it did not make food, that good. You should give us an honest review on the taste as well.
+  >
+  > **@BlackRock-b7m**：company indian but <br>product is chainese 😂😂😂
+  >
   > **@magneshp6060**：Lets guess the price 😂
+  >
+  > **@greattimetalksofficial1330**：He is vegetarian but taste chicken leg masala 😂😂😂😂
   >
   > **@durlovesaikia**：so I&#39;ve to do the hardest part and still pay 73,000??
   >
   > **@Devthakur320**：tissue 😅
   >
-  > **@Rocky_2025**：Defats the purpose 😂😂<br>Sabzi me katu, masal me dalu, bartan me dhou?? To ye tin ka dabba kya krega
-  >
   > **@RaviGarg-h8h**：Do sth Productive 😂😂😂😂
-  >
-  > **@AVINHAJARIA**：Hath se banaya huwa khane ka koi nahi replace kar  sakta. Machine food faltu hai
-  >
-  > **@ninadmahalle1647**：Automate patients meals......this can give you and the product owner more profit...... concentrate on needs of the needy you will make more money
-  >
-  > **@rupadarshisamanta3288**：73k is a good deal.<br>Atleast it&#39;s better than the liability called &quot;WIFE&quot; and better than to provide alimony after marriage 😂😂
-  >
-  > **@ninadmahalle1647**：People are dyeing help them
   >
   > **@vishvajitkumar9497**：vegetables keta baap katega?
   >
-  > **@siddharthpatel2193**：I am supposed to cut and it is supposed to do tadka, which is actually fun?<br>No thanks
+  > **@Rocky_2025**：Defats the purpose 😂😂<br>Sabzi me katu, masal me dalu, bartan me dhou?? To ye tin ka dabba kya krega
   >
-  > **@anirban921**：Majaak mat karo beebom!<br>It&#39;s not at all possible for an Indian startup to  start producing such an innovation all by itself. Haan phillips bajaj ya tata hota to shayad for a second main believe kar bhi leta. But in case of startups, it&#39;s nothing but a rebranded chinese product whose reparing and service will be a never-ending maze!
+  > **@ninadmahalle1647**：Automate patients meals......this can give you and the product owner more profit...... concentrate on needs of the needy you will make more money
   >
   > **@Dakshohri**：75000
   >
-  > **@TamilHarithCreations**：So the people who don&#39;t have time to workout or do anything productive is going to buy this for them !? 😅😅 No way
+  > **@ninadmahalle1647**：People are dyeing help them
   >
-  > **@mybestcollection9127**：what about other parts of the machine doesnt need cleaning. Yuck . Imagine meat going through them and not cleaning.
+  > **@AVINHAJARIA**：Hath se banaya huwa khane ka koi nahi replace kar  sakta. Machine food faltu hai
+  >
+  > **@rupadarshisamanta3288**：73k is a good deal.<br>Atleast it&#39;s better than the liability called &quot;WIFE&quot; and better than to provide alimony after marriage 😂😂
+  >
+  > **@anirban921**：Majaak mat karo beebom!<br>It&#39;s not at all possible for an Indian startup to  start producing such an innovation all by itself. Haan phillips bajaj ya tata hota to shayad for a second main believe kar bhi leta. But in case of startups, it&#39;s nothing but a rebranded chinese product whose reparing and service will be a never-ending maze!
+  >
+  > **@siddharthpatel2193**：I am supposed to cut and it is supposed to do tadka, which is actually fun?<br>No thanks
   >
   > **@VAISHALIDORANALA**：2 more unnecessary dishes to clean. 😮‍💨
+  >
+  > **@TamilHarithCreations**：So the people who don&#39;t have time to workout or do anything productive is going to buy this for them !? 😅😅 No way
   >
   > **@NISHUGARVU**：72999 enjoy
   >
   > **@yashwardhanpauranik1670**：Holding the non-veg and licking finger yet..calling himself vegetarian?
   >
+  > **@mybestcollection9127**：what about other parts of the machine doesnt need cleaning. Yuck . Imagine meat going through them and not cleaning.
+  >
   > **@nishantjha1439**：I personally think it&#39;s a shitty product because majority of the &#39;&#39;cooking&#39; is primarily around peeling, chopping, cutting, assembling, cleaning, etc which has to be taken care off by the user itself, so basically the product is just a fancy heated assembler which simply makes it worthless
   >
   > **@mru1576**：73000 for this dumb idea.... Upliance for 30000
   >
-  > **@Aman0001-w2r**：Basically its stirring all the veggies that u had CHOPPED. Whats the point of automatic cooking ?? All that piece of metal box doing is mixing and stirring/mixing 😑😑
-  >
   > **@developedbyhasan**：Cooking is not a productive task?
   >
-  > **@ninadmahalle1647**：You are trying to sell it but ......this can identify meals for patients in hospitals and cook it with respective recepies according to the disease......report this back to product owner......for example meal a liver or kidney transplant patients should take
+  > **@Aman0001-w2r**：Basically its stirring all the veggies that u had CHOPPED. Whats the point of automatic cooking ?? All that piece of metal box doing is mixing and stirring/mixing 😑😑
+  >
+  > **@throughmycameralensss**：Made in China by an Indian company*
   >
   > **@zaidsayed8123**：Chu tech
   >
-  > **@throughmycameralensss**：Made in China by an Indian company*
+  > **@ninadmahalle1647**：You are trying to sell it but ......this can identify meals for patients in hospitals and cook it with respective recepies according to the disease......report this back to product owner......for example meal a liver or kidney transplant patients should take
   >
   > **@indianminiaturemeals**：English bolne se product accha nhi ban jata
   >
   > **@subhrajitkarmakar6499**：So 73k vs 1 cook maid who takes 1k per month. The value will come after 6 years 1 month. But tech can fail. If you&#39;re interested in investing money and still wanna chill go have a cooking maid. She will have a job and will help his or her family. But fun part is self cooking. You&#39;ll explore and experience the mental break from too much stress.
   >
+  > **@pocoloco3643**：Useless 😂
+  >
   > **@Feelelegant679**：Company Indian yes, Imported from China! Kindly Fact check
   >
-  > **@pocoloco3643**：Useless 😂
+  > **@subhojitsaha6376**：Shadi kar le
   >
   > **@vck1828-r5b**：jay shree ram
   >
   > **@sasankasengupta**：It’s useless 😂the fun part is experimenting and exploring ❤that we don’t need to use this shit machine
-  >
-  > **@subhojitsaha6376**：Shadi kar le
   >
   > **@bhumikaswaroop**：Sorry I&#39;ll never gonna fall into this trap cooking food is my hobby if these kind a technologies are gonna replace human physical work then I boycott using these kind of technologies
   >
@@ -1467,10 +1550,97 @@
 
 ---
 
-## 13. Edit Recipe Feature Unlocked | Turn Restaurant-Style Butter Chicken Healthy with Nosh Cooking Robot
+## 13. Rachana’s experience with Nosh Robo-Chef! #nosh #robochef
 
 - **频道：** Let's Nosh!
-- **观看数：** 1,119
+- **观看数：** 4,968
+- **点赞数：** 38
+- **评论数：** 9
+- **时长：** 3:14
+- **发布日期：** 2025-05-15T16:51:18Z
+- **链接：** https://www.youtube.com/watch?v=y8nDPKiRJew
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/y8nDPKiRJew/hqdefault.jpg
+- **简介：**
+
+  > What’s better than cooking a great meal? Cooking one that brings back memories and makes new ones.
+  > When Rachana experienced ​⁠@letsnosh  , Kenny’s Guntur Karamkori Chicken became a new family favourite, and a spicy story worth sharing.
+  > 
+  > #nosh #cookingrobot #aichef #letsnosh #gunturkaramkori
+
+- **热门评论（4 条）：**
+
+  > **@kavithanair** [👍1]：But this was introduced only in april 2025 so 1 yr review?
+  >
+  > **@LazzyBoy-p5b** [👍1]：How do u get it in India ?? What is the cost ??
+  >
+  > **@rashmimanchikanti7017**：Can we make chapathi/jawar roti with this?
+  >
+  > **@mayak2676**：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function. Ofcourse price point is still very high
+  >
+
+---
+
+## 14. Chaya’s Experience with Nosh AI Robot Chef
+
+- **频道：** Let's Nosh!
+- **观看数：** 2,730
+- **点赞数：** 20
+- **评论数：** 3
+- **时长：** 5:25
+- **发布日期：** 2025-07-23T13:30:13Z
+- **链接：** https://www.youtube.com/watch?v=MiU_doTvn8o
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/MiU_doTvn8o/hqdefault.jpg
+- **简介：**
+
+  > Chaya’s experience with @letsnosh  changed her way of living.Cooking Rabdi in Nosh wasn't just about convenience, it was about keeping her passion alive too. Her review reflects how precision,flavour and freedom are all served together in one bowl.
+  > 
+  > #nosh #noshrobotchef #aicookingmachine #robotchef #aicooking #aichef #customertestimonial  #letsnosh
+
+- **热门评论（1 条）：**
+
+  > **@Ultron-q2e** [👍2]：This avilable in rajsthan. ???
+  >
+
+---
+
+## 15. Unboxing @letsnosh : The AI Robot Chef That Cooks for You #aichef #cookingrobot #nosh 
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,683
+- **点赞数：** 27
+- **评论数：** 2
+- **时长：** 2:36
+- **发布日期：** 2025-09-23T14:10:57Z
+- **链接：** https://www.youtube.com/watch?v=4Iwr7Ed-tzU
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/4Iwr7Ed-tzU/hqdefault.jpg
+- **简介：**
+
+  > Say hello to ​⁠@letsnosh  – the AI Robot Chef that makes fresh, delicious meals with zero hassle. From box to kitchen counter, watch how this smart chef comes to life and see if it really lives up to the hype.
+  > 
+  > Would you let an AI cook your everyday meals? Drop your thoughts below 
+  > 
+  > #nosh  #aichef  #unboxing  #smartcooking #aicookingmachine
+
+- **热门评论（1 条）：**
+
+  > **@joo1249**：I love this one..
+  >
+
+---
+
+## 16. Edit Recipe Feature Unlocked | Turn Restaurant-Style Butter Chicken Healthy with Nosh Cooking Robot
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,121
 - **点赞数：** 16
 - **评论数：** 9
 - **时长：** 2:28
@@ -1501,54 +1671,78 @@
   >
   > **@jeffnelson3791**：Looking forward to getting a Nosh unit.  😁
   >
-  > **@HolyRamanRajya**：Concerned about cleaning the small passageways that drop the food bits. How is it accomplished?
-  >
   > **@sandeep198228**：Please make videos on use of attachments for steaming and frying
+  >
+  > **@HolyRamanRajya**：Concerned about cleaning the small passageways that drop the food bits. How is it accomplished?
   >
   > **@HolyRamanRajya**：Looking good but I don&#39;t see any videos of whether chicken or potatoes have to be boiled separately first or being done all in one go. It doesn&#39;t give me enough trust to go for it. Another thing I wish if there was hybrid or separate variant for the cooking part to be gas powered. Its already a big investment and then to have to pay high electric bills because induction cooker is not good feeling
   >
 
 ---
 
-## 14. Nosh Bangalore Demo: Real Reactions!
+## 17. Upgrade your kitchen with ​⁠@letsnosh the robo-chef for perfect meals, no skills needed!
 
 - **频道：** Let's Nosh!
-- **观看数：** 10,861
-- **点赞数：** 122
-- **评论数：** 9
-- **时长：** 0:41
-- **发布日期：** 2024-11-28T11:39:20Z
-- **链接：** https://www.youtube.com/watch?v=iYixyZmG-WE
+- **观看数：** 22,549
+- **点赞数：** 289
+- **评论数：** 11
+- **时长：** 0:58
+- **发布日期：** 2025-05-09T15:09:40Z
+- **链接：** https://www.youtube.com/watch?v=ufbmAm44zk0
 - **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/iYixyZmG-WE/hqdefault.jpg
-- **简介：**
+- **缩略图：** https://i.ytimg.com/vi/ufbmAm44zk0/hqdefault.jpg
+- **热门评论（9 条）：**
 
-  > Nosh brings convenience and taste together, making home cooking a delight. See how families are loving every dish!
-  > 
-  > #NOSHCooking #NoshDemo #Comfortfood
-
-- **热门评论（7 条）：**
-
-  > **@deepakbijalwan2674** [👍3]：How about industrial setting ..I mean for a small restaurant which faces issues on labour ,cooks etc ..if u have an industrial machine with limited number of skus like poha,maggi,vermicelli etc trust me it will revolutionise horeca segment..
+  > **@sgshilpagupta** [👍2]：I like to take demo
   >
-  > **@Facts4uu555** [👍1]：4 aana muragi 12 aana masala😂😂😂
+  > **@noboni6437** [👍2]：Is it subscription based?
   >
-  > **@deepakbijalwan2674** [👍1]：Lemme know if u have one
+  > **@Sandip-pf3xo** [👍1]：Excellent
   >
-  > **@nikhilbalchandani665**：Great going ❤
+  > **@sgshilpagupta** [👍1]：From vadodara gujarat
   >
-  > **@shwetayana55**：Where can we get demo?
+  > **@lakshmilakshmi-wf5jj** [👍1]：How to clean it
   >
-  > **@pranampankaj9273**：is the bowl teflon coated?
+  > **@santhoshps-d8j** [👍1]：can i use it for commercial purpose
   >
-  > **@pranampankaj9273**：do you have a service center/ showroom in bihar?
+  > **@sschlerp** [👍1]：Cost?
+  >
+  > **@madhurask5**：Hi<br>When will I get demo in Pune
+  >
+  > **@nonamemage6599**：Scam
   >
 
 ---
 
-## 15. Nosh AI Cooking Machine vs Home Cook 
+## 18. Carrot Halwa by Nosh the Cooking Robot😋. Autonomous Cooking Machine! Chop, load, command &amp; its done.
+
+- **频道：** BOTronix
+- **观看数：** 20,933
+- **点赞数：** 111
+- **评论数：** 3
+- **时长：** 0:18
+- **发布日期：** 2022-02-13T09:22:07Z
+- **链接：** https://www.youtube.com/watch?v=BtJ-NsVZTXk
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/BtJ-NsVZTXk/hqdefault.jpg
+- **简介：**
+
+  > @letsnosh
+
+- **热门评论（2 条）：**
+
+  > **@gargshivam024** [👍1]：yikes
+  >
+  > **@VenusDrip**：This does not look anything close to a home cooked gajar ka halwa. Bhunna hota hain Achi tarah se.
+  >
+
+---
+
+## 19. Nosh AI Cooking Machine vs Home Cook 
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,862
@@ -1585,150 +1779,68 @@
 
 ---
 
-## 16. Real Owners, Real Stories | Meet Nosh Champion Supriya
+## 20. A Family's Heartfelt Review
 
 - **频道：** Let's Nosh!
-- **观看数：** 1,029
-- **点赞数：** 39
-- **评论数：** 7
-- **时长：** 1:55
-- **发布日期：** 2025-08-31T05:20:11Z
-- **链接：** https://www.youtube.com/watch?v=YHswfWtzTpk
+- **观看数：** 1,664
+- **点赞数：** 21
+- **评论数：** 0
+- **时长：** 1:09
+- **发布日期：** 2024-12-19T16:10:57Z
+- **链接：** https://www.youtube.com/watch?v=XziDw4zZe2Y
 - **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/YHswfWtzTpk/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/XziDw4zZe2Y/hqdefault.jpg
 - **简介：**
 
-  > Between being a mom, an engineer, and someone who trains, balance mattered — but food was always the compromise.
+  > Real experiences, real opinions because every family deserves the best. Let Nosh Empress bring joy to your table!
   > 
-  > With Nosh, Supriya found her rhythm again. Fresh, low-oil, no shortcuts. For her, it’s not just convenience, it’s time and energy for what truly matters.
-  > 
-  > #RealOwnersRealStories #NoshChampion
-
-- **热门评论（6 条）：**
-
-  > **@priyanshukedia8369** [👍1]：Wonderful Supriya....Proud of work that you are doing
-  >
-  > **@stuartb4u** [👍1]：@supriya.. please make video on pre cooking preparations for planned dishesh.....
-  >
-  > **@SushmaPraveen-vg8wr** [👍1]：Wow Supriya 👌 you inspire me in every way 🙂
-  >
-  > **@ShadesofArchhana** [👍1]：This is wow
-  >
-  > **@pradhanyaji1019** [👍1]：Wow..Sup
-  >
-  > **@shaheedaasantewaa1395** [👍1]：It&#39;s so expensive. Reduce the price for us to afford
-  >
+  > #NOSHCooking #HappyClient #familyfavorites
 
 ---
 
-## 17. Sowmya’s experience with Nosh - World’s First Robo Chef! #nosh #robochef
+## 21. Chef vs Nosh | Cajun Chicken Pasta Cook-Off #nosh #aichef 
 
 - **频道：** Let's Nosh!
-- **观看数：** 28,994
-- **点赞数：** 218
-- **评论数：** 52
-- **时长：** 4:23
-- **发布日期：** 2025-03-20T10:55:33Z
-- **链接：** https://www.youtube.com/watch?v=fG90h-1Pyzc
-- **来源：** search&channel
+- **观看数：** 1,519
+- **点赞数：** 14
+- **评论数：** 8
+- **时长：** 7:17
+- **发布日期：** 2025-09-28T11:36:32Z
+- **链接：** https://www.youtube.com/watch?v=zFHn2O7Qmk0
+- **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/fG90h-1Pyzc/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/zFHn2O7Qmk0/hqdefault.jpg
 - **简介：**
 
-  > When Sowmya experienced @letsnosh , she didn’t just try it — she took a closer look at what sets us apart. Her review, from quality to taste, reflects our promise: thoughtfully prepared, flavour-driven products that deliver, every time.
+  > What happens when a professional chef competes with Nosh, the world’s first AI Robot Chef?
+  > Both are making Cajun Chicken Pasta — but while the chef boils pasta and makes the sauce separately, Nosh does it all at once with just a tap.
   > 
-  > #nosh #noshreview #clientexperience #qualityineverybite #robochef
-
-- **热门评论（26 条）：**
-
-  > **@alfs9094** [👍7]：Chopping and weighing features should get added to this as chopping is more cumbersome and getting the correct amount of the ingredients in is very important for the final taste.<br>Since the focus is to make cooking easier such features are a must and also least amount of washing after cooking makes it efficient. Otherwise if a househelp is required then might as well hire her for 2 tasks than one.
-  >
-  > **@xinspiredu3294** [👍5]：No one can Replace Ma ka hat ka khana but when your are alone at home without family its a game changer 😊❤
-  >
-  > **@aswinisahoo1977** [👍3]：What about washing after cooking?
-  >
-  > **@hapsn5413** [👍2]：Does it make roti?
-  >
-  > **@ericdasilva3421** [👍2]：Make Nosh++, just get from market dump onions potatoes and all vegetables and also non veg items. Nosh++ will be smart enough to identify the vegetables peel, wash , chop and then cook
-  >
-  > **@avinashevilmonsterkane995** [👍2]：Will it resume after powercut
-  >
-  > **@saisagartata9464** [👍2]：Where is Nosh+ where i just need to add vegetables and ingredients it cuts itself and makes curry .<br><br>Cutting vegetables at times is more problematic than cooking itself
-  >
-  > **@nikhilbalchandani665** [👍1]：Great
-  >
-  > **@bhargavk1515** [👍1]：It would be great if there was a refrigerated unit that would have large storage, so that I would have to just fill ingredients once a week. It should be sold seperately like an attachment.
-  >
-  > **@steelbirds** [👍1]：Nice presentation
-  >
-  > **@jyotiboriwale9308** [👍1]：Ye cutting ka option Auto dena chahiye usmay.uskay liye he yime jada jata hey
-  >
-  > **@ARA-d1p9r** [👍1]：Actually concept चांगला आहे पण फार बेसिक आहे. ..मशीन actually आधी सांगणार कि प्रत्येक कप्प्यामध्येय काय भरायचेय आणि किती वजनाचे ...आम्ही पूर्ण भरू ना कप्पे ..ऑटोमॅटिक आहे, ai आहे तर मग machine ने weight करून तेवढेच वापरायला पाहिजे ना!  आपल्या आई ना किंवा बायकोला 2 कांदे चिरायचे एवढे माहित आहे,. पण machine ने 170 grams सांगितले तर पोहे बनवन्यात energy टाकायची कि weight करून ते 7-8 कप्पे भरण्यात!  आणि त्याचे आपण 75k pay करायचेत. .छान
-  >
-  > **@mayak2676** [👍1]：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function
-  >
-  > **@bitu0091** [👍1]：Can we adjust salt for the recipe
-  >
-  > **@LazzyBoy-p5b** [👍1]：Cost and is it available in India
-  >
-  > **@mayak2676** [👍1]：Meal prep takes more time than actual cooking.  We need a robotic chopper, dicer &amp; slicer
-  >
-  > **@lalithapriyas6237**：Good to hear....❤<br><br>Thanks for the scientists who invented this💪💪💪
-  >
-  > **@rahulv74**：I have seen its live demo in Bangalore. It is an amazing appliance.
-  >
-  > **@nishant2204**：If you could add auto cleaning also it would have been very convinient.
-  >
-  > **@jyotiboriwale9308**：Regualr sabji bna skti heyvkya Machine
-  >
-  > **@shwetapandey1463**：Can we cook food without onion and garlic?
-  >
-  > **@jyotiboriwale9308**：Cutting and chopping complete then i am interested any demo available pune maharashtra
-  >
-  > **@morshalinvora5852**：It cook nonvage food?
-  >
-  > **@prasenjitllspl**：This product has some missing elements <br>Chopping AI skills<br>Reheating<br>Air fryer <br>Including This 3 can make this product a game changer.
-  >
-  > **@mayankpatel3737**：Price?
-  >
-  > **@ARA-d1p9r**：Actually the concept is good but very basic. ..the machine will actually tell you first what to fill in each compartment and how much weight...why so? You are saying its automatic, right? Then we will fill the compartments completely..if it is AI enabled then the machine should weigh it and use only that much quantity! our mother or wife knows that she should chop 2 onions,. But if the machine says 170 grams, should we put energy into making poha or into weighing ingredients manually and fill 7-8 compartments! By that time we can make poha ourself 😂<br>And should we pay 75k for that. .good !!
-  >
-
----
-
-## 18. Carrot Halwa by Nosh the Cooking Robot😋. Autonomous Cooking Machine! Chop, load, command &amp; its done.
-
-- **频道：** BOTronix
-- **观看数：** 20,929
-- **点赞数：** 111
-- **评论数：** 3
-- **时长：** 0:18
-- **发布日期：** 2022-02-13T09:22:07Z
-- **链接：** https://www.youtube.com/watch?v=BtJ-NsVZTXk
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/BtJ-NsVZTXk/hqdefault.jpg
-- **简介：**
-
-  > @letsnosh
+  > 👨‍🍳 Chef’s way: multiple steps, constant attention.
+  > 🤖 Nosh’s way: one-tap cooking, zero hassle.
+  > 
+  > Same dish. Different journeys.
+  > Which one would you pick?
+  > 
+  > Bring home @letsnosh  today and experience cooking like never before.
+  > 
+  > #ChefVsNosh #aichef #robotchef  #CajunChickenPasta #nosh #letsnosh
 
 - **热门评论（2 条）：**
 
-  > **@gargshivam024** [👍1]：yikes
+  > **@BalajiGattu** [👍1]：No Doubt the Nosh have done it&#39;s job but their acting 😶
   >
-  > **@VenusDrip**：This does not look anything close to a home cooked gajar ka halwa. Bhunna hota hain Achi tarah se.
+  > **@VIDSviewbook** [👍1]：How it boiled pastas?
   >
 
 ---
 
-## 19. From Nosh Chole Masala to Mom’s Secret Recipe — The Edit Recipe Magic!
+## 22. From Nosh Chole Masala to Mom’s Secret Recipe — The Edit Recipe Magic!
 
 - **频道：** Let's Nosh!
-- **观看数：** 916
+- **观看数：** 917
 - **点赞数：** 17
 - **评论数：** 1
 - **时长：** 3:47
@@ -1752,10 +1864,10 @@
 
 ---
 
-## 20. Nosh cooking robot
+## 23. Nosh cooking robot
 
 - **频道：** The Grapevine
-- **观看数：** 42,845
+- **观看数：** 42,872
 - **点赞数：** 739
 - **评论数：** 72
 - **时长：** 0:58
@@ -1783,37 +1895,37 @@
   >
   > **@Organizeeewithlotsofees** [👍3]：Since it is AI driven, would it take voice inputs like..&#39;hey, the biriyani was too spicy yesterday.. Refine it..etc&quot;
   >
-  > **@tippannayadranvi7587** [👍1]：<b>Price or cost</b>
-  >
   > **@ayanhalder6194** [👍1]：Will it be able to cook as good and tasty as Sanjeev Kapoor?
+  >
+  > **@tippannayadranvi7587** [👍1]：<b>Price or cost</b>
   >
   > **@yashdesai2512** [👍1]：Please provide us with detailed review
   >
   > **@co-ordinatesarchitecture9168** [👍1]：Using this since 3 months it’s way better than what air fryer, microwave wave and oven can do to indian cuisine.<br><br>Many dishes at least 70% gets 8 out of 10 and few are 10 out of 10.<br><br>If you repeat cooking the dish 2 to 3 times u can master and do small adjustments as well.<br><br>It’s best suited for bachelors, old people , people with medical issue for prolonged time during surgeries and evening snack or one dish in the menu.<br><br>We use food processor for veggies including dicing by Vidiem Tusker which makes cubes for veggies since 3 years. Beautiful product😊
   >
-  > **@swadhihere**：Please upload a detailed video on the best dishwashers currently available in the market. I&#39;ve watched all of your old videos on Dishwashers.
-  >
   > **@rextex1**：It might be useful for me because I&#39;m lazy af lol but Mom will be angry 😂
   >
-  > **@Moonglow09**：Robots cannot replace human cooking
+  > **@swadhihere**：Please upload a detailed video on the best dishwashers currently available in the market. I&#39;ve watched all of your old videos on Dishwashers.
   >
   > **@CARamanGoyal**：The toughest and most hectic part of cooking is peeling and cutting vegetables, which this machine can&#39;t do.
   >
-  > **@ujjwalful**：My reflex action cooks most of the dishes and beside that some innovation in every dish
+  > **@Moonglow09**：Robots cannot replace human cooking
   >
   > **@VishalSingh-zd6yo**：So here’s the scenario: I’m cooking palak paneer, dal, and rice for two adults and one child. I do all the prep once, and then I cook everything in parallel—rice in a cooker, dal in a pressure cooker, and the palak paneer on the stovetop. Altogether, it takes about 30 to 40 minutes for everything to be ready at the same time.<br><br>Now, if I used the Nosh, I’d have to cook each dish one by one, which means instead of saving time, it would actually take longer overall. The consistency isn’t an issue for me, because I already know how to make these dishes well. So for my use case, the Nosh doesn’t really make sense, because it’s not saving me time or solving a problem I have
   >
-  > **@VenusDrip**：Please upload a Detailed review video of this Nosh.
+  > **@ujjwalful**：My reflex action cooks most of the dishes and beside that some innovation in every dish
   >
   > **@AtulKumar-sw6fc**：Apart from peeling, chopping, dicing etc. , i suppose we would be required to clean the equipment also, a tedious job. As you have already mentioned, it can be useful for those, who frequently order online food. There is also a positive possibility. This equipment can be trusted to cook cartain dishes, as such it can be a useful kitchen assistant for certain recipes.
+  >
+  > **@VenusDrip**：Please upload a Detailed review video of this Nosh.
   >
   > **@HolyRamanRajya**：With electrically controllable stove hobs these days hope there&#39;s a gas powered variant for such devices in future. Electricity is lot costlier than gas cylinders in this country.
   >
   > **@madras65**：Can you post a video on induction hobs
   >
-  > **@pradyumna_vella9690**：Yea it has more scope for improvement.
-  >
   > **@HolyRamanRajya**：can you try meat on this and how it fares. if youre not a vegetarian that is. I had considered nosh and similar style products few months ago, none of them really demo how they are tackling meat in full view. Like if boiled meat pieces have to be added in tray, or if inner bone area is properly cooked and not reddish from blood etc
+  >
+  > **@pradyumna_vella9690**：Yea it has more scope for improvement.
   >
   > **@priadarshanpriadarshan6158**：Madam please make a review on led tube lights
   >
@@ -1829,312 +1941,34 @@
   >
   > **@gouravmopidevi**：take air tight boroscil glass container do cutting in weekend put in fridge and daily put in robo,let it cook thats what I do and I feel it is worth it
   >
-  > **@DharmeshDoshi-n9f**：Its better to get maid to do the prep. Cooking and adding masala is very human thing to get right taste. Preparation takes maximum time.
-  >
   > **@VishalSingh-zd6yo**：This whole “AI-powered” craze is getting out of hand. I’ve got an air purifier, an air conditioner, and now a cooking robot all claiming to be AI-powered. Next thing you know, my toaster’s going to start lecturing me on how to fix global warming.
   >
   > **@salmannasir9971**：Thoda ruk jao bhai is speed se jaoge to pata nhi kya kya robot wala ho jaega.
   >
-  > **@aravindjayaraman7890**：Big no
-  >
   > **@preetimamgain4849**：Price???
   >
+  > **@DharmeshDoshi-n9f**：Its better to get maid to do the prep. Cooking and adding masala is very human thing to get right taste. Preparation takes maximum time.
+  >
   > **@manofsteel646**：Beautiful explanation as always. Are you working in IT mam??
+  >
+  > **@aravindjayaraman7890**：Big no
   >
   > **@mrgyani**：Mam, we need a serious, honest and genuine review from you for this. Till now, there are hardly any real reviews of it.<br><br>All the reviews I have seen are positive. Amazon does have a few negative reviews.<br><br>Does it cool well &amp; reliably? Does it burn food? Does it have glitches? Is the taste good? Can we edit recipes, can we add our own? What are the issues. Etc.
   >
   > **@subhadramahanta452**：Cleaning it would be a nighmare &gt;_&lt;<br><br>Definitely not for those who like cooking themselves... especially if prep time is same, which is almost always 90% of the time.
   >
+  > **@parveenbegum358**：Iam a pro cook
+  >
   > **@AP-eb8hd**：Waste product..
   >
   > **@legendrabacha**：Lol this is not for me
-  >
-  > **@parveenbegum358**：Iam a pro cook
   >
   > **@alexanderchronos8694**：my masala box is more useful than that tin can 🤣
   >
 
 ---
 
-## 21. Rachana’s experience with Nosh Robo-Chef! #nosh #robochef
-
-- **频道：** Let's Nosh!
-- **观看数：** 4,968
-- **点赞数：** 38
-- **评论数：** 9
-- **时长：** 3:14
-- **发布日期：** 2025-05-15T16:51:18Z
-- **链接：** https://www.youtube.com/watch?v=y8nDPKiRJew
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/y8nDPKiRJew/hqdefault.jpg
-- **简介：**
-
-  > What’s better than cooking a great meal? Cooking one that brings back memories and makes new ones.
-  > When Rachana experienced ​⁠@letsnosh  , Kenny’s Guntur Karamkori Chicken became a new family favourite, and a spicy story worth sharing.
-  > 
-  > #nosh #cookingrobot #aichef #letsnosh #gunturkaramkori
-
-- **热门评论（4 条）：**
-
-  > **@kavithanair** [👍1]：But this was introduced only in april 2025 so 1 yr review?
-  >
-  > **@LazzyBoy-p5b** [👍1]：How do u get it in India ?? What is the cost ??
-  >
-  > **@rashmimanchikanti7017**：Can we make chapathi/jawar roti with this?
-  >
-  > **@mayak2676**：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function. Ofcourse price point is still very high
-  >
-
----
-
-## 22. Chaya’s Experience with Nosh AI Robot Chef
-
-- **频道：** Let's Nosh!
-- **观看数：** 2,730
-- **点赞数：** 20
-- **评论数：** 3
-- **时长：** 5:25
-- **发布日期：** 2025-07-23T13:30:13Z
-- **链接：** https://www.youtube.com/watch?v=MiU_doTvn8o
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/MiU_doTvn8o/hqdefault.jpg
-- **简介：**
-
-  > Chaya’s experience with @letsnosh  changed her way of living.Cooking Rabdi in Nosh wasn't just about convenience, it was about keeping her passion alive too. Her review reflects how precision,flavour and freedom are all served together in one bowl.
-  > 
-  > #nosh #noshrobotchef #aicookingmachine #robotchef #aicooking #aichef #customertestimonial  #letsnosh
-
-- **热门评论（1 条）：**
-
-  > **@Ultron-q2e** [👍2]：This avilable in rajsthan. ???
-  >
-
----
-
-## 23. A Family's Heartfelt Review
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,664
-- **点赞数：** 21
-- **评论数：** 0
-- **时长：** 1:09
-- **发布日期：** 2024-12-19T16:10:57Z
-- **链接：** https://www.youtube.com/watch?v=XziDw4zZe2Y
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/XziDw4zZe2Y/hqdefault.jpg
-- **简介：**
-
-  > Real experiences, real opinions because every family deserves the best. Let Nosh Empress bring joy to your table!
-  > 
-  > #NOSHCooking #HappyClient #familyfavorites
-
----
-
-## 24. Nosh Wows at BITS Alumni Meet: Live Cooking Revolution!
-
-- **频道：** Let's Nosh!
-- **观看数：** 994
-- **点赞数：** 8
-- **评论数：** 0
-- **时长：** 0:38
-- **发布日期：** 2024-11-17T11:34:12Z
-- **链接：** https://www.youtube.com/watch?v=iaBdUY43D_g
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/iaBdUY43D_g/hqdefault.jpg
-- **简介：**
-
-  > Nosh made its mark at the BITS Alumni Meet! 
-  > Our world’s first cooking robo for homes impressed everyone with its live cooking and delicious dishes, changing the way home cooking feels.
-  > 
-  > #NOSHCooking #tastetest #Comfortfood
-
----
-
-## 25. Shanmukh’s secret to perfect Mac & Cheese? It’s his AI robot chef, @letsnosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,098
-- **点赞数：** 14
-- **评论数：** 0
-- **时长：** 1:58
-- **发布日期：** 2025-06-24T13:12:56Z
-- **链接：** https://www.youtube.com/watch?v=rzxjuFGxdvg
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/rzxjuFGxdvg/hqdefault.jpg
-- **简介：**
-
-  > Meet Shanmukh & his true love, Mac & Cheese (and Nosh, of course!)
-  > 
-  > When dinner’s this good and effortless, people start calling Nosh his wife, lovingly “Noshwati”. 💛
-  > 
-  > From work to home to whipping up his signature mac and cheese, Shanmukh’s got it sorted with a little help from his favorite kitchen sidekick.
-  > 
-  > Because when you’ve got @letsnosh  at home, who needs takeout?
-  > 
-  > #madewithnosh #nosh #aimachine #airobotchef #customertestimonial #macandcheese #pastalover
-
----
-
-## 26. Global flavors at home!​⁠​⁠ Nosh AI Robot Chef makes Khao Suey rich, tasty & hassle-free!#aichef
-
-- **频道：** Let's Nosh!
-- **观看数：** 16,277
-- **点赞数：** 43
-- **评论数：** 0
-- **时长：** 0:48
-- **发布日期：** 2025-08-29T15:22:56Z
-- **链接：** https://www.youtube.com/watch?v=3KblH_JKOLE
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/3KblH_JKOLE/hqdefault.jpg
----
-
-## 27. Creamy Mac & Cheese with Nosh Ai Robot Chef
-
-- **频道：** Let's Nosh!
-- **观看数：** 14,375
-- **点赞数：** 3
-- **评论数：** 3
-- **时长：** 0:50
-- **发布日期：** 2025-06-17T09:42:21Z
-- **链接：** https://www.youtube.com/watch?v=qssTspJYsxQ
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/qssTspJYsxQ/hqdefault.jpg
-- **简介：**
-
-  > Upgrade your kitchen with Nosh - the AI-powered robot chef that makes creamy mac & cheese just the way you like it. It handles the entire cooking process, delivering rich, cheesy, restaurant-quality comfort food right at home effortlessly.
-  > This isn’t just mac & cheese. It’s smarter living, served hot.
-  > Pre-book Nosh today and taste the future of cooking.
-  > 
-  > #robotchef  #nosh #airobotchef #aichef #aicookingmachine #nosheats #macandcheese
-
-- **热门评论（1 条）：**
-
-  > **@sweetyrai100**：Can you add features like automatic peeling n chopping option in it
-  >
-
----
-
-## 28. Nosh AI Robot Chef Makes Delicious Palak Chicken Recipe
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,841
-- **点赞数：** 14
-- **评论数：** 3
-- **时长：** 5:08
-- **发布日期：** 2025-08-12T13:53:41Z
-- **链接：** https://www.youtube.com/watch?v=1ix7VlX6fGU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/1ix7VlX6fGU/hqdefault.jpg
-- **简介：**
-
-  > At @letsnosh , every dish begins with a thought to make something you’ll remember. For our Palak Chicken, we start by selecting the freshest spinach, cleaning and chopping it by hand, and letting it simmer slowly so it keeps its natural flavour. The chicken is marinated with care, cooked to tenderness, and finally brought together with spices that have been balanced to perfection. It’s not just cooking, it’s the Nosh way; patient, mindful, and made for you.
-  > 
-  > #nosh #letsnosh #airobotchef #aicookingmachine #cookingrobot #palakchickenrecipe
-
-- **热门评论（3 条）：**
-
-  > **@NikhilPatil-ug1zr** [👍1]：Good luck to the entire team. Looks innovative.
-  >
-  > **@VivekGs-cj1jt**：I am a student learning👨‍💻 robotics 🤖 and IoT . I look around my neighbour&#39;s street food workers facing problems like the continuous process of making foods . They are telling me to get burdened I got an idea💡 like what did NOSH robo chef after I saw this and exited  to it&#39;s already there. make things possible ✨
-  >
-  > **@ravindranathareddyvelagala7868**：How to measure the ingredients, Process to Clean &amp; keep the ingredients fresh to load the NOSH ROBO. BY THE BY THE RECIPE COMBINATION OF INGREDIENTS IS PRIORLY LOADED IN THE SOFTWARE OF NOSH ROBO OR PICKED UP FROM ANY COOKING CATALOUGES. HOW MANY RECIPES THE ROBO CAN DO/ FEEDED PRIORLY &amp; TOTAL TIME IT CAN FUNCTION IN A 24/7. ANY OVER HEATING CAUSES DAMAGING OF MECHANICAL/ELECTRONIC/ELECTRICAL COMPONENTS. AFTER SALES SERVICE IN SOUTH INDIA VISAKHAPATNAM, ANDHRA PRADESH. RGDS(.)
-  >
-
----
-
-## 29. Nosh AI Robo Chef will cook while you run your errands! #aicooking #aichef #cooking #kitchengadgets
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,307
-- **点赞数：** 17
-- **评论数：** 1
-- **时长：** 0:46
-- **发布日期：** 2025-12-04T09:18:59Z
-- **链接：** https://www.youtube.com/watch?v=2tc8ozuMowc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/2tc8ozuMowc/hqdefault.jpg
-- **热门评论（1 条）：**
-
-  > **@programmingwithaman3335**：banaya bhi to kya? maggi!!
-  >
-
----
-
-## 30. Still thinking about it? Here are 5 reasons why Nosh deserves a spot in your kitchen. #nosh #aichef
-
-- **频道：** Let's Nosh!
-- **观看数：** 931
-- **点赞数：** 14
-- **评论数：** 2
-- **时长：** 1:04
-- **发布日期：** 2025-10-18T10:43:05Z
-- **链接：** https://www.youtube.com/watch?v=v9V8bTZSbXc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/v9V8bTZSbXc/hqdefault.jpg
-- **热门评论（2 条）：**
-
-  > **@viejetaverma**：Put this in display in chroma/vijay sales
-  >
-  > **@viejetaverma**：Average time to set ingredients &amp; all - actual time it’s taking against the regular cooking time of a dish
-  >
-
----
-
-## 31. Nosh Diwali Hamper vs Market Hamper
-
-- **频道：** Let's Nosh!
-- **观看数：** 899
-- **点赞数：** 20
-- **评论数：** 3
-- **时长：** 4:17
-- **发布日期：** 2025-10-18T13:44:38Z
-- **链接：** https://www.youtube.com/watch?v=j4_sHqu6aHY
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/j4_sHqu6aHY/hqdefault.jpg
-- **简介：**
-
-  > This Diwali, swap the market-made sweets for something made with love and real ingredients!💛
-  > 
-  > All homemade, healthy, and packed with festive flavor, because a Nosh Wali Diwali means celebrating light, love, and mindful indulgence. 
-  > 
-  > Order your Nosh Diwali Hamper now and make your celebrations guilt-free and full of goodness!
-  > 
-  > #aichef #nosh #robotchef #robochef #aicookingmachine #aicooking #diwalispecial
-
-- **热门评论（3 条）：**
-
-  > **@AnandSatya** [👍1]：Wow delicious
-  >
-  > **@KAPOORRLIFE-yp7sv** [👍1]：Wow  Lovely
-  >
-  > **@Ds07vlogs**：❤❤❤
-  >
-
----
-
-## 32. Nosh Monthly Cleaning Guide
+## 24. Nosh Monthly Cleaning Guide
 
 - **频道：** Let's Nosh!
 - **观看数：** 2,093
@@ -2164,35 +1998,215 @@
 
 ---
 
-## 33. Nosh: Where Every Generation Cooks Together
+## 25. Nosh Placements Guide #noshcooking #comfortfood #food
 
 - **频道：** Let's Nosh!
-- **观看数：** 1,542
+- **观看数：** 1,963
 - **点赞数：** 15
-- **评论数：** 3
-- **时长：** 0:39
-- **发布日期：** 2024-11-12T05:56:21Z
-- **链接：** https://www.youtube.com/watch?v=BzCoIaW3TwE
+- **评论数：** 2
+- **时长：** 0:42
+- **发布日期：** 2025-01-22T11:47:28Z
+- **链接：** https://www.youtube.com/watch?v=8ci10hYsmVA
 - **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/BzCoIaW3TwE/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/8ci10hYsmVA/hqdefault.jpg
 - **简介：**
 
-  > Cooking together is more fun with Nosh! From the little ones to the experts, everyone can join in and create delicious memories. 🍴❤
+  > Bring convenience and style to your kitchen with Nosh! From perfect placement to ventilation and pest-proofing tips, setting up Nosh is as easy as cooking with it. Follow these simple steps and enjoy hassle-free cooking every day! 
   > 
-  > #NOSHCooking #Comfortfood #FamilyCooking
+  > #NoshSetup #CompactDesign #Nosh #PestFreeKitchen #EffortlessCooking
 
 - **热门评论（2 条）：**
 
   > **@deeksham6486**：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
   >
-  > **@gauravsinghsays**：Can it be purchased in Jaipur ?
+  > **@RajeshwariM_c**：Is your testing team a tasting team ?  😊 . Nice to see a working solution for the everyday problem.
   >
 
 ---
 
-## 34. Nosh Food Taste Test Real Reaction
+## 26. Nosh AI Robot Chef Makes Delicious Palak Chicken Recipe
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,841
+- **点赞数：** 14
+- **评论数：** 3
+- **时长：** 5:08
+- **发布日期：** 2025-08-12T13:53:41Z
+- **链接：** https://www.youtube.com/watch?v=1ix7VlX6fGU
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/1ix7VlX6fGU/hqdefault.jpg
+- **简介：**
+
+  > At @letsnosh , every dish begins with a thought to make something you’ll remember. For our Palak Chicken, we start by selecting the freshest spinach, cleaning and chopping it by hand, and letting it simmer slowly so it keeps its natural flavour. The chicken is marinated with care, cooked to tenderness, and finally brought together with spices that have been balanced to perfection. It’s not just cooking, it’s the Nosh way; patient, mindful, and made for you.
+  > 
+  > #nosh #letsnosh #airobotchef #aicookingmachine #cookingrobot #palakchickenrecipe
+
+- **热门评论（3 条）：**
+
+  > **@NikhilPatil-ug1zr** [👍1]：Good luck to the entire team. Looks innovative.
+  >
+  > **@VivekGs-cj1jt**：I am a student learning👨‍💻 robotics 🤖 and IoT . I look around my neighbour&#39;s street food workers facing problems like the continuous process of making foods . They are telling me to get burdened I got an idea💡 like what did NOSH robo chef after I saw this and exited  to it&#39;s already there. make things possible ✨
+  >
+  > **@ravindranathareddyvelagala7868**：How to measure the ingredients, Process to Clean &amp; keep the ingredients fresh to load the NOSH ROBO. BY THE BY THE RECIPE COMBINATION OF INGREDIENTS IS PRIORLY LOADED IN THE SOFTWARE OF NOSH ROBO OR PICKED UP FROM ANY COOKING CATALOUGES. HOW MANY RECIPES THE ROBO CAN DO/ FEEDED PRIORLY &amp; TOTAL TIME IT CAN FUNCTION IN A 24/7. ANY OVER HEATING CAUSES DAMAGING OF MECHANICAL/ELECTRONIC/ELECTRICAL COMPONENTS. AFTER SALES SERVICE IN SOUTH INDIA VISAKHAPATNAM, ANDHRA PRADESH. RGDS(.)
+  >
+
+---
+
+## 27. Shanmukh’s secret to perfect Mac & Cheese? It’s his AI robot chef, @letsnosh
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,099
+- **点赞数：** 14
+- **评论数：** 0
+- **时长：** 1:58
+- **发布日期：** 2025-06-24T13:12:56Z
+- **链接：** https://www.youtube.com/watch?v=rzxjuFGxdvg
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/rzxjuFGxdvg/hqdefault.jpg
+- **简介：**
+
+  > Meet Shanmukh & his true love, Mac & Cheese (and Nosh, of course!)
+  > 
+  > When dinner’s this good and effortless, people start calling Nosh his wife, lovingly “Noshwati”. 💛
+  > 
+  > From work to home to whipping up his signature mac and cheese, Shanmukh’s got it sorted with a little help from his favorite kitchen sidekick.
+  > 
+  > Because when you’ve got @letsnosh  at home, who needs takeout?
+  > 
+  > #madewithnosh #nosh #aimachine #airobotchef #customertestimonial #macandcheese #pastalover
+
+---
+
+## 28. Still thinking about it? Here are 5 reasons why Nosh deserves a spot in your kitchen. #nosh #aichef
+
+- **频道：** Let's Nosh!
+- **观看数：** 931
+- **点赞数：** 14
+- **评论数：** 2
+- **时长：** 1:04
+- **发布日期：** 2025-10-18T10:43:05Z
+- **链接：** https://www.youtube.com/watch?v=v9V8bTZSbXc
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/v9V8bTZSbXc/hqdefault.jpg
+- **热门评论（2 条）：**
+
+  > **@viejetaverma**：Put this in display in chroma/vijay sales
+  >
+  > **@viejetaverma**：Average time to set ingredients &amp; all - actual time it’s taking against the regular cooking time of a dish
+  >
+
+---
+
+## 29. Nosh AI Robot Chef Review — $1,199 Robot That Actually Cooks? (Watch Before Buying)
+
+- **频道：** Verdict Vision
+- **观看数：** 694
+- **点赞数：** 3
+- **评论数：** 3
+- **时长：** 3:31
+- **发布日期：** 2025-10-03T19:34:37Z
+- **链接：** https://www.youtube.com/watch?v=7rs-icuLZUw
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/7rs-icuLZUw/hqdefault.jpg
+- **标签：** Nosh AI Robot Chef, Nosh review, robot chef review, Euphotic Labs Nosh, kitchen robot 2025, smart cooker review, Thermomix alternatives, robot chef India, Nosh pre-order review, best kitchen robots
+- **简介：**
+
+  > Nosh AI Robot Chef (Euphotic Labs) — app-controlled, 500+ recipes, five smart trays, remote start, and pre-orders at ~$1,099–$1,199 (April 2025). I test hands-on convenience, consistency, and real trade-offs.
+  > 
+  > In this review I cover:
+  > • 🔧 Unboxing & setup (what’s in the box, included pan/stirrer/filter)
+  > • 🧩 How the prep works — five smart trays, spice slots, and what you still must chop
+  > • 📱 App & recipe experience — 500+ recipes, remote start, preference toggles (mild/medium/spicy)
+  > • 🔥 Cooking performance — consistency on rice, dal, curries, pastas, stir-fries
+  > • 🧼 Cleanup & maintenance — dishwasher-safe parts, spice residue reality check
+  > • 💬 User feedback & Reddit commentary — praise, pain points, real-world quotes
+  > • 💸 Price & value — $1,199 retail, pre-order pricing, who should buy vs who should not
+  > • 🔁 Alternatives — Thermomix-style smart cookers and what they do differently
+  > • ✅ Final verdict — recommendation based on lifestyle and budget
+  > 
+  > 👍 If this helped you decide, like & subscribe — I test kitchen tech so you don’t waste money on hype.
+  > 💬 Tell me: PREORDER / WAIT / PASS — one word and why. I read every comment.
+  > 
+  > Nosh AI Robot Chef review • Nosh robot chef • kitchen robot review
+  > Robot chef price $1,199 • Nosh Euphotic Labs review • robot chef vs Thermomix • smart kitchen robot 2025
+  > Is Nosh worth $1,199? • Can Nosh replace cooking? • How much prep does Nosh still need?
+  > 
+  > #cookingrobot  #robotchef  #kitchentech  #smartkitchen  #ThermomixAlternative #cookingrobot  #EuphoticLabs
+  > 
+  > ⚠️ Disclosures & Disclaimer
+  > • Opinions: This review reflects hands-on impressions, reported user feedback, and published specs — for educational and editorial purposes only.
+  > • No sponsorship: Not sponsored, paid, or directed by Nosh, Euphotic Labs, or any retailer.
+  > • Accuracy: Prices, pre-order dates, and specs can change; verify current details with the manufacturer before purchasing.
+  > • Product limits: Nosh automates cooking sequences but requires human prep (chopping/portioning). It is not a substitute for professional chefs or commercial kitchen equipment.
+  > • Food safety: I am not a food safety inspector or nutritionist. Follow manufacturer cleaning and food-handling guidance to reduce contamination risk.
+  > • Practical tip: If you have severe food allergies, strict dietary needs, or require precise flavor control mid-cook, test carefully before relying on full automation.
+  > • Fair use: Clips and images used are for commentary/criticism under fair use. If you believe content here violates rights or contains inaccuracies, contact me and I will address it.
+
+- **热门评论（3 条）：**
+
+  > **@Verdict_Vision_Official**：🔔 Thanks for watching the Nosh review!<br>👍 If this helped, like &amp; subscribe for more appliance and kitchen-tech tests.<br>💬 Vote: PREORDER / WAIT / PASS — one word why (convenience / price / prep / cleanup). I read every comment.
+  >
+  > **@jeffnelson3791**：Thank you for this review.  😄
+  >
+  > **@mrgyani**：You could do without the AI written review.
+  >
+
+---
+
+## 30. Global flavors at home!​⁠​⁠ Nosh AI Robot Chef makes Khao Suey rich, tasty & hassle-free!#aichef
+
+- **频道：** Let's Nosh!
+- **观看数：** 16,280
+- **点赞数：** 43
+- **评论数：** 0
+- **时长：** 0:48
+- **发布日期：** 2025-08-29T15:22:56Z
+- **链接：** https://www.youtube.com/watch?v=3KblH_JKOLE
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/3KblH_JKOLE/hqdefault.jpg
+---
+
+## 31. Creamy Mac & Cheese with Nosh Ai Robot Chef
+
+- **频道：** Let's Nosh!
+- **观看数：** 14,376
+- **点赞数：** 3
+- **评论数：** 3
+- **时长：** 0:50
+- **发布日期：** 2025-06-17T09:42:21Z
+- **链接：** https://www.youtube.com/watch?v=qssTspJYsxQ
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/qssTspJYsxQ/hqdefault.jpg
+- **简介：**
+
+  > Upgrade your kitchen with Nosh - the AI-powered robot chef that makes creamy mac & cheese just the way you like it. It handles the entire cooking process, delivering rich, cheesy, restaurant-quality comfort food right at home effortlessly.
+  > This isn’t just mac & cheese. It’s smarter living, served hot.
+  > Pre-book Nosh today and taste the future of cooking.
+  > 
+  > #robotchef  #nosh #airobotchef #aichef #aicookingmachine #nosheats #macandcheese
+
+- **热门评论（1 条）：**
+
+  > **@sweetyrai100**：Can you add features like automatic peeling n chopping option in it
+  >
+
+---
+
+## 32. Nosh Food Taste Test Real Reaction
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,405
@@ -2213,28 +2227,27 @@
 
 ---
 
-## 35. Traditional Vs Nosh Cooking
+## 33. Nosh AI Robo Chef will cook while you run your errands! #aicooking #aichef #cooking #kitchengadgets
 
 - **频道：** Let's Nosh!
-- **观看数：** 958
-- **点赞数：** 18
-- **评论数：** 0
-- **时长：** 0:45
-- **发布日期：** 2024-11-24T11:32:17Z
-- **链接：** https://www.youtube.com/watch?v=eQYsYaNQJ7Q
+- **观看数：** 1,310
+- **点赞数：** 17
+- **评论数：** 1
+- **时长：** 0:46
+- **发布日期：** 2025-12-04T09:18:59Z
+- **链接：** https://www.youtube.com/watch?v=2tc8ozuMowc
 - **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/eQYsYaNQJ7Q/hqdefault.jpg
-- **简介：**
+- **缩略图：** https://i.ytimg.com/vi/2tc8ozuMowc/hqdefault.jpg
+- **热门评论（1 条）：**
 
-  > Traditional hustle vs. Nosh simplicity. Which one would you choose?  Nosh makes it easy , quick, tasty meals without the stress! 
-  > 
-  > #NOSHCooking #QuickMeals #Comfortfood
+  > **@programmingwithaman3335**：banaya bhi to kya? maggi!!
+  >
 
 ---
 
-## 36. Bharat's Nosh Experience: Home style Dishes Made With Our Robo Chef!
+## 34. Bharat's Nosh Experience: Home style Dishes Made With Our Robo Chef!
 
 - **频道：** Let's Nosh!
 - **观看数：** 928
@@ -2253,7 +2266,7 @@
 
 ---
 
-## 37. Geeta's Nosh Experience: Dishes Made Easy with Our Robo Chef!
+## 35. Geeta's Nosh Experience: Dishes Made Easy with Our Robo Chef!
 
 - **频道：** Let's Nosh!
 - **观看数：** 836
@@ -2274,37 +2287,7 @@
 
 ---
 
-## 38. Nosh Cooking Robot - Review 
-
-- **频道：** Plebeian Network
-- **观看数：** 8,150
-- **点赞数：** 6
-- **评论数：** 10
-- **时长：** 1:06
-- **发布日期：** 2025-11-10T07:42:44Z
-- **链接：** https://www.youtube.com/watch?v=CdIHwlHqgs4
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/CdIHwlHqgs4/hqdefault.jpg
-- **热门评论（6 条）：**
-
-  > **@sanjaygupta-op9uy**：I was searching for honest review, and u have done it thank you.
-  >
-  > **@sudhanshutiwaskar2053**：create one more review video please
-  >
-  > **@sanjaygupta-op9uy**：if possible can you review it for today
-  >
-  > **@girishm7477**：Most of the dishes are under cooked.<br>SMBS stopped working after first use but Nosh team hot it resolved.
-  >
-  > **@mayak2676**：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping function
-  >
-  > **@sanjaygupta-op9uy**：how about expirience as of today, what do you say, what is the pan made of,  how does it heat food, via microwave?
-  >
-
----
-
-## 39. Butter garlic mushrooms, a French classic, perfected by @letsnosh AI robot chef. #nosh
+## 36. Butter garlic mushrooms, a French classic, perfected by @letsnosh AI robot chef. #nosh
 
 - **频道：** Let's Nosh!
 - **观看数：** 2,204
@@ -2335,35 +2318,7 @@
 
 ---
 
-## 40. Nosh Placements Guide #noshcooking #comfortfood #food
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,963
-- **点赞数：** 15
-- **评论数：** 2
-- **时长：** 0:42
-- **发布日期：** 2025-01-22T11:47:28Z
-- **链接：** https://www.youtube.com/watch?v=8ci10hYsmVA
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/8ci10hYsmVA/hqdefault.jpg
-- **简介：**
-
-  > Bring convenience and style to your kitchen with Nosh! From perfect placement to ventilation and pest-proofing tips, setting up Nosh is as easy as cooking with it. Follow these simple steps and enjoy hassle-free cooking every day! 
-  > 
-  > #NoshSetup #CompactDesign #Nosh #PestFreeKitchen #EffortlessCooking
-
-- **热门评论（2 条）：**
-
-  > **@RajeshwariM_c**：Is your testing team a tasting team ?  😊 . Nice to see a working solution for the everyday problem.
-  >
-  > **@deeksham6486**：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
-  >
-
----
-
-## 41. Perfectly Roasted Rosemary Garlic Chicken with Nosh
+## 37. Perfectly Roasted Rosemary Garlic Chicken with Nosh
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,750
@@ -2389,7 +2344,130 @@
 
 ---
 
-## 42. Breaking Barriers: A Kitchen That Empowers!
+## 38. Nosh: Where Every Generation Cooks Together
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,542
+- **点赞数：** 15
+- **评论数：** 3
+- **时长：** 0:39
+- **发布日期：** 2024-11-12T05:56:21Z
+- **链接：** https://www.youtube.com/watch?v=BzCoIaW3TwE
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/BzCoIaW3TwE/hqdefault.jpg
+- **简介：**
+
+  > Cooking together is more fun with Nosh! From the little ones to the experts, everyone can join in and create delicious memories. 🍴❤
+  > 
+  > #NOSHCooking #Comfortfood #FamilyCooking
+
+- **热门评论（2 条）：**
+
+  > **@deeksham6486**：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
+  >
+  > **@gauravsinghsays**：Can it be purchased in Jaipur ?
+  >
+
+---
+
+## 39. Nosh Wows at BITS Alumni Meet: Live Cooking Revolution!
+
+- **频道：** Let's Nosh!
+- **观看数：** 994
+- **点赞数：** 8
+- **评论数：** 0
+- **时长：** 0:38
+- **发布日期：** 2024-11-17T11:34:12Z
+- **链接：** https://www.youtube.com/watch?v=iaBdUY43D_g
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/iaBdUY43D_g/hqdefault.jpg
+- **简介：**
+
+  > Nosh made its mark at the BITS Alumni Meet! 
+  > Our world’s first cooking robo for homes impressed everyone with its live cooking and delicious dishes, changing the way home cooking feels.
+  > 
+  > #NOSHCooking #tastetest #Comfortfood
+
+---
+
+## 40. Traditional Vs Nosh Cooking
+
+- **频道：** Let's Nosh!
+- **观看数：** 958
+- **点赞数：** 18
+- **评论数：** 0
+- **时长：** 0:45
+- **发布日期：** 2024-11-24T11:32:17Z
+- **链接：** https://www.youtube.com/watch?v=eQYsYaNQJ7Q
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/eQYsYaNQJ7Q/hqdefault.jpg
+- **简介：**
+
+  > Traditional hustle vs. Nosh simplicity. Which one would you choose?  Nosh makes it easy , quick, tasty meals without the stress! 
+  > 
+  > #NOSHCooking #QuickMeals #Comfortfood
+
+---
+
+## 41. Nosh One-The AI Robot Chef for Fresh &amp; Healthy Meals at Home
+
+- **频道：** Inventions, Gadgets & Gizmos
+- **观看数：** 6
+- **点赞数：** 0
+- **评论数：** 0
+- **时长：** 0:10
+- **发布日期：** 2026-03-01T02:34:26Z
+- **链接：** https://www.youtube.com/watch?v=qqN8rA5u87c
+- **来源：** search
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/qqN8rA5u87c/hqdefault.jpg
+- **标签：** Nosh One-The AI Robot Chef for Fresh & Healthy Meals at Home
+- **简介：**
+
+  > Thanks for watching. More videos? Click Here: https://www.youtube.com/channel/UCXwkuCxVfB0D8LVkFDobvEQ?view_as=subscriber
+  > 
+  > Disclaimer: This video was created for educational/informational purposes and qualifies as Fair Use. If you are the creator or own the footage featured in this video and have reservations please notify me via YouTube comments or email and I will accommodate you.
+
+---
+
+## 42. Watch now, Nosh live on ZeeTV and Zee5 only on Ideabaaz #aicooking #zeetv #zee5 #cooking #airobot
+
+- **频道：** Let's Nosh!
+- **观看数：** 2,358
+- **点赞数：** 18
+- **评论数：** 0
+- **时长：** 0:20
+- **发布日期：** 2025-12-22T11:06:52Z
+- **链接：** https://www.youtube.com/watch?v=Xp-m-tqkD_I
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/Xp-m-tqkD_I/hqdefault.jpg
+---
+
+## 43. New year, new joys. Celebrate with ​ homemade Kalakand—fresh, festive, and just a click away! #nosh
+
+- **频道：** Let's Nosh!
+- **观看数：** 2,248
+- **点赞数：** 17
+- **评论数：** 0
+- **时长：** 0:51
+- **发布日期：** 2025-04-14T06:07:31Z
+- **链接：** https://www.youtube.com/watch?v=PPk1nEQj9rY
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/PPk1nEQj9rY/hqdefault.jpg
+---
+
+## 44. Breaking Barriers: A Kitchen That Empowers!
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,004
@@ -2415,42 +2493,6 @@
 
 ---
 
-## 43. Nosh One-The AI Robot Chef for Fresh &amp; Healthy Meals at Home
-
-- **频道：** Inventions, Gadgets & Gizmos
-- **观看数：** 6
-- **点赞数：** 0
-- **评论数：** 0
-- **时长：** 0:10
-- **发布日期：** 2026-03-01T02:34:26Z
-- **链接：** https://www.youtube.com/watch?v=qqN8rA5u87c
-- **来源：** search
-- **有字幕：** 否
-- **缩略图：** https://i.ytimg.com/vi/qqN8rA5u87c/hqdefault.jpg
-- **标签：** Nosh One-The AI Robot Chef for Fresh & Healthy Meals at Home
-- **简介：**
-
-  > Thanks for watching. More videos? Click Here: https://www.youtube.com/channel/UCXwkuCxVfB0D8LVkFDobvEQ?view_as=subscriber
-  > 
-  > Disclaimer: This video was created for educational/informational purposes and qualifies as Fair Use. If you are the creator or own the footage featured in this video and have reservations please notify me via YouTube comments or email and I will accommodate you.
-
----
-
-## 44. New year, new joys. Celebrate with ​ homemade Kalakand—fresh, festive, and just a click away! #nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 2,248
-- **点赞数：** 17
-- **评论数：** 0
-- **时长：** 0:51
-- **发布日期：** 2025-04-14T06:07:31Z
-- **链接：** https://www.youtube.com/watch?v=PPk1nEQj9rY
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/PPk1nEQj9rY/hqdefault.jpg
----
-
 ## 45. Authentic Asian style Savory Oats with Nosh
 
 - **频道：** Let's Nosh!
@@ -2472,22 +2514,7 @@
 
 ---
 
-## 46. This Rakhi, ​⁠@letsnosh AI Robo Chef handles it all, prep to dessert while you make sweet memories
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,518
-- **点赞数：** 9
-- **评论数：** 0
-- **时长：** 1:05
-- **发布日期：** 2025-08-09T07:01:45Z
-- **链接：** https://www.youtube.com/watch?v=Ml0lKp1UUCc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** hi
-- **缩略图：** https://i.ytimg.com/vi/Ml0lKp1UUCc/hqdefault.jpg
----
-
-## 47. Golden Kesari Bath made easy with @letsnosh. Roasted, pineapple-packed & ready in minutes! #nosh
+## 46. Golden Kesari Bath made easy with @letsnosh. Roasted, pineapple-packed & ready in minutes! #nosh
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,416
@@ -2502,7 +2529,7 @@
 - **缩略图：** https://i.ytimg.com/vi/h-CtlUlNnuk/hqdefault.jpg
 ---
 
-## 48. @letsnosh mushroom risotto: creamy arborio, earthy mushrooms & rich stock—slow-cooked perfection!
+## 47. @letsnosh mushroom risotto: creamy arborio, earthy mushrooms & rich stock—slow-cooked perfection!
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,241
@@ -2517,7 +2544,7 @@
 - **缩略图：** https://i.ytimg.com/vi/p_IvrqTxfKU/hqdefault.jpg
 ---
 
-## 49. Flavor-packed kanda Poha with Nosh
+## 48. Flavor-packed kanda Poha with Nosh
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,210
@@ -2542,104 +2569,41 @@
 
 ---
 
-## 50. This mother’s day don’t just thank her, set her free!💖 #nosh #robochef
+## 49. Nosh Diwali Hamper vs Market Hamper
 
 - **频道：** Let's Nosh!
-- **观看数：** 1,625
-- **点赞数：** 16
-- **评论数：** 0
-- **时长：** 0:38
-- **发布日期：** 2025-05-11T16:50:04Z
-- **链接：** https://www.youtube.com/watch?v=ecQy6WsBG9I
+- **观看数：** 900
+- **点赞数：** 20
+- **评论数：** 3
+- **时长：** 4:17
+- **发布日期：** 2025-10-18T13:44:38Z
+- **链接：** https://www.youtube.com/watch?v=j4_sHqu6aHY
 - **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/ecQy6WsBG9I/hqdefault.jpg
----
-
-## 51. Royal roots, timeless taste. @letsnosh  biryani brings Eid flavour home. Eid Mubarak!#nosh #aichef
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,409
-- **点赞数：** 15
-- **评论数：** 8
-- **时长：** 0:33
-- **发布日期：** 2025-06-07T09:55:36Z
-- **链接：** https://www.youtube.com/watch?v=dIonxiq-pmw
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/dIonxiq-pmw/hqdefault.jpg
-- **热门评论（4 条）：**
-
-  > **@vladimirputin583**：Do you guys deliver to mysuru plzzz
-  >
-  > **@ShaistaRasheed-f6u**：Is this available in usa
-  >
-  > **@LakshmiKrishna.**：Is Cutting Vegetables Also?
-  >
-  > **@naziabanu4240**：Pp
-  >
-
----
-
-## 52. Ugadi is a fresh start! Celebrate with ​@letsnosh Coconut Jaggery Burfi—pure tradition, zero effort.
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,261
-- **点赞数：** 18
-- **评论数：** 1
-- **时长：** 0:58
-- **发布日期：** 2025-03-30T06:28:07Z
-- **链接：** https://www.youtube.com/watch?v=x1kPIxC-5YM
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/x1kPIxC-5YM/hqdefault.jpg
-- **热门评论（1 条）：**
-
-  > **@RedZy2004**：Can I Buy This From The Philippines? And Is There Filipino Food Recipes It Can Cook? 🤔
-  >
-
----
-
-## 53. Hearty & Spiced Chole Masala with Nosh! #noshcooking #cholemasala #comfortfood
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,085
-- **点赞数：** 15
-- **评论数：** 0
-- **时长：** 0:34
-- **发布日期：** 2025-02-20T12:26:06Z
-- **链接：** https://www.youtube.com/watch?v=ovAY_Zr9yKc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** hi
-- **缩略图：** https://i.ytimg.com/vi/ovAY_Zr9yKc/hqdefault.jpg
----
-
-## 54. Bold & Flavorful Tomato Rasam with Nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 951
-- **点赞数：** 16
-- **评论数：** 0
-- **时长：** 0:52
-- **发布日期：** 2024-12-31T11:39:29Z
-- **链接：** https://www.youtube.com/watch?v=3-lCMFjwpDw
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/3-lCMFjwpDw/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/j4_sHqu6aHY/hqdefault.jpg
 - **简介：**
 
-  > A burst of tangy flavors in every spoon! Rasam is the perfect blend of spices and tradition. Taste the comfort in every sip! 
+  > This Diwali, swap the market-made sweets for something made with love and real ingredients!💛
   > 
-  > #NoshCooking #Rasam #ComfortFood
+  > All homemade, healthy, and packed with festive flavor, because a Nosh Wali Diwali means celebrating light, love, and mindful indulgence. 
+  > 
+  > Order your Nosh Diwali Hamper now and make your celebrations guilt-free and full of goodness!
+  > 
+  > #aichef #nosh #robotchef #robochef #aicookingmachine #aicooking #diwalispecial
+
+- **热门评论（3 条）：**
+
+  > **@AnandSatya** [👍1]：Wow delicious
+  >
+  > **@KAPOORRLIFE-yp7sv** [👍1]：Wow  Lovely
+  >
+  > **@Ds07vlogs**：❤❤❤
+  >
 
 ---
 
-## 55. Instant smiles with every spoonful of Kesar Phirni by NOSH
+## 50. Instant smiles with every spoonful of Kesar Phirni by NOSH
 
 - **频道：** Let's Nosh!
 - **观看数：** 850
@@ -2659,22 +2623,37 @@
 
 ---
 
-## 56. Wholesome food, gentle vibes, and a kitchen that runs like a Ghibli dream!#nosh #ghiblitrend
+## 51. Nosh Cooking Robot - Review 
 
-- **频道：** Let's Nosh!
-- **观看数：** 2,480
-- **点赞数：** 22
-- **评论数：** 0
-- **时长：** 0:15
-- **发布日期：** 2025-04-10T06:17:01Z
-- **链接：** https://www.youtube.com/watch?v=YhBNKM0fFOc
-- **来源：** channel
+- **频道：** Plebeian Network
+- **观看数：** 8,152
+- **点赞数：** 6
+- **评论数：** 10
+- **时长：** 1:06
+- **发布日期：** 2025-11-10T07:42:44Z
+- **链接：** https://www.youtube.com/watch?v=CdIHwlHqgs4
+- **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/YhBNKM0fFOc/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/CdIHwlHqgs4/hqdefault.jpg
+- **热门评论（6 条）：**
+
+  > **@sanjaygupta-op9uy**：I was searching for honest review, and u have done it thank you.
+  >
+  > **@sudhanshutiwaskar2053**：create one more review video please
+  >
+  > **@sanjaygupta-op9uy**：if possible can you review it for today
+  >
+  > **@girishm7477**：Most of the dishes are under cooked.<br>SMBS stopped working after first use but Nosh team hot it resolved.
+  >
+  > **@mayak2676**：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping function
+  >
+  > **@sanjaygupta-op9uy**：how about expirience as of today, what do you say, what is the pan made of,  how does it heat food, via microwave?
+  >
+
 ---
 
-## 57. 6 July 2025
+## 52. 6 July 2025
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,873
@@ -2696,7 +2675,119 @@
 
 ---
 
-## 58. Kaala Chana Sundal, once fuel for freedom, now a ​⁠@letsnosh  classic this Independence Day.
+## 53. This mother’s day don’t just thank her, set her free!💖 #nosh #robochef
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,625
+- **点赞数：** 16
+- **评论数：** 0
+- **时长：** 0:38
+- **发布日期：** 2025-05-11T16:50:04Z
+- **链接：** https://www.youtube.com/watch?v=ecQy6WsBG9I
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/ecQy6WsBG9I/hqdefault.jpg
+---
+
+## 54. This Rakhi, ​⁠@letsnosh AI Robo Chef handles it all, prep to dessert while you make sweet memories
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,518
+- **点赞数：** 9
+- **评论数：** 0
+- **时长：** 1:05
+- **发布日期：** 2025-08-09T07:01:45Z
+- **链接：** https://www.youtube.com/watch?v=Ml0lKp1UUCc
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** hi
+- **缩略图：** https://i.ytimg.com/vi/Ml0lKp1UUCc/hqdefault.jpg
+---
+
+## 55. Royal roots, timeless taste. @letsnosh  biryani brings Eid flavour home. Eid Mubarak!#nosh #aichef
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,410
+- **点赞数：** 15
+- **评论数：** 8
+- **时长：** 0:33
+- **发布日期：** 2025-06-07T09:55:36Z
+- **链接：** https://www.youtube.com/watch?v=dIonxiq-pmw
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/dIonxiq-pmw/hqdefault.jpg
+- **热门评论（4 条）：**
+
+  > **@vladimirputin583**：Do you guys deliver to mysuru plzzz
+  >
+  > **@LakshmiKrishna.**：Is Cutting Vegetables Also?
+  >
+  > **@ShaistaRasheed-f6u**：Is this available in usa
+  >
+  > **@naziabanu4240**：Pp
+  >
+
+---
+
+## 56. Ugadi is a fresh start! Celebrate with ​@letsnosh Coconut Jaggery Burfi—pure tradition, zero effort.
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,261
+- **点赞数：** 18
+- **评论数：** 1
+- **时长：** 0:58
+- **发布日期：** 2025-03-30T06:28:07Z
+- **链接：** https://www.youtube.com/watch?v=x1kPIxC-5YM
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/x1kPIxC-5YM/hqdefault.jpg
+- **热门评论（1 条）：**
+
+  > **@RedZy2004**：Can I Buy This From The Philippines? And Is There Filipino Food Recipes It Can Cook? 🤔
+  >
+
+---
+
+## 57. Hearty & Spiced Chole Masala with Nosh! #noshcooking #cholemasala #comfortfood
+
+- **频道：** Let's Nosh!
+- **观看数：** 1,085
+- **点赞数：** 15
+- **评论数：** 0
+- **时长：** 0:34
+- **发布日期：** 2025-02-20T12:26:06Z
+- **链接：** https://www.youtube.com/watch?v=ovAY_Zr9yKc
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** hi
+- **缩略图：** https://i.ytimg.com/vi/ovAY_Zr9yKc/hqdefault.jpg
+---
+
+## 58. Bold & Flavorful Tomato Rasam with Nosh
+
+- **频道：** Let's Nosh!
+- **观看数：** 951
+- **点赞数：** 16
+- **评论数：** 0
+- **时长：** 0:52
+- **发布日期：** 2024-12-31T11:39:29Z
+- **链接：** https://www.youtube.com/watch?v=3-lCMFjwpDw
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/3-lCMFjwpDw/hqdefault.jpg
+- **简介：**
+
+  > A burst of tangy flavors in every spoon! Rasam is the perfect blend of spices and tradition. Taste the comfort in every sip! 
+  > 
+  > #NoshCooking #Rasam #ComfortFood
+
+---
+
+## 59. Kaala Chana Sundal, once fuel for freedom, now a ​⁠@letsnosh  classic this Independence Day.
 
 - **频道：** Let's Nosh!
 - **观看数：** 1,183
@@ -2711,10 +2802,10 @@
 - **缩略图：** https://i.ytimg.com/vi/SdEwQ4A9YA8/hqdefault.jpg
 ---
 
-## 59. This gift won’t end up catching dust in storage #airobotchef#aicookingrobot#aicooking #weddingseason
+## 60. This gift won’t end up catching dust in storage #airobotchef#aicookingrobot#aicooking #weddingseason
 
 - **频道：** Let's Nosh!
-- **观看数：** 900
+- **观看数：** 901
 - **点赞数：** 11
 - **评论数：** 2
 - **时长：** 0:38
@@ -2731,4 +2822,19 @@
   > **@Akhilesh...928**：Adding weight machine , chopping machine, roti making machine, and a bigger screen like upliance and streaming ,frying ,roasting like Wonderchef . Then I will buy it price raised even price reaches 1 lakh. Just go and start steal all the technology which are already present in this field.
   >
 
+---
+
+## 61. Wholesome food, gentle vibes, and a kitchen that runs like a Ghibli dream!#nosh #ghiblitrend
+
+- **频道：** Let's Nosh!
+- **观看数：** 2,480
+- **点赞数：** 22
+- **评论数：** 0
+- **时长：** 0:15
+- **发布日期：** 2025-04-10T06:17:01Z
+- **链接：** https://www.youtube.com/watch?v=YhBNKM0fFOc
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/YhBNKM0fFOc/hqdefault.jpg
 ---
