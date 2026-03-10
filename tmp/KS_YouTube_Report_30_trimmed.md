@@ -1,2434 +1,405 @@
 # YouTube 视频分析报告（Score >= 30）
 
-**生成时间：** 2026-03-03T17:51:02.612088
-**搜索来源：** UC6tW3j0KsOlMKpGejWmz8xg, NoshOne
-**总收集：** 96 | **排除不相关：** 35 | **最终保留：** 61
-**有字幕(API)：** 0/61
+**生成时间：** 2026-03-10T11:02:03.263222
+**搜索来源：** UCdPk4IC7aqxjHTm0aKN4rpg, iNew3D
+**总收集：** 26 | **排除不相关：** 12 | **最终保留：** 14
+**有字幕(API)：** 1/14
 
 ---
 
-## 1. Nosh : The World's First Robo-chef for Homes
+## 1. This Desktop 3D Printer Can Print 500,000+ Colors l inew3d QC2A
 
-- **频道：** Let's Nosh!
-- **观看数：** 124,932
-- **点赞数：** 976
-- **评论数：** 74
-- **时长：** 0:59
-- **发布日期：** 2024-11-07T09:35:44Z
-- **链接：** https://www.youtube.com/watch?v=qhV1lXGUOsQ
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/qhV1lXGUOsQ/hqdefault.jpg
-- **简介：**
-
-  > Preparing meals at home just got a whole lot easier, no more stress, just tasty food made effortlessly. Whether it’s a quick snack or your favorite meal, Nosh is here to help.
-  > 
-  > Watch the video to see how Nosh can make cooking simple for you!
-  > Don’t forget to subscribe for easy recipes and tips with Nosh. 
-  > 
-  > #Nosh #CookingSimplified #HomeMeals #YourKitchenBuddy #EasyCooking
-
-- **热门评论（44 条）：**
-
-  > **@deeksham6486** [👍18]：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
-  >
-  > **@ghhdgjjfjjggj** [👍12]：I&#39;m totally sold on this idea.
-  >
-  > **@Thewhiteandorange** [👍10]：Nosh precisely measures and adds: water, oil, spices....microplastics and mold growing inside those internal water tubes.
-  >
-  > **@filmynerdy** [👍7]：Hey Team Nosh, this product is tempting and brilliantly amazing... I am curious for electrical specifications part, if you ask me to be precise I want to know about power consumption of this product. It is how much Watt?
-  >
-  > **@latvork3044** [👍6]：Most time consuming is cutting vegetables and preparing need something for that.
-  >
-  > **@lokeshkumarsingh5797** [👍6]：How about if power is cut midway of cooking .. where will it start after power comes back
-  >
-  > **@Montresia1** [👍5]：Dont heat the food in plastic or hold liquids in plastic or i will not buy and i will tell everyone i know not to buy. Use quality materials please!! otherwise Im very hopeful and have been waiting for this!
-  >
-  > **@teehee-a1** [👍4]：I&#39;m rooting for a more cost effective model. This is such a great product to have
-  >
-  > **@zainsyed9811** [👍4]：Can’t it source and fill the ingredients itself?
-  >
-  > **@AshokRajuArumuganeri** [👍3]：👍👍👍👍👍
-  >
-  > **@couldbericher** [👍3]：How easy/hard is it to clean this? Including all the areas that food comes in contact with..
-  >
-  > **@adithalee8660** [👍3]：So it&#39;s just for Indian foods??
-  >
-  > **@GUNVALKERIE** [👍3]：I&#39;m liking this NOSH thing... But... What about the amount one would make from this machine?  What if one serving is not enough?  It would be nice if it can do my MAC &#39;N CHEESE 😁
-  >
-  > **@NandiniNiranjan2025** [👍2]：I was excited with this product in the market and bought it in September 2025 for ₹70K. Initial 5 dishes turned out pretty good. Although most of the preparation is done by the user, taste at the end was good and I was happy. But as I started trying different dishes, I found some of them burnt, bland in taste, undercooked, etc. As a working couple with 2 school going kids, we couldn&#39;t rely on this anymore. Lost time and good ingredients forcing us to make alternate preparations. Team is not helping to out issues. I have finally put the device for resell. <br><br>So think before buying.
-  >
-  > **@jyotiboriwale9308** [👍2]：Pune delivery available
-  >
-  > **@olympuszeus5362** [👍2]：How much time it needed to cook
-  >
-  > **@BishalRai-p1s** [👍1]：So many people this machine
-  >
-  > **@Ms.Divine2024** [👍1]：882nd like Yum Yum Looks Great
-  >
-  > **@rks9180** [👍1]：Awesome would like to learn more about it 👍
-  >
-  > **@greatgirl3011** [👍1]：Can i adjust the time for making dishes? Like if i want to make suji halwa and nosh just fries suji for 3 minutes while i want to fry suji for 5 minutes, can i do that in nosh?
-  >
-  > **@anonyx_0** [👍1]：I have an idea, earth has a lot of recipes, so why not pre-loaded
-  >
-  > **@akkishah9311** [👍1]：What about cleaning of those oil and water containig pipes? And as they will be carried through solenoid valves what about cleaning of them?
-  >
-  > **@vishalgoud3105** [👍1]：But still we have to cut all the vegetables rytt?🥵
-  >
-  > **@XuanLinhVu** [👍1]：Hi, I&#39;d like to market this to Vietnam market. Our cooking style is quite similar to Indian. Who should I contact?
-  >
-  > **@JioFamilyTv** [👍1]：Rs 75000 is the Price
-  >
-  > **@akshatchandra4466** [👍1]：Is out for sale in the market? <br>And where can I get it from
-  >
-  > **@MrYougetvinod** [👍1]：I am waiting for the demo in cochin
-  >
-  > **@ajaypreet** [👍1]：Deliver to canada please
-  >
-  > **@SaritaS-q7x** [👍1]：This product seems like an upgrade of Nymble. looks good. Wish this product was freely available in the market and had better warranty and more service centers.
-  >
-  > **@gauria6688** [👍1]：You should at least have a chopping feature for onions, tomatoes, garlic, and ginger, as they form the base for most recipes. Include vegetable cutting for select veggies and focus on a limited range of dishes like sabji, curry, dal, and kadhi.
-  >
-  > **@Vandanatripathivlog** [👍1]：What is the price
-  >
-  > **@Vandanatripathivlog** [👍1]：Can you give us demo at our place
-  >
-  > **@BkDas-uh8ze**：Can it cook regular staple food
-  >
-  > **@marymagdalene891**：I don’t see link to product?
-  >
-  > **@MATHSWISDOM**：Cost please, and link to buy
-  >
-  > **@vjb3952**：Cost
-  >
-  > **@GathiyaKha**：🕵️
-  >
-  > **@RayTheBos**：i dont need scam
-  >
-  > **@dafien**：So the proposition is to keep 80% of human labour and move it earlier in the process. Have the machine regulate time and stirring, call it a robot and charge a premium. I think the problem was in the board room.
-  >
-  > **@mkmsagar1109**：Hi how can i connect costumer care i have points to discus
-  >
-  > **@PranoyM**：Why does Automation always seem to focus on the most enjoyable parts of labour leaving the dirty work for humans? The actual cooking part is one of the most enjoyable things you can do - while peeling and cutting veggies and cleaning dishes is what most people don&#39;t want to do.
-  >
-  > **@wolftoons**：Background music is super distracting!!!  Hire human editors!!!
-  >
-  > **@kiritik1163**：Are you guys delivering it to Hyderabad?
-  >
-  > **@573ashish**：Price? How is it different from what Wonderchef offers?
-  >
-
----
-
-## 2. Nosh AI Robot Chef Demo | Cook Full Meals Hands-Free with the Smart Robot Chef
-
-- **频道：** Let's Nosh!
-- **观看数：** 35,879
-- **点赞数：** 322
-- **评论数：** 79
-- **时长：** 11:17
-- **发布日期：** 2025-07-19T13:27:23Z
-- **链接：** https://www.youtube.com/watch?v=8XLCbqTgspo
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** hi
-- **缩略图：** https://i.ytimg.com/vi/8XLCbqTgspo/hqdefault.jpg
-- **简介：**
-
-  > Here’s how @letsnosh  is changing the way we cook.
-  > Watch Amit our Co-Founder demonstrate how effortless it is to make a complete meal, no stirring, no supervision.
-  > Smart, safe, and kitchen-ready.
-  > 
-  > #nosh #noshrobotchef #aicookingmachine #robotchef #aicooking #aichef #shahipaneer #letsnosh
-
-- **热门评论（46 条）：**
-
-  > **@VikasGupta-uy5kq** [👍7]：Whether Roti /Chapati can be made using Nosh, without which this machine is incomplete.
-  >
-  > **@pmmishra1414** [👍5]：Great. Similar to coffee capsules, u can think of pre filled ingredient trays sold online through instant delivery for specific menu types. 👍
-  >
-  > **@satisfykitchenasmr** [👍5]：Chopping khud karna padta hai … vese bhi preparation karne ke bad to cook karna Asan hai
-  >
-  > **@mustakkhan1048** [👍4]：amazing mACHINE
-  >
-  > **@mayak2676** [👍3]：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function
-  >
-  > **@olifern** [👍3]：How is it different from upliance
-  >
-  > **@prashant0raj0anand** [👍3]：Awesome machine. Very useful!
-  >
-  > **@sohailsonjaahmed6789** [👍2]：Brilliant 👌 zabardast laajawab shabash, how much? Where to buy? Is it available in USA?
-  >
-  > **@olamazurkryminal** [👍2]：I will buy it, when it learns how to peel and cut.... so i can load just raw vegetables.
-  >
-  > **@Nicksnapster** [👍2]：How does machine know if I need to add home made masala ? As it is not part of recipe
-  >
-  > **@IM_RaviGupta** [👍2]：🔥🔥🔥I fell it is useless. Instead it will increase our work. Peeling, Washing, chopping the ingredients and past/gravy preparation actually takes more time than actual cooking in the Pan. <br>Additionally, with this you have to verify and ensure that you are keeping the perishable ingredients in the correct order otherwise your food will be a mess. <br>On top of that, cleaning this machine will be a nightmare. <br>We need 100% automated robot. From peeling. washing and chopping the ingredient till the final cooking.
-  >
-  > **@vepilai** [👍2]：will it prepare bajra roti.. ? south indian dosa
-  >
-  > **@anaynanavatypvt** [👍2]：Show us the cleaning process of nosh and what is left behind in the ingredients tray after cooking is done so we get an idea of the aftermath that we need to do to clean it
-  >
-  > **@universe12e** [👍1]：in it we need to upload ingredients once and forget. but in uplia ce, we need to add ingredients in between.
-  >
-  > **@pavankumar-fx3ih** [👍1]：For this mission voice over will be available or not Nano please may I know please😊
-  >
-  > **@Juststaypositive29** [👍1]：Does it make chapati puri ?
-  >
-  > **@mayak2676** [👍1]：The maximum time taken is in meal prep, not actual cooking. We need a robotic chopper, dicer &amp; slicer first....onky then this would make sense
-  >
-  > **@anirbansarkar9872** [👍1]：Can it cook Hyderabadi Mutton Biryani   ??
-  >
-  > **@shilpasoodkumar8912** [👍1]：It doesn&#39;t fry paneer before adding it into gravy. Not worth it. Too much time will go in preparation. In half of it I can cook.
-  >
-  > **@unni9942** [👍1]：is there a waiting period for delivery in India is it only available in Bangalore since when i went to your website it showed booking options only is their email where i can contact on how to get buy one
-  >
-  > **@Ultron-q2e** [👍1]：Price and how tu order ???? And after buying service !!
-  >
-  > **@tskrdjym** [👍1]：Is this same as &quot;Posh&quot; machine?
-  >
-  > **@SodiumSyndicate** [👍1]：Can the Nosh make fried rice, puliogare &amp; lemon rice at once? - because the spices have to be tempered first before adding rice.
-  >
-  > **@nemiltimbadia6511**：Bhai machine sirf sab mix karega 😅
-  >
-  > **@itz_official_alam**：❤❤❤
-  >
-  > **@sumant.mishra**：bhai, please make music volume low.
-  >
-  > **@jayatisengupta1857**：If you need 3 items in 30 minutes how to sort it out...when I can use 3 induction or gas simultaneously
-  >
-  > **@charanyalala**：Please let us know if this available in US and Canada
-  >
-  > **@humnarizvi6**：While making kheer ..what about masala box
-  >
-  > **@chandrasekharsurampudi3648**：How many dishes  can it make in 12 hrs
-  >
-  > **@TheDesiStand**：Please make the irr!tating background music louder. 🤦‍♂
-  >
-  > **@Ayush-n4x6s**：Wonderchef is good
-  >
-  > **@rajdeep1043**：Okay, that sounds good. But honestly, if someone is already putting in the effort of cutting and grinding ingredients, then cooking a little more doesn’t feel like much extra work.<br>If I m planning to buy this for my parents, and it still involves this level of preparation, then it’s almost like doing the full cooking process anyway. In that case, it feels like there’s still a long way to go before it truly becomes convenient.especially if the main goal is to simplify cooking
-  >
-  > **@tanveer1232**：Hyderabad biryani Banakar Dikhao
-  >
-  > **@amitarora9813**：I paid them a token advance 5 years ago and now they dont answer my emails or provide updates! Beware!
-  >
-  > **@bilquisfathima6767**：Is it available in Canada?
-  >
-  > **@Ayush-n4x6s**：Preparation mai hai aadmi khatam ho jata hai
-  >
-  > **@VSACorpHyd**：Can it cook for 4 adults?
-  >
-  > **@ftajay**：I like but you showing some rice which is dry=&gt; it not washed . All the dry grains and pulses are full of pesticides unless you are using organic ( Now this also i am not sure as pest are not attacking even after 3 months and earlier it used to do). Anyhow  please make sure the recipes  are washed like rice , dals . Even phoa/Flattened Rice we have to wash and drain,
-  >
-  > **@shwetad3251**：Can it make laddus
-  >
-  > **@somecommentator**：One more question: the cooking vessel is made of non-stick alluminium, right? But it says dishwasher safe in the listing. Is it really dishwasher-safe?
-  >
-  > **@parnashreepal7307**：What&#39;s the price this gazette, may I know  ?
-  >
-  > **@somecommentator**：I&#39;m considering to buy it. Alredy added to cart. Waitinf for some info. Can I customize the recipe or add something new? I understand it cannot cook roti etc. i also want to check the whole menu before buying. Whwre do I find these info?
-  >
-  > **@ajitkumarp1026**：Too much plastic coming into contact with superheated food n oil. Recipe for cancer?? Same with the other brands too. Dangerous until it’s foodgrade till it’s steel all through .
-  >
-  > **@sharathk1881**：Another Rotimatic ala disaster is waiting to happen. Lots of people bought into the hype and now they can&#39;t get refunds. Don&#39;t depend on AI for everything. This machine will never replicate the food you like to eat. If you can&#39;t cook, rely on home cooked tiffin service (in the US too) which is easier, cheaper.
-  >
-  > **@Ayush-n4x6s**：Bakwas
-  >
-
----
-
-## 3. A dream 7 years in the making, we’re officially global. @letsnosh is now in the US 🇺🇸#robochef
-
-- **频道：** Let's Nosh!
-- **观看数：** 5,742
-- **点赞数：** 45
-- **评论数：** 0
-- **时长：** 1:02
-- **发布日期：** 2025-04-18T13:20:30Z
-- **链接：** https://www.youtube.com/watch?v=bYqLvtnVzzo
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/bYqLvtnVzzo/hqdefault.jpg
----
-
-## 4. Trying A $1500 Robot Chef
-
-- **频道：** Blatant Reviews
-- **观看数：** 3,382,404
-- **点赞数：** 168,231
-- **评论数：** 3035
-- **时长：** 1:50
-- **发布日期：** 2025-10-07T21:48:49Z
-- **链接：** https://www.youtube.com/watch?v=tbjUWq0UpK8
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/tbjUWq0UpK8/hqdefault.jpg
-- **标签：** Food, Foodreview, Tiktok, Instagram, YouTube, Review, Foodie, Foodpage, Foodtiktok, Foodinstagram, Entertainment, Comedy, Videoreview, Tastetest, Shorts, Viral, Content, Challenge, Tryfood, Buzzfeed, Tryguys
-- **简介：**
-
-  > Social Media Links👇👇
-  > 📷 Instagram: https://www.instagram.com/blatantreviewz/?hl=en
-  > 🎥 TikTok: https://www.tiktok.com/@blatantreviews?is_copy_url=1&is_from_webapp=v1
-  > Follow us on both of you love your momma.
-  > Business Inquries: Team@blatant.info
-
-- **热门评论（200 条）：**
-
-  > **@anujbhatt2842** [👍26831]：I thought that was a GPU hanging for a sec 😂😭
-  >
-  > **@toxicgummybear3** [👍16294]：Maintenance and cleaning on that thing will go crazy🔥
-  >
-  > **@teresaf936** [👍11325]：That&#39;s insane the prep is literally the hardest part. This is strictly for people who just suck at cooking lmfao 🤣
-  >
-  > **@laethinfowler2317** [👍3219]：This is actually amazing for people who can&#39;t easily cook for themselves due to disabilities or age
-  >
-  > **@Wholelottaflowwiththiscat** [👍3084]：that robot finna be the new air fryer for how long its not getting cleaned
-  >
-  > **@BlatantReviews_** [👍1747]：You can pre order this for $25 here - <a href="https://bit.ly/4gYeeO1">https://bit.ly/4gYeeO1</a>
-  >
-  > **@MMSMusicLabel** [👍1668]：A “private chef” for $1500 is a crazy good deal
-  >
-  > **@momenmo558** [👍1468]：I&#39;m not gonna lie. This looks insane in a good way
-  >
-  > **@dthamilton79** [👍1202]：The hardest part is getting the ingredients together and cutting them up. You did 95% of the work for $1500
-  >
-  > **@tnsquidd** [👍1165]：Finally! A robot that takes away the fun part of cooking, but leaves the prep work and dishes to you!
-  >
-  > **@JakiroTM** [👍1145]：Love how it automates the fun part of cooking while you still have to do all the prep...
-  >
-  > **@Numb_** [👍673]：Imo this is doing the easiest part when it comes to cooking food. I want it to cut all the ingredients I&#39;ll deal with the actual cooking
-  >
-  > **@Zorgalon** [👍553]：The good old 1080Ti hanging there😂
-  >
-  > **@EpicKilleonPie** [👍410]：Fun fact: You could also just get a frying pan and a spatula.<br><br>That&#39;s literally what you&#39;re replacing, since you still need to do all the prep, which is by far most of the work.
-  >
-  > **@zydun1** [👍354]：I thought it was a crazy pc build for a sec
-  >
-  > **@jimmybigproyes** [👍319]：Why the hell are we letting a DAMN CLANKER COOK FOR US??! ARE WE TRYING TO SPEEDRUN COMPLETE DEPENDENCY ON ROBOTS???
-  >
-  > **@98jru** [👍255]：bro&#39;s right arm vs bro&#39;s left arm
-  >
-  > **@D3hander** [👍228]：The fact that this thing is going to cost $1500 is the most impressive part. <br><br>Yea it&#39;s expensive but for a robot who cooks for you real healthy food, that&#39;s cheap in the long run.<br><br>As a dude who eats out WAY too often, I hate to cook and I don&#39;t even know what to cook when I do, this is a really compelling value prop.
-  >
-  > **@OhYahDude** [👍135]：Now you just need a robot chef cleaning robot and you&#39;ll be set
-  >
-  > **@mwheelznicholas** [👍126]：Cheaper than marriage and divorce 🤷‍♂️
-  >
-  > **@godlikecharacta9294** [👍125]：This seems like more work than just cooking
-  >
-  > **@PoshaCommunity** [👍87]：Love seeing Posha out in the wild! 🧡 Thanks for the feature 🙌
-  >
-  > **@daffquess7006** [👍59]：Other than those spice pods, which seem to be proprietary, this seems super interesting. Obviously, you could make it a lot faster than 50 minutes, and it seems like cleaning it would be pretty easy, since you could remove and machine wash all the parts except the water and oil tubes, but I could totally see this being useful. Wait a few years for it to go on sale for something like 1k, and I think it could make a lot of sense
-  >
-  > **@Rikent** [👍23]：As someone who cooks once in a blue moon, the prep and cleaning is what prevents me from cooking. This just makes cooking even more miserable by taking away the only parts that give me any dopamine
-  >
-  > **@matheusabreu2534** [👍20]：In the United States, you can buy almost everything already cut, grated, shredded, and whatever. It&#39;s even more convenient in this situation.
-  >
-  > **@SPITEman-u8o** [👍19]：If I have to do all the prep I might as well just cook it myself plus there’s nothing like the accomplishment you feel after executing a meal you’ve been exited to make or craving💯💯
-  >
-  > **@twistedfantasyy** [👍18]：You need to prep though which is easily the least fun part of cooking
-  >
-  > **@Thinkani** [👍16]：“I’m about to abuse that robot” sounds crazy out of context
-  >
-  > **@drac.96** [👍16]：This would be excellent for people who are physically disabled, or blind to able to eat home cooked food. I do think that this could be very convenient even if you could see, too. The problem is, you have to cut up everything, right? How could someone with like Parkinson disease or limited dexterity be able to cut and prepare the ingredients for this?
-  >
-  > **@MrMastrsushi** [👍11]：The second you dumped in the ingredients you already started cooking.
-  >
-  > **@BetawithInno** [👍10]：It’s when he said even the robot seasons it’s food 😂😂😂😂😭
-  >
-  > **@daffquess7006** [👍9]：On sale from $1750 USD, and to get the full recipe list you need to pay $14.95 a month. If someone could get a cracked firmware to allow you to add your own recipes without the subscription, that&#39;d be great xD
-  >
-  > **@michaelikupa8331** [👍8]：&quot;Even the robot seasons it&#39;s food&quot; shots fired😂
-  >
-  > **@BipityBopity93** [👍8]：$1500 to put food into a robot so it can put the food into a pan is INSANE. Lmao
-  >
-  > **@DOCTORJAN714** [👍8]：A lot of people don&#39;t realize how hard stirring can be. This takes all the work out of moving food around a pan. Excellent. It removes at least 5% of the work.
-  >
-  > **@NeNe-AP** [👍5]：Man people keep getting lazier and lazier  😂😂😂😂
-  >
-  > **@TradingPantheonNasirTrades** [👍4]：As someone who is low vision, I may need to buy this
-  >
-  > **@ArmyDrillBaby** [👍4]：Almost more work than just cooking with a recipe
-  >
-  > **@Glendaric** [👍4]：CC, Clanker Cuisine, or Clanker Cooking.
-  >
-  > **@danielmish13** [👍4]：Gordon Ramsay&#39;s is real quiet after seeing this
-  >
-  > **@turtlegamez3529** [👍3]：When I get rich YouTube bring me back to this video
-  >
-  > **@ScaredOfGrass** [👍3]：Robot seasons the food better than the brits
-  >
-  > **@PharaohIV** [👍3]：Humans are cooked smh
-  >
-  > **@TheOriginalGangsterIsHere** [👍2]：Bro is cooking with a gaming PC
-  >
-  > **@rileybankswho** [👍1]：Need this asap! Whats the brand/ model?
-  >
-  > **@ViDusk** [👍1]：bro has an dual fan gpu hanging in robot chef. gotta watch that food in ultra settings with ray tracing.
-  >
-  > **@ChillSkillGaming** [👍1]：&quot;it just dropped flower&quot; cracking me up so hard bro thats def salt not flour :sob
-  >
-  > **@UdaySharma-kn1du** [👍1]：Cleaning would be a excruciating.😅
-  >
-  > **@shadow-f4d1i** [👍1]：At this point  even the chef&#39;s are in trouble 😵‍💫😵‍💫.
-  >
-  > **@cin3motion** [👍1]：Human cooking will always hit different💯
-  >
-  > **@julian4414ify** [👍1]：Bro at that point just put it on a skillet and flip it yourself 😭😂
-  >
-  > **@RITUJena-n9y** [👍1]：It has a old 1080ti in it what happens if i put a 5090 in it ?
-  >
-  > **@frankhanley808** [👍1]：A stirring robot for 1500 😂😂
-  >
-  > **@kingsapming** [👍1]：Either bad lighting or his right arm is twice the size of his left arm!
-  >
-  > **@r25012501**：cool tripple the cleaning and mainteance.
-  >
-  > **@mduncan1424**：Do another review of this. Id like to see more about it.
-  >
-  > **@Bmoreflow**：I thought that was the new unique pc case craze looked like a two fan gpu
-  >
-  > **@downloadboy9554**：Is that ui opensource or something I see it everywhere
-  >
-  > **@nahednajifadel7752**：Can you make bigger portions with it
-  >
-  > **@ahasantrishan5083**：i thought its a case dew to the gpu hanging
-  >
-  > **@justrandom90**：Bet there comment somewhere saying bout clanker cooking food in this videos
-  >
-  > **@VaqueroCervantez**：Bro I need you workout regiment
-  >
-  > **@sekyung2069**：this is like that show where it 3d prints food and sprays scent on it at the end
-  >
-  > **@mr.nissim**：Seems super difficult to clean
-  >
-  > **@rivero94**：That&#39;s gotta be the next video!! How to clean this shit
-  >
-  > **@thacarter497**：How easy is it to clean
-  >
-  > **@gokto**：This is crazy! I need this.
-  >
-  > **@abesview5855**：Honestly this is amazing very intuitive and outside the box thinking.
-  >
-  > **@DavidLiberman23**：Make more meals bro I need this
-  >
-  > **@calcifer0.o**：How do you clean the pan and the spinner thing? Does it have to be disassembled?😅
-  >
-  > **@HC6657-RS**：I thought that wss a gaming cpu
-  >
-  > **@HazySkies94**：Damn where do i get one?
-  >
-  > **@0xfzns**：It is just just a fancy mixer with timer
-  >
-  > **@NIN9TEENwKhailee**：This is insane. Thank you for making this video
-  >
-  > **@orginal-name**：i thought that was a RTX 3060 fora sec
-  >
-  > **@diamondorm9920**：This is so much work lol might as well cook myself
-  >
-  > **@MRromeroo1**：If you made a whole series of all the meals it cooks. I&#39;d binge watch.
-  >
-  > **@RajDatta-c9d**：Where can I buy one
-  >
-  > **@Neonx88x**：I thought of that scene where she makes the ham 🍖 😅
-  >
-  > **@raghavagnihotri21**：I wasn&#39;t expecting bro to be so buff
-  >
-  > **@Fast4VVard**：This is one step closer to the instant pizza like in back to the future
-  >
-  > **@tayyabashraf4676**：before starting the vedio i thought bro bought a high end pc!!
-  >
-  > **@sns122089**：As someone at the end of their rope who could use any help given this looks great. However, how do you clean it and how much to fix?
-  >
-  > **@justin_sample**：Where’s this shirt from?
-  >
-  > **@RaduOcean-y6y**：Does it have auto-cleaning or does it come with an extra robot cleaner? Thank you.
-  >
-  > **@assarlannerborn9342**：Oh I really like the concept. This definitely could be amazing if it’s flexible and not to hard to maintain
-  >
-  > **@Patryk.Kraska**：Voice sounds like johny depth
-  >
-  > **@ashwintripathi250**：How many cuda cores does your Coker has
-  >
-  > **@afrivolouspursuit3147**：I love cooking but this could be cool maybe the only clanker I&#39;d trust until I see it slip in an extra ingredient bottle
-  >
-  > **@mr_business_24**：Just cheaper and easier to get the ready meal from the store or batch prep yourself.
-  >
-  > **@TheGourmetHusband**：So it dumps and mixes its doesnt chop?  does it require you to cut food to a proper size to work? i guess its a start
-  >
-  > **@justsomecheesecake**：I feel at this point just make it yourself
-  >
-  > **@BiblioMane-ir1qm**：What with miss matched arms
-  >
-  > **@publicneucence**：I think that one was second cause there was one on shark tank
-  >
-  > **@polarity099**：what gpu does your chef use
-  >
-  > **@rash6650**：&quot;I&#39;m about to abuse that robot&quot;<br><br>The terminator&#39;s first victim right there
-  >
-  > **@indianplaying6022**：Can&#39;t believe we got a clanker cook. Damn
-  >
-  > **@Clone683**：As someone who hates cooking this is absolutely something id use
-  >
-  > **@zevlife7932**：Does it clean its self?
-  >
-  > **@winoo7963**：It&#39;s preparing the ingredients and the cleaning that take up most of the time, cooking is the easy part.
-  >
-  > **@theneg5054**：Bro that&#39;s not the first we got that shi in india about 1 yr -2 yr ago
-  >
-  > **@mhgscrubadub9917**：I love how you fill up the containers and need to clean them only for it to just dump it in the pan
-  >
-  > **@Vettenight**：Definitely getting this
-  >
-  > **@JdksXjbds-s3o**：Is this not just an oven
-  >
-  > **@Brado1343**：bro why is there an rtx 2060 hanging in the thing
-  >
-  > **@th4t0n3p3rs0n-X**：“ even the robot seasons its food” damn.
-  >
-  > **@andrewbottiger**：Literally still doing all the laborious parts
-  >
-  > **@abuhabibalkhair250**：Now all we need is a fridge attachment so you can just load up and not have to worry about ingredients and stuff for atleast a week or two
-  >
-  > **@bangpalin8653**：i thought that was Gaming PC
-  >
-  > **@RivalHighlights**：this is actually crazy if it&#39;s reliable
-  >
-  > **@SeydinaSow-u6r**：Who else noticed his right arm vs left arm 😂
-  >
-  > **@SubhashReddy-y9w**：&quot;Even the robot&#39;s seasoning its food&quot;<br>*Crying in british&#39;s cusine😭
-  >
-  > **@Chinmaya20**：I was thinking why the hell u need a gpu in a cooking machine
-  >
-  > **@unknowngirl3678**：“Even the robot seasons it’s food”😂
-  >
-  > **@sagardixit9247**：Wait those spices, can use our own or do we have to buy those packets from the company
-  >
-  > **@_Kev_n**：Food graphics finna be outta this world
-  >
-  > **@theeyeofmango**：I&#39;d take a food prep robot that cuts and portions food over one I have to cut and portion food for. It&#39;s just a standing mixer with a funnel.
-  >
-  > **@Bee_Rah**：How about a video on how to clean this goes....😂😂😂
-  >
-  > **@DVDMAN222**：equiped with a handy two fan rtx 4080 lmfao
-  >
-  > **@beeziy4818**：Honestly you still need to prep everything and put it all in with extra steps like proper pan or cup for seasoning and chicken etc. might aswell just cook
-  >
-  > **@jasongrant2366**：Bro freaked out when it put the chicken in 😭
-  >
-  > **@NoBs1987**：So what did it actually do?
-  >
-  > **@timothydutoit7066**：This is oddly dystopian
-  >
-  > **@davidgr1tu**：The amount of time you would save with this thing would be crazy
-  >
-  > **@heresthething5379**：It already doing all the prep work , the bot is just adding things in the correct order which is easy.  That&#39;s most of cooking anyway, knowing the correct order to add ingredients and having the instinct to know when
-  >
-  > **@sebyrobbin**：Will it wash the plates?
-  >
-  > **@cocolovesmaya**：i have rheumatoid arthritis and working exhausts me so much and makes cooking a grueling task that i used to enjoy this would be game changer for me. i’m thinking of saving up for one
-  >
-  > **@susmeow-jn9lr**：i want one with rtx5090
-  >
-  > **@zelos96**：That&#39;s alot of washing up to do
-  >
-  > **@bareu3392**：Is there a robot to clean it?
-  >
-  > **@golee-khan5778**：I thought you were about to show off a PC build lol
-  >
-  > **@Javeer89**：It is a interesting device. Like having the ingredients bought, cut and assorted is the hardest part. But after that you&#39;re chilling for the cooking.<br><br>The only way this piece of tech takes off is if there is a dedicated industry that sells you pre-cut and assorted ingredients ready for loading into this machine.
-  >
-  > **@dr.kawasaki7380**：&quot;Even the Robot seasons his food&quot; 🤣💨💨
-  >
-  > **@Ocean-wx4rq**：Running dish washer simulator at 16k 120 fps is an unbelievable feat
-  >
-  > **@alideees**：This is the most dystopian shit I’ve ever seen.
-  >
-  > **@ecetiger16**：Looks like more effort than cooking it yourself
-  >
-  > **@rj_the_mc4378**：Let me know when it can clean itself
-  >
-  > **@sebastianvidalhernandez8910**：Did u clean the chicken tho?
-  >
-  > **@airsantempire**：im not cleaning that, it needs to also was itelf
-  >
-  > **@itsmichael1369**：This is the definition of money buys happiness
-  >
-  > **@cowperm**：I want a dishes robot more.
-  >
-  > **@alexanderSprunger**：Dude thats sick
-  >
-  > **@furioustester4056**：&quot;that&#39;s a weird PC case&quot;<br>&quot;Wait what?&quot;
-  >
-  > **@Shadnova**：Did he just blur the chicken ?
-  >
-  > **@Nightstick24**：I was thinking “that’s the stupidest thing” the entire time, but the real-time photos and timer are such a good idea.
-  >
-  > **@TripleXGames**：by the time he&#39;s done prepping im already eating
-  >
-  > **@voken1380**：I think this is amazing and should be implemented everywhere in the world
-  >
-  > **@andrewfrey5562**：Seems like the same amount of work as cooking
-  >
-  > **@mystik8177**：I was about to comment he never heard of thermomix but no thermomix is that good xD
-  >
-  > **@sourgrape_s**：Might as well get a multicooker... That&#39;s also hands off and you do the prep anyways you can get recipes... literally anywhere online lol need to fry something get an air fryer or pan lol as a matter of fact my multicooker has a sauté feature that does shallow frying pretty well.
-  >
-  > **@nebiyousolomon5282**：I thought it was a PC case first with a GPU hanging 😂😂😂😂😂😂
-  >
-  > **@Kxng_Ulare**：I might as well just cook if i have to do all that prepping
-  >
-  > **@wildingvix1946**：Is it using a 2030 Nvidia migth as well cook it myself
-  >
-  > **@NIN9TEENwKhailee**：Oh it’s happening
-  >
-  > **@tarunsharma4230**：what is that a 5090?
-  >
-  > **@toddsmith1969**：&quot;I&#39;m not cooking nothing&quot; 😂😂😂
-  >
-  > **@OneFyzz**：I thought this would be the most expensive pc built
-  >
-  > **@io3000gamma**：pair this with a meal prep delivery service.
-  >
-  > **@EDMAEVERYWHERE**：“I’m not cooking nothing! … I’m about to abuse that robot!” 💀
-  >
-  > **@zahara9848**：In the future this should be paired with Tvs and when can finally achieve the dream of eating whats on tv
-  >
-  > **@SleepyMusa**：Yup im buying one of these now, this is a game changer.
-  >
-  > **@itzme4007**：Now what did you have for juice 🤔
-  >
-  > **@zambitiber1394**：Tech malfunction.<br>Robot burned my house down.
-  >
-  > **@markgarcia6746**：Cooking with more steps
-  >
-  > **@hasanarli**：I thought this was a coffee machine with a crazy GPU
-  >
-  > **@KOSYOUNG**：This is that Le Spatula 3000
-  >
-  > **@sabinamagar142**：That rich laugh at the end😢
-  >
-  > **@robertking9988**：😂😂😂😂 even the robot seasons is foodlol
-  >
-  > **@TenHorizons**：How is washing it?<br>Edit: also does the ingredients come out of the containers properly? Say we have butter, does the butter stick to the container instead of dropping onto the pan?<br>Otherwise I think it is pretty good. Howany times I have avoided to cook because I didn&#39;t want to stand around frying at the pan, and how many times I opted to use my steam oven to come instead
-  >
-  > **@manudelaisla77**：You have to cut, clean and prepare all and then takes out the only part that you can enjoy, cooking it. then clean everything. If the roboto clean and cut Im in xdd
-  >
-  > **@lightingfox3111**：That looked like a pc
-  >
-  > **@kariithimwangi1554**：Bruh i thought it was a PC at first
-  >
-  > **@pudgbee8218**：Dawmit even robot season their chicken.
-  >
-  > **@shadow_gaming93-32**：Cleaning bouta go crazy though
-  >
-  > **@BryanGlasper-q4r**：Where can I  buy
-  >
-  > **@EmilianodelaBarreraOchoa**：Put the link
-  >
-  > **@Username-cb4fg**：Wonder how those fans will look after a few uses with the grease build up.
-  >
-  > **@auzp**：So a Thermomix with extra steps and way too many things to clean afterwards?
-  >
-  > **@pwnz27**：They need a robot that cleans the dishes after now
-  >
-  > **@Hxtting-Whites**：Even the robot seasons it’s food
-  >
-  > **@amphibiangoddess**：This is great! I want one!
-  >
-  > **@jasondekock1683**：Literally  just stirrs food 😂
-  >
-  > **@gyrthez246**：There is no way anybody who has actually tried to learn how to cook would be bad enough to resort to using this
-  >
-  > **@six_eyes_zak**：that do not have feelings in it
-  >
-  > **@odd02**：@<a href="https://www.youtube.com/watch?v=tbjUWq0UpK8&amp;t=275">4:35</a> unless you&#39;re Billy with a couple item or fed then you most certainly can 😅😂
-  >
-  > **@BlasphemousBuddha420**：Damn clankers😂
-  >
-  > **@travpro5840**：Now juist have a robot to prep all my food. Feels like that the pain in cooking.
-  >
-  > **@varrelxx**：this is more work than actual cooking
-  >
-  > **@dasbeesteees**：Food taste is subjective how tasty it can make up still excellent time saver, wish it could cut and peel veggies too. This part is the hardest.
-  >
-  > **@MehdiGuizani**：It’s missing love ❤ a ingrediënt that makes or breaks a dish
-  >
-  > **@kristoferhutter3873**：So 1500 for an automated mixer?
-  >
-  > **@ParadoxGod22**：These clankers can&#39;t keep getting away with this!!!
-  >
-  > **@nikhilthakur9581**：Brooo its literally just a stirrer lmao
-  >
-  > **@Lex8_559**：So he did everything except pour and stir lol he couldve just used a pan and the timer. He still measure chopped sourced ingredients  etc
-  >
-  > **@sickofseeingjustsomeguywit8168**：We never needed Robot chef, we needed a robot dishwasher.
-  >
-  > **@AbuZuzzi**：That would be a pain to clean every time.
-  >
-  > **@jliddy**：That looks like more work than just cooking 😂
-  >
-  > **@unityhb8252**：if you can prep the ingredients you can cook it
-  >
-  > **@kyungkim5570**：But does it clean itself tho? 🤔
-  >
-  > **@autodidact7127**：Cooking but with extra steps
-  >
-
----
-
-## 5. Meet Nosh: The AI-Powered Home Cooking Robot!
-
-- **频道：** India Mobile Congress
-- **观看数：** 25,172
-- **点赞数：** 338
-- **评论数：** 7
-- **时长：** 1:06
-- **发布日期：** 2024-11-14T11:06:23Z
-- **链接：** https://www.youtube.com/watch?v=96POwGbeOBA
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/96POwGbeOBA/hqdefault.jpg
-- **简介：**
-
-  > Craving a delicious, home-cooked meal but short on time? Nosh is here to revolutionize your kitchen! Using AI and computer vision, this innovative robot takes your ingredients and recipe, then cooks up a customized, healthy meal—just like mom’s cooking! 🍽️✨
-  > 
-  > Watch how Nosh is bringing tech and home cooking together, making every meal easy, healthy, and delicious. 👩‍🍳💡
-  > 
-  > #TheFutureIsNow #FoodTech #AI #HomeCooking #SmartCooking #HealthyEating #Nosh #IMC2024 #Innovation
-
-- **热门评论（5 条）：**
-
-  > **@PradnyaFunde-s2l** [👍3]：How to buy it
-  >
-  > **@noschkin2** [👍1]：my name is Nosch
-  >
-  > **@manikanthkommoju3176**：it is like nymble/posha
-  >
-  > **@funmasti29**：❤❤❤❤❤❤
-  >
-  > **@pranampankaj9273**：is the bowl teflon coated?
-  >
-
----
-
-## 6. Nosh Ai Robot Chef Review - Meet the Future of Home Cooking
-
-- **频道：** Organizopedia
-- **观看数：** 152,548
-- **点赞数：** 1,096
-- **评论数：** 138
-- **时长：** 9:55
-- **发布日期：** 2025-07-09T06:24:31Z
-- **链接：** https://www.youtube.com/watch?v=mO94EBgJF0U
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en-GB
-- **缩略图：** https://i.ytimg.com/vi/mO94EBgJF0U/hqdefault.jpg
-- **标签：** organizopedia, organize, home organization
-- **简介：**
-
-  > Nosh is your personal cooking robot that makes over 500 dishes like dal-chawal, butter chicken, and paneer masala, all with just one tap.
-  > 
-  > No stirring, no standing in the kitchen. Nosh cooks fresh, home-style meals for you, completely hands-free.
-  > 
-  > Why Nosh?
-  > – Cooks 500+ recipes
-  > – AI-powered and fully automatic
-  > – No manual work needed
-  > – Healthy, dietary preferences, fresh meals every time
-  > – Compact and easy to use
-  > 
-  > Whether you're a busy professional, a working woman, or a working parent, or someone who just wants to save time without compromising on food quality, Nosh is your perfect kitchen partner.
-  > 
-  > Made in India | Made by Euphotic Labs
-  > 
-  > Learn more: https://www.letsnosh.io
-  > 
-  > #Nosh #RobotChef #NoshRobot #AICooking #Smartcooking
-
-- **热门评论（81 条）：**
-
-  > **@radhikarangwani875** [👍70]：Meal prep actually takes a lot of our time. Cooking that on a stove   is not time consuming. So if we hv to do the meal prep and then put the ingredients in this machine. We might as well use 15 min of extra time and do the cooking ourselves.  I find it waste of money because the cost price is also very high.  I guess approx 60000/- plus. So it&#39;s a utter waste of money that can be put to good use by buying something that is worth paying for .  This is my opinion but to each its own.
-  >
-  > **@fariyakhan1793** [👍26]：I still prefer human touch
-  >
-  > **@riyakkt** [👍24]：Atleast  betterand healthier than ordering food from outside .
-  >
-  > **@balajisubramanian7847** [👍18]：Remember, we hv to cut and fill all the ingredients in the tray. In that case, we could cook for ourselves. The suji halwa looks half cooked and the portion also seems to be very less. Anyhow, it needs more improvements...
-  >
-  > **@brajyalakshmi5425** [👍17]：After seeing this video i have the conclusion that Robots never replace humans for cooking.
-  >
-  > **@wadhwa_89** [👍13]：That’s a nice product especially for NRI’s who neither have maids or helper and nor do they have time after handling many house chores . This is actually incredible.
-  >
-  > **@dr.mukeshkumar4871** [👍12]：I purchase nosh one month back but i disappointed . Nosh not cook properly. Only he cook variety of paneer is good but Vegetable uncooked always. I am very Frustated . My suggestion is don&#39;t buy. Don;t waste money to buy Nosh.
-  >
-  > **@bhrkrao** [👍8]：Looks like a lot of plastic is used in the components/trays which I hate. That is the one that is stopping me from using this robo!
-  >
-  > **@MEHEKMOHSINI-ym8hf** [👍8]：Thank u for sharing a genious product just like u , amazing technology 🙏👍👍❤️
-  >
-  > **@nandakishore588** [👍7]：so basically, it makes only curries and we need to make our own chapati and rice ? even that seems ok, but the portion size and vessel seems very small - does it cook enough for one person only or can u make it for 4 people  ? lot of details are left out
-  >
-  > **@nandakumarlakoju5474** [👍5]：Good for senior elders at home . It helps
-  >
-  > **@sathyapavani8696** [👍5]：Not sure how much safe is teflon steel would be better any way cleaning of it is big challagene oli container and inter parts😊
-  >
-  > **@Rama-y4h5p** [👍5]：Itna complicated hai..itni der mein toh hum teen baar tadka laga lein
-  >
-  > **@monatp** [👍5]：Hey does it make chapatti?. Its whopping expensive at Rs. 73,000/-
-  >
-  > **@pinkusagar** [👍4]：This is good for people who don&#39;t know how to cook. If you know cooking it won&#39;t save you much time. Preparing for a dish rakes a lot of time than actual cooking.
-  >
-  > **@AyeshaKhan-gi2uk** [👍4]：Ek achhi roti masheen ,mil jaye wahi bahot hye...hye to ,pr syesi koi nahi dikhi jiise lage ki ye bahut achhi ghar jyesi roti de de..koi ho to bataye.rotomatic ko chor kr
-  >
-  > **@anasuyamohapatra8806** [👍3]：Mam plz smart door lock and   indoor cc camera ka review banaye plz it&#39;s my request if possible
-  >
-  > **@drami87** [👍3]：I truly believe this is a huge time saver, even when some prep work is required. If you add up the actual hands-free cooking time, the guessing, and the constant stirring, it ultimately saves a significant amount of time.<br><br>I own a Rotimatic, and some people may think it doesn’t really save time—but from my experience, it saves me about 20 minutes every day. Those 20 minutes allow me to prep an extra sabji, cut a salad, or take care of another household chore. When you’re committed to serving a healthy, home-cooked meal to your family every day, every minute truly counts.<br><br>I also feel this can be extremely helpful for young children or spouses who don’t know how to cook at all. In fact, I’m considering this for my teenager who will be going to college soon. They rely heavily on Indian vegetarian meals, and in the USA it’s quite difficult to get food that is daily, healthy, freshly prepared, and truly home cooked. This would make a meaningful difference in maintaining both nutrition and cultural food habits.<br>Thank you all for inventing such product, I do look forward to an upgraded one, like with chopper, stainless steel pan and etc.. But even as is I am willing to buy and save time.
-  >
-  > **@harjotsingh8671** [👍3]：Good product but needs refrigerated storage space, where someone can load ingredients for the entire week and it automatically uses those.
-  >
-  > **@Dobbyisfree000** [👍3]：This is one thing like dishwasher. People will fight it for a while cause it makes a woman’s job easier
-  >
-  > **@abhaydixit3188** [👍3]：Chopping is still requied so whats the deal😢
-  >
-  > **@mathsncertcbse** [👍2]：Next level. Very nice. New revolution in home cooking
-  >
-  > **@saswatab79** [👍1]：Wow! Robots which can cook is eventually becoming a reality.
-  >
-  > **@waiwai5233** [👍1]：The value comes in difficult dishes that you buy outside like Cantonese BBQ pork belly, roast duck, pork, Neapolitan pizza and other dishes that requires constant monitoring or easy to over/undercook. If a robot can prep ingredients including proteins and clean that would be the biggest game changer.
-  >
-  > **@GupshupCookingvlog** [👍1]：Beautiful sharing 🎉😊
-  >
-  > **@toradrow777** [👍1]：For the elderly or disabled I could see this as quite a boon, so long as subscription fees are low. For most people, save your money and learn to cook.
-  >
-  > **@sweetyrai100** [👍1]：It will more useful by adding chopping n adding in it or making of puree
-  >
-  > **@PrachiPrakash-nc2uo** [👍1]：amazing
-  >
-  > **@littlebumzz** [👍1]：What about the taste
-  >
-  > **@anirbansarkar9872** [👍1]：Can it cook Mutton Biryani   ??
-  >
-  > **@chetanshah6417** [👍1]：Is it made by Rotimatic group ?
-  >
-  > **@thaanasendhakootam3340** [👍1]：Is it possible to send this appliance from Bangalore to Australia?
-  >
-  > **@gargshivam024** [👍1]：nice machine. good for working people
-  >
-  > **@rachitbalani** [👍1]：Add airfyer and microwave capabi.ty and boom
-  >
-  > **@Kewlzter**：A crockpot and pot stirrer, would do exactly the same thing.
-  >
-  > **@AnkitMondal-we9vr**：How chimney works and filter longevity
-  >
-  > **@purvakerkar4017**：Thanks for sharing 🎉🎉
-  >
-  > **@gijo401**：The hard part of cooking is the prep work, you still have to chop everything and fill in the items, the actually heating the ingredients is the easy part of cooking. Hope the next version can chop and prep food.
-  >
-  > **@noneya404**：As an American who&#39;s taught himself restaurant style Indian cooking... I must have this.  We would be eating Indian every day!
-  >
-  > **@prakashsharan5789**：Mixie shoud be integral part of it.
-  >
-  > **@rachitbalani**：This is amazing
-  >
-  > **@sandhyagokhale247**：Is there an auto switch off function?
-  >
-  > **@SridharSrinivasan-p8k**：Can it make south indian food sambar rasam dosa idilli and chapati.   Demo please with price please
-  >
-  > **@seanbellfort2298**：🤗🤗🤗🤗Must buy🤗🤗🤗
-  >
-  > **@Abhishek-kx4pn**：What about non veg like chicken,  fish?
-  >
-  > **@VenusDrip**：Where to weigh the ingridients? The halwa definitely looks undercooked.
-  >
-  > **@AkashRajput-by8jp**：nice
-  >
-  > **@sunilmazumdar5501**：Can It Cook Donauts Cookies Choco  Muffins Cakes.Etc.
-  >
-  > **@PrashantYadav-dy2gz**：Is there any subscription plan?
-  >
-  > **@Mr.Blaze3**：Any time saved would be spent cleaning and servicing it...
-  >
-  > **@Carolina-mw4po**：Amazing! Does it offer other than indian recipes?
-  >
-  > **@kirath-730**：I would love to buy it if it can cook for 4 to 5 people, in Ahmedabad the cook charges 10K for 2 times and still they want you to prepare everything like daal and, rice cleaned and washed, sabzi washed and cut, and still not perfect taste, every day daal taste and consistency changed, only sabzi allowed if 2 are required not happy.
-  >
-  > **@dipensen1**：Amazing ....... from where to buy it ?
-  >
-  > **@PaongulChongloi**：Nangna chabado uraga chak lammr
-  >
-  > **@majadevSaha**：Kitne logo ka khana bana sakta hai aur kitne saal tak chalega
-  >
-  > **@maxroderics**：Agar itna cutting chopping main khud kar lunga toh khana bhi khud bana lunga didi... Problem ke liye solution banaya hai ya solution ke liye problem?
-  >
-  > **@aashirsayed**：Did this make roti or paratha
-  >
-  > **@travel2toast**：What is price in india? And where to buy?
-  >
-  > **@bobo-The-Ele**：It can never replace human cooking.. thanks.. that is my conclusion.. <br>there is no Ai here as well..
-  >
-  > **@hkbhaskara5585**：can i add recipes
-  >
-  > **@jmanajr**：Looks like it&#39;d be a pain to probably clean
-  >
-  > **@punjabistar1998**：Food coming out while cooking
-  >
-  > **@mayak2676**：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping function
-  >
-  > **@fat2fitby2027_Jan**：But who is going add the ingredients to the machine?
-  >
-  > **@HalimMallick-q1l2x**：What is the price of it ?
-  >
-  > **@binakumari2722**：I prefer cooking myself
-  >
-  > **@vj.d81AMS**：How can every claim that they are the first Ai robot cooking company.. Ridiculous!! Do still ppl fall for this marketing buzz words.. This shows how much you can trust them... And during review why they always show a easy recipe??.. Good product for today but never  buy it if it can&#39;t give you the value you need for the next 5 years
-  >
-  > **@smtkumar007**：i think AI is just marketing gimmick , if u control everything from the start there is no need for the AI, Just timely control of falling of ingredient
-  >
-  > **@Rups78**：The main boring part is making ingredients ready for someone. If I need to make ingredients ready for robot and wait for 40 mins for one sabji, better I will make it ready for my self and make the sabji in 20 mins.
-  >
-  > **@Shivaansi**：Useless, so much time taking for all this. Self cooking is more convenient in less time. Hassle free.
-  >
-  > **@HolyRamanRajya**：This is not a review
-  >
-  > **@Factbasedislam**：👎
-  >
-  > **@0309shweta**：Too much pastic
-  >
-  > **@vikasbabu719**：You have to cut, you have to dice, you have to add water and oil, you have to make puree. What did this machine replace?? Nothing!! You have to do that anyways while doing normal cooking. People are this lazy to add all this and mix it in a pan on stove? You can do all this by watching instruction online. Above all that, it will add to your E-bill, gas bill will be cheaper that your E-bill! You have to wash the machine parts anyways same as washing utensils after cooking!! Selling anything in the name of AI....not a cool product, will add cost to your daily living nothing else.
-  >
-  > **@brajyalakshmi5425**：It&#39;s not Suji Halwa that looks like something else. I think ground nut and almond are raw in this robot. Not frying properly.<br>Waste of money.<br>Robots never replace humans.
-  >
-  > **@nirajprasad99**：Waste of money
-  >
-  > **@sudhan2768**：if its coated with chemical, then who ever uses this will have to pay for the diseases that comes with this machine freee of cost................................................
-  >
-  > **@edwinrodrigues9814**：Pls.... help Gaza.....!
-  >
-  > **@rakeshshetty7296**：Its unhealthy. I see plastic usage inside. Very dangerous for health. If they use stainless steel its good. Unless no to this device.
-  >
-  > **@adwiksamanvay2825**：It can help in time consuming dishes like moongdal halwa.  But ordinary upma, poha etc it&#39;s waste of money.
-  >
-  > **@mayak2676**：What&#39;s the price?
-  >
-
----
-
-## 7. Sowmya’s experience with Nosh - World’s First Robo Chef! #nosh #robochef
-
-- **频道：** Let's Nosh!
-- **观看数：** 28,995
-- **点赞数：** 218
+- **频道：** Sami Luo Tech
+- **观看数：** 18,455
+- **点赞数：** 345
 - **评论数：** 52
-- **时长：** 4:23
-- **发布日期：** 2025-03-20T10:55:33Z
-- **链接：** https://www.youtube.com/watch?v=fG90h-1Pyzc
+- **时长：** 6:48
+- **发布日期：** 2026-03-05T13:46:32Z
+- **链接：** https://www.youtube.com/watch?v=PdVIp1BvJ_Y
+- **来源：** search
+- **有字幕：** 是
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/PdVIp1BvJ_Y/hqdefault.jpg
+- **标签：** full color 3D printer, CMYW resin printing, AI 3D modeling, inew3D QC2A, full color resin printer, QC2A review, color 3D printing, desktop manufacturing, AI 3D printing, AI model generation, resin jetting printer, full color figurine printing, CMYW resin printer, color gradient 3D printing, inew3D QC2A review, full color resin printing, AI 3D printer, prototype test
+- **简介：**
+
+  > Back the project at https://www.kickstarter.com/projects/inew3d/inew3d-the-desktop-full-color-3d-printer-with-ai-modeling?ref=eid9nw The inew3D QC2A is a new full-color desktop 3D printer using a CMYW resin jetting system to create over 500,000 color combinations. With AI model generation, droplet-level color mixing, and water-soluble supports, it promises industrial-level color printing on your desk. Here’s my first look at this prototype.
+  > 
+  > Timeline:
+  > 0:00 Intro
+  > 0:29 How Does It Work?
+  > 1:20 Design and Build
+  > 2:03 Software and AI Workflow
+  > 3:18 Printing Process and Post-Processing
+  > 4:35 Color Performance
+  > 5:43 Conclusion
+  > 
+  > Join this channel to get access to perks:
+  > https://www.youtube.com/channel/UCgJCa5JyZUFkw2evyuvLbJA/join
+  > 
+  > -----  SUPPORT
+  > Support me if you can! These are affiliate links—they won’t cost you extra, but I earn a small commission if you make a purchase:
+  > Amazon: https://amzn.to/36dS0nN
+  > AliExpress: http://s.click.aliexpress.com/e/3JQIiec
+  > Official Xiaomi Store: https://amzn.to/36cBJiS
+  > 
+  > -----  MY STUDIO SETUP
+  > Anda Seat Gaming Chair: https://amzn.to/3R8f52B
+  > 49" Ultrawide Titan Army Monitor: https://s.click.aliexpress.com/e/_oolezk5
+  > EHOMEWEI Dual Stacked Portable Monitor:
+  > https://s.click.aliexpress.com/e/_oo5tOop | https://amzn.to/3DShv2n
+  > ErGear Standing Desk: https://amzn.to/421Ikco
+  > NANLITE PavoTube LED Light Tube:
+  > https://amzn.to/41Mo7se | https://s.click.aliexpress.com/e/_onGGzIv
+  > EKO Smart Home: https://amzn.to/4m6CLCP
+  > 🔥 Get the cool TEXTALE T-Shirt I'm wearing in the video!
+  > 👉 https://www.textale.tech/samiluo
+  > Use coupon code SAMI15 for an extra 15% off all orders!
+  > 
+  > -----  MY VIDEO-MAKING GEAR
+  > Sony FX3: https://amzn.to/4iPTY1a
+  > Insta360: https://amzn.to/3IYlCIa
+  > Vlog Camera DJI Pocket 3: https://amzn.to/4ieJx7f
+  > Hollyland Lark MAX 2: https://amzn.to/4khmCtK
+  > 
+  > -----  SUBSCRIBE & FOLLOW
+  > Updates on other platforms:
+  > Shorts Channel: https://www.youtube.com/channel/UCcjMHGgc4oXZ-sFzn6ZHOow
+  > TikTok: https://www.tiktok.com/@samiluotech
+  > Facebook: https://www.facebook.com/samiluotech
+  > Twitter: https://twitter.com/samiluo
+  > Instagram: https://www.instagram.com/samiluotech/
+  > Blog: http://bit.ly/2kUpo99
+
+- **热门评论（34 条）：**
+
+  > **@Gergman** [👍42]：$8000 USD including shipping.  Let me save you all the bother of clicking the link.
+  >
+  > **@HELLOHOGO** [👍15]：Can we do 125,000 colors for $2000?
+  >
+  > **@wildhogOW** [👍3]：The build volume is pathetic, when considering the machine&#39;s size. This thing is <b>not</b> worth $7000.
+  >
+  > **@SamiLuo** [👍2]：English subtitles have been updated. If you have any questions about this machine, feel free to leave them below and I’ll do my best to answer! :D<br>Thanks! More about the inew3d QC2A: <a href="https://www.kickstarter.com/projects/inew3d/inew3d-the-desktop-full-color-3d-printer-with-ai-modeling?ref=eid9nw">https://www.kickstarter.com/projects/inew3d/inew3d-the-desktop-full-color-3d-printer-with-ai-modeling?ref=eid9nw</a>
+  >
+  > **@SamiLuo** [👍2]：Back the inew3d QC2A full-color 3D printer at <a href="https://www.kickstarter.com/projects/inew3d/inew3d-the-desktop-full-color-3d-printer-with-ai-modeling?ref=eid9nw">https://www.kickstarter.com/projects/inew3d/inew3d-the-desktop-full-color-3d-printer-with-ai-modeling?ref=eid9nw</a>
+  >
+  > **@ghost7233** [👍2]：8000 es mucho para una impresora 3d de escritorio, habría que ver los tiempos de impresión y los costos para determinar la rentabilidad de la máquina
+  >
+  > **@doctorpd1969** [👍2]：I have a few questions:  1.  What is the required maintenance to prevent clogging?  2.  Is the vapor dangerous to inhaled?  3.  Is the ink proprietary or you can buy from 3rd party for cheaper price?  What is the max size of the model that can be printed?
+  >
+  > **@Terry-cw9ty** [👍2]：Omg, I was laughed at when I suggested back before 2010 that colors should be added similar to the way color copies are made. Wow...
+  >
+  > **@madgorilla4888** [👍1]：Wow This is really promising. can&#39;t wait for the final product. The future is exciting for 3d printing yezzzzzz.
+  >
+  > **@sebasro9233** [👍1]：sin duda esto es el futuro pero el precio es una locura
+  >
+  > **@donaldhenderson1870** [👍1]：This approach is going to have certain limitations like the polymers that can be used and the colors likely come from dyes rather than pigments. Dyes have poor lightfastness. The polymer used will need strict quality control so that the dye base and the polymer properly mix. I worked in polymer coloration industry and small changes made huge difference in performance. All that said, this will find its market as it will yield vastly superior coloration especially if they use pigments. It took the inkjet market nearly 15 years to reach the pigment over dye stage but perhaps with the inkjet technology this will be done quickly
+  >
+  > **@id104335409** [👍1]：The printer looks cheaply built. That makes me think of how many problems will arise with continuous use (or in this case even when the printer is not in use). Clogging is a big issue on super expensive printers. I am very happy to see full color printers finally making the first step from professional grade to desktop. I just hope they figured out how to make them easier to work with as well as how to make them cheaper to make. I hope more companies start making them - this is a big step in resin printers.
+  >
+  > **@SkyP1e** [👍1]：We are less than a decade away from a 3D printer in every home. Less environmental impact. Less waste. Less cost. Zero shipping for products you buy to print. The Star Trek replicator is around the corner.
+  >
+  > **@EditFrame** [👍1]：What is the size of the build plate?
+  >
+  > **@ComicsLegend** [👍1]：What is the cost of the printing materials?
+  >
+  > **@BaconSniffer578**：very exciting stuff
+  >
+  > **@DoublePlus-Ungood**：Holy Sh*t.  Need. This. Product.  Man .
+  >
+  > **@christinekylevanpatten3552**：I&#39;d be interested in seeing closeups of 28-32mm models with something included for scale.
+  >
+  > **@profoundmatter4786**：I wish I was rich so I could back this project. I would really like to get this.
+  >
+  > **@amandagallacher8173**：The printhead WILL wear out. Would be awesome if they can make that easy to replace!
+  >
+  > **@rcmoedas**：👍🏽1️⃣<br>  ⚡
+  >
+  > **@Exaris79**：Can you pls try to do a 3D figure of the character from the X-O ManOWar #0 and #5  or #14 cover, especially with a semi transparent beam effect.  Maybe adding a conductive material and a cavity for a micro LED to be manually added and covered by the regular material.  Another possibility is just adding a wireless led into a cavity and the LED would be activated by wireless field induction.  A good example is that transparent body with organs, include a cavity during the printing and then add a red led for its heart and then let it finish the rest of the body&#39;s surface.
+  >
+  > **@FlintStone-c3s**：For wargaming a whole painted army in a few prints from 3mm to 15mm scale?
+  >
+  > **@cokreeate**：How much are the printhead to replace
+  >
+  > **@nightphreak**：I&#39;ll wait for the bootleg version
+  >
+  > **@JoseGabrielMattaGonzales**：what&#39;s the resolution?<br>who makes the texture?
+  >
+  > **@KMBdesign**：So this is a miniature Polyjet. Does it have the awful purge waste as well? Guess another Stratasys patent is dead enough. Mimaki had the best color palette though so I&#39;d hope it&#39;s more that direction. 😅<br>Despite your filter I would still have some air exchange ventilation recommended.
+  >
+  > **@garyleung2141**：我想打印頭及樹脂料價錢多少？
+  >
+  > **@Johncarterreal**：What are the differences between FDM and resin 3D printing? Is the color difference significant compared to real-life objects🎉
+  >
+  > **@W4ReLL**：Why are you using AI for that presentation?
+  >
+  > **@SappyElephante**：I&#39;m mostly curious about the durability of the material. From my experience, color 3D prints that use this technology are extremely fragile, especially on smaller figurines.
+  >
+  > **@jozsab1**：before I even consider investing in some new tech 8000$ :<br>- is the input material source locked ? 150$ today 500$ tomorrow ?<br>- I find it hard to believe that print time only scales with Z<br>- can it print fully hollow ? <br>- what is the minimum support material density ? 5% ? 100% ?<br>- how much consumable parts cost ? ( nozzle )<br>- what is the print failure rate ?<br>- can I service it alone or does it need professional team ?<br>- does it support multiple resin types ? ABS like ? Flexible ? ... Is the standard resin brittle ?<br><br>PS. Why make such a small print area ? literally everyone is looking for larger print areas. Apart from small gadgets ... you need to glue multiple parts together.
+  >
+  > **@randomnickify**：I just love they are explaining Ai workflow using fake Mario model, trully embracing entire &#39;Ai is evil and its working on stolen data&#39; approach :) Technology itself isn&#39;t new, it surfaces every few years since more than decade. So far none of the previous atempts managed to deliver viable market product. I will wait until its on the store shelves at the resonable price.
+  >
+  > **@citationsloth**：Sorry gonna need to give this to a trusted american 3d printer to test before I buy <br><br>&quot;3d printing nerd&quot; etc
+  >
+
+---
+
+## 2. inew3d  Desktop Full-Color 3D Printer @formnext shenzhen2025
+
+- **频道：** Panda3dp.com中国3D打印出海平台
+- **观看数：** 952
+- **点赞数：** 15
+- **评论数：** 0
+- **时长：** 6:44
+- **发布日期：** 2026-01-29T02:38:38Z
+- **链接：** https://www.youtube.com/watch?v=f1u0qUGo2kQ
+- **来源：** search
+- **有字幕：** 否
+- **语言：** zh-Hans
+- **缩略图：** https://i.ytimg.com/vi/f1u0qUGo2kQ/hqdefault.jpg
+- **标签：** inew3d, full color 3d printer
+- **简介：**
+
+  > @ 2025.8.26Formnext Shenzhen，nanjixiong interviewed inew3d Desktop Full-Color 3D Printer simba3d, CEO told us,the market price of this machine will be set at under 8,000 US dollars, aiming to make it affordable for more 3D printing enthusiasts and empower them to create more sophisticated applications
+
+---
+
+## 3. Post-processing — optional, not required.
+
+- **频道：** inew3d
+- **观看数：** 1,077
+- **点赞数：** 19
+- **评论数：** 1
+- **时长：** 1:07
+- **发布日期：** 2026-02-25T09:20:41Z
+- **链接：** https://www.youtube.com/watch?v=lG9vZvWQ8yQ
 - **来源：** search&channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/fG90h-1Pyzc/hqdefault.jpg
-- **简介：**
-
-  > When Sowmya experienced @letsnosh , she didn’t just try it — she took a closer look at what sets us apart. Her review, from quality to taste, reflects our promise: thoughtfully prepared, flavour-driven products that deliver, every time.
-  > 
-  > #nosh #noshreview #clientexperience #qualityineverybite #robochef
-
-- **热门评论（26 条）：**
-
-  > **@alfs9094** [👍7]：Chopping and weighing features should get added to this as chopping is more cumbersome and getting the correct amount of the ingredients in is very important for the final taste.<br>Since the focus is to make cooking easier such features are a must and also least amount of washing after cooking makes it efficient. Otherwise if a househelp is required then might as well hire her for 2 tasks than one.
-  >
-  > **@xinspiredu3294** [👍5]：No one can Replace Ma ka hat ka khana but when your are alone at home without family its a game changer 😊❤
-  >
-  > **@aswinisahoo1977** [👍3]：What about washing after cooking?
-  >
-  > **@hapsn5413** [👍2]：Does it make roti?
-  >
-  > **@ericdasilva3421** [👍2]：Make Nosh++, just get from market dump onions potatoes and all vegetables and also non veg items. Nosh++ will be smart enough to identify the vegetables peel, wash , chop and then cook
-  >
-  > **@avinashevilmonsterkane995** [👍2]：Will it resume after powercut
-  >
-  > **@saisagartata9464** [👍2]：Where is Nosh+ where i just need to add vegetables and ingredients it cuts itself and makes curry .<br><br>Cutting vegetables at times is more problematic than cooking itself
-  >
-  > **@nikhilbalchandani665** [👍1]：Great
-  >
-  > **@bhargavk1515** [👍1]：It would be great if there was a refrigerated unit that would have large storage, so that I would have to just fill ingredients once a week. It should be sold seperately like an attachment.
-  >
-  > **@steelbirds** [👍1]：Nice presentation
-  >
-  > **@jyotiboriwale9308** [👍1]：Ye cutting ka option Auto dena chahiye usmay.uskay liye he yime jada jata hey
-  >
-  > **@mayak2676** [👍1]：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function
-  >
-  > **@ARA-d1p9r** [👍1]：Actually concept चांगला आहे पण फार बेसिक आहे. ..मशीन actually आधी सांगणार कि प्रत्येक कप्प्यामध्येय काय भरायचेय आणि किती वजनाचे ...आम्ही पूर्ण भरू ना कप्पे ..ऑटोमॅटिक आहे, ai आहे तर मग machine ने weight करून तेवढेच वापरायला पाहिजे ना!  आपल्या आई ना किंवा बायकोला 2 कांदे चिरायचे एवढे माहित आहे,. पण machine ने 170 grams सांगितले तर पोहे बनवन्यात energy टाकायची कि weight करून ते 7-8 कप्पे भरण्यात!  आणि त्याचे आपण 75k pay करायचेत. .छान
-  >
-  > **@bitu0091** [👍1]：Can we adjust salt for the recipe
-  >
-  > **@LazzyBoy-p5b** [👍1]：Cost and is it available in India
-  >
-  > **@mayak2676** [👍1]：Meal prep takes more time than actual cooking.  We need a robotic chopper, dicer &amp; slicer
-  >
-  > **@lalithapriyas6237**：Good to hear....❤<br><br>Thanks for the scientists who invented this💪💪💪
-  >
-  > **@rahulv74**：I have seen its live demo in Bangalore. It is an amazing appliance.
-  >
-  > **@nishant2204**：If you could add auto cleaning also it would have been very convinient.
-  >
-  > **@jyotiboriwale9308**：Regualr sabji bna skti heyvkya Machine
-  >
-  > **@shwetapandey1463**：Can we cook food without onion and garlic?
-  >
-  > **@jyotiboriwale9308**：Cutting and chopping complete then i am interested any demo available pune maharashtra
-  >
-  > **@morshalinvora5852**：It cook nonvage food?
-  >
-  > **@prasenjitllspl**：This product has some missing elements <br>Chopping AI skills<br>Reheating<br>Air fryer <br>Including This 3 can make this product a game changer.
-  >
-  > **@mayankpatel3737**：Price?
-  >
-  > **@ARA-d1p9r**：Actually the concept is good but very basic. ..the machine will actually tell you first what to fill in each compartment and how much weight...why so? You are saying its automatic, right? Then we will fill the compartments completely..if it is AI enabled then the machine should weigh it and use only that much quantity! our mother or wife knows that she should chop 2 onions,. But if the machine says 170 grams, should we put energy into making poha or into weighing ingredients manually and fill 7-8 compartments! By that time we can make poha ourself 😂<br>And should we pay 75k for that. .good !!
-  >
-
----
-
-## 8. AI Robot Chef Nosh Review 🤖 Taste Test + Honest Cooking Demo | Smart Cooking
-
-- **频道：** Vaishnavi Patidar
-- **观看数：** 16,192
-- **点赞数：** 171
-- **评论数：** 51
-- **时长：** 10:29
-- **发布日期：** 2025-08-29T11:30:59Z
-- **链接：** https://www.youtube.com/watch?v=wArwxcwqngA
-- **来源：** search
-- **有字幕：** 否
-- **语言：** hi
-- **缩略图：** https://i.ytimg.com/vi/wArwxcwqngA/hqdefault.jpg
-- **标签：** vaishnavi, cookingvlog, recipes, healthyrecipes, housewiferoutine, dailylife, homemaderecipes, myhomerecipes, nosh, ai, cooking machine, product review
-- **简介：**
-
-  > Product Link : https://amzn.to/45Yeyr5 
-  > 
-  > This video is in collaboration with Nosh The World's first AI Robot Chef. I put it to the ultimate test: cooking, reviewing, and tasting some of my favorite Indian dishes from Poha to Aloo Matar & Mawa Rabdi. Does it really deliver homestyle taste with zero effort? Let’s find out!
-  > 
-  > What you’ll see in this video🍴
-  > * Full product demo
-  > * Honest taste test & review
-  > * Cooking 500+ Indian recipes hands-free
-  > * How it fits into a busy lifestyle
-  > 
-  > If you’re curious about AI-powered cooking or looking for a smart kitchen upgrade, this one’s for you.
-  > 
-  > Made in India 🇮🇳 | By Euphotic Labs
-  > 👉 Check it out: https://www.letsnosh.io
-  > 📸 Instagram: https://www.instagram.com/letsnosh.io/
-  > ▶️ YouTube: https://www.youtube.com/@letsnosh
-  > 
-  > #RoboChef #automaticcookingmachine #smartcooking #CookingGadgets #PohaRecipe #AlooMatar #rabdirecipe  #Kitchen #EasyCleaning #IndianFood #TechCooking #noshai #vaishnavi
-
-- **热门评论（23 条）：**
-
-  > **@JackBlackSM** [👍8]：Not a single comment about how the food tasted! Just a paid collaboration video. Not convincing at all.
-  >
-  > **@pihubole** [👍5]：Not bad. Could be useful for someone like us. We are a working couple. My wife works at School and I work from home. Usually I am the one who spends more time at home and have two little daughters. My wife just struggles between work and then getting home and making food for all of us. I really want to help her. But I don&#39;t know cooking. I recently bought a Cleaning Robot that really helped, at least in keeping the home clean and reducing our workload. Now, this looks like another device that can help us reduce kitchen time and give more time to kids. I just hope AI startups work on a Chapati making device too :) I know Rotomatic is there but reviews are not that good. <br>Also, how would you compare it with Upliance or wonderchef devices? They come at almost half the price. But I think with them you need to be involved a lot more, like standing there in the kitchen and do the stuff as asked by machine.
-  >
-  > **@darasridhar** [👍5]：AI Robot Chef Nosh: 65000 rupees
-  >
-  > **@theruchika_arora** [👍4]：Hi Vaishnavi .. thanks for sharing such a detailed video as always ❤️❤️ automatic cooking machine looks very amazing and useful, definitely going to check it out 😍
-  >
-  > **@vidhiskitchenstories6129** [👍3]：Hie but I think I had to say tat it&#39;s better to cook on gas by own instid of wasting time in this machine.......... Es se jyda cooking khud se krna easy h ap se ase product k review k hope ni te ap tho wese bhi aacha khanna bnate ho or young generation ko motivate krte ho cooking k liye but for just paid promotion  please don&#39;t promote such machines wese bhi ai ne sab khtm kr deya h ab cooking tho traditional rahne do
-  >
-  > **@HolyRamanRajya** [👍2]：If only there was gas powered variant for the right cooking section instead of induction, because electricity costs are so high these days in the country over gas. What&#39;s more there are electronic means today to control flame flow on gas stoves. Something could be explored on that front.
-  >
-  > **@mayak2676** [👍2]：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function
-  >
-  > **@globaldigitalaccessibility1772** [👍2]：Please comment if anyone is using it personally, would like to connect
-  >
-  > **@sahana1971** [👍1]：Can nosh make pakodas
-  >
-  > **@thesahasky** [👍1]：That&#39;s a great innovation for working professionals. I&#39;m gonna surely recommend it to my sister.
-  >
-  > **@RajanK-d3j** [👍1]：Can I place order from Europe?
-  >
-  > **@Abhishek-kx4pn** [👍1]：What about non veg recipes like fish and chicken
-  >
-  > **@RajanK-d3j** [👍1]：So do we have to chop veggies? And place in sequence every time depending what you want to cook ?
-  >
-  > **@kunaljha9645** [👍1]：Can we cook bengali dishes in this ?<br><br>Can we add Recipe in this ???
-  >
-  > **@ishanichakravorty1608**：The rabdi looks so tempting, thanks for sharing about this amazing miracle of a machine
-  >
-  > **@hrituparnasinha1866**：Nice
-  >
-  > **@sekharcn**：is it cook well ?
-  >
-  > **@heenapatel3053**：Can you please let me know for how many people it cooks?? Because look like ingradient containers look really small for big batch.  Look like for only 2 people enough ingradient load in ingradient tray... how about making own recipe??
-  >
-  > **@MishaAdventures**：Cost please
-  >
-  > **@shwetad3251**：But kya tomato puree humein banani hai..ya iski recipe bhi hai jo nosh banayega.... secondly veggies cut karta hai ya humein cut karna hai
-  >
-  > **@unpluggedboss391**：To me- all these robo cooks are fancy items. Anyways, Upliance is clearly ahead in this case. It can chop anything by itself whereas in case of Nosh, u have to do that on ur own (which may be an issue for sb). Btw Nosh is a premium variant which is quite obvious, but Upliance offers u even its 2nd version at around half of Nosh&#39;s price. To me, if u really don’t have any knowledge of cooking (!), Upliance must be a better option than Nosh.
-  >
-  > **@samrudhinakhwa2452**：Is this available in US and how many servings can be cooked at a time?
-  >
-  > **@debashismajumder6438**：is there any service center in kolkata?
-  >
-
----
-
-## 9. Nosh Bangalore Demo: Real Reactions!
-
-- **频道：** Let's Nosh!
-- **观看数：** 10,863
-- **点赞数：** 122
-- **评论数：** 9
-- **时长：** 0:41
-- **发布日期：** 2024-11-28T11:39:20Z
-- **链接：** https://www.youtube.com/watch?v=iYixyZmG-WE
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/iYixyZmG-WE/hqdefault.jpg
-- **简介：**
-
-  > Nosh brings convenience and taste together, making home cooking a delight. See how families are loving every dish!
-  > 
-  > #NOSHCooking #NoshDemo #Comfortfood
-
-- **热门评论（7 条）：**
-
-  > **@deepakbijalwan2674** [👍3]：How about industrial setting ..I mean for a small restaurant which faces issues on labour ,cooks etc ..if u have an industrial machine with limited number of skus like poha,maggi,vermicelli etc trust me it will revolutionise horeca segment..
-  >
-  > **@Facts4uu555** [👍1]：4 aana muragi 12 aana masala😂😂😂
-  >
-  > **@deepakbijalwan2674** [👍1]：Lemme know if u have one
-  >
-  > **@nikhilbalchandani665**：Great going ❤
-  >
-  > **@shwetayana55**：Where can we get demo?
-  >
-  > **@pranampankaj9273**：is the bowl teflon coated?
-  >
-  > **@pranampankaj9273**：do you have a service center/ showroom in bihar?
-  >
-
----
-
-## 10. Nosh AI Cooking Robot Honest Review &amp; Demo | 500+ Free Recipes | Neera Mishra
-
-- **频道：** Neera Mishra
-- **观看数：** 7,551
-- **点赞数：** 56
-- **评论数：** 14
-- **时长：** 8:56
-- **发布日期：** 2025-09-07T05:30:11Z
-- **链接：** https://www.youtube.com/watch?v=KCpCUFBr6zA
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en-IN
-- **缩略图：** https://i.ytimg.com/vi/KCpCUFBr6zA/hqdefault.jpg
-- **简介：**
-
-  > The Nosh AI Cooking Robot 🤖 is the World's first smart cooking machine. It cooks 500+ recipes across cuisines like pulao, butter chicken, Chilli Paneer & pasta, completely hands-free. No stirring, no waiting, no stress… just fresh, homestyle food made for you.
-  > Why I love it ❤️
-  > * Hands-free & AI-powered
-  > * 500+ recipes to choose from
-  > * Healthy & diet-friendly options
-  > * Compact & super easy to use
-  > Perfect if you’re a busy professional, working parent, or just someone who wants delicious food without spending hours in the kitchen.
-  > Made in India 🇮🇳 | By Euphotic Labs
-  > 
-  > Checkout my Intagram: https://www.instagram.com/homethreadsbyneera/
-  > 
-  > 👉 Check it out: https://www.letsnosh.io
-  > 📸 Instagram: https://www.instagram.com/letsnosh.io/
-  > ▶️ YouTube: https://www.youtube.com/@letsnosh
-
-- **热门评论（7 条）：**
-
-  > **@ElixirFlambeau** [👍1]：Looks good. But worried about the cleaning.
-  >
-  > **@RashmiChatiyar** [👍1]：Please give your kitchen tour
-  >
-  > **@secularvadi8975** [👍1]：They should improve it by adding automatic  vegetables chopping facility
-  >
-  > **@mayak2676** [👍1]：5 mins meal prep😳! Are you kidding! <br>Meal prep takes more time than actual cooking. Without chopping,  dicing, slicing mechanism,  this is only partially helpful. Plus too much of plastic compartments....definitely not healthy
-  >
-  > **@deepunt11**：Nice presentation.. very useful
-  >
-  > **@prateekchakraborty4395**：Which one is better ?upliance or nosh ? Upliance is much cheaper than nosh .
-  >
-  > **@patriciajones5470**：Ugh! Why the voice over?? You are completely understandable. Such a shame.
-  >
-
----
-
-## 11. Real Owners, Real Stories | Meet Nosh Champion Supriya
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,030
-- **点赞数：** 39
-- **评论数：** 7
-- **时长：** 1:55
-- **发布日期：** 2025-08-31T05:20:11Z
-- **链接：** https://www.youtube.com/watch?v=YHswfWtzTpk
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/YHswfWtzTpk/hqdefault.jpg
-- **简介：**
-
-  > Between being a mom, an engineer, and someone who trains, balance mattered — but food was always the compromise.
-  > 
-  > With Nosh, Supriya found her rhythm again. Fresh, low-oil, no shortcuts. For her, it’s not just convenience, it’s time and energy for what truly matters.
-  > 
-  > #RealOwnersRealStories #NoshChampion
-
-- **热门评论（6 条）：**
-
-  > **@priyanshukedia8369** [👍1]：Wonderful Supriya....Proud of work that you are doing
-  >
-  > **@SushmaPraveen-vg8wr** [👍1]：Wow Supriya 👌 you inspire me in every way 🙂
-  >
-  > **@stuartb4u** [👍1]：@supriya.. please make video on pre cooking preparations for planned dishesh.....
-  >
-  > **@ShadesofArchhana** [👍1]：This is wow
-  >
-  > **@pradhanyaji1019** [👍1]：Wow..Sup
-  >
-  > **@shaheedaasantewaa1395** [👍1]：It&#39;s so expensive. Reduce the price for us to afford
-  >
-
----
-
-## 12. This Kitchen Robot Can Fully Cook Anything! 🤯
-
-- **频道：** Beebom
-- **观看数：** 737,953
-- **点赞数：** 17,952
-- **评论数：** 267
-- **时长：** 1:07
-- **发布日期：** 2025-11-03T12:10:08Z
-- **链接：** https://www.youtube.com/watch?v=FNWLy8dXPv4
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/FNWLy8dXPv4/hqdefault.jpg
-- **标签：** cooking gadget, easy cooking gadget, easy cooking recipes, easy cooking recipes for beginners, easy cooking for bachelors, easy recipes, easy recipes for dinner, easy recipes for lunch, easy recipes with rice, how to cook, easy recipes for bachelors, quick recipes, quick recipe videos, trending, food videos, satisfying food videos, easy cooking, 5 minute recipes, amazon gadgets, cool tech, nosh cooking robot, nosh cooker review, nosh cooking robot review
-- **简介：**
-
-  > This is the AI Robo Chef which can cook 500+ recipes and all you have to do is just load up the ingredients like masala, oil and water and then just wait. The robot will automatically cook everything as per your oil, taste and spice requirements. You'll also get a notification when it's done cooking.
-  > 
-  > You can wash both the pan and the ingredients tray and the serving size can also be customised, which is great for parties.
-  > 
-  > 🔗Buying link: https://beebom.store/
-  > 
-  > Subscribe to @beebomco  for more cool tech videos like this!
-
-- **热门评论（157 条）：**
-
-  > **@accidentalGamer69** [👍1085]：If I can chop the veggies I can fry them too.
-  >
-  > **@rupammandal1168** [👍445]：Don&#39;t fall for tech brothers.... <br>Don&#39;t compromise your cooking skills 💪🏻
-  >
-  > **@dharmendrayadav-tz8ke** [👍197]：73000, but Shadi ke bad alimony se better hai
-  >
-  > **@ps18music** [👍177]：I wish the robot could clean also! 🙃
-  >
-  > **@beebomco** [👍91]：🔗Buying link: <a href="https://beebom.store/">https://beebom.store/</a>
-  >
-  > **@soushankumar6842** [👍83]：I need a robot to chop vegetables and clean dishes, cooking is the best part which i don’t want to give away.
-  >
-  > **@shivamanand5459** [👍50]：Still hand cooked manually can never be underrated in terms of satisfaction and fullness
-  >
-  > **@therandommela6595** [👍35]：Name &amp; company of the product? ?
-  >
-  > **@syedasad5731** [👍29]：So it basically does the fun part and we do the boring part....!?
-  >
-  > **@gamingperi467** [👍28]：Only 73,000 so cheap wow, gonna buy it right now 🙂
-  >
-  > **@SuperMan-l2l1w** [👍24]：In 2014 , the og whatsapp video era, at that time a chinese video of the same machine making food on its own was circulating. So it&#39;s not new, just premium.
-  >
-  > **@manharsodhi5548** [👍18]：What&#39;s the cost?
-  >
-  > **@Arjun-bo1fc** [👍17]：Body lotion tissues 😂
-  >
-  > **@jenitj180** [👍12]：Productive? More like Hanductive.
-  >
-  > **@rvim_** [👍9]：Only 72 k😊
-  >
-  > **@aswadali5896** [👍7]：This machine is doing the most fun part of cooking food.
-  >
-  > **@ZtrazY** [👍5]：Too productive work
-  >
-  > **@pavanbommisetty** [👍4]：What is the advantage of it, if it can&#39;t cut the Veggies. I feel it&#39;s the most time consuming thing
-  >
-  > **@shirN-q7r** [👍4]：Goal chapati banayega ka
-  >
-  > **@apusingh3083** [👍4]：First
-  >
-  > **@Dream乡Warrior** [👍3]：Productivity 😅
-  >
-  > **@biswaranjanbanchhor699** [👍3]：Productivity 🌚
-  >
-  > **@kushalsingh21509** [👍2]：No talking about productiveness in november my freind 😅😅
-  >
-  > **@karthikeyan0289** [👍2]：Cutting is 70% of the cooking, remaining 30% is the fun part of the cooking.
-  >
-  > **@tushar007k007** [👍2]：If you&#39;re in India, just hire a didi/bhaiya and tell them what to cook
-  >
-  > **@xgaurdian360** [👍2]：Just 73k 😂😂
-  >
-  > **@tanaypatel247** [👍2]：60% of cooking is just chopping and ingredients sourcing, honestly it is just useless.
-  >
-  > **@PradeepKumar-hv6ph** [👍2]：if every productive work will replace by machine then what productivity will you do in free time..🫠
-  >
-  > **@abhishekburman4729** [👍1]：Brilliant engineering, mind blowing and a proud moment ❤❤❤❤❤
-  >
-  > **@dailysauce0** [👍1]：I would better want to buy a dishwasher that has an automatic plating mechanism( robotic arm that takes dishes from the sink , clean n finally puts them in self) when it comes. Cuz cooking is fun.
-  >
-  > **@saimadhavarao** [👍1]：Actually saw a similar product on US Shark Tank called Chefee. Although I should clarify that was little more bigger and expensive but in theory both are doing the same thing.
-  >
-  > **@boomsmmpanel** [👍1]：Im vegetarian..<br>then proceed to licking fingers😅😂
-  >
-  > **@AmitDJ_90** [👍1]：And inbetween power cut off😂
-  >
-  > **@shantanunaik1855** [👍1]：Cleaning&#39;s gonna be a headache.
-  >
-  > **@aiverselabyt** [👍1]：Productivity ☠️
-  >
-  > **@MaxGaming-ip4tc** [👍1]：Cooking is something really PRODUCTIVE! It is something for people who don&#39;t have time to spare at all.
-  >
-  > **@tiwari6638** [👍1]：BRO enlightened my heart by saying , he is vegetarian. Same same no difference..<br><br>mukambo khush hua,.....
-  >
-  > **@rajraj-u7l9f** [👍1]：I wonder what productivity comes from a body lotion and tissue papers
-  >
-  > **@RahulRaj-ej7kb** [👍1]：New tech unlocked to kill you, all the best buyers !
-  >
-  > **@srinivasguptha9538** [👍1]：The machine is actually doing easiest part of cooking.
-  >
-  > **@Krishfor** [👍1]：Nosh ... ₹74,999 only 😅
-  >
-  > **@wheatencandy00** [👍1]：If u want to buy, the price is 74,999.90 only 😊
-  >
-  > **@anirbansarkar9872** [👍1]：It can&#39;t even cook any Tandoori items
-  >
-  > **@Ms.Divine2024** [👍1]：16k like Cool Nice
-  >
-  > **@ayushsonimzp** [👍1]：Something productive 👽
-  >
-  > **@bindaasmard664** [👍1]：Preparing all ingredients for cooking takes a huge amount of time and efforts, actual cooking takes barely fraction of time and efforts.
-  >
-  > **@himanshutalegaonkar2522**：The day a robot can chop, prepare ingredients and clean afterwards i will consider, otherwise mixing stuff together and watching your dish come to life is pure satisfaction.
-  >
-  > **@dexteralphonso5824**：There is a Wonderchef one that also cuts before cooking
-  >
-  > **@paperfrog07**：It looks way much easier than clean it later
-  >
-  > **@cannotthinkofanybetterhandle**：I will wait for a robot that could actually go buy vegetables and ingredients, chop the veggies, prepare food and clean everything up.
-  >
-  > **@MukundaKaruppaiyaPunggolss**：nah i wonder how well his one hand workout went
-  >
-  > **@DarkestScreens**：Bro said he was vegetarian but at the last he ate the biryani
-  >
-  > **@atf_hd**：If i have to do the cleaning, cutting and getting the items<br>I might as well get blender /mixer,/cooker /microwave and do it myself
-  >
-  > **@harshvraj**：This will save time and resources by a lot
-  >
-  > **@amandavas9365**：I’m going to buy this for my mom so that he can finally be relieved of her cooking duties.
-  >
-  > **@Sunit_17**：Laziness at its peak. 💪
-  >
-  > **@spaceadvanture6458**：I believe chopping is the hardest part in cooking, and robot is doing the fun part 😂
-  >
-  > **@sukuna-gtr**：Oh god, now we have to put ingredients according to slots and also we have to wash them every time we use?
-  >
-  > **@Aakash.1997**：Watched this already in MrWhostheboss&#39;s video
-  >
-  > **@Thank_Me_Later**：Smart cooking 🔪🍳 😂😂
-  >
-  > **@hardikpalrecha7714**：Fhr bhi bartan toh dhone hi padenge 😂
-  >
-  > **@3tapgamer999**：Chalo.... Ab Blade runner ka Joi jaisa bhi koi aa jaye 🫠
-  >
-  > **@ankitdutta8101**：It won&#39;t be able to beat maa ki hath ka bana hua khana 🥰
-  >
-  > **@TheLifeofKaty**：Well, cooking is never painful once you learn it. It&#39;s prep and cleaning after that&#39;s boring. I am happy with my food processor and dishwasher. However, I will still love to have it, because my teen kids will benefit from it the most. They can make yummy dishes for themselves.
-  >
-  > **@architthamke7046**：Sir please suggest something for post acne marks 😢<br>My grade 4 acne is worsen
-  >
-  > **@PampaHalder-f6h**：Same as Joker !
-  >
-  > **@roman19sk**：Price?
-  >
-  > **@rajabhishek6293**：Ai can think for u! Robot can work for you, so dependent , so comfortable,
-  >
-  > **@pardhuphaniram6008**：Nivea and tissues productive 😂😂
-  >
-  > **@SubodhPrasadSuman**：Vaypari and Zamindar laughing😂 in corner
-  >
-  > **@rudresh_singh**：Actually the cooking is a art so it can&#39;t be machinied, if you prepare veggies and wash dishes after cooking then it&#39;s good
-  >
-  > **@yuvrajpandit4125**：Bhai itne ingredients ready kiye hai toh tawe ma bhi daal hi dunga na.😂
-  >
-  > **@NandoJunkie**：OMG 😂😂😂😂 THE LOTION I WAS NOT READY FOR 😂😂😂😂
-  >
-  > **@espio3364**：I can cook, I just need one that can do mundane tasks like cleaning
-  >
-  > **@NaraPlayz-c5v**：theres one in the west, its called Posha Cooking Robot
-  >
-  > **@balukumarPraveenP**：Sell ur car or bike to get this!!😂
-  >
-  > **@야햐-l9b**：It’s doing the good part and making us the the hard and boring part
-  >
-  > **@vishnudileep645**：Scrubbing of that non stick pan with a metal scrubber made me cringe🥲🥲 Rip to whoever cooks in it..
-  >
-  > **@Blazegaming_og-v4v**：But, I am non-vegetarian. So, parcel at my address...😂❤
-  >
-  > **@aryasancheti3229**：Isme toh mera ghr chala jayenga
-  >
-  > **@ShayNoHope**：Kitne lakh ka hai? I need it.
-  >
-  > **@nikhilrao7355**：product name ?
-  >
-  > **@shardulcharming**：Naaaahhh...I wanna go much lazy way...I will get robot that can cook, do dishes and clean kitchen later.
-  >
-  > **@athravpawar6715**：Can this robot make roti or chapati
-  >
-  > **@adidkhan8749**：Cleaning?
-  >
-  > **@vijaybhanuprathap9985**：Watched it in mrwhosetheboss channel
-  >
-  > **@AmanRaj2003.**：But this machine can&#39;t give maa ke hath ka pyar
-  >
-  > **@srajs3745**：Prepping all the ingredients for a cook is the main work. Come back when you have a robot that goes to market bargains the veggies for a good price brings home cleans it chops it and cooks it and then serves it all through a command.
-  >
-  > **@RamP-Mad**：Cancelled my dates iphone, this will do the work.
-  >
-  > **@ratulghosh8174**：Doesn&#39;t seem to be poductive at all, after cutting it will not take much time to cook it . What&#39;s the point of buying it?
-  >
-  > **@sauravbadaik4169**：awesome 😢
-  >
-  > **@chidanandg8216**：Is it subscription based
-  >
-  > **@samarjitmazumder7746**：Most hard productivity 🌚🌚🌚🌚☠️☠️☠️
-  >
-  > **@anilloutombam**：Thank god , I can cook
-  >
-  > **@devskhobragade**：I&#39;m Vegetarian was 😂
-  >
-  > **@vishirajpal1375**：and it Costs Rs- 82K
-  >
-  > **@SushantParab**：72k only
-  >
-  > **@RishabhKumarRoy**：good for baclor
-  >
-  > **@anjulasangar9174**：❤️
-  >
-  > **@SmartTechInsights-Official**：BTW Devender How Was The Taste?
-  >
-  > **@bijaymohapatra2661**：Moturiser and tissue
-  >
-  > **@popeefrog4358**：How about washing?
-  >
-  > **@filminewsyt**：Brother it&#39;s out of stock
-  >
-  > **@devsamal5716**：Everything&#39;s fine, but how much crores does it cost?
-  >
-  > **@SanjayJuhiMahir**：Roti?
-  >
-  > **@Lovejeetsingh3**：Ok guys price 74k h
-  >
-  > **@thetravelpedia**：😂😂 piyush goyal sahi hai bhai. Tech mai bhi khana hi banayenge hum
-  >
-  > **@ps4392**：Those who actually cook know the actual labour goes in peeling washing cutting chopping 😂
-  >
-  > **@rajasekharv8788**：Posha remastered
-  >
-  > **@thanospachisia971**：Khanna banna acche se aa jaye to pet bhi bhar loge to jeb bhi
-  >
-  > **@rakshithkumarms9450**：Price?😂
-  >
-  > **@rohitv9076**：The problem is with cleaning the veggies and chopping it and the keeping the masalas handy. Once everything is ready one can cook way faster and better than this.
-  >
-  > **@Sandeep-ln2tw**：Finally, shaadi karne ki jaroori nahi😂
-  >
-  > **@Planeroutes**：70k seriously 😅😂
-  >
-  > **@mazinabs**：What id gpt is integrated with it 😂😂<br>More productive work😂😂
-  >
-  > **@pavanyn609**：Chopping vegetables and waking utensils have been the problem for me. I can cook them easily so waste of money in my perspective
-  >
-  > **@SaswataMishra1**：Wall E doesn&#39;t seem very far. Keep your hard skills intact Brothers. AI has already made u dependent for soft skills. <br><br><br><br>Btw how much is this priced at. 4 lakhs. 😂😂😂😂
-  >
-  > **@BharathShivakumar**：Wait a minute. This was the same machine which got rejected for funding in shark tank India, because it did not make food, that good. You should give us an honest review on the taste as well.
-  >
-  > **@BlackRock-b7m**：company indian but <br>product is chainese 😂😂😂
-  >
-  > **@magneshp6060**：Lets guess the price 😂
-  >
-  > **@greattimetalksofficial1330**：He is vegetarian but taste chicken leg masala 😂😂😂😂
-  >
-  > **@durlovesaikia**：so I&#39;ve to do the hardest part and still pay 73,000??
-  >
-  > **@Devthakur320**：tissue 😅
-  >
-  > **@RaviGarg-h8h**：Do sth Productive 😂😂😂😂
-  >
-  > **@vishvajitkumar9497**：vegetables keta baap katega?
-  >
-  > **@Rocky_2025**：Defats the purpose 😂😂<br>Sabzi me katu, masal me dalu, bartan me dhou?? To ye tin ka dabba kya krega
-  >
-  > **@ninadmahalle1647**：Automate patients meals......this can give you and the product owner more profit...... concentrate on needs of the needy you will make more money
-  >
-  > **@Dakshohri**：75000
-  >
-  > **@ninadmahalle1647**：People are dyeing help them
-  >
-  > **@AVINHAJARIA**：Hath se banaya huwa khane ka koi nahi replace kar  sakta. Machine food faltu hai
-  >
-  > **@rupadarshisamanta3288**：73k is a good deal.<br>Atleast it&#39;s better than the liability called &quot;WIFE&quot; and better than to provide alimony after marriage 😂😂
-  >
-  > **@anirban921**：Majaak mat karo beebom!<br>It&#39;s not at all possible for an Indian startup to  start producing such an innovation all by itself. Haan phillips bajaj ya tata hota to shayad for a second main believe kar bhi leta. But in case of startups, it&#39;s nothing but a rebranded chinese product whose reparing and service will be a never-ending maze!
-  >
-  > **@siddharthpatel2193**：I am supposed to cut and it is supposed to do tadka, which is actually fun?<br>No thanks
-  >
-  > **@VAISHALIDORANALA**：2 more unnecessary dishes to clean. 😮‍💨
-  >
-  > **@TamilHarithCreations**：So the people who don&#39;t have time to workout or do anything productive is going to buy this for them !? 😅😅 No way
-  >
-  > **@NISHUGARVU**：72999 enjoy
-  >
-  > **@yashwardhanpauranik1670**：Holding the non-veg and licking finger yet..calling himself vegetarian?
-  >
-  > **@mybestcollection9127**：what about other parts of the machine doesnt need cleaning. Yuck . Imagine meat going through them and not cleaning.
-  >
-  > **@nishantjha1439**：I personally think it&#39;s a shitty product because majority of the &#39;&#39;cooking&#39; is primarily around peeling, chopping, cutting, assembling, cleaning, etc which has to be taken care off by the user itself, so basically the product is just a fancy heated assembler which simply makes it worthless
-  >
-  > **@mru1576**：73000 for this dumb idea.... Upliance for 30000
-  >
-  > **@developedbyhasan**：Cooking is not a productive task?
-  >
-  > **@Aman0001-w2r**：Basically its stirring all the veggies that u had CHOPPED. Whats the point of automatic cooking ?? All that piece of metal box doing is mixing and stirring/mixing 😑😑
-  >
-  > **@throughmycameralensss**：Made in China by an Indian company*
-  >
-  > **@zaidsayed8123**：Chu tech
-  >
-  > **@ninadmahalle1647**：You are trying to sell it but ......this can identify meals for patients in hospitals and cook it with respective recepies according to the disease......report this back to product owner......for example meal a liver or kidney transplant patients should take
-  >
-  > **@indianminiaturemeals**：English bolne se product accha nhi ban jata
-  >
-  > **@subhrajitkarmakar6499**：So 73k vs 1 cook maid who takes 1k per month. The value will come after 6 years 1 month. But tech can fail. If you&#39;re interested in investing money and still wanna chill go have a cooking maid. She will have a job and will help his or her family. But fun part is self cooking. You&#39;ll explore and experience the mental break from too much stress.
-  >
-  > **@pocoloco3643**：Useless 😂
-  >
-  > **@Feelelegant679**：Company Indian yes, Imported from China! Kindly Fact check
-  >
-  > **@subhojitsaha6376**：Shadi kar le
-  >
-  > **@vck1828-r5b**：jay shree ram
-  >
-  > **@sasankasengupta**：It’s useless 😂the fun part is experimenting and exploring ❤that we don’t need to use this shit machine
-  >
-  > **@bhumikaswaroop**：Sorry I&#39;ll never gonna fall into this trap cooking food is my hobby if these kind a technologies are gonna replace human physical work then I boycott using these kind of technologies
-  >
-  > **@waiwai5233**：Pointless, and too costly better use the money to buy better cooking equipment.
-  >
-  > **@JesusIsGodtheonlyone**：I can smell malfunction house fire from  10000 miles away
-  >
-  > **@akshay_9854**：Does this machine calls &quot; Betaa aaja. khana laga diya hai..? &quot; <br>NO🥲
-  >
-  > **@gohan12991**：A cook will be cheaper in long run
-  >
-
----
-
-## 13. Rachana’s experience with Nosh Robo-Chef! #nosh #robochef
-
-- **频道：** Let's Nosh!
-- **观看数：** 4,968
-- **点赞数：** 38
-- **评论数：** 9
-- **时长：** 3:14
-- **发布日期：** 2025-05-15T16:51:18Z
-- **链接：** https://www.youtube.com/watch?v=y8nDPKiRJew
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/y8nDPKiRJew/hqdefault.jpg
-- **简介：**
-
-  > What’s better than cooking a great meal? Cooking one that brings back memories and makes new ones.
-  > When Rachana experienced ​⁠@letsnosh  , Kenny’s Guntur Karamkori Chicken became a new family favourite, and a spicy story worth sharing.
-  > 
-  > #nosh #cookingrobot #aichef #letsnosh #gunturkaramkori
-
-- **热门评论（4 条）：**
-
-  > **@kavithanair** [👍1]：But this was introduced only in april 2025 so 1 yr review?
-  >
-  > **@LazzyBoy-p5b** [👍1]：How do u get it in India ?? What is the cost ??
-  >
-  > **@rashmimanchikanti7017**：Can we make chapathi/jawar roti with this?
-  >
-  > **@mayak2676**：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function. Ofcourse price point is still very high
-  >
-
----
-
-## 14. Chaya’s Experience with Nosh AI Robot Chef
-
-- **频道：** Let's Nosh!
-- **观看数：** 2,730
-- **点赞数：** 20
-- **评论数：** 3
-- **时长：** 5:25
-- **发布日期：** 2025-07-23T13:30:13Z
-- **链接：** https://www.youtube.com/watch?v=MiU_doTvn8o
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/MiU_doTvn8o/hqdefault.jpg
-- **简介：**
-
-  > Chaya’s experience with @letsnosh  changed her way of living.Cooking Rabdi in Nosh wasn't just about convenience, it was about keeping her passion alive too. Her review reflects how precision,flavour and freedom are all served together in one bowl.
-  > 
-  > #nosh #noshrobotchef #aicookingmachine #robotchef #aicooking #aichef #customertestimonial  #letsnosh
-
+- **缩略图：** https://i.ytimg.com/vi/lG9vZvWQ8yQ/hqdefault.jpg
 - **热门评论（1 条）：**
 
-  > **@Ultron-q2e** [👍2]：This avilable in rajsthan. ???
+  > **@gregoryamer**：Why sandblasting?
   >
 
 ---
 
-## 15. Unboxing @letsnosh : The AI Robot Chef That Cooks for You #aichef #cookingrobot #nosh 
+## 4. Full-Color Bird Model — Post-Processing
 
-- **频道：** Let's Nosh!
-- **观看数：** 1,683
-- **点赞数：** 27
-- **评论数：** 2
-- **时长：** 2:36
-- **发布日期：** 2025-09-23T14:10:57Z
-- **链接：** https://www.youtube.com/watch?v=4Iwr7Ed-tzU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/4Iwr7Ed-tzU/hqdefault.jpg
-- **简介：**
-
-  > Say hello to ​⁠@letsnosh  – the AI Robot Chef that makes fresh, delicious meals with zero hassle. From box to kitchen counter, watch how this smart chef comes to life and see if it really lives up to the hype.
-  > 
-  > Would you let an AI cook your everyday meals? Drop your thoughts below 
-  > 
-  > #nosh  #aichef  #unboxing  #smartcooking #aicookingmachine
-
-- **热门评论（1 条）：**
-
-  > **@joo1249**：I love this one..
-  >
-
----
-
-## 16. Edit Recipe Feature Unlocked | Turn Restaurant-Style Butter Chicken Healthy with Nosh Cooking Robot
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,121
-- **点赞数：** 16
-- **评论数：** 9
-- **时长：** 2:28
-- **发布日期：** 2025-11-20T11:47:37Z
-- **链接：** https://www.youtube.com/watch?v=85FfY1oiB8g
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/85FfY1oiB8g/hqdefault.jpg
-- **简介：**
-
-  > Watch how Nosh Cooking Robot transforms a rich, indulgent restaurant-style butter chicken recipe into a healthy, home-style version. 
-  > Passing down family recipes just got easier than ever before with the Nosh AI Robot Chef.
-  > 
-  > #airobotchef #aicookingrobot #aicooking #featureunlock #aicookingmachine
-
-- **热门评论（9 条）：**
-
-  > **@relaxwithlyrics** [👍1]：@letsnosh all bull shit..it does not work and you have no way to contact them..looters .
-  >
-  > **@anniepushparaj2594** [👍1]：Could you somehow add Dosa, Idli, Chapati, Appam function. This looks like a product with extreme potential, considering we will soon have home humanoid robots, so the loading ingredients part would be done by the robot and your machine can do the cooking. So for a machine like this to be justifiable, it should do repetitive tasks like making dosas, quickly and efficiently, so some sort of a push out and a seperate output slot seems necessary. Hope you would address these in your next iteration. Keep innovating!
-  >
-  > **@varunmalik3891**：They charge 200 rs per dish if you have to save
-  >
-  > **@ishanichakravorty1608**：This is super helpful!
-  >
-  > **@joo1249**：very good
-  >
-  > **@jeffnelson3791**：Looking forward to getting a Nosh unit.  😁
-  >
-  > **@sandeep198228**：Please make videos on use of attachments for steaming and frying
-  >
-  > **@HolyRamanRajya**：Concerned about cleaning the small passageways that drop the food bits. How is it accomplished?
-  >
-  > **@HolyRamanRajya**：Looking good but I don&#39;t see any videos of whether chicken or potatoes have to be boiled separately first or being done all in one go. It doesn&#39;t give me enough trust to go for it. Another thing I wish if there was hybrid or separate variant for the cooking part to be gas powered. Its already a big investment and then to have to pay high electric bills because induction cooker is not good feeling
-  >
-
----
-
-## 17. Upgrade your kitchen with ​⁠@letsnosh the robo-chef for perfect meals, no skills needed!
-
-- **频道：** Let's Nosh!
-- **观看数：** 22,549
-- **点赞数：** 289
-- **评论数：** 11
-- **时长：** 0:58
-- **发布日期：** 2025-05-09T15:09:40Z
-- **链接：** https://www.youtube.com/watch?v=ufbmAm44zk0
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/ufbmAm44zk0/hqdefault.jpg
-- **热门评论（9 条）：**
-
-  > **@sgshilpagupta** [👍2]：I like to take demo
-  >
-  > **@noboni6437** [👍2]：Is it subscription based?
-  >
-  > **@Sandip-pf3xo** [👍1]：Excellent
-  >
-  > **@sgshilpagupta** [👍1]：From vadodara gujarat
-  >
-  > **@lakshmilakshmi-wf5jj** [👍1]：How to clean it
-  >
-  > **@santhoshps-d8j** [👍1]：can i use it for commercial purpose
-  >
-  > **@sschlerp** [👍1]：Cost?
-  >
-  > **@madhurask5**：Hi<br>When will I get demo in Pune
-  >
-  > **@nonamemage6599**：Scam
-  >
-
----
-
-## 18. Carrot Halwa by Nosh the Cooking Robot😋. Autonomous Cooking Machine! Chop, load, command &amp; its done.
-
-- **频道：** BOTronix
-- **观看数：** 20,933
-- **点赞数：** 111
-- **评论数：** 3
-- **时长：** 0:18
-- **发布日期：** 2022-02-13T09:22:07Z
-- **链接：** https://www.youtube.com/watch?v=BtJ-NsVZTXk
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/BtJ-NsVZTXk/hqdefault.jpg
-- **简介：**
-
-  > @letsnosh
-
-- **热门评论（2 条）：**
-
-  > **@gargshivam024** [👍1]：yikes
-  >
-  > **@VenusDrip**：This does not look anything close to a home cooked gajar ka halwa. Bhunna hota hain Achi tarah se.
-  >
-
----
-
-## 19. Nosh AI Cooking Machine vs Home Cook 
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,862
+- **频道：** inew3d
+- **观看数：** 318
 - **点赞数：** 5
-- **评论数：** 8
-- **时长：** 0:51
-- **发布日期：** 2025-10-28T16:08:21Z
-- **链接：** https://www.youtube.com/watch?v=lZEBVZ3j7CQ
-- **来源：** channel
+- **评论数：** 2
+- **时长：** 1:29
+- **发布日期：** 2026-02-25T09:18:30Z
+- **链接：** https://www.youtube.com/watch?v=DQ8qTy2E_a4
+- **来源：** search&channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/lZEBVZ3j7CQ/hqdefault.jpg
-- **简介：**
-
-  > We all love ghar ka khana but managing and training a home cook can be a real hassle.
-  > So, we decided to put it to the test!
-  > Watch as both a home cook and the Nosh AI Cooking Machine make Gobhi Aloo, and see how effortless Nosh makes everyday cooking.
-  > 
-  > Simple. Smart. Stress-free.
-  > Discover more at letsnosh.io
-  > 
-  > #aichef #nosh #noshcooking #aicookingmachine #aicooking #robotchef #robochef #homecook #letsnosh
-
-- **热门评论（4 条）：**
-
-  > **@mayak2676** [👍2]：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping/ dicing/slicing function
-  >
-  > **@viejetaverma**：Start time stamping videos to explain the time saved
-  >
-  > **@vijayadithan**：Really tempting to buy but sadly it&#39;s small for our family.
-  >
-  > **@relaxwithlyrics**：All bull shit..it does not work and you have no way to contact them..looters .
-  >
-
----
-
-## 20. A Family's Heartfelt Review
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,664
-- **点赞数：** 21
-- **评论数：** 0
-- **时长：** 1:09
-- **发布日期：** 2024-12-19T16:10:57Z
-- **链接：** https://www.youtube.com/watch?v=XziDw4zZe2Y
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/XziDw4zZe2Y/hqdefault.jpg
-- **简介：**
-
-  > Real experiences, real opinions because every family deserves the best. Let Nosh Empress bring joy to your table!
-  > 
-  > #NOSHCooking #HappyClient #familyfavorites
-
----
-
-## 21. Chef vs Nosh | Cajun Chicken Pasta Cook-Off #nosh #aichef 
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,519
-- **点赞数：** 14
-- **评论数：** 8
-- **时长：** 7:17
-- **发布日期：** 2025-09-28T11:36:32Z
-- **链接：** https://www.youtube.com/watch?v=zFHn2O7Qmk0
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/zFHn2O7Qmk0/hqdefault.jpg
-- **简介：**
-
-  > What happens when a professional chef competes with Nosh, the world’s first AI Robot Chef?
-  > Both are making Cajun Chicken Pasta — but while the chef boils pasta and makes the sauce separately, Nosh does it all at once with just a tap.
-  > 
-  > 👨‍🍳 Chef’s way: multiple steps, constant attention.
-  > 🤖 Nosh’s way: one-tap cooking, zero hassle.
-  > 
-  > Same dish. Different journeys.
-  > Which one would you pick?
-  > 
-  > Bring home @letsnosh  today and experience cooking like never before.
-  > 
-  > #ChefVsNosh #aichef #robotchef  #CajunChickenPasta #nosh #letsnosh
-
+- **缩略图：** https://i.ytimg.com/vi/DQ8qTy2E_a4/hqdefault.jpg
 - **热门评论（2 条）：**
 
-  > **@BalajiGattu** [👍1]：No Doubt the Nosh have done it&#39;s job but their acting 😶
+  > **@SilvanKofmehl**：would love to test one for dental modells. <br>or is it possible to get some models testprintes somewhere
   >
-  > **@VIDSviewbook** [👍1]：How it boiled pastas?
-  >
-
----
-
-## 22. From Nosh Chole Masala to Mom’s Secret Recipe — The Edit Recipe Magic!
-
-- **频道：** Let's Nosh!
-- **观看数：** 917
-- **点赞数：** 17
-- **评论数：** 1
-- **时长：** 3:47
-- **发布日期：** 2025-10-10T09:39:33Z
-- **链接：** https://www.youtube.com/watch?v=oFU1nDlcRqo
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** hi
-- **缩略图：** https://i.ytimg.com/vi/oFU1nDlcRqo/hqdefault.jpg
-- **简介：**
-
-  > Want to surprise your wife this Karwa Chauth?
-  > Make her day extra special with flavourful Chole Masala, cooked using her mom’s recipe on the AI Robot Chef – @letsnosh 
-  > Aromatic, effortless, and perfect for the festive table! 💛🍛
-  > #aichef #nosh #noshcooking #aicookingmachine #aicooking #robotchef #karwachauthspecial
-
-- **热门评论（1 条）：**
-
-  > **@unni9942**：is this available for sales or booking only to know more about purchase &amp; delivery is there an email address where we can get response
+  > **@esther1577**：Cuado compras la impresora también vienen todos esos accesorios? La máquina para lavar, la cápsula de limpiado, etc???
   >
 
 ---
 
-## 23. Nosh cooking robot
+## 5. Full-Color 3D Printer | inew3d’s QC2A | Is This Real or Fake?
 
-- **频道：** The Grapevine
-- **观看数：** 42,872
-- **点赞数：** 739
-- **评论数：** 72
-- **时长：** 0:58
-- **发布日期：** 2025-12-16T12:30:41Z
-- **链接：** https://www.youtube.com/watch?v=UGvnPwxS5sg
+- **频道：** CoshTech
+- **观看数：** 5,133
+- **点赞数：** 51
+- **评论数：** 44
+- **时长：** 8:23
+- **发布日期：** 2026-01-18T13:01:51Z
+- **链接：** https://www.youtube.com/watch?v=vUm4YluCp6o
 - **来源：** search
 - **有字幕：** 否
-- **语言：** en-IN
-- **缩略图：** https://i.ytimg.com/vi/UGvnPwxS5sg/hqdefault.jpg
-- **热门评论（43 条）：**
-
-  > **@DivyanshBalchandani** [👍47]：My biggest problem with cooking is the prep 😂<br><br>I need a machine to do all the peeling and chopping lol.
-  >
-  > **@akash-kumar737** [👍18]：I think this is useless for personal cooking. But maybe good for restaurants where they can be used to cook very specific items like noodle and fried rice in bulk.
-  >
-  > **@saithejapamarty** [👍16]：Cooking is soothing part while preping is the not so favoured part
-  >
-  > **@Citiaova5098** [👍12]：I&#39;ll wait for humanoid robot
-  >
-  > **@deekshasaxena4674** [👍10]：Actually the worst aspect of cooking is preparation..if that&#39;s not done .. cooking itself doesn&#39;t take much time ..
-  >
-  > **@imjayanthkumar** [👍8]：I&#39;m bad at cooking and burn things up. If all I need to do is chop and feed, this machine is for me.
-  >
-  > **@aj5180** [👍4]：This robot makes you do the boring robotic task like cutting and chopping and reserves the fun part like mixing everything in kadhai with spatula for itself
-  >
-  > **@Organizeeewithlotsofees** [👍3]：Since it is AI driven, would it take voice inputs like..&#39;hey, the biriyani was too spicy yesterday.. Refine it..etc&quot;
-  >
-  > **@ayanhalder6194** [👍1]：Will it be able to cook as good and tasty as Sanjeev Kapoor?
-  >
-  > **@tippannayadranvi7587** [👍1]：<b>Price or cost</b>
-  >
-  > **@yashdesai2512** [👍1]：Please provide us with detailed review
-  >
-  > **@co-ordinatesarchitecture9168** [👍1]：Using this since 3 months it’s way better than what air fryer, microwave wave and oven can do to indian cuisine.<br><br>Many dishes at least 70% gets 8 out of 10 and few are 10 out of 10.<br><br>If you repeat cooking the dish 2 to 3 times u can master and do small adjustments as well.<br><br>It’s best suited for bachelors, old people , people with medical issue for prolonged time during surgeries and evening snack or one dish in the menu.<br><br>We use food processor for veggies including dicing by Vidiem Tusker which makes cubes for veggies since 3 years. Beautiful product😊
-  >
-  > **@rextex1**：It might be useful for me because I&#39;m lazy af lol but Mom will be angry 😂
-  >
-  > **@swadhihere**：Please upload a detailed video on the best dishwashers currently available in the market. I&#39;ve watched all of your old videos on Dishwashers.
-  >
-  > **@CARamanGoyal**：The toughest and most hectic part of cooking is peeling and cutting vegetables, which this machine can&#39;t do.
-  >
-  > **@Moonglow09**：Robots cannot replace human cooking
-  >
-  > **@VishalSingh-zd6yo**：So here’s the scenario: I’m cooking palak paneer, dal, and rice for two adults and one child. I do all the prep once, and then I cook everything in parallel—rice in a cooker, dal in a pressure cooker, and the palak paneer on the stovetop. Altogether, it takes about 30 to 40 minutes for everything to be ready at the same time.<br><br>Now, if I used the Nosh, I’d have to cook each dish one by one, which means instead of saving time, it would actually take longer overall. The consistency isn’t an issue for me, because I already know how to make these dishes well. So for my use case, the Nosh doesn’t really make sense, because it’s not saving me time or solving a problem I have
-  >
-  > **@ujjwalful**：My reflex action cooks most of the dishes and beside that some innovation in every dish
-  >
-  > **@AtulKumar-sw6fc**：Apart from peeling, chopping, dicing etc. , i suppose we would be required to clean the equipment also, a tedious job. As you have already mentioned, it can be useful for those, who frequently order online food. There is also a positive possibility. This equipment can be trusted to cook cartain dishes, as such it can be a useful kitchen assistant for certain recipes.
-  >
-  > **@VenusDrip**：Please upload a Detailed review video of this Nosh.
-  >
-  > **@HolyRamanRajya**：With electrically controllable stove hobs these days hope there&#39;s a gas powered variant for such devices in future. Electricity is lot costlier than gas cylinders in this country.
-  >
-  > **@madras65**：Can you post a video on induction hobs
-  >
-  > **@HolyRamanRajya**：can you try meat on this and how it fares. if youre not a vegetarian that is. I had considered nosh and similar style products few months ago, none of them really demo how they are tackling meat in full view. Like if boiled meat pieces have to be added in tray, or if inner bone area is properly cooked and not reddish from blood etc
-  >
-  > **@pradyumna_vella9690**：Yea it has more scope for improvement.
-  >
-  > **@priadarshanpriadarshan6158**：Madam please make a review on led tube lights
-  >
-  > **@Aadhi007**：You didn&#39;t mention about the cleaning time. If it is a tedious one, I will not opt this method.
-  >
-  > **@Athena68646**：There’s one by Sanjeev Kapoor that does the chopping also. Kindly post it’s review
-  >
-  > **@manc8802**：Cleaning looks like a task…
-  >
-  > **@India11781**：Roti banayega ???
-  >
-  > **@nee7886**：Cooking isn&#39;t difficult but prep is really tiresome. I need a robot for prep😅😅
-  >
-  > **@gouravmopidevi**：take air tight boroscil glass container do cutting in weekend put in fridge and daily put in robo,let it cook thats what I do and I feel it is worth it
-  >
-  > **@VishalSingh-zd6yo**：This whole “AI-powered” craze is getting out of hand. I’ve got an air purifier, an air conditioner, and now a cooking robot all claiming to be AI-powered. Next thing you know, my toaster’s going to start lecturing me on how to fix global warming.
-  >
-  > **@salmannasir9971**：Thoda ruk jao bhai is speed se jaoge to pata nhi kya kya robot wala ho jaega.
-  >
-  > **@preetimamgain4849**：Price???
-  >
-  > **@DharmeshDoshi-n9f**：Its better to get maid to do the prep. Cooking and adding masala is very human thing to get right taste. Preparation takes maximum time.
-  >
-  > **@manofsteel646**：Beautiful explanation as always. Are you working in IT mam??
-  >
-  > **@aravindjayaraman7890**：Big no
-  >
-  > **@mrgyani**：Mam, we need a serious, honest and genuine review from you for this. Till now, there are hardly any real reviews of it.<br><br>All the reviews I have seen are positive. Amazon does have a few negative reviews.<br><br>Does it cool well &amp; reliably? Does it burn food? Does it have glitches? Is the taste good? Can we edit recipes, can we add our own? What are the issues. Etc.
-  >
-  > **@subhadramahanta452**：Cleaning it would be a nighmare &gt;_&lt;<br><br>Definitely not for those who like cooking themselves... especially if prep time is same, which is almost always 90% of the time.
-  >
-  > **@parveenbegum358**：Iam a pro cook
-  >
-  > **@AP-eb8hd**：Waste product..
-  >
-  > **@legendrabacha**：Lol this is not for me
-  >
-  > **@alexanderchronos8694**：my masala box is more useful than that tin can 🤣
-  >
-
----
-
-## 24. Nosh Monthly Cleaning Guide
-
-- **频道：** Let's Nosh!
-- **观看数：** 2,093
-- **点赞数：** 12
-- **评论数：** 3
-- **时长：** 1:01
-- **发布日期：** 2025-01-17T13:07:16Z
-- **链接：** https://www.youtube.com/watch?v=mwoER8dUcGQ
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/mwoER8dUcGQ/hqdefault.jpg
+- **语言：** en-US
+- **缩略图：** https://i.ytimg.com/vi/vUm4YluCp6o/hqdefault.jpg
 - **简介：**
 
-  > Monthly cleaning of Nosh made easy for a seamless cooking experience. Regular care ensures consistent and flawless results every time!"
+  > A new 3D printer “company” has emerged with a new machine called the “QC2A”. Claiming to have full-color 3D printing capabilities, this would be a game changer for multi-color 3D printing. So in today’s video, let’s take a deeper dive into their posts and ads to discover what all we can potentially look forward to from inew3d.
   > 
-  > #Nosh #MonthlyCleaning #KitchenTips #CleaningMadeEasy #SmartCooking #EffortlessCleaning #HomeAppliances #CleaningHacks
+  > inew3d’s Instagram - https://www.instagram.com/inew3d?igsh=MTJtdThnazYyM2R3Zg==
 
-- **热门评论（3 条）：**
+- **热门评论（36 条）：**
 
-  > **@royalfamily3076**：Make the parts of glass or steel to make them dishwasher friendly! Also the stirrer should be metal not of plastic, even if bpa free
+  > **@monkeywrench1951** [👍3]：My impression is that Multi-Jet-Fusion printer, not SLS, not SLA, and not FDM.  Something like the new resin printers, but with a higher Z and a head dispensing soluble supports. (Edit: I later realized this is where you were going)
   >
-  > **@WhyZone_official**：Headache
+  > **@JohnCarver3** [👍3]：Polyjet tech. Look up Stratasys j series. Been around for 20 years with color… but just a bit expensive…
   >
-  > **@SodiumSyndicate**：make these parts dishwasher compatible in terms of plastics used. You showed parts that were already clean, show us cleaning it with dirt &amp; grime build up - that would be the real demo.
+  > **@cuegod** [👍2]：Exactly the video I needed to find.. cheers.
+  >
+  > **@shawnyboy212** [👍2]：Looks like a ATM Lock box and other photos mixed toy
+  >
+  > **@TheEXGamemaster** [👍2]：It does look strange, but I would love to have one like this
+  >
+  > **@pieterspoelstra3391** [👍2]：I think this indeed is an more advance UV printer. The smart thing they seem to do is add a solvable type of resin as a support layer. So they print a flat relief like an uv printer. But once done, you dump it in the liquid to dissolve the support layers and voila, you are left with a 3d figurine. So the main difference with a &#39;normal&#39; uv printer is probably the height you can print and the fact the add a (water) solvable resin next to the colors.
+  >
+  > **@hedleypepper1838** [👍2]：Stinks of scam 😮
+  >
+  > **@Thoughtify2** [👍2]：Nearly every cut you have in your video, you start looking to your left right before it cuts and thats very distracting. Also, you should have the display you&#39;re reading off of a little closer to the angle that you are looking into the camera. Maybe just below the camera.
+  >
+  > **@reprinted3D** [👍1]：This appears to be similar to the Mimaki printer. It doesn&#39;t use filament. If they can pull this off, it&#39;ll bring the cost of this technology down significantly.
+  >
+  > **@cuegod** [👍1]：Very cool. I suggest waiting for this new technology to get good and have other brands do them.. for now no thanks for 7-9k<br>Great info though.. cheers.
+  >
+  > **@Kaiei3D** [👍1]：this is real, full color uv 3d printer, but on the moment the material and printing cost is very expensive to home use or small business, and also many maintenance issue is not yet fixed. is not practical at the moment to make it into consumer grade product at the moment, need to take some time to see it improve in future
+  >
+  > **@nicholaswalters5849** [👍1]：I was also looking to see if this was  legit. The video of it looks pretty real. Cool concept though. Thanks for the video.
+  >
+  > **@Sailner3D.Official** [👍1]：It&#39;s a kind of solution to remove the support wrapped around the model
+  >
+  > **@omegadeltazero** [👍1]：This looks more like a resin printer. Just based on the fact that he put the models in a liquid solution housed in what I would guess to be isopropyl alcohol
+  >
+  > **@honeybadger3dprintandpaint** [👍1]：i want to believe it could be real, flash forge has a smaller machine they are looking to release but the closest thing i have seen actually working at formnext in Germany was mimaki and its far from desktop sized
+  >
+  > **@slowjamer** [👍1]：Brother, it seems you have no idea what you are talking about, you don’t seem to be familiar with Resin Full Color Printers like the PolyJet, Mimaki and upcoming FlashForge CJ270 Full color resin printer, it is not a filament printer, do some research on the Mimaki 3D Printers and you will understand better 👍
+  >
+  > **@jamisoncoal1620**：I would imagine this will operate similar to the Mimaki UV 3D printers.
+  >
+  > **@THEOGGUNSHOW**：Thanks for this! I&#39;ve been dubious. I&#39;ve seen a lot of these Facebook and Instagram, etcetera, social media posts about these releasing soon on Kickstarter, etc. I had a feeling that there was going to be a big deluge of scammers jumping on the crowdfunding bandwagon... SMH!
+  >
+  > **@solargy18**：Сразу колер добавляете в хотенд. Сделать не сложно. Но тогда вы вытесните большинство филаментов. Так надо будет нейтральный филамент белого цвета
+  >
+  > **@thomsi67**：<a href="https://www.youtube.com/watch?v=f1u0qUGo2kQ">https://www.youtube.com/watch?v=f1u0qUGo2kQ</a> this is a video at a tech show
+  >
+  > **@deedeetee17**：After the Elegoo Centauri Carbon multicolor fiasco - I’m gonna wait. and wait. And wait.
+  >
+  > **@breadandbutter0080**：these type of machine uses a fine white power thats probably what inside that side panel and is very prompt to clogs, these machines need lots a maintenance
+  >
+  > **@DavidGridley**：honestly, 6-7x more expensive but not much different than the Longer UV or the Eufymake
+  >
+  > **@julythrunov**：why are you calling it a scam?
+  >
+  > **@msaraiva**：FYI, the support material is dissolved in water. This other video has more tech info but it&#39;s in Chinese: <a href="https://www.youtube.com/watch?v=f1u0qUGo2kQ">https://youtu.be/f1u0qUGo2kQ?si=NUY3oauhjz-Zxr2R</a>
+  >
+  > **@shirgall**：The Mimakis that do this method are $50,000+ and they produce phenomenal results.
+  >
+  > **@MaxSMoke777**：Go look up UV printers. They print on any surface with a thin layer of UV setting resin/ink. They aren&#39;t new, but until recently, usually only printed stuff with a maximum height of a centimeter or two, and with no support materials. At most you could make a frig magnet with some bumpiness. What they are doing here is increasing the height and steal Stratasys&#39;s system of wax-like printable support material. You do need to thoroughly clean the ENTIRE system of parts between each printing, but it&#39;s not rocket science or anything. Simple enough tech. It&#39;s like an extension of a inkjet printer that happens to work in 3D.
+  >
+  > **@PencilParasite**：They are offering a 28% VIP discount if you pay $50, they claim a savings of $3100 off the full price... well that&#39;s $11000 worth of printer without the discount... too much for my small wallet.
+  >
+  > **@alanday5255**：So wait, your just watching a marketting video and making opinions?
+  >
+  > **@GamekNightPlays**：I would not give them any money! They offer 28% off, just for giving them 50 dollars...<br>The posts are clearly ChatGPT generated, they show no details of the machine - they show the printed models in one of their posts, but it looks weird... <br>If it feels off, it probably is!
+  >
+  > **@markgreen**：That’s a bit unfair to stick SCAM in the thumbnail buddy, from my research it look legit!
+  >
+  > **@id104335409**：The picture shows the real printer, not computer generated or AI and it seems to actually print full color models similar to quality as Mimaki. It cost 8000 according to a user. The quality of the finish of the machine is pretty bad which makes me think How good the quality of the internals will be if it looks so janky on the outside? If a company is satisfied with low quality outer looks, will they spend more money to make precise internals?? I think not. But anyways, this will force other companies to also make full color desktops. The revolution has finally started.
+  >
+  > **@str8evil**：You’re so wrong. 🤦🏻‍♂️🤣🤣🤣🤦🏻‍♂️
+  >
+  > **@okand26**：Hi I love your content but I have a question. why do you keep looking to the side every time you cut the video? it gets annoying real quick.
+  >
+  > **@johnchase7667**：This is a resin printer. And this is not new tech, other companies have the same process already
+  >
+  > **@jerryasapjliu6882**：it is not some new technology at all. Basically a 3D version of UV printer. The issue is still the consistency of printing, which involves software, material, hardware perfectly integrated as one. Of course, the printer head is another thing. As most people know, the UV printing heads are still controlled by several big brands. Even China side can mass produce cheaper UV printer, they still haven&#39;t hacked the way to make the head. A head normally costs $1000+. So think about how many color ink catridges you need, that&#39;s bascially what you need the cost to have a reliable printing head system.
   >
 
 ---
 
-## 25. Nosh Placements Guide #noshcooking #comfortfood #food
+## 6. Model 1
 
-- **频道：** Let's Nosh!
-- **观看数：** 1,963
-- **点赞数：** 15
+- **频道：** inew3d
+- **观看数：** 375
+- **点赞数：** 4
 - **评论数：** 2
-- **时长：** 0:42
-- **发布日期：** 2025-01-22T11:47:28Z
-- **链接：** https://www.youtube.com/watch?v=8ci10hYsmVA
+- **时长：** 0:13
+- **发布日期：** 2026-02-12T09:15:11Z
+- **链接：** https://www.youtube.com/watch?v=v5M2sSyZuPo
 - **来源：** channel
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/8ci10hYsmVA/hqdefault.jpg
-- **简介：**
-
-  > Bring convenience and style to your kitchen with Nosh! From perfect placement to ventilation and pest-proofing tips, setting up Nosh is as easy as cooking with it. Follow these simple steps and enjoy hassle-free cooking every day! 
-  > 
-  > #NoshSetup #CompactDesign #Nosh #PestFreeKitchen #EffortlessCooking
-
+- **缩略图：** https://i.ytimg.com/vi/v5M2sSyZuPo/hqdefault.jpg
 - **热门评论（2 条）：**
 
-  > **@deeksham6486**：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
+  > **@ML-id8jh** [👍1]：is this AI or real result? look like AI again. For this engagment we need to be sure of the details accuracy , can we order a speciment to juge the details?
   >
-  > **@RajeshwariM_c**：Is your testing team a tasting team ?  😊 . Nice to see a working solution for the everyday problem.
-  >
-
----
-
-## 26. Nosh AI Robot Chef Makes Delicious Palak Chicken Recipe
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,841
-- **点赞数：** 14
-- **评论数：** 3
-- **时长：** 5:08
-- **发布日期：** 2025-08-12T13:53:41Z
-- **链接：** https://www.youtube.com/watch?v=1ix7VlX6fGU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/1ix7VlX6fGU/hqdefault.jpg
-- **简介：**
-
-  > At @letsnosh , every dish begins with a thought to make something you’ll remember. For our Palak Chicken, we start by selecting the freshest spinach, cleaning and chopping it by hand, and letting it simmer slowly so it keeps its natural flavour. The chicken is marinated with care, cooked to tenderness, and finally brought together with spices that have been balanced to perfection. It’s not just cooking, it’s the Nosh way; patient, mindful, and made for you.
-  > 
-  > #nosh #letsnosh #airobotchef #aicookingmachine #cookingrobot #palakchickenrecipe
-
-- **热门评论（3 条）：**
-
-  > **@NikhilPatil-ug1zr** [👍1]：Good luck to the entire team. Looks innovative.
-  >
-  > **@VivekGs-cj1jt**：I am a student learning👨‍💻 robotics 🤖 and IoT . I look around my neighbour&#39;s street food workers facing problems like the continuous process of making foods . They are telling me to get burdened I got an idea💡 like what did NOSH robo chef after I saw this and exited  to it&#39;s already there. make things possible ✨
-  >
-  > **@ravindranathareddyvelagala7868**：How to measure the ingredients, Process to Clean &amp; keep the ingredients fresh to load the NOSH ROBO. BY THE BY THE RECIPE COMBINATION OF INGREDIENTS IS PRIORLY LOADED IN THE SOFTWARE OF NOSH ROBO OR PICKED UP FROM ANY COOKING CATALOUGES. HOW MANY RECIPES THE ROBO CAN DO/ FEEDED PRIORLY &amp; TOTAL TIME IT CAN FUNCTION IN A 24/7. ANY OVER HEATING CAUSES DAMAGING OF MECHANICAL/ELECTRONIC/ELECTRICAL COMPONENTS. AFTER SALES SERVICE IN SOUTH INDIA VISAKHAPATNAM, ANDHRA PRADESH. RGDS(.)
+  > **@tenchuu007**：Are those 32mm scale? If so, this is exactly what I was looking for and I&#39;m so excited!
   >
 
 ---
 
-## 27. Shanmukh’s secret to perfect Mac & Cheese? It’s his AI robot chef, @letsnosh
+## 7. Model 2
 
-- **频道：** Let's Nosh!
-- **观看数：** 1,099
-- **点赞数：** 14
-- **评论数：** 0
-- **时长：** 1:58
-- **发布日期：** 2025-06-24T13:12:56Z
-- **链接：** https://www.youtube.com/watch?v=rzxjuFGxdvg
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/rzxjuFGxdvg/hqdefault.jpg
-- **简介：**
-
-  > Meet Shanmukh & his true love, Mac & Cheese (and Nosh, of course!)
-  > 
-  > When dinner’s this good and effortless, people start calling Nosh his wife, lovingly “Noshwati”. 💛
-  > 
-  > From work to home to whipping up his signature mac and cheese, Shanmukh’s got it sorted with a little help from his favorite kitchen sidekick.
-  > 
-  > Because when you’ve got @letsnosh  at home, who needs takeout?
-  > 
-  > #madewithnosh #nosh #aimachine #airobotchef #customertestimonial #macandcheese #pastalover
-
----
-
-## 28. Still thinking about it? Here are 5 reasons why Nosh deserves a spot in your kitchen. #nosh #aichef
-
-- **频道：** Let's Nosh!
-- **观看数：** 931
-- **点赞数：** 14
-- **评论数：** 2
-- **时长：** 1:04
-- **发布日期：** 2025-10-18T10:43:05Z
-- **链接：** https://www.youtube.com/watch?v=v9V8bTZSbXc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/v9V8bTZSbXc/hqdefault.jpg
-- **热门评论（2 条）：**
-
-  > **@viejetaverma**：Put this in display in chroma/vijay sales
-  >
-  > **@viejetaverma**：Average time to set ingredients &amp; all - actual time it’s taking against the regular cooking time of a dish
-  >
-
----
-
-## 29. Nosh AI Robot Chef Review — $1,199 Robot That Actually Cooks? (Watch Before Buying)
-
-- **频道：** Verdict Vision
-- **观看数：** 694
+- **频道：** inew3d
+- **观看数：** 181
 - **点赞数：** 3
-- **评论数：** 3
-- **时长：** 3:31
-- **发布日期：** 2025-10-03T19:34:37Z
-- **链接：** https://www.youtube.com/watch?v=7rs-icuLZUw
+- **评论数：** 1
+- **时长：** 0:44
+- **发布日期：** 2026-02-12T10:25:47Z
+- **链接：** https://www.youtube.com/watch?v=PJ1h_4Jck-4
+- **来源：** search&channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/PJ1h_4Jck-4/hqdefault.jpg
+- **热门评论（1 条）：**
+
+  > **@MrRcgutten**：Do I have to use Ai or can I do the modeling myself in blender or cad and so on and print that?
+  >
+
+---
+
+## 8. iNew3D QC-2A - Impression 3D Full-Color
+
+- **频道：** Le Monde du 3D
+- **观看数：** 572
+- **点赞数：** 3
+- **评论数：** 0
+- **时长：** 0:16
+- **发布日期：** 2026-01-18T11:07:41Z
+- **链接：** https://www.youtube.com/watch?v=8_hP_ljhFIw
 - **来源：** search
 - **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/7rs-icuLZUw/hqdefault.jpg
-- **标签：** Nosh AI Robot Chef, Nosh review, robot chef review, Euphotic Labs Nosh, kitchen robot 2025, smart cooker review, Thermomix alternatives, robot chef India, Nosh pre-order review, best kitchen robots
+- **语言：** pt-PT
+- **缩略图：** https://i.ytimg.com/vi/8_hP_ljhFIw/hqdefault.jpg
+- **标签：** IMPRESSION3D, full-color, maker, lemondedu3d, iNew3D QC-2A, Figurine, 3d, couleur
 - **简介：**
 
-  > Nosh AI Robot Chef (Euphotic Labs) — app-controlled, 500+ recipes, five smart trays, remote start, and pre-orders at ~$1,099–$1,199 (April 2025). I test hands-on convenience, consistency, and real trade-offs.
-  > 
-  > In this review I cover:
-  > • 🔧 Unboxing & setup (what’s in the box, included pan/stirrer/filter)
-  > • 🧩 How the prep works — five smart trays, spice slots, and what you still must chop
-  > • 📱 App & recipe experience — 500+ recipes, remote start, preference toggles (mild/medium/spicy)
-  > • 🔥 Cooking performance — consistency on rice, dal, curries, pastas, stir-fries
-  > • 🧼 Cleanup & maintenance — dishwasher-safe parts, spice residue reality check
-  > • 💬 User feedback & Reddit commentary — praise, pain points, real-world quotes
-  > • 💸 Price & value — $1,199 retail, pre-order pricing, who should buy vs who should not
-  > • 🔁 Alternatives — Thermomix-style smart cookers and what they do differently
-  > • ✅ Final verdict — recommendation based on lifestyle and budget
-  > 
-  > 👍 If this helped you decide, like & subscribe — I test kitchen tech so you don’t waste money on hype.
-  > 💬 Tell me: PREORDER / WAIT / PASS — one word and why. I read every comment.
-  > 
-  > Nosh AI Robot Chef review • Nosh robot chef • kitchen robot review
-  > Robot chef price $1,199 • Nosh Euphotic Labs review • robot chef vs Thermomix • smart kitchen robot 2025
-  > Is Nosh worth $1,199? • Can Nosh replace cooking? • How much prep does Nosh still need?
-  > 
-  > #cookingrobot  #robotchef  #kitchentech  #smartkitchen  #ThermomixAlternative #cookingrobot  #EuphoticLabs
-  > 
-  > ⚠️ Disclosures & Disclaimer
-  > • Opinions: This review reflects hands-on impressions, reported user feedback, and published specs — for educational and editorial purposes only.
-  > • No sponsorship: Not sponsored, paid, or directed by Nosh, Euphotic Labs, or any retailer.
-  > • Accuracy: Prices, pre-order dates, and specs can change; verify current details with the manufacturer before purchasing.
-  > • Product limits: Nosh automates cooking sequences but requires human prep (chopping/portioning). It is not a substitute for professional chefs or commercial kitchen equipment.
-  > • Food safety: I am not a food safety inspector or nutritionist. Follow manufacturer cleaning and food-handling guidance to reduce contamination risk.
-  > • Practical tip: If you have severe food allergies, strict dietary needs, or require precise flavor control mid-cook, test carefully before relying on full automation.
-  > • Fair use: Clips and images used are for commentary/criticism under fair use. If you believe content here violates rights or contains inaccuracies, contact me and I will address it.
-
-- **热门评论（3 条）：**
-
-  > **@Verdict_Vision_Official**：🔔 Thanks for watching the Nosh review!<br>👍 If this helped, like &amp; subscribe for more appliance and kitchen-tech tests.<br>💬 Vote: PREORDER / WAIT / PASS — one word why (convenience / price / prep / cleanup). I read every comment.
-  >
-  > **@jeffnelson3791**：Thank you for this review.  😄
-  >
-  > **@mrgyani**：You could do without the AI written review.
-  >
+  > Voici les détails essentiels sur cette machine iNew3D QC-2A  👉 https://www.lemondedu3d.com/inew3d-qc-2a-l-intelligence-artificielle-au-service-de-l-impression-3d-full-color
 
 ---
 
-## 30. Global flavors at home!​⁠​⁠ Nosh AI Robot Chef makes Khao Suey rich, tasty & hassle-free!#aichef
+## 9. iNew3D QC-2A L’intelligence artificielle au service de l’impression 3D Full-Color
 
-- **频道：** Let's Nosh!
-- **观看数：** 16,280
-- **点赞数：** 43
+- **频道：** Le Monde du 3D
+- **观看数：** 381
+- **点赞数：** 2
 - **评论数：** 0
-- **时长：** 0:48
-- **发布日期：** 2025-08-29T15:22:56Z
-- **链接：** https://www.youtube.com/watch?v=3KblH_JKOLE
-- **来源：** channel
+- **时长：** 0:21
+- **发布日期：** 2026-01-18T11:00:56Z
+- **链接：** https://www.youtube.com/watch?v=tmNbI68HKi0
+- **来源：** search
 - **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/3KblH_JKOLE/hqdefault.jpg
----
-
-## 31. Creamy Mac & Cheese with Nosh Ai Robot Chef
-
-- **频道：** Let's Nosh!
-- **观看数：** 14,376
-- **点赞数：** 3
-- **评论数：** 3
-- **时长：** 0:50
-- **发布日期：** 2025-06-17T09:42:21Z
-- **链接：** https://www.youtube.com/watch?v=qssTspJYsxQ
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/qssTspJYsxQ/hqdefault.jpg
+- **语言：** fr
+- **缩略图：** https://i.ytimg.com/vi/tmNbI68HKi0/hqdefault.jpg
+- **标签：** impression3d, full-color, iNew3D, QC-2A, maker, IA, lemondedu3d, Intelligence Artificielle, AI Modeling
 - **简介：**
 
-  > Upgrade your kitchen with Nosh - the AI-powered robot chef that makes creamy mac & cheese just the way you like it. It handles the entire cooking process, delivering rich, cheesy, restaurant-quality comfort food right at home effortlessly.
-  > This isn’t just mac & cheese. It’s smarter living, served hot.
-  > Pre-book Nosh today and taste the future of cooking.
+  > L’imprimante QC-2A de chez iNew3D est un modèle très spécifique qui se distingue de la gamme Simba par son approche de l’impression Full-Color et son intégration poussée de l’intelligence artificielle.
   > 
-  > #robotchef  #nosh #airobotchef #aichef #aicookingmachine #nosheats #macandcheese
-
-- **热门评论（1 条）：**
-
-  > **@sweetyrai100**：Can you add features like automatic peeling n chopping option in it
-  >
+  > Voici les détails essentiels sur cette machine 👉 https://www.lemondedu3d.com/inew3d-qc-2a-l-intelligence-artificielle-au-service-de-l-impression-3d-full-color
 
 ---
 
-## 32. Nosh Food Taste Test Real Reaction
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,405
-- **点赞数：** 26
-- **评论数：** 0
-- **时长：** 1:09
-- **发布日期：** 2024-11-27T11:32:12Z
-- **链接：** https://www.youtube.com/watch?v=dIIsaQvZsOo
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/dIIsaQvZsOo/hqdefault.jpg
-- **简介：**
-
-  > Two dishes, one champion!  Let’s find out who takes the crown!
-  > 
-  > #NOSHCooking #TasteTest #comfortfood
-
----
-
-## 33. Nosh AI Robo Chef will cook while you run your errands! #aicooking #aichef #cooking #kitchengadgets
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,310
-- **点赞数：** 17
-- **评论数：** 1
-- **时长：** 0:46
-- **发布日期：** 2025-12-04T09:18:59Z
-- **链接：** https://www.youtube.com/watch?v=2tc8ozuMowc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/2tc8ozuMowc/hqdefault.jpg
-- **热门评论（1 条）：**
-
-  > **@programmingwithaman3335**：banaya bhi to kya? maggi!!
-  >
-
----
-
-## 34. Bharat's Nosh Experience: Home style Dishes Made With Our Robo Chef!
-
-- **频道：** Let's Nosh!
-- **观看数：** 928
-- **点赞数：** 13
-- **评论数：** 0
-- **时长：** 0:32
-- **发布日期：** 2024-11-06T10:23:45Z
-- **链接：** https://www.youtube.com/watch?v=BRkkzyKTnxU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/BRkkzyKTnxU/hqdefault.jpg
-- **简介：**
-
-  > Bharat shares his Nosh experience!  🍽️ #NoshChampion #NoshExperience #RoboChef
-
----
-
-## 35. Geeta's Nosh Experience: Dishes Made Easy with Our Robo Chef!
-
-- **频道：** Let's Nosh!
-- **观看数：** 836
-- **点赞数：** 11
-- **评论数：** 0
-- **时长：** 1:00
-- **发布日期：** 2024-11-22T11:59:08Z
-- **链接：** https://www.youtube.com/watch?v=XR5rsb_g_9c
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/XR5rsb_g_9c/hqdefault.jpg
-- **简介：**
-
-  > Geeta shares her Nosh experience! Check out the dishes she’s made. 
-  > 
-  > #NoshChampion #GeetaCooks #Comfortfood
-
----
-
-## 36. Butter garlic mushrooms, a French classic, perfected by @letsnosh AI robot chef. #nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 2,204
-- **点赞数：** 25
-- **评论数：** 2
-- **时长：** 0:55
-- **发布日期：** 2025-06-29T11:56:27Z
-- **链接：** https://www.youtube.com/watch?v=eKbvA6Keuxc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/eKbvA6Keuxc/hqdefault.jpg
-- **简介：**
-
-  > Flavour that feels like home, with a French twist 💛
-  > Butter garlic mushrooms may have started in old French kitchens, but today, they’re the heart of comfort food everywhere.
-  > 
-  > At @letsnosh , we bring that same love and warmth to your plate, slow-sauteed, deeply flavoured, and perfectly done.
-  > 
-  > #nosh #comfortcooking #aicookingmachie #airobotchef #noshcooking #robochef #buttergarlicmushroom #quickmeals
-
-- **热门评论（2 条）：**
-
-  > **@shyamakemro3149**：😊 great .
-  >
-  > **@shyamakemro3149**：Good guyss
-  >
-
----
-
-## 37. Perfectly Roasted Rosemary Garlic Chicken with Nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,750
-- **点赞数：** 22
-- **评论数：** 1
-- **时长：** 0:58
-- **发布日期：** 2024-12-23T12:19:37Z
-- **链接：** https://www.youtube.com/watch?v=oGtrtALQZQE
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/oGtrtALQZQE/hqdefault.jpg
-- **简介：**
-
-  > Let the aroma of rosemary and garlic fill your kitchen with this mouthwatering chicken dish! 
-  > 
-  > #NOSHCooking #RosemaryGarlicChicken #Comfortfood
-
-- **热门评论（1 条）：**
-
-  > **@deeksham6486**：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
-  >
-
----
-
-## 38. Nosh: Where Every Generation Cooks Together
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,542
-- **点赞数：** 15
-- **评论数：** 3
-- **时长：** 0:39
-- **发布日期：** 2024-11-12T05:56:21Z
-- **链接：** https://www.youtube.com/watch?v=BzCoIaW3TwE
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/BzCoIaW3TwE/hqdefault.jpg
-- **简介：**
-
-  > Cooking together is more fun with Nosh! From the little ones to the experts, everyone can join in and create delicious memories. 🍴❤
-  > 
-  > #NOSHCooking #Comfortfood #FamilyCooking
-
-- **热门评论（2 条）：**
-
-  > **@deeksham6486**：Hello Nosh team, great start, design and innovation. I have few recommendations <br><br>1) can we extend food processor functionality here to chop, slice or grind. Which will allow juices, salads and prep for cooking.<br>2)  provide ability to customize recipes, add, edit own recipes.<br>3) can we add multiple equipment types inside, dosa pan, chapathi pan, steel bowl, saute bowl if possible extrnd for deep fried recipes.<br>4) for food ingredients trays etc if plastc is used please use sustainable materials like iron, steel etc if that&#39;s not already practicing.<br>5) provide support for manual intervention while cooking, if something missed to add or person want to stir.<br><br>With aboveadditional  features, I feel this invention will be more even appreciable, completely customizable and easily usable by everyone.
-  >
-  > **@gauravsinghsays**：Can it be purchased in Jaipur ?
-  >
-
----
-
-## 39. Nosh Wows at BITS Alumni Meet: Live Cooking Revolution!
-
-- **频道：** Let's Nosh!
-- **观看数：** 994
-- **点赞数：** 8
-- **评论数：** 0
-- **时长：** 0:38
-- **发布日期：** 2024-11-17T11:34:12Z
-- **链接：** https://www.youtube.com/watch?v=iaBdUY43D_g
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/iaBdUY43D_g/hqdefault.jpg
-- **简介：**
-
-  > Nosh made its mark at the BITS Alumni Meet! 
-  > Our world’s first cooking robo for homes impressed everyone with its live cooking and delicious dishes, changing the way home cooking feels.
-  > 
-  > #NOSHCooking #tastetest #Comfortfood
-
----
-
-## 40. Traditional Vs Nosh Cooking
-
-- **频道：** Let's Nosh!
-- **观看数：** 958
-- **点赞数：** 18
-- **评论数：** 0
-- **时长：** 0:45
-- **发布日期：** 2024-11-24T11:32:17Z
-- **链接：** https://www.youtube.com/watch?v=eQYsYaNQJ7Q
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/eQYsYaNQJ7Q/hqdefault.jpg
-- **简介：**
-
-  > Traditional hustle vs. Nosh simplicity. Which one would you choose?  Nosh makes it easy , quick, tasty meals without the stress! 
-  > 
-  > #NOSHCooking #QuickMeals #Comfortfood
-
----
-
-## 41. Nosh One-The AI Robot Chef for Fresh &amp; Healthy Meals at Home
+## 10. inew3d: The Desktop Full-Color 3D Printer with AI Modeling
 
 - **频道：** Inventions, Gadgets & Gizmos
-- **观看数：** 6
+- **观看数：** 13
 - **点赞数：** 0
 - **评论数：** 0
 - **时长：** 0:10
-- **发布日期：** 2026-03-01T02:34:26Z
-- **链接：** https://www.youtube.com/watch?v=qqN8rA5u87c
+- **发布日期：** 2026-03-07T21:13:46Z
+- **链接：** https://www.youtube.com/watch?v=e_b5J2DUDCQ
 - **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/qqN8rA5u87c/hqdefault.jpg
-- **标签：** Nosh One-The AI Robot Chef for Fresh & Healthy Meals at Home
+- **缩略图：** https://i.ytimg.com/vi/e_b5J2DUDCQ/hqdefault.jpg
+- **标签：** inew3d: The Desktop Full-Color 3D Printer with AI Modeling
 - **简介：**
 
   > Thanks for watching. More videos? Click Here: https://www.youtube.com/channel/UCXwkuCxVfB0D8LVkFDobvEQ?view_as=subscriber
@@ -2437,404 +408,1020 @@
 
 ---
 
-## 42. Watch now, Nosh live on ZeeTV and Zee5 only on Ideabaaz #aicooking #zeetv #zee5 #cooking #airobot
+## 11. MORE new 3D printers for 2026 @ TCT SHENZHEN!
 
-- **频道：** Let's Nosh!
-- **观看数：** 2,358
-- **点赞数：** 18
-- **评论数：** 0
-- **时长：** 0:20
-- **发布日期：** 2025-12-22T11:06:52Z
-- **链接：** https://www.youtube.com/watch?v=Xp-m-tqkD_I
-- **来源：** channel
+- **频道：** The Next Layer
+- **观看数：** 44,276
+- **点赞数：** 1,235
+- **评论数：** 47
+- **时长：** 2:36
+- **发布日期：** 2025-09-11T09:54:07Z
+- **链接：** https://www.youtube.com/watch?v=_3ngtzbnbBU
+- **来源：** search
 - **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/Xp-m-tqkD_I/hqdefault.jpg
----
+- **语言：** en-US
+- **缩略图：** https://i.ytimg.com/vi/_3ngtzbnbBU/hqdefault.jpg
+- **热门评论（22 条）：**
 
-## 43. New year, new joys. Celebrate with ​ homemade Kalakand—fresh, festive, and just a click away! #nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 2,248
-- **点赞数：** 17
-- **评论数：** 0
-- **时长：** 0:51
-- **发布日期：** 2025-04-14T06:07:31Z
-- **链接：** https://www.youtube.com/watch?v=PPk1nEQj9rY
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/PPk1nEQj9rY/hqdefault.jpg
----
-
-## 44. Breaking Barriers: A Kitchen That Empowers!
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,004
-- **点赞数：** 20
-- **评论数：** 0
-- **时长：** 0:39
-- **发布日期：** 2025-03-06T08:09:48Z
-- **链接：** https://www.youtube.com/watch?v=s6uEvheIUYc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/s6uEvheIUYc/hqdefault.jpg
-- **简介：**
-
-  > The cycle ends here.
-  > I am not the shadow behind a stove.
-  > I am the architect of my destiny.
-  > Time is mine to own, mine to shape.
-  > A kitchen that fuels creativity, not confines it.
-  > @letsnosh  Because ambition deserves a place at the table!
-  > 
-  > #nosh #SheInspires #celebrateherwithnosh #WomenEmpowerments #womensdayspecial  #womensupportwomen
-
----
-
-## 45. Authentic Asian style Savory Oats with Nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,734
-- **点赞数：** 32
-- **评论数：** 0
-- **时长：** 0:35
-- **发布日期：** 2025-01-06T11:26:41Z
-- **链接：** https://www.youtube.com/watch?v=av-zPhLA4fU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/av-zPhLA4fU/hqdefault.jpg
-- **简介：**
-
-  > Oats like you've never tasted before! Discover the savory goodness of Asian Style Savory Oats and indulge in unique flavors.
-  > 
-  > #NOSHCooking #AsianStyleSavoryOats #ComfortFood
-
----
-
-## 46. Golden Kesari Bath made easy with @letsnosh. Roasted, pineapple-packed & ready in minutes! #nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,416
-- **点赞数：** 9
-- **评论数：** 0
-- **时长：** 0:57
-- **发布日期：** 2025-06-20T08:46:52Z
-- **链接：** https://www.youtube.com/watch?v=h-CtlUlNnuk
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/h-CtlUlNnuk/hqdefault.jpg
----
-
-## 47. @letsnosh mushroom risotto: creamy arborio, earthy mushrooms & rich stock—slow-cooked perfection!
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,241
-- **点赞数：** 26
-- **评论数：** 0
-- **时长：** 0:37
-- **发布日期：** 2025-03-26T17:37:35Z
-- **链接：** https://www.youtube.com/watch?v=p_IvrqTxfKU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/p_IvrqTxfKU/hqdefault.jpg
----
-
-## 48. Flavor-packed kanda Poha with Nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,210
-- **点赞数：** 9
-- **评论数：** 1
-- **时长：** 0:38
-- **发布日期：** 2025-01-04T10:57:12Z
-- **链接：** https://www.youtube.com/watch?v=RgzzG8sSYKo
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/RgzzG8sSYKo/hqdefault.jpg
-- **简介：**
-
-  > Timeless Classic Kanda Poha made with easy! No fuss, No mess, just pure joy!
-  > #NOSHCooking #KandaPoha #ComfortFood
-
-- **热门评论（1 条）：**
-
-  > **@asmitasmn3691**：cutting vegetables is very tedious
+  > **@HeathFoster1** [👍51]：Really wish Formlabs didn&#39;t buy up that start up for SLS Printing
+  >
+  > **@4473021** [👍42]：Bruh the TPU Air handle bar grips at the end are killing me, people are definitely gonna print some &quot;creative&quot; things with it 💀
+  >
+  > **@AshianShinn** [👍18]：Snapmaker guys in TCT said the U1 shipping has queued into 2026😂
+  >
+  > **@Deneteus** [👍7]：She started laughing at his handling of that tpu.
+  >
+  > **@RooBars** [👍4]：Your camera pisses me off, and I am not even at the event.
+  >
+  > **@JacobYT2406** [👍2]：Thank you, love the content and coverage 🥰
+  >
+  > **@hu5116** [👍2]：Love what you are doing and showing.  HOWEVER, could you introduce what we are looking at before you describe it. You went from resin to metal to extruded all in one swipe, and not being a 3D printing guru, I am still not sure what I was really looking at for most of the video. Otherwise great videos and thanks for the intros!
+  >
+  > **@GrayeWilliams** [👍1]：I was so close to kickstarting the Arco. Glad to see the full system out into the world.<br><br><br>‘
+  >
+  > **@nadir3D**：Crazy!
+  >
+  > **@jmanTxKy**：Nice 👍🎉
+  >
+  > **@Myrblyl**：Vision Miner already uses the Formlabs SLS ecosystem. And that&#39;s freaking cool.<br>That&#39;s the kind of technology we&#39;re not going to see at consumer level. For good reasons.
+  >
+  > **@br3nz3l**：Wait, what? I thought I already saw the Formlabs Fusion SLS printer on Adam Savage&#39;s channel awhile ago?
+  >
+  > **@xpim3d**：Damn.. it’s 2025 and this is what you selected to show?! 🥶
+  >
+  > **@bez_glaza**：lol, arkfly beniz
+  >
+  > **@maoryehezkely1526**：אני אשמח מאוד לעזרה קצת יותר צמודה בדרי עם מדפסות תלת מימד ותהייתי עם אפשר אולי לעשות שיתוף פעולה או משהו דומה כי יש לי שטח ויש לי ידע בתחומים האחרים כמו טיהור אוויר אבל אין לי ניסיון עסקי או במידול
+  >
+  > **@TimDavies1955**：Form labs cost to much in everything
+  >
+  > **@chipped**：Thanks for the info! What camera was this filmed on? Thanks 😊
+  >
+  > **@ryanmazza1233**：What camera are you using? How far away is it from you to get these clean shots? On another note  I&#39;ve been watching form labs, I love the idea of medical devices and technology specialized to the specific patient not just the patient type.
+  >
+  > **@Thunderstryk**：F formlabs, keeping SLS out of the hands of the common person
+  >
+  > **@RazorBucks**：@<a href="https://www.youtube.com/watch?v=_3ngtzbnbBU&amp;t=125">2:05</a> the woman on the right let bad thoughts enter her mind.
+  >
+  > **@krollmond7544**：Definitely interested in the SLS, im sure it only cost a few fortunes
+  >
+  > **@PimpinNProgress**：Hey hey.... ho ho.... These generative selfie stick cams have got to go....
   >
 
 ---
 
-## 49. Nosh Diwali Hamper vs Market Hamper
+## 12. New 3D Printers for 2026 @ TCT Shenzhen
 
-- **频道：** Let's Nosh!
-- **观看数：** 900
-- **点赞数：** 20
-- **评论数：** 3
-- **时长：** 4:17
-- **发布日期：** 2025-10-18T13:44:38Z
-- **链接：** https://www.youtube.com/watch?v=j4_sHqu6aHY
-- **来源：** channel
+- **频道：** The Next Layer
+- **观看数：** 43,838
+- **点赞数：** 1,657
+- **评论数：** 55
+- **时长：** 2:58
+- **发布日期：** 2025-09-10T07:19:35Z
+- **链接：** https://www.youtube.com/watch?v=_m-rzrfdbJI
+- **来源：** search
 - **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/j4_sHqu6aHY/hqdefault.jpg
-- **简介：**
+- **语言：** en-US
+- **缩略图：** https://i.ytimg.com/vi/_m-rzrfdbJI/hqdefault.jpg
+- **热门评论（31 条）：**
 
-  > This Diwali, swap the market-made sweets for something made with love and real ingredients!💛
-  > 
-  > All homemade, healthy, and packed with festive flavor, because a Nosh Wali Diwali means celebrating light, love, and mindful indulgence. 
-  > 
-  > Order your Nosh Diwali Hamper now and make your celebrations guilt-free and full of goodness!
-  > 
-  > #aichef #nosh #robotchef #robochef #aicookingmachine #aicooking #diwalispecial
-
-- **热门评论（3 条）：**
-
-  > **@AnandSatya** [👍1]：Wow delicious
+  > **@fabianluethi03** [👍33]：I think the way you use the 360° camera is really cool, thanks for the insight
   >
-  > **@KAPOORRLIFE-yp7sv** [👍1]：Wow  Lovely
+  > **@No_Worries83** [👍12]：If you can ask FLSUN if they ever intend to do a multi material system, that would be great!  Also, we gotta see the H2C in action!
   >
-  > **@Ds07vlogs**：❤❤❤
+  > **@waggy401** [👍5]：Was Wondermaker there? Their 4-tool printer was on Kickstarter before the U1. They are a newcomer to the space.
+  >
+  > **@Pollyfab_official** [👍3]：Your video is absolutely amazing! Looking forward to seeing you again next year!
+  >
+  > **@ivanmelnikovabramov2177** [👍3]：We want to know ir elegoo will release the multicolor system
+  >
+  > **@thirtythreeeyes8624** [👍3]：No way those shoes are comfy for the whole day haha!
+  >
+  > **@soul_in_a_fishbowl** [👍2]：I love the HT PLA GF. Prints always look amazing. Super useful for desiccant containers for spools.
+  >
+  > **@racingrosso** [👍2]：Dude, love your videos, keep it up!!!
+  >
+  > **@G.U.P.** [👍2]：So no Elegoo AFSS😢😢
+  >
+  > **@GiacomoGarosi** [👍2]：Bambu Lab H2C?
+  >
+  > **@AxolotlsKeeper** [👍1]：Any info from elegoo about their &quot;AMS&quot;? :)
+  >
+  > **@user-bt9ek2dv2y** [👍1]：I doubt it by any chance of Bambu Lab having anything new coming out in the next 3-4 months? I plan on purchasing a P1S Combo but wondering if i should hold off a few months to see if anything new comes out?
+  >
+  > **@jamesocker5235** [👍1]：Is bondtech there
+  >
+  > **@Foreign_Tropical**：We want to see more everything!!!!!  So exiting!  Awesome content!
+  >
+  > **@zulhilmibinzaphil6727**：I was there earlier, saw you!! Will be there for 2 more days, great to see you explaining on these!!
+  >
+  > **@rodiculous9464**：The stick cam is cool
+  >
+  > **@blendervendor2220**：I bought a u1. I cannot wait to have one in hand.
+  >
+  > **@2spark631**：I&#39;d be interested to see if the glass fiber filaments are bound to cause irritation like carbon fiber filaments
+  >
+  > **@Guy_Sa**：I haven&#39;t heard of raise 3d in years
+  >
+  > **@kctechsg**：Great stuff, keep up the good work. Would you mind sharing what 360 camera you use?
+  >
+  > **@leoneraulino9468**：Topppp
+  >
+  > **@Myrblyl**：Polymaker finally releasing ASA-CF ^^ Since FormFutura did released ApolloX CF10 and ApolloX Kevlar quite a long time ago by now, that&#39;s a good news.<br>Still, I&#39;m wondering what kind of use could have PLA-GF ...<br><br>What I&#39;d love to see some day is a multi-toolhead Delta from FLSun ... With or without a multi-material add-on.
+  >
+  > **@DerekSmort**：Cloudy with a Chance of Meatballs shoes
+  >
+  > **@Cart_of_a_Jon**：@thenextlayer<br>Are you going to Formnext in Frankfurt, Germany?
+  >
+  > **@Barbasnoo**：The window on the rear of the u1 baffles me. But I like it! Great coverage of this event btw
+  >
+  > **@feymysic9811**：Awesome video! Now that you&#39;ve had time to wear them, what&#39;s your take on the all-day comfort? We&#39;re so excited to hear your thoughts!
+  >
+  > **@wink5792**：WONDERMAKER ULTRA-S!!!!!
+  >
+  > **@EXSHAL265**：Are there any high performance polymers printers? (Ultem, Peek)
+  >
+  > **@mastalock**：V500? Theyve been calling it V400 Max
+  >
+  > **@TigraZ**：just get the damm elegoo boot no one cares bout shoues or snakes
+  >
+  > **@Gounesh**：Oh look, nobody cares for the artisan!
   >
 
 ---
 
-## 50. Instant smiles with every spoonful of Kesar Phirni by NOSH
+## 13. The COST of FULL COLOR 3D Printing!
 
-- **频道：** Let's Nosh!
-- **观看数：** 850
-- **点赞数：** 23
-- **评论数：** 0
-- **时长：** 0:27
-- **发布日期：** 2024-11-13T11:32:55Z
-- **链接：** https://www.youtube.com/watch?v=H9DJ64NosSg
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/H9DJ64NosSg/hqdefault.jpg
-- **简介：**
-
-  > Spoonful of surprise! NOSH Kesar Phirni brings rich saffron flavors and creamy goodness that will leave you wanting more. 
-  > #NoshMagic #KesarPhirni #SweetSurprise #FoodieReactions #NoshAway #TreatYourself #DessertDelights #FlavorExplosion #TasteTheLove #NOSHCreations
-
----
-
-## 51. Nosh Cooking Robot - Review 
-
-- **频道：** Plebeian Network
-- **观看数：** 8,152
-- **点赞数：** 6
-- **评论数：** 10
-- **时长：** 1:06
-- **发布日期：** 2025-11-10T07:42:44Z
-- **链接：** https://www.youtube.com/watch?v=CdIHwlHqgs4
+- **频道：** 3D Printing Nerd
+- **观看数：** 47,754
+- **点赞数：** 1,542
+- **评论数：** 235
+- **时长：** 18:02
+- **发布日期：** 2025-05-16T13:00:30Z
+- **链接：** https://www.youtube.com/watch?v=A9J5D7SlGz4
 - **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/CdIHwlHqgs4/hqdefault.jpg
-- **热门评论（6 条）：**
-
-  > **@sanjaygupta-op9uy**：I was searching for honest review, and u have done it thank you.
-  >
-  > **@sudhanshutiwaskar2053**：create one more review video please
-  >
-  > **@sanjaygupta-op9uy**：if possible can you review it for today
-  >
-  > **@girishm7477**：Most of the dishes are under cooked.<br>SMBS stopped working after first use but Nosh team hot it resolved.
-  >
-  > **@mayak2676**：The 2 big issues with this robot....too much plastic used...should be entirely of Stainless Steel &amp; should include chopping function
-  >
-  > **@sanjaygupta-op9uy**：how about expirience as of today, what do you say, what is the pan made of,  how does it heat food, via microwave?
-  >
-
----
-
-## 52. 6 July 2025
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,873
-- **点赞数：** 23
-- **评论数：** 3
-- **时长：** 1:38
-- **发布日期：** 2025-07-06T07:08:53Z
-- **链接：** https://www.youtube.com/watch?v=1lEK4hFhQLU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/1lEK4hFhQLU/hqdefault.jpg
-- **热门评论（2 条）：**
-
-  > **@expectationvsreality3760**：Whats the name of this girl she looks cute ❤❤
-  >
-  > **@programmingwithaman3335**：girls are lying for sure
-  >
-
----
-
-## 53. This mother’s day don’t just thank her, set her free!💖 #nosh #robochef
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,625
-- **点赞数：** 16
-- **评论数：** 0
-- **时长：** 0:38
-- **发布日期：** 2025-05-11T16:50:04Z
-- **链接：** https://www.youtube.com/watch?v=ecQy6WsBG9I
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/ecQy6WsBG9I/hqdefault.jpg
----
-
-## 54. This Rakhi, ​⁠@letsnosh AI Robo Chef handles it all, prep to dessert while you make sweet memories
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,518
-- **点赞数：** 9
-- **评论数：** 0
-- **时长：** 1:05
-- **发布日期：** 2025-08-09T07:01:45Z
-- **链接：** https://www.youtube.com/watch?v=Ml0lKp1UUCc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** hi
-- **缩略图：** https://i.ytimg.com/vi/Ml0lKp1UUCc/hqdefault.jpg
----
-
-## 55. Royal roots, timeless taste. @letsnosh  biryani brings Eid flavour home. Eid Mubarak!#nosh #aichef
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,410
-- **点赞数：** 15
-- **评论数：** 8
-- **时长：** 0:33
-- **发布日期：** 2025-06-07T09:55:36Z
-- **链接：** https://www.youtube.com/watch?v=dIonxiq-pmw
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/dIonxiq-pmw/hqdefault.jpg
-- **热门评论（4 条）：**
-
-  > **@vladimirputin583**：Do you guys deliver to mysuru plzzz
-  >
-  > **@LakshmiKrishna.**：Is Cutting Vegetables Also?
-  >
-  > **@ShaistaRasheed-f6u**：Is this available in usa
-  >
-  > **@naziabanu4240**：Pp
-  >
-
----
-
-## 56. Ugadi is a fresh start! Celebrate with ​@letsnosh Coconut Jaggery Burfi—pure tradition, zero effort.
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,261
-- **点赞数：** 18
-- **评论数：** 1
-- **时长：** 0:58
-- **发布日期：** 2025-03-30T06:28:07Z
-- **链接：** https://www.youtube.com/watch?v=x1kPIxC-5YM
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/x1kPIxC-5YM/hqdefault.jpg
-- **热门评论（1 条）：**
-
-  > **@RedZy2004**：Can I Buy This From The Philippines? And Is There Filipino Food Recipes It Can Cook? 🤔
-  >
-
----
-
-## 57. Hearty & Spiced Chole Masala with Nosh! #noshcooking #cholemasala #comfortfood
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,085
-- **点赞数：** 15
-- **评论数：** 0
-- **时长：** 0:34
-- **发布日期：** 2025-02-20T12:26:06Z
-- **链接：** https://www.youtube.com/watch?v=ovAY_Zr9yKc
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** hi
-- **缩略图：** https://i.ytimg.com/vi/ovAY_Zr9yKc/hqdefault.jpg
----
-
-## 58. Bold & Flavorful Tomato Rasam with Nosh
-
-- **频道：** Let's Nosh!
-- **观看数：** 951
-- **点赞数：** 16
-- **评论数：** 0
-- **时长：** 0:52
-- **发布日期：** 2024-12-31T11:39:29Z
-- **链接：** https://www.youtube.com/watch?v=3-lCMFjwpDw
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/3-lCMFjwpDw/hqdefault.jpg
+- **缩略图：** https://i.ytimg.com/vi/A9J5D7SlGz4/hqdefault.jpg
+- **标签：** 3d printing nerd, joel telling, joeltelling, 3d printing, 3dpn, mimaki, mimaki cost, mimaki material cost, wekster, printed obsession, chelsey creates things
 - **简介：**
 
-  > A burst of tangy flavors in every spoon! Rasam is the perfect blend of spices and tradition. Taste the comfort in every sip! 
+  > FULL COLOR PRINTS from the Mimaki 3d printer! They look amazing, but come at a cost!
   > 
-  > #NoshCooking #Rasam #ComfortFood
+  > Mimaki 3DUJ-2207 ▶ https:/bit.ly/mimaki
+  > Printed Obsession ▶ https://www.patreon.com/printedobsession
+  > Chelsey Creates Things ▶ https://www.patreon.com/c/chelscct
+  > Wekster ▶ https://www.patreon.com/c/wekster
+  > 
+  > 00:00 - MONTAGE!
+  > 00:30 - The Machine
+  > 00:58 - Printed Obsession
+  > 01:32 - Price of Machine & Materials
+  > 05:23 - Chelsey Creates Things aka CCT
+  > 09:44 - Wekster
+  > 16:58 - The Line Up!
+  > 
+  > 3D Printing Nerd Studios POWERED by PCBWay
+  > 8% off using code 3DPN ▶ https://3d.pn/pcbway
+  > REDEEM COUPON HERE ▶ https://member.pcbway.com/Member/coupons
+  > 
+  > MERCH! ▶ https://the3dprintingnerd.com/merch
+  > Patreon ▶ https://3d.pn/patreon
+  > FloatPlane ▶ https://www.floatplane.com/channel/3dprintingnerd
+  > 
+  > Bambu ▶ https://bit.ly/bambulab
+  > Glowforge ▶ https://3d.pn/glowforge
+  > Prusa ▶ https://3d.pn/prusa
+  > Puget Systems ▶ https://3d.pn/pugetsystems
+  > Slice Engineering ▶ https://3d.pn/slice
+  > 
+  > MATERIALS 🦇
+  > Polymaker ▶ https://3d.pn/polymaker (aff)
+  > Printed Solid ▶ https://3d.pn/printedsolid
+  > Amazon ▶ https://geni.us/shopatamazon (aff)
+  > Matterhackers ▶ https://3d.pn/matterhackers (aff)
+  > Proto Pasta ▶ http://3d.pn/protopasta (aff)
+  > 
+  > Nikko Industries 3D Printable Models ▶ https://bit.ly/3lK0WHi
+  > 
+  > THE TEAM! 🤟 
+  > Host: Joel Telling ▶ https://www.instagram.com/joeltelling
+  > Executive Producer: David Tobin ▶ https://www.instagram.com/david_tobin
+  > The Website ▶ https://the3dprintingnerd.com
+  > 
+  > --------------------------------
+  > Find Me Socially!
+  > --------------------------------
+  > Twitch: https://twitch.tv/joeltelling
+  > Twitter: https://twitter.com/joeltelling
+  > Twitter 3DPN: https://twitter.com/3dprintingnerd
+  > Facebook: https://facebook.com/3dprintingnerd
+  > Instagram: https://instagram.com/joeltelling
+  > Instagram 3DPN: https://instagram.com/3dprintingnerd
+  > Discord: https://discord.gg/GGZQgnh
+  > 
+  > --------------------------------
+  > Want to send me something?
+  > --------------------------------
+  > 3D Printing Nerd
+  > PO Box 55532
+  > Shoreline, WA 98155
+  > USA
+  > 
+  > Music in Episodes Comes From:
+  > Epidemic Sound - http://3d.pn/epidemicsound
+  > Future Vega - https://futurevega.sourceaudio.com
+  > Audio Micro - http://www.audiomicro.com/royalty-free-music
+  > 
+  > FTC Disclaimer: A percentage of sales is made through Affiliate links
 
----
+- **热门评论（155 条）：**
 
-## 59. Kaala Chana Sundal, once fuel for freedom, now a ​⁠@letsnosh  classic this Independence Day.
-
-- **频道：** Let's Nosh!
-- **观看数：** 1,183
-- **点赞数：** 12
-- **评论数：** 0
-- **时长：** 0:50
-- **发布日期：** 2025-08-15T09:38:21Z
-- **链接：** https://www.youtube.com/watch?v=SdEwQ4A9YA8
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/SdEwQ4A9YA8/hqdefault.jpg
----
-
-## 60. This gift won’t end up catching dust in storage #airobotchef#aicookingrobot#aicooking #weddingseason
-
-- **频道：** Let's Nosh!
-- **观看数：** 901
-- **点赞数：** 11
-- **评论数：** 2
-- **时长：** 0:38
-- **发布日期：** 2025-11-22T12:52:13Z
-- **链接：** https://www.youtube.com/watch?v=IeBu0Pm3PaU
-- **来源：** channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/IeBu0Pm3PaU/hqdefault.jpg
-- **热门评论（2 条）：**
-
-  > **@UserNew-f3k2c**：One question can you make an seperate machine which will prepare ingredients like in your main machine we have to chop grind and do all those thing what if their was a machine ofocurce with your own os which will done that to so just put raw full vegetables and it will make nosh main machine ingredient tray approved final result 😅😅
+  > **@Pr0t0typeSky** [👍150]：If I ever win the lottery I wouldn’t tell anyone… but this would be one of the signs
   >
-  > **@Akhilesh...928**：Adding weight machine , chopping machine, roti making machine, and a bigger screen like upliance and streaming ,frying ,roasting like Wonderchef . Then I will buy it price raised even price reaches 1 lakh. Just go and start steal all the technology which are already present in this field.
+  > **@IrocZIV** [👍61]：At these prices it still leaves room for people to print in resin and hand paint.
+  >
+  > **@See-essEll** [👍51]：So, say you&#39;re $50,652 to buy the machine, (I&#39;m not including tools to run, cleaning supplies, etc). Using Chelsey&#39;s dragon as a benchmark and rounding a bit let&#39;s say it&#39;s going through $50 of ink per day, and let&#39;s also assume that cleanup of the model and prep/reset of the machine for each machine takes an hour of that day. One employee would then be kept occupied by running eight of these machines, and the machines would be kept productive all day. If you&#39;re doing models with less than 23 hours print time, there is wasted machine time, but we&#39;re looking at a potential best-case scenario here:<br><br>$50,652 * 8 machines = $405,216 (though it looks $8,000 cheaper direclty from mimaki)<br>$15/hr operator * 8hrs * 5 days * 52 weeks = $31,200<br>$50 ink/day * 5 days * 52 weeks * 8 machines = $104,000<br>= $540,416<br><br>So, for the machines to pay for themselves after a year, you&#39;re going to need to be pricing those models at more than 5x materials cost, as these estimates don&#39;t account for rent or any other kind of overhead like shipping, taxes, insurance.<br><br>Anyway, the reason for this is that if anyone looks at the $50 dragon and thinks it should be sold for like $60? Sorry. Even at 2x materials cost the operator is taking a big risk that the machines will keep operating for 5-6 years without needing further investment.
+  >
+  > **@lucky13toys** [👍30]：You mention it in the video, but it’s important to remember that material cost is only one part of the retail price of an item. Suppose you run this $50k machine on two shifts for 10 years - that still works out to more than a dollar per hour of print time. Plus paying for operators and post processors and maintenance and production overhead and keeping the lights on in the shop. And, you know, a profit margin so you can actually buy groceries at the end of the day.<br><br>I see this more as a prototyping tool for design firms than something I would have spitting out retail products. This is a super cool machine but it is a serious investment :)
+  >
+  > **@greenscarpdx** [👍29]：I&#39;m glad that thing is so expensive. Otherwise I&#39;&#39;d have ordered the moment you showed WEKSTER&#39;s work.
+  >
+  > **@RocketCityTim** [👍18]：Is it possible to hollow the objects to save material and time?
+  >
+  > **@chuckthetekkie** [👍12]：Way more expensive than I was expecting, Hopefully this becomes cheaper over time or an open source solution comes out for us hobbyists. I know some people are working on using inkjet cartridges to color prints. Very cool nonetheless just way too expensive for most people.
+  >
+  > **@arklanuthoslin** [👍11]：I wasn&#39;t super shocked by the prices - ziodberg especially - then we got the the Chinese dragon. THAT was a price spike. Holy crap. And then Wekster&#39;s dragon at 110. Yikes. The models look <b>amazing.</b> The coloring, the shading and all that, very impressive. But the cost is really prohibitive, for consumers, anyway.
+  >
+  > **@ÜberSlashBeans** [👍10]：3d printing has come so far in the last few years. Looking forward to having this kind of thing as a consumer tech in like 10 years.
+  >
+  > **@DanielFQEvo** [👍10]：I actually think the price is fine if you take into account how long it would take to paint something like that to the same level of detail, my time is worth a lot more.
+  >
+  > **@bricehoogenboom6483** [👍6]：This takes &quot;Failed print&quot; to a new meaning...
+  >
+  > **@vcvracarkad** [👍5]：<a href="https://www.youtube.com/watch?v=A9J5D7SlGz4&amp;t=67">1:07</a> Hello, Potion Seller, I am going into battle and I want your strongest potions.
+  >
+  > **@wekster** [👍5]：Who else made a Woop, Woop, Woop sound at <a href="https://www.youtube.com/watch?v=A9J5D7SlGz4&amp;t=345">5:45</a>?
+  >
+  > **@ryandowney9383** [👍4]：This is really cool. The colors being printed on the edges of each layer reminds me of the 3D printers a few years ago like the Mcor Arke that used layers of paper and they printed full color on the edges.
+  >
+  > **@scarfa21** [👍4]：Learn how to paint, and the results are always better.  Simple.   200 bucks for an airbrush, 100 for paint, 150 for compressor.  50k for a color printer, tons of money for supplies...Yeah I like painting
+  >
+  > **@Millin3dStudio** [👍3]：I would never leave the house again!! Touch grass??? id just print grass :P
+  >
+  > **@hippiemcfake6364** [👍3]：The cost of the machine itself, maintenance, failure rate (as a multiplier to the other costs), etc. would all be great to consider, too.
+  >
+  > **@Nadesican** [👍3]：Joel, are you hollowing those models out at all? Back when I was making stuff for Shapeways, they would advise you to hollow out your models and leave a channel for the excess material to escape, and save you cost by only &#39;sealing&#39; the outer layers. Not sure if this uses the exact same process though.
+  >
+  > **@alien13ufo** [👍3]：Awesome video Joel! I have a question though. Is there any efficiency benefit for printing multiple models at once like there is with a multi-color FDM print? If I printed 10 of those at once, is the price per model still the same as if I printed one?
+  >
+  > **@hed420** [👍3]：The &quot;ink&quot; is way too expensive. It&#39;s basically overpriced uv resin. Should be $20 - $30 a litter.
+  >
+  > **@gfixler** [👍2]：I wonder if anyone remembers the old Z-Corp printers, from the early 2000s, which made quite similar things, with a bit less resolution, but with full color, with a volume of starch powder, built up in layers, each solidified and colored with an XY inkjet head. It would rake out a thin layer of starch powder, print a 2D image in binder, with just the edges in full-color, printed in literal inkjet ink, and sink down a tiny bit into the tub for the next layer. You dug it out of the starch at the end, used the built-in vacuum hose to suck up the excess powder for reuse, and soaked the part in an infiltrant, to make it stronger. They came out like full-color sandstone sculptures. The resolution felt a bit like 90s-2000s low res poly art, but it was amazing. They had an infiltrant that rubberized the print, and I had a tube with an accordioned middle section, and it compressed, and felt like a sandstone textured latex rubber. I found it 20 years later, and it had hardened quite a bit, though. Anyway, I think they were initially $40k USD, but I think that eventually kept dropping, I want to say down to $18k, though I could be confusing it with the Dimension printer, which was the first filament printer I had ever seen, back during that same time period. I have a bunch of pics from SIGGRAPH, I think 2005, of the machines and beautiful example prints, up on Flickr.
+  >
+  > **@LostXD787** [👍2]：I suverly underestimatet the rare Material Costs
+  >
+  > **@smilertoo** [👍2]：very nice but very expensive.
+  >
+  > **@ozcanison** [👍2]：The failed dragon highlights something, why are the prints solid, why cant they be hollow? Surely that would save on cost, and you dont need to worry about liquid resin like a normal resin printer.
+  >
+  > **@AIIZREVIEWS** [👍2]：This takes high brow, bougie 3d printing to a whole new level
+  >
+  > **@TheReverend64** [👍1]：Those are some amazing prints by very talented artists!
+  >
+  > **@Machine_NZ** [👍1]：5 years and we&#39;ll have these at home sitting on the desk (when the price gets more realistic). Great technology and thanks for showing us Joel
+  >
+  > **@Toni_Toaster** [👍1]：Awesome video and beautiful models and prints. 👍<br><a href="https://www.youtube.com/watch?v=A9J5D7SlGz4&amp;t=310">5:10</a> It&#39;s actually a lot more expensive than I thought. I expected the price of the material to be similar to our normal UV resins.
+  >
+  > **@Sunbound77** [👍1]：. Im really interested to see how the cost and design of this technology/type of 3d printing changes over the next few years.
+  >
+  > **@edd4431** [👍1]：Hi Joel, I am curious on your cleaning regiment for these. I use to work with one of Mimaki&#39;s large resin 3d color printers, and cleaning the models was such a pain. Beautiful colors after it was all done though. Also print something cool and big on this please. 😁
+  >
+  > **@KenDilas01** [👍1]：The costs seem cheaper than I expected. How are the models colored, prior to printing?
+  >
+  > **@Rawstock92** [👍1]：Joel, did you ever use a Zcorp full-color printer? (They were bought by 3D Systems.) ABS powder bed machines have been around for 20 years now … There was (once) a Seattle company printing World of Warcraft customs in full color; I think they were about $100 for an 8” model.
+  >
+  > **@OneSolidCube** [👍1]：Why does the Adam bomb price jump so much - is it supports or some other reason?<br><br>why don’t they do hollow infill?
+  >
+  > **@NorgenSolutionsLLC** [👍1]：Does the price include energy used? 27hr print will use quite a bit of electricity
+  >
+  > **@shanematthews1985** [👍1]：So what are the costs to run the machine and the time taken to clean the model and the machine after?<br><br>Because those material costs seem fair, but i&#39;m assuming those other costs are going to ruin the pricing on these models
+  >
+  > **@reprinted3D** [👍1]：This machine, and the prints are magnificent! I do wonder if the prints could be &quot;hollowed&quot; the way you would is printing them on a regular resin printer, to save on the ink costs?
+  >
+  > **@elchavode6479** [👍1]：I&#39;m sure of you hollow them out a bit or had some support structure in the inside they&#39;ll probably reduce the cost. Or is this not feasible with those type of machines.
+  >
+  > **@YourBuddyDinec** [👍1]：I mean you&#39;re technically correct about Futurama being one of the top 3 shows....which is the best kind of correct...
+  >
+  > **@TrippLilley** [👍1]：I can&#39;t believe y&#39;all missed the opportunity to call it the Spice Marine...
+  >
+  > **@poepflater** [👍1]：You can easily reattch the flame with a soldering iron using some filament as solder....
+  >
+  > **@xtianor** [👍1]：amazing printer, sadly the prices are ridiculous. you can think of investing if the prices for the materials were maybe a fifth of what it actually is, but i feel it is a very delicate machine
+  >
+  > **@exxodas** [👍1]：Prices are way too crazy
+  >
+  > **@marty1765** [👍1]：Joel! This stuff looks great!it looks like the main issue with the cost / time to make these is actually: how long and how much skill is required to actually apply the color coding to the 3d model itself? Even with just 4 colors it takes me an eternity to paint large models to print in bambu studio. I guess it helps if the print files come with it baked in, but without it, it looks like it could take a long time and tons of skill to get the colors down on some uncolored models.<br><br>The costs for mats seem to be in line though, especially for smaller prints.
+  >
+  > **@Ddddddddddd381** [👍1]：I would have loved to hear why certain models cost more than other rather than &quot;this model is really cool&quot;. the only gauge I can see is longer print costs more because time. I don&#39;t know how large any of these models are so I can&#39;t really see what differentiates the model&#39;s cost
+  >
+  > **@Titanieon** [👍1]：Áhhh cost to much look nice and good i dont need to airbrush it but this cost and print time is .. :D Easyer to buy normal Resin printer then paint it :D
+  >
+  > **@username9774** [👍1]：How is jlc cheaper than printing it yourself
+  >
+  > **@peaceorpieces8343** [👍1]：Can&#39;t understand why you would spend so much money and waste so much time printing. <br><br>I can do all these models on my ender 3 with a 0.8mm nozzle in a quarter of the time, 10x the quality and 20,000 colours all while using cheap filament from temu 😂
+  >
+  > **@RonsTwo** [👍1]：What garbage pail kids models ? Where where where???
+  >
+  > **@rolfathan** [👍1]：Most of these prices seem really good for what they are. If you think about how much blind bag vinyl figures tend to cost, it&#39;s like those prices, but you get to choose basically anything. But, I&#39;m kinda surprised at just how much the price shot up for those detailed prints. I&#39;m trying to wrap my head around what does and doesn&#39;t change the price by so much. Pumpkin Spice Warrior is so cool, but that price is.... wow. A lot.
+  >
+  > **@ByGrafer**：i went crazy when saw the firewolf effect with the light
+  >
+  > **@Mike-mu7tk**：Getting Home Shopping Network vibes
+  >
+  > **@carsondial2**：What&#39;s the cleaning process like?
+  >
+  > **@MrGerhardGrobler**：Print all the things... In full colour!<br>Love it!<br>I am already winching at the lost filament from colour printing with a material system.<br>FYI I encountered something strange.<br>Colour swapping with an AMS causes colour bleeding, yet joining different colours with the Mosaic palette and the Sunlu FC01 does not.<br>I theorised that this is due to continuous feed and not having waste blobs in the hot end/nozzle
+  >
+  > **@Repkord**：How dare Mimaki doubt the 3D Printing prowess of the Nerd! Of course you can get the detail! 😅<br><br>Such a cool breakdown and amazing tech... what a time to be alive!
+  >
+  > **@skelingtonrick**：joel, I thought your learned from Frank, a lil Clear varnish on the print after the cleaning! I feel like if someone was running a company and offering prints at cost plus a small markup it could be a tempting thing to order a model, but no regular person is ever gonna own or even see one of these machines in person lol
+  >
+  > **@charlesschneider7079**：The cost is about what I expected.
+  >
+  > **@chrisdixon5241**：Those prints are amazing. The wolf was definitely my favourite, and the skeleton mode gives astounding results.<br><br>I can&#39;t wait to see this technology trickle down into machines at a more hobbiest price point!
+  >
+  > **@markymark3d**：now would the cost go down printing more on the build plate like typical fdm printing
+  >
+  > **@AngelVenomous**：I wonder about the layer height. Seems close to 0.1mm. Also is there no way to make the parts hollow? Or at least have an infill material that is a lot cheaper than the other ones just for the inside of the part.
+  >
+  > **@clutch2827**：I think Joel got flagged by the IRS with this business expense. Lol!
+  >
+  > **@DerBen0487**：Bondtech INDX might change the way we print cheap color models :)
+  >
+  > **@izzuanadnan**：i want to know the weight of the items
+  >
+  > **@Myrblyl**：Yay ! I had a correct rough guess for the Fantastic 4 bundle !<br><br>My favorite, besides the Dragon which is absolutely stunning, is &quot;Adam Bomb&quot;. It&#39;s so darn good, I may collect them all if possible ! 🤩<br>i&#39;m not very familiar with the process used with the Mimaki printers, besides being ink-based. I don&#39;t know if you already did dwelve into the details about how it&#39;s functioning in video, from the model to the actual prop. If not, that&#39;s something that sounds very interesting and you may do ?
+  >
+  > **@CanilGigantesdoMoenda**：Congratulations on the post. One curiosity, there was no 3D file of a real person made with scanning, so we could see the quality and the cost of printing?
+  >
+  > **@realgoose**：Is there a way to save some money and time by printing multiple copies of a model all at once? I’m thinking the multi material systems we have today where one copy takes x amount of material, but adding 5 copies only adds x+1 amount of material, bringing the overall cost down.
+  >
+  > **@dorrinbrown7310**：I noticed a bunch of copyright material  or should  say intellectual property in those prints is that something added in production cost , related to license to use .
+  >
+  > **@IcedForce**：Considering what some minis cost and you often need to spend hours to hand paint them by yourself. Even when you would add the price of electricity and someone to be around overseeing the print (while doing something productive), it&#39;s probably still cheaper than some GamesWorkshop minis when time spend painting them is added to the calculation.<br>Considering what kind of business you could be running on that printer, it can be super cheap compared to the alternatives (mostly skilled artisan work). It&#39;s pretty much the same as metal SLS printing, I had one project with a company that was on the verge to get one but that few hundreds of thousands price tag was a problem for the accounting. Running the numbers for ordering prototype and test molds (they do injection molding) from machine shops and the time waiting for those molds, the printer (in comparison) instantly getting either test molds or just a more durable part as master to get molds that can last couple runs paid itself back in just a year, two at most to really cut down the development costs and turn into profit.
+  >
+  > **@rescuemethod**：What is the material and does it have any decent mechanical properties? Max build size? Special facility requirements for lasers or venting or handling of toxic materials?
+  >
+  > **@HunterG-f2i**：This is super cool
+  >
+  > **@CdoGtheGreat**：What is the commercial use case for this? I know high quality prototyping is one, but isn&#39;t there other technologies that are more cost effective? How are actual injection molded action figures made in full color?
+  >
+  > **@hargert**：Great video, would love to see a similar breakdown once you get the Flashforge CJ270 and how their material costs will compare. I am looking forward to seeing this tech/materials come down just like mono color resin printing did.
+  >
+  > **@hueforging**：It seems like print time is almost directly related to cost.  I&#39;m assuming this is because print time is all about the volume being printed and each layer is fairly constant time.  Is that accurate?
+  >
+  > **@TinkerDad3D**：i&#39;d love to build a machine similar to this.  i&#39;d need a lot more space than i have now, though, &amp; raw materials would probably require that i win the lottery, considering iterations.  as interesting as it&#39;d be to own one professionally made, i&#39;d rather build my own - i used to be a hp authorized technician, so guess where the colorization would come from....  😋
+  >
+  > **@JTB3112**：I figured it be expensive. $40 for that small adam bomb is crazy!
+  >
+  > **@LincolnWorld**：Thanks for showing us the prints and explaining the material costs. To a degree, the prices were sort of what I expected. That being, way more than I would currently want to spend, but understandable considering it&#39;s all proprietary and it&#39;s not like there are 50 different companies selling the &quot;ink&quot; on amazon all competing for our business. <br>Definitely not something for all the people selling keychains for $5 at local crafts fairs. It&#39;s a high-end machine for situations where money is no object and you just need something to look like that.<br><br>I wonder if it&#39;s practical to at least hollow out the models a little bit to save on material. Even if the walls had to be 2 mm thick for strength, I&#39;d bet you could cut down the material cost by 50% or more, depending on the size of the model. Is that something you can do on this printer?
+  >
+  > **@greyjedi4794**：This would be an amazing way to get people into TTRPGs. You could probably also do historical uniforms, lkke Napoleonics 😮
+  >
+  > **@Fortizar**：This is neat but I&#39;ll stick to resin printing and use some Army painter speed paint. cheaper and looks better imo
+  >
+  > **@Asathehun**：Woo hoo!
+  >
+  > **@MechsandMead**：Why not Zoidberg?
+  >
+  > **@toufans**：Why the doesnt look such as injection material look as you visited the gentle giant Mickey mouse texture ?
+  >
+  > **@chrisdera**：the print is so expensive if i want to print them and sell them.
+  >
+  > **@iwantosavemoney**：Seem a little expensive but they are cool as all get out I would pay it
+  >
+  > **@Donnis32**：They would have to reduce the equipment and material costs by a lot to make this a practical printer outside of specialized industries.
+  >
+  > **@ImaginationToForm**：Can we order color prints from you on this?
+  >
+  > **@Reds3DP**：Joel, if I had the chance to buy one for these for like 25k would you??
+  >
+  > **@roystevens4333**：I run a 3D printing service and to make things simple I sell at material cost x10. So these super cool color prints become very expensive at retail. Even at that I&#39;m not sure I&#39;d be able to amortize the cost of the machine.
+  >
+  > **@matsv201**：I know a way to do something simular on a basically normal resin printer, with far higher printspeed and larger models.<br><br>If someone want to build one. That would be cool
+  >
+  > **@PencilParasite**：But but but Flashforge guys ? Where are they ?
+  >
+  > **@JonS**：Beautiful prints, but those material costs are a lot higher than I was expecting. Some third-party inks are needed to drive down prices. Of course, that comes with risks.
+  >
+  > **@SirLANsalot**：ya that would be something you would have to finance to own, but it would make its money back and pay for itself with HOW FUCKING AMAZING THOSE DETAILS ARE!!!!!!!
+  >
+  > **@stevesloan6775**：I’d like to see this tech used for stop motion animation designed characters. <br>At least they’d be functional! <br>You could  3d print a series that adds up to say a running cycle of a character. It could be a new genre in film production.
+  >
+  > **@C-M-E**：Cutting my printing teeth on resin, the cost isn&#39;t as eye-popping as the time these are taking to print, an inherent process constraint to the Mimaki machine as it works now. <br>Comparatively to models that are hand painted like a Hot Toy, Sideshow or similar high end , you can get a lot more resolution out of consumer-grade machines, but the trade off is the time and/or ability to do a 1st rate paint job sucks up and enormous amount of time in itself, hence why I have boxes and boxes of proof prints awaiting paint, some of which are nearing seven and eight years of waiting. Ugh... I enjoy the creating process a lot more than the painting side. That&#39;s my story and I&#39;m sticking to it! 😁
+  >
+  > **@volttherobot**：Any reason not to &#39;hollow&#39; them out a bit? I guess it would only shave off about 5 bucks or so...
+  >
+  > **@SaishiYT**：I&#39;ll admit I had no interest in watching this when I saw the pumpkin print/cost thumbnail, but today after seeing the hot demon lady that changed my mind 😆
+  >
+  > **@fursphere2**：Add in machine cost and post processing, and this gets down right ridiculous.
+  >
+  > **@MortisNuntius**：Full color dynamic 3d printer is hitting Kickstarter in March!! Price will be 7k (ish)
+  >
+  > **@BrutalkhaosStudios**：The models look insane and amazing but no chance you could use that machine to print figures lol it would have to have a bigger commercial use in order to justify the price of everything
+  >
+  > **@havacomment**：Anyone else getting flashbacks to 1979&#39;s The Jerk? I kept hoping for a model to cost one dollar and NINE CENTS!!! 🤣
+  >
+  > **@Yeliscreativeart**：Its cool what the machine can handle and do but for 50k printer it should print crispy and material cost is in my opinion to expensive and is only good for protoypes . But i can’t see why they can’t make it smaller like a 3 printer they would sell like butter
+  >
+  > **@crowguy506**：Your print is finished. Just saying. I wonder what it would be on let’s say a 17 color H2D to run these prints material wise in filament saving mode. Obviously several weeks of printing.
+  >
+  > **@rickseiden1**：The prices that were under $20 would be great for an etsy shop. The $50+ not so much.
+  >
+  > **@Dragonited**：Maybe when the patent have expired and other manufacturers can start to use it to compete the price down then it will be a good value. As it is now there is no way that it will be affordable even for big corporations. Those prices for the ink is insane. Would like to se a FDM printer that can color the filament when it goes through the heater or something.
+  >
+  > **@Northsidedesign3D**：This would be great if the materials were less pricey.
+  >
+  > **@sherizaahd**：Some of these are probably out of reach for the cost.  That Rocketeer bust is pretty, but to make money on it you&#39;d have to sell it for over $200, which seems unreasonably expensive to me.  maybe someone would want it, and I guess made to order it would be OK.
+  >
+  > **@clapsnacks**：Hey Joel. How would you figure out how much your time is worth when spending time preparing and post processing prints?
+  >
+  > **@santiagoricoy1313**：Perhaps I missed it, but could you explain how Wekster prepared the files? <br>Or more directly: if I purchased a model off of his Patreon, would I be able to send it to someone with a Mimaki and they would have all they need to print it?
+  >
+  > **@3DJapan**：The tricky part for most people would be finding full color models to print.
+  >
+  > **@bnielsen44**：Thanks for those samples. Do you know who offers Mimaki 3D printing as a service in the United States? I guess Shapeways is no longer.
+  >
+  > **@tinmole9032**：Very cool but costly, I&#39;ll stick to my Enders
+  >
+  > **@40cycleradio**：Love the video. BUT!<br>Where<br>Is<br>The<br>Framework <br>Laptop!<br><br>Also sue store in skeleton color would be amazing as she can fade
+  >
+  > **@MrOrionpax**：I think the warhammer community would have to be on your side. Being able to print an already painted army  might sell well If you can get it running in that area
+  >
+  > **@Whgfghfhg**：I think the painting is the part that worth the price. With file you can print but without painting skill it will like child work.
+  >
+  > **@greyjedi4794**：Do you think full color print will ever be as affordable as regular 3d printing?  The reason i ask, is because i cannot tell you the number of times I&#39;ve tried to get aomeone into DnD or ww2 historicals and the person said they&#39;d love to but didn&#39;t have time to paint.
+  >
+  > **@edwardstephens936**：Question; does the cost decrease with filling the build area with a bunch of the same models kinda like we can with FDM printing?
+  >
+  > **@JonathanB822**：It&#39;s very impressive but the details aren&#39;t sharp enough to warrant a 50k price tag! Still really cool though!
+  >
+  > **@nopenope5598**：Tech is interesting but those print times and costs are NOT cost effective or &quot;worth it&quot; since you could easily find comparable stuff much cheaper.
+  >
+  > **@gc2276**：Overpriced printer and overpriced supplies results in very expensive products that are made very slow. But still there will be someone to buy that .
+  >
+  > **@Bigguns761**：is the resolutiona as good as resin ?
+  >
+  > **@abruzzibill4704**：Did they come out painted from the 3D printer, or were they painted afterwards?<br><br>If they came out like that from a 3D printer, what brand/model?
+  >
+  > **@maugseros8347**：Very cool, but I can only see this for printing small things.   Because start to get 8&quot;+ tall and forget about it.   Double the size is about 8 times the material.   So imagine doubling the size of that $144 print would cost closer to $1152 in material!!      Might be chump change to large corporations doing prototyping, but you really don&#39;t need color for most prototyping, your just looking for overall form/function, and you could print it on a mirad of other 3D printer technology for a fraction of the cost.<br><br>So looks like a very cool proof of concept printer, but I can&#39;t imagine this catching on unless it drops and order of magnitude in cost.
+  >
+  > **@CreatingWithJackPines**：These costs would have meaning if they were compared with the rest of what FDM can do, both single nozzle with the waste, and with multi-nozzle.<br><br>Then I went and looked at the price of the printer. Material cost is irrelevant to anyone who can cough up $55k+ after taxes.
+  >
+  > **@ausfoodgarden**：Yeah, paint seems super cheap now doesn&#39;t it?<br>Sure, you invest time and effort which many see as making it unique.<br>It&#39;s fantastic to see how 3d printing is advancing though.
+  >
+  > **@rockjano**：The price of these machines will go waaay down...also material cost.....
+  >
+  > **@networkg**：Now amortize the 50k machine.  Pricey toy!
+  >
+  > **@damo666**：Takes away all the fun of painting
+  >
+  > **@rtruth7002**：For 50k something still taking more than 2 hours to print is not worth it
+  >
+  > **@excitedbox5705**：If printhead manufacturers like Epson and Ricoh didn&#39;t have monopolies, these machines would cost almost nothing, just like the scam with printer ink. These things use Ricoh Gen5 printheads that cost ~$3k from Ricoh but the BS licenses attached by the ~5 printhead manufacturers make it really expensive to get access to them. They hold the patents, and that means instead of costing as much as your regular desktop printer, it costs $50k. Once the patents run out we will see prices come down rapidly, just like PLA etc. There is a lower-resolution UV 3D printer like this one that uses printheads from an old HP cartridge that has been reverse engineered.
+  >
+  > **@feverdream2661**：This is insane. Those super tiny prints taking that long and costing that much?!
+  >
+  > **@CriaMesh**：Hey, I’m CriaMesh 😄<br>I turn images or text into 3D models — kinda like modern wizardry, but faster and without needing a wand 😅<br>If you’re into this stuff already, give me a shot… I promise I rarely freeze up (almost never 😂)
+  >
+  > **@dragonmares59110**：THis is actually quite cheap. I mean, coming from someone who paid quite a lot for a custom status.
+  >
+  > **@a1yca7z**：The base price would be fine for a normal person but they cant realistically afford the machine. For a business its too much not including the cost of cleanup, cost of the machine, cost of the power, the margin cor profit and then shipping. Just wayyyyyyyy too much
+  >
+  > **@griffn1**：I&#39;m not going to bother with the math as others have already done that. But a serious question, what is the actual use case for this machine? I can see that it is capable of making very cool things but it seems that the cost of materials is far too great to make any kind of a profit. I can&#39;t see there being a huge market that is willing to buy a 3d printed dragon the size of a coffee mug for $200.00 which I doubt even at that price it could cover costs.
+  >
+  > **@kforrisw9148**：waiting for the Chinese to bring the price down...
+  >
+  > **@HeathFoster1**：Those are amazing.  The Fantastic 4 are incredible.
+  >
+  > **@CanuckCreator**：i though PEAK was expensive....
+  >
+  > **@diepurpledino**：Did you know Garbage Pail Kids are illegal in Mexico?
+  >
+  > **@nghtguy13**：Insanely expensive on top of a machine that&#39;s already financially unattainable by 99.99% of the world. Sure, the models look great, but dang. O.o one hell of a business expense. The price you would have to charge to make any money off of this would be astronomical lol. Crazy
+  >
+  > **@Grunty_Thirst**：Nice prints. but doesn&#39;t it make more sense to learn how to airbrush/paint the models? vs spending all money on a devices thats 50k. i don&#39;t understand how you would make any money at that point.... unless its for personal use, then thats a different story.
+  >
+  > **@NonStick872**：I absolutely love this printer and what it can do, but how many people would pay upwards of $144 pushing $200 for the punkin spice model ? <br><br>I printed an articulated Skeleton Godzilla on my Kickstarter BamBu and was asking about $26 for it and although someone liked it though it was too much ..     I&#39;m like, that&#39;s what it costs ...<br><br>Granted the Pumpkin Spice model is only at cost value for the inks then there&#39;s the other costs like print time, power and cleaning...   Let&#39;s say $200 total cost then the profit to continue doing it.... <br><br>As someone said before the time for them is precious and would be better than painting it by hand time wise...  But still they aren&#39;t exactly big models.   I like them, but how many others would be willing to spend that on a relatively small size model outside of shops?<br><br>I made about a $10 profit on a model that was articulated and the size of my BamBu bed plate .... And someone said it was too much lol <br><br>Again, if I could afford the machine I&#39;d want to have one 😜. <br>Does anyone else agree or disagree?   <br><br>I&#39;m genuinely curious of others thoughts, on this .
+  >
+  > **@NonStick872**：ZOIDBERG!!! 🙏 he is so misunderstood
+  >
+  > **@GamesJames**：If it wasn&#39;t being sold by matter hackers the price would be 10,000$ less. I hate matter hackers for anything not filament.
+  >
+  > **@Vaynexx_**：That is cool and all, but who is this for? Thats too expensive for large scale manufacturing, too complicated for normal consumers, and why would I choose this for engineering? <br>Do not get me wrong, the printer is amazing. You could never get this with FDM, SLA, SLS etc...
+  >
+  > **@rockjano**：And the quality is not as nice as a hand painted model...it is kind of blurry... one thing is sure you can colou those parts which are hard to get into...
+  >
+  > **@GLight_8D**：I don&#39;t see any reason to have that kind of printer.. I don&#39;t see reaspn to buy/make/have miniature figures as well.. if this is a point of that printer to exist, it is just useless and expensive gadget.. there are cheaper ways to print and prototype things on the market.. and seriously did we really need more dust collectors on our shelfs?
+  >
+  > **@Pleumel**：&quot;these 5 figures are just under 200 dollars.. but i mean... look at them!&quot;<br>this is stupid expensive for some home printed funny looking f4 figures.<br>The tech is what makes this impressive. Not the figures or their look.
+  >
+  > **@nylonstringninja**：Truly incredible. Would have been neat to see something other than figurines, more like a real world business use case example. But it is good to see that this is not a case of &quot;results might vary&quot; and that you are able to actually get these out of the machine.  It is amazing what gifted people can 3d Model.  Also the Rocketeer is a classic that deserves more recognition!
+  >
+  > **@gsestream**：what cost. I thought it was free. all the way. why so expensive. diy for nothing. actually 3d print same printer for nothing. ahem, you say people cost money. gotcha. what if not paid or traded. then it does not cost anything, in all cases. why would you need an agreement for human to be paid.
+  >
+  > **@us3rnam3number**：Paint looks very chalky or dull.  This really doesn&#39;t include having an initial artist do all the sculpting and digital painting. This is extremely expensive and limited but eventually the tech will come to consumers level machines. For those who make a living painting figures or minis they&#39;ll eventually be replaced by this tech. Replace every creative career with AI and robots and i guess we&#39;ll all be working for mcdonalds or just homeless. I do not look forward to the future
+  >
+  > **@JustLocal**：I don’t print..
+  >
+  > **@Erebus_DE**：Mimaki has no future, sorry to say that. The competitors: Stratasys - best but more expensive, Sailner3D - much cheaper and middle class.<br>About Printer price: if Mimaki = 1.0, Sailer3D = 0.5, Stratasys = 2.0<br>About Material price: if Mimaki = 1.0, Sailer3D = 0.75, Stratasys = 1.25
+  >
+  > **@moorevfr**：Sorry Joel this just seems like an infomercial to something that well out of my reach for the cost!<br><br>However thanks for still sharing something like this but this is one of the rare that’s I give a thumbs down 👎 to.
+  >
+  > **@hershmergersh6733**：It&#39;s amazing how we continue to take the fun and challenge out of our hobbies
+  >
+  > **@eastofeden11**：cool but pointless.It&#39;s not something anyone here can afford .
+  >
+  > **@blackwildlin**：<a href="https://www.youtube.com/watch?v=A9J5D7SlGz4&amp;t=517">8:37</a> I am curious about the light bleach, which kind of fluorescent light is exactly you refer to?🥹🥹🥹 <br><br>The word you mentioned is “some” fluorescent light….😂😂😂 there are so many different types fluorescent 😂<br><br>I really want to know the answer~~~please ~~~~~~thank you Joel❤
+  >
+  > **@markade**：Solid prints are cool with multicolor, but i wonder if it could do a practical print, like an action figure with moveable limbs, you could scan a persons face and print them as an action figure. That would be a money maker. 🤙💰🪙💸
   >
 
 ---
 
-## 61. Wholesome food, gentle vibes, and a kitchen that runs like a Ghibli dream!#nosh #ghiblitrend
+## 14. Full colour 3D printing at home with PolyDye - Open Source Inkjet integration
 
-- **频道：** Let's Nosh!
-- **观看数：** 2,480
-- **点赞数：** 22
-- **评论数：** 0
-- **时长：** 0:15
-- **发布日期：** 2025-04-10T06:17:01Z
-- **链接：** https://www.youtube.com/watch?v=YhBNKM0fFOc
-- **来源：** channel
+- **频道：** Teaching Tech
+- **观看数：** 300,501
+- **点赞数：** 11,349
+- **评论数：** 806
+- **时长：** 15:56
+- **发布日期：** 2024-12-20T16:00:14Z
+- **链接：** https://www.youtube.com/watch?v=J1wz8S9rTI8
+- **来源：** search
 - **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/YhBNKM0fFOc/hqdefault.jpg
+- **语言：** en-GB
+- **缩略图：** https://i.ytimg.com/vi/J1wz8S9rTI8/hqdefault.jpg
+- **标签：** 3d printing, 3d printer, 3d print, 3d printed, colour, color, cheap, afforadable, home, hobby, polydye, polyjet, stratasys, open source, tested, how to, guide, installation, yohy, calibration, firmware, mounts, creality, tutorial, troubleshooting, problems, diagnosis, pcb, cad, onshape, inkjet, hp
+- **简介：**
+
+  > Check out my 2nd channel, TT Racing: https://www.youtube.com/@TTRacingYT
+  > 
+  > PolyDye is a community created solution to full colour 3D printing, by adding an inkjet cartridge controlled by custom electronics and firmware. In this video, I take you through how it works, installation and calibration, and current performance and issues. Hopefully some testers come on board to help develop and get this production ready.
+  > 
+  > The hardware in this video was provided free of charge for the purposes of testing and making this video. Although Jacques is my patron, I think it’s still clear that I have provided a transparent account of my experience, including bugs and problems.
+  > 
+  > I can only applaud the amount of work that has gone into this. This is such a huge and complicated project that will drive colour 3D printing forward for the community.
+  > 
+  > PolyDye website: https://www.level9000.co.za/index.html
+  > PolyDye GitHub: https://github.com/cooljjj33/PolyDye
+  > PolyDye store: https://www.level90003dprintedmodels.com/shop
+  > 
+  > 0:00 Introduction
+  > Biana’s YouTube channel: https://www.youtube.com/@level9000.3D
+  > 
+  > 0:52 What is PolyDye?
+  > 
+  > 1:35 Alternative multicolour solutions
+  > Prusa XL: https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/
+  > Bambu Lab AMS waste video: https://youtu.be/p3ZIM3megIU
+  > Stratasys Polyjet: https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/polyjet-technology/
+  > 
+  > 3:36 PolyDye workflow
+  > SketchFab: https://sketchfab.com/
+  > Blender 4.1 download: https://download.blender.org/release/Blender4.1/
+  > 
+  > 5:12 Prerequisites and hardware 
+  > Marlin firmware: https://marlinfw.org/
+  > Neptune 2 video: https://youtu.be/RUnH_VKx1bs
+  > 
+  > 6:04 Printed parts and custom mounts
+  > Neptune 2 GitHub CAD: https://github.com/elegooofficial/Neptune-2/blob/main/Neptune2-20210208-3D(2).rar
+  > My mounts in Onshape: https://cad.onshape.com/documents/aff7f542f079d918706e3e3c/w/1cb12100149c0f57ed75d277/e/cc3fd24e66e205bee2284fc7?renderMode=0&uiState=6763bb7cec96061fd4bb2b61
+  > 
+  > 7:05 Assembly and firmware
+  > 
+  > 10:15 Slicer setup and calibration
+  > 
+  > 13:01 Performance and caveats
+  > 
+  > 15:10 Conclusion
+  > 
+  > Models featured in this video: 
+  > "ホオグロヤモリ 🦎 House Gecko, Hemidactylus frenatus" (https://skfb.ly/oBZvO) by ffish.asia / floraZia.com is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+  > "Model 40A - Walking Tokay Gecko, "Big Mama"" (https://skfb.ly/oyCso) by DigitalLife3D is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+  > 
+  > Buy quality and affordable filament from X3D. Buy 3, get 1 free and a free sample pack with every order: www.x3d.com.au
+  > 
+  > Get Quality Resins from 3D Printers Online. 5% off storewide for Teaching Tech subscribers [Code: tech5]
+  > https://3dprintersonline.com.au/
+  > 
+  > Take a look around and if you like what you see, please subscribe.
+  > 
+  > Support me on Patreon: http://www.patreon.com/teachingtech
+
+- **热门评论（200 条）：**
+
+  > **@Silverstar1995** [👍678]：The idea of having a huge spool of white (or clear, for those translucent prints), and a few big bottles of cheap, non-specific ink, and being able to flawlessly print out full color, high resolution prints would be absolutely brilliant. I hope they keep it up and wish them great luck.
+  >
+  > **@gechgr1850** [👍514]：Holy smokes!! This is pretty incredible. The solution to full colour 3d printing was always in inkjet paper printing all this time.
+  >
+  > **@kylek29** [👍301]：If you hit the model with a high-gloss clearcoat it may make the color pop a tad more, that tends to work with inkjet prints on paper.
+  >
+  > **@TeachingTech** [👍201]：Jacques has solved my colour shift problem! It was the Z fade for ABL. Setting it to zero has allowed me to keep colour accuracy past 9-10mm.<br>Very glad to see all of the compliments in these comments for Jacques&#39; work. He really deserves it.
+  >
+  > **@mathewschau9361** [👍134]：3d printing is truly a community driven hobby. Innovations like this seem to always be pioneered by hobbiest. Then 5-10 years later a company will package it up and sell it as a finished product.<br><br>It&#39;s tough to see the open source community exploited for profit but also good that these difficult to implement technologies are adopted by the wider industry.
+  >
+  > **@joeylopezdesign** [👍118]：Oh this is GENIUS, having static png layers really really makes this compelling, having the ability to use the human-readable PNGs to modify, e.g. the colors, or details, using an app like Lightroom or even Photoshop or Gimp that can batch process multiple files at once, you can apply color swaps or saturation changes en masse to use on prints without having to go back to the drawing board and work on the texture&#39;s UV mapped art - which for some can be very intimidating. This is freaking great.
+  >
+  > **@CF_Sapper** [👍73]：Just when I start to feel smart someone comes along and does something like this and makes me feel like a caveman beating rocks together 😂 this is such an awesome idea! Well done to the creator!
+  >
+  > **@ericlotze7724** [👍71]：Modding it to use Tanks+Lines would be a must too in my opinion (although still being able to swap the cartridge/head eventually is a must as well)
+  >
+  > **@kiplinght** [👍54]：Very cool, but I just can&#39;t see myself ever handing over money for HP inkjet cartridges ever again xD
+  >
+  > **@MasterThief117** [👍33]：It&#39;s crazy how no other company has tried experimenting with this for the consumer market. It&#39;s a known technology and such an obvious choice for multi-color prints without requiring multi toolheads or AMS.<br><br>I&#39;m just glad someone is taking the time to work on this and I&#39;m even more glad Teaching Tech is here to share it with the rest of us.
+  >
+  > **@fouroakfarm** [👍32]：The documentation and setup made for this is truly impressive. Huge amount of work. Look forward to seeing what the future for this looks like
+  >
+  > **@zombizettai** [👍19]：Looks like a massive ammount of work has ben put into this project and the result speaks for itself. Thanks for sharing infos about this project
+  >
+  > **@falxonPSN** [👍13]：The amount of effort that the designer has gone through to not just create the actual mechanism but to create thoughtful software that makes calibration less painful is very impressive. This is exactly the sort of thoughtful UX design that ends up missing in a lot of open source projects.
+  >
+  > **@Rawstock92** [👍12]：Around 2012, the Z-Corp full color system was around $75k (USD) for the machine. The models had to be cleaned and resin infused; the process made cleaning resin prints seem like making toast! There was a vacuum infuser for very expensive resin ($3k per 5 gallons) that sold for around $30k. I was looking to run a small shop generating pre-surgical models from medical scan data, as well as architectural models (the primary intended use case); all-in, with the first round of supplies, there was easily $125k in start up cost.
+  >
+  > **@FilamentFriday** [👍11]：This isn’t really new as XYZprinting used a similar ink jet system years ago on their color DaVinci 3D Printer. The problem was you had to use their cartridges. Colors also just kinda bled together and weren’t crisp just as you’ve found with this system. <br>Nice to see an option that uses standard cartridges and open source.
+  >
+  > **@VoidPixel4179** [👍9]：I&#39;m so glad he kept working on this. Hopefully, he puts out all the stuff for public to help build it. It has alot of potential!
+  >
+  > **@JanVokas** [👍9]：That will be perfect for idex printers. Just one head for white filament, other head for coloring (with some little &quot;home&quot; which will protect the head from drying).
+  >
+  > **@dave5194** [👍9]：Hell yeah! I remember Make  Anything &amp; Blake3d&#39;s marker proof of concept and DaVinci&#39;s ink 3d printer and was wondering for a while if someone would pick up where they left off. The fact that this works with regular old off the shelf printer ink cartridges is awesome
+  >
+  > **@txwombat7826** [👍7]：I hope that this really takes off - looks great with lots of room to grow.
+  >
+  > **@ausfoodgarden** [👍5]：Well, as I&#39;ve got 4 x 3d printers and was a printer technician for over a decade, I&#39;ve got to give this idea a shot!<br>The colors may pop more if the model is either sprayed with gloss clear or covered with CA glue.
+  >
+  > **@hargert** [👍4]：Glad to see some progress being made for full color at home.
+  >
+  > **@pinch-of-salt** [👍4]：bro this is impressive, this is great news for opensource inkjet printing as well
+  >
+  > **@LabRatJason** [👍4]：Wow!  I&#39;ll bet this becomes an out of the box feature for most printers within 2 years.  That looks really good!
+  >
+  > **@MrUntermieter** [👍3]：Awesome video, but an even more incredible adventure of having created such a pro-looking solution. Looks brilliant and very well done. Kudos.
+  >
+  > **@BigNCountry** [👍3]：Something that would be awesome, Inkjet still but with refillable tubes or &quot;tanks&quot; mounted at the top with a line running to the a cartridge nozzle for the 4 main colors used for mixing. You can get a visual representation of the ink level while removing the risk of running out while printing.<br>I forgot which company did it but it was a printer company that made a printer like that for those that didn&#39;t like the cartridges and would rather refill internal &quot;tanks&quot; from the outside while having that visual check for levels.<br>This is a cool idea. I never thought this was even possible (not the biggest engineer) but the ideas that could be added to this is awesome!
+  >
+  > **@pvc988** [👍3]：Instead of ink, I wonder if toner powder could be mixed into the plastic inside the hotend. Toner is thermoplastic material itself so it could completely fuse with the base material to give vibrant and precise colors. And there would be no XY offsets to setup since colored plastic would come out of the main nozzle. Main complication would be a system to precisely dose all the colors both in amounts and timing.
+  >
+  > **@jdl3408** [👍3]：This is so cool! Congratulations to Jacques and Bianca for achieving this and thank you for showcasing it. This definitely looks like something that could mature into being very user friendly. My pessimistic side thinks there’s a company out there now looking at how to make a full color 3D printer they sell very cheap with DRM on the cartridges.
+  >
+  > **@lajoyalobos2009** [👍3]：This is getting somewhere. I think polishing the process so it&#39;s all in the slicer somehow and also using those refillable inks would really propel this. It would be great to have something that just requires a blank filament and printer ink and then the colors can be faded or darkened on a whim to suit the print.
+  >
+  > **@Diddy3.14** [👍2]：I had this idea years ago I&#39;m glad it finally caught on.
+  >
+  > **@QUATTROMARCE** [👍2]：I&#39;ve always wanted a desktop mimaki🤗<br>thanks for your work
+  >
+  > **@JonNewell27** [👍2]：Very exciting development, wow there are some clever people out there, mind blowing.
+  >
+  > **@thomaswiley666** [👍2]：Thank you for showcasing a startup (of sorts) with a new take on 3D printing. It does have some obvious flaws, but that it successfully prints as designed is a great step forward.
+  >
+  > **@Zwamdurkel** [👍2]：I was just thinking yesterday why this doesn&#39;t exist yet, I guess it does.
+  >
+  > **@Pauluz_The_Web_Gnome** [👍1]：Nice vid. I will hop in when the colors are vibrant! 😊
+  >
+  > **@explodinglabs7916** [👍1]：Wow, what a great idea. Look forward to seeing more of this.
+  >
+  > **@jabzilla21** [👍1]：Seriously amazing project! This looks like the future of 3D printing. What I imagined it should have been.
+  >
+  > **@Nathan69** [👍1]：This is awesome, I would love to build this
+  >
+  > **@NathanBuildsRobots** [👍1]：This is insane, great work!
+  >
+  > **@phantom3474** [👍1]：Dude I&#39;ve been waiting for a long time for someone to do this idea. Thank you so much for sharing this experience.
+  >
+  > **@Vez3D** [👍1]：A printer bad this tech couple years ago. Cant remember the name. But it didnt go well for them. It was nice thouhg. Glad to see this idea coming back again
+  >
+  > **@zzxd7720** [👍1]：Finally a good solution for 3d printing colored parts.
+  >
+  > **@greytrucking3259** [👍1]：That is so awesome and out of all upgrades, this is the one  most interesting to me.
+  >
+  > **@theonlymann1485** [👍1]：Very impressed and hopefully this could be my 2nd 3d printer!
+  >
+  > **@AORaiMechWork** [👍1]：Imma wait for Inktank version
+  >
+  > **@azimalif266** [👍1]：Epic! Keep it up.👍<br>I would suggest non brand cheap ink version. The branded ones are expensive.
+  >
+  > **@jasongooden917** [👍1]：It&#39;s like a printer and a 3D printer had a kid.
+  >
+  > **@brinkoftext** [👍1]：This reminds me of a video of 3d printing nerd where they showed an industrial FDM printer that can - as I understand it - mix dye into the molten plastic, making it possible to print many colors including perfect transparency. Consumer devices are still far off, but wow - this is already impressive progress. 5+ years ago we had printer kits made of brittle acrylic parts, now we have filament swapping, toolchangers and inkjet coloring.
+  >
+  > **@DonatSomogyi** [👍1]：Dye Sublimation Ink would pop colors even more and fuses better with specific plastics on high heat
+  >
+  > **@erebostd** [👍1]：Very cool 👍👍
+  >
+  > **@TS_Mind_Swept** [👍1]：<a href="https://www.youtube.com/watch?v=J1wz8S9rTI8&amp;t=523">8:43</a> Why does &quot;the Magic Smoke&quot; sound so funny to me LUL
+  >
+  > **@HelamanGile** [👍1]：Only the outside layer needs to be using the dye this could save substantial amounts of ink
+  >
+  > **@noanyobiseniss7462** [👍1]：I think my dual head Bibo or any makerbot would be perfect for this!
+  >
+  > **@moth.monster** [👍1]：I&#39;d love to see about using the print head from an &quot;ink tank&quot; style printer with this kind of system. I know many manufacturers let you buy spare replacements for not too much.
+  >
+  > **@ken830** [👍1]：Totally different, but this reminded me of the Mcor 3D printer that would use an inkjet head to print on regular white paper and then cut that paper and glue it layer by layer until it makes essentially a wood-like full-color 3d print.
+  >
+  > **@artzoneproductions3474** [👍1]：<b>For this to be more practical, they need to create a special PLA that can absorve ink better</b>
+  >
+  > **@BlackDragonBE** [👍1]：I think a toolhead changer is still the way to go. The results are vibrant, it allows for mixing materials and it doesn&#39;t waste filament. I just hope the cost goes down in the following years as more competition enters the market.
+  >
+  > **@fluffycritter** [👍1]：This is super cool. It reminds me of how the 3D Systems full-color printers work, except instead of using the ink as a gypsum binder it&#39;s just dyeing the print itself. Clever! Hopefully 3D Systems doesn&#39;t try to enforce their patents on this one, because this is a game-changer for artistic models.<br><br>When this is a bit more mature and robust I&#39;ll definitely consider putting one of these together.
+  >
+  > **@MrExo_3D** [👍1]：very cool but looks tricky to setup.
+  >
+  > **@sensiblynumb**：Amazing work Jacque! Thanks Michael.
+  >
+  > **@Vukuzenzele**：Welgedaan, Jacques en Bianca! Dankie, Michael, dat jy dit op jou kanaal gedeel het.
+  >
+  > **@rickstaggs2376**：Brilliant idea and looking forward to it progressing further
+  >
+  > **@Blayzeing**：I&#39;ve been waiting for this for years! So cool to see it being done!
+  >
+  > **@Aridanx**：Brilliant project and video, I can&#39;t wait to see the project come out of beta.
+  >
+  > **@yeroca**：Fantastic idea!  Genius, I gotta say.  Thanks for trying it out and bringing it to our attention!
+  >
+  > **@davidharris7249**：Kudos ... this will be fantastic for modellers!
+  >
+  > **@xxW00LYxx**：I love when new clever advancements come to 3d printing!
+  >
+  > **@robb233**：I love this. I&#39;ve been waiting for an economical full color printing solution for years.
+  >
+  > **@jamesvictor2182**：Incredible work developing this solution, very promising
+  >
+  > **@nhiko999**：Fantastic project. Full color 3d prints... I can&#39;t wait for the next iterations!
+  >
+  > **@JAYTEEAU**：Well that&#39;s a pretty fantastic project, and an impressive amount of development
+  >
+  > **@dominickbrookes5103**：Always come to you for outstanding ding innovations
+  >
+  > **@denishillman5942**：WOW - this is awesome. Thank you fellas :)
+  >
+  > **@3DSomething**：Wow! It’s absolutely amazing! What a brilliant idea to make 3d printers more creative!
+  >
+  > **@gabrielalbisay**：This is real inovation and creativity, I hope this can be implementend in comercial printers soon.
+  >
+  > **@moshoshall2006**：Talking about innovation, this is about the best I&#39;ve seen in a long time !
+  >
+  > **@jerrari3D**：This is an outstanding concept!
+  >
+  > **@monarchofrymden**：this is insane, can&#39;t wait to see how it improves even more
+  >
+  > **@diegosimoes1**：Ter filamentos de 0.4  colorir exatostraços de cor me parece uma ideia promissora já que conseguiu dominar o cartucho de impressão...
+  >
+  > **@stereofreq7112**：Super cool video and concept!
+  >
+  > **@controversialrebel5639**：What a brilliant idea. Definitely something to watch out for as the system is further developed. A great intuitive video.
+  >
+  > **@Gounesh**：It&#39;s just calibration at this point. Waiting this for a long time!
+  >
+  > **@ragetist**：This is ingenious, I&#39;m really interested on how this develops in the future
+  >
+  > **@Cheezed_**：Very excited about the potential this has. I&#39;m thankful that you are constantly keeping up with new technology.
+  >
+  > **@BRUXXUS**：Incredible work! What awesome dedication and commitment to making this tech work.
+  >
+  > **@timetempest**：this is one of the most exciting things I&#39;ve seen from 3d printing in several years. amazing work!!!
+  >
+  > **@t8rka**：This is absolutely insane! it&#39;s an incredibly genious idea. Can&#39;t wait for modern firmwares to implement this!
+  >
+  > **@sydnerd**：this is brilliant! Props to the two, amazing work and results are speaking for themselves.
+  >
+  > **@Subservient3d**：You build the best stuff, hands down
+  >
+  > **@TapTox**：Recently there is a bunch of new approaches &amp; ideas coming up! Which brings back my interest of 3D printer again!
+  >
+  > **@Danny.._**：This is so cool. Very excited for the future of this project.
+  >
+  > **@mikeskerritt9618**：This is absolutely amazing, I wish them the best with the testing and eventual launch.<br>All the best  <br>Mike Irish
+  >
+  > **@GraySectoid**：Fantastic, this will be the next big thing in 3d printin space I am sure
+  >
+  > **@DrewLSsix**：I&#39;ve had this exact concept rattling around my head for years, and occasionally look to see if its been worked on or if similar work has been done, incredible that i missed this video when it came out. Interesting also how he encountered many issues I expected.
+  >
+  > **@felixman9691**：Wow. Thanks for sharing stuff like this, thanks for choosing to work on your pick and place machine too! Really appreciate your videos!
+  >
+  > **@Simon_Rafferty**：Very clever.  I hope it eventually turns into a cool consumer product.
+  >
+  > **@satibel**：the case work is amazing, good fits and no heat set inserts.
+  >
+  > **@jeffharrison5265**：This is awesome.  Looking forward to it becoming more mainstream.
+  >
+  > **@MrNorman91**：I&#39;ll wait until it&#39;s commercially available. Kudos to the team!
+  >
+  > **@Shenanigans3D**：I&#39;ve been trying to do this myself. Awesome
+  >
+  > **@TinTalon**：Wow. I didn’t know this existed.  What a cool project.
+  >
+  > **@AgentPothead**：That&#39;s rad. 3D printing community full of super smart and rad people.
+  >
+  > **@jasondads9509**：When we get filament and ink specifically for 3d printing this would be amazing, after seeing full colour resin, it’s really good to see fdm as answer as well
+  >
+  > **@alstaxi2002**：This is incredible. Hope it becomes easy and commercial soon.
+  >
+  > **@Lemonade-lf2pc**：wow this is only the first step. very exciting innovations. 10 years from now this industry is going to be wide spread.
+  >
+  > **@matheusalmeida2779**：Love the ideia!! Grwt work
+  >
+  > **@kbyethx**：Very cool! What a monumental step! &lt;3
+  >
+  > **@AndyTanguay**：Totally wild. Ingenious
+  >
+  > **@dragonheadthing**：Amazing progress!
+  >
+  > **@viewatyourownrisk**：TY for sharing.<br><br>This is a wonderful project.
+  >
+  > **@JonMurray**：This is awesome man! New subscriber ✌🏻
+  >
+  > **@Tailslol**：Yea that will work very well with a ciss. Great idea.
+  >
+  > **@Zeldur**：I looove this idea. I can not donate energy or time at this moment, but this is already looking extremely promising.
+  >
+  > **@3DPrintingProduction**：Thanks for sharing, very cool
+  >
+  > **@bernardfigiel198**：@TeachingTech thank you for, as always, great video. You smile at the end of it reminded me how Arnold was learning to smile in Terminator movie 😅
+  >
+  > **@MekazaBitrusty**：This is insanely cool!!
+  >
+  > **@431parthasarathy4**：This is future. Anyone who found this is a really really passionate one. Love this masterpiece 💞.<br><br>I have the same type of idea in my mind to convert transparent filament to colour with dye, on my way searching I got this. Great gob guys🤟
+  >
+  > **@mikeyearwood**：Well done! We definitely have to talk!!
+  >
+  > **@davydatwood3158**：This is still a ways out from where I&#39;m willing to try and tackle it, but it&#39;s a great concept and I&#39;m hopeful that it will become more acessible as time goes on.
+  >
+  > **@cokreeate**：Very cool. I remember a while back XYZ 3d printer made something like this.
+  >
+  > **@JohnnyBsKillz115**：THATS INSANE!! I saw a video on colored resin printing recently and these models look just as good! Wow!! I really really cannot wait to see this develop into something truly incredible!!!
+  >
+  > **@NLPexperts**：This is super cool. Do another video testing lacquers and varnish to make the colours pop. Also do buy semi transparent filament. Cant wait to try this
+  >
+  > **@gameplayandreview**：The future of 3D printing
+  >
+  > **@Fireflyホタル**：This is amazing! The amount of work and the passion needed to develop something like this all by himself must have been huge. We all know PLA is porous and hydrophilic, so using it as a substrate for water-based ink is just ingenious. Wow.
+  >
+  > **@francoismenard6704**：All the stuff that is going on in the 3d printing space lately is quite exciting. IMHO in around 5 years we&#39;ll be in 3d printing heaven.
+  >
+  > **@kylewellman402**：Well, this is absolutely amazing. Looks like I have a new purpose for my ender 3 pro 😃 I like this idea much more than using it for parts in a custom build
+  >
+  > **@jtwarner13**：That is really cool!
+  >
+  > **@TheBillzilla**：FWIW I thought that system up about 5 - 6 years ago, but found that it&#39;d already been done before so I didn&#39;t pursue it.<br>I&#39;m very glad that&#39;s going to be an enthusiast-level version coming out.
+  >
+  > **@el3dprint**：It is sooooo nice! I was hoping this would develop as it did and now hope it will continue in the soon future to be making a kind of &#39;standard&#39; available as add-ons for our cheap 3D-printers at home and some companies implementing this (again) for real without real high ink-prices.
+  >
+  > **@nicksmith1415**：The way forward. Say no to unnecessary waste ❤
+  >
+  > **@theredcelt627**：This is so freaking cool. I absolutely love this community. So many amazing projects and advances allowing this industry to flourish. I just hope the same kind of creativity and growth can start being applied to the CNC mill industry. I really want to branch into that as well.
+  >
+  > **@Koy-o-T**：the smiling stare at the end it&#39;s gonna be in my dreams
+  >
+  > **@DominikScholtes**：This is bloody nuts. The amount of R&amp;D alone. 🤯
+  >
+  > **@Zachary3DPrints**：That is looking interesting
+  >
+  > **@Ave_Xavier**：Nicely done.
+  >
+  > **@spendymcspendy**：Very similar to Mimaki&#39;s printers. I love this content! Thank you!
+  >
+  > **@Alphaseen**：This is deeply impressive.
+  >
+  > **@rheller_82**：Perfect um no. Next level awesome, heck yeah! If that’s the start you have a real winner.
+  >
+  > **@gerthddyn**：This is amazing. This fixes so many things if the colors are fast and stay. I&#39;d be worried that they would rub off in the long term.
+  >
+  > **@SSCanopus**：Insane what hes managed to develop in 4 years alone. Hopefully with it being accesible to the public now development will spped along.<br><br>Cant wait to eventually beable to buy a somewhat finished ver in hopefully a few years.
+  >
+  > **@TinCanToNA**：Genuinely amazing
+  >
+  > **@ZulkirVT**：the positive implications and the overall beauty of what can be done with this now, and in the future as it improves is INCALCULABLE!!
+  >
+  > **@kensb2**：This looks super cool! It&#39;s probably beyond my current capabilities, but I truly hope enough people jump on-board to test this and get it to a final product. This seems pretty perfect for something like a KIckstarter campaign!
+  >
+  > **@One_Stale_Donut**：Amazing tech, excited.
+  >
+  > **@PiefacePete46**：Thanks Michael... thorough and informative as always.<br>What an absolutely FANTASTIC job they have done!  Sadly, I am not one of the fortunates with the necessary to help out with development, but I will glue myself to their progress!<br>Keep chasing that &quot;Holy Grail&quot; of 3D printing... cost effective colour prints!
+  >
+  > **@supremebeme**：this is bananas esp decompiling the print cart interface lol
+  >
+  > **@Merrunz**：This is amazing! I was leaning towards building a box turtle, but I kind of want to do this instead now. I like the way the prints look with the ink.
+  >
+  > **@jshanab42**：Awesome, great idea. Sounds like we will be seeing a cover/wiper that a g-code actuates to keep the head clean and prevent drying out. Or maybe just a end parking place/clean that is off plate.
+  >
+  > **@AngriestAmerican**：Great stuff!!!!
+  >
+  > **@wilsistermans1118**：Very interesting way of colouring 3D prints. Hope to see it on commercially available machines in a couple of years.
+  >
+  > **@CautiousCrow**：Woah that&#39;s amazing.
+  >
+  > **@barry-allan**：This is great, I&#39;m probably experienced enough to try to join the testing and try it out myself. And this is a good enough price for the output in my opinion. However, I simply want to wait until the next stage of this before I try it. It&#39;s a genus idea and it&#39;s such a cool concept. Tell him great work and keep it up!
+  >
+  > **@divyanshsrivastava7312**：THIS IS MINDBLOWINGGGGGGG
+  >
+  > **@jorgeneo560**：brilliant idea
+  >
+  > **@sebassanchezc-1379**：Awesome. I thought this would be a thing.
+  >
+  > **@TKs3DPrints**：awesome i have seen a few video over the years of this tech or similar and i would love to tinker and get this running.. but i don&#39;t use marlin and still sounds like a lot of work to process. i hope at the end of the day they will manage to make a plug and play 2 clicks done print.. i wish them and everyone working on the project the best of luck
+  >
+  > **@hedleypepper1838**：Cool ill be watching this 😊
+  >
+  > **@aPyroDesign**：I don&#39;t feel like I have the confidence to do this on my own, but wow I cannot wait until future easy versions of this are available.
+  >
+  > **@OldCurmudgeon3DP**：Gotta admit this is a cool step above using sharpies riding against filament.<br>Bummer about requiring marlin though. Left that f/w behind years ago.
+  >
+  > **@dSquared0162**：This is AMAZING! ‘Sad’ that I have an N4 running Klipper! Will watch progress great interest. 👍 👏
+  >
+  > **@williamsteele**：Nice!!!  I remember the old inkjet kit... and this one added to an FDM printer is amazing.  Order #1 placed!  Shipping is very expensive... but I really want to support this project... so worth it.
+  >
+  > **@str8up598**：Layer Adhesion - print speed. As a retired Epson large format printer field tech I greatly admire the amount of work to merge the two technologies. I have used a single stamp pad color to tent clear petg on a lamp shade project. Staining the filament before extrusion.
+  >
+  > **@johnbee1574**：Flipping awesome
+  >
+  > **@NitrousBanshee**：That&#39;s super cool
+  >
+  > **@speedhump231**：As a miniature war gamer and terrain maker, this will be game changing when perfected. Now to wait for the Bambu X1c version.
+  >
+  > **@joepartlow**：I really want to see this take off.
+  >
+  > **@pirobot668beta**：For bulk filament coloring, a dye sublimation chamber up-stream of the nozzle.<br>Dye coats the filament with color prior to being extruded.<br>Won&#39;t have the fine resolution of this system, but it could be &#39;tuned&#39; to give just about any bulk color desired.
+  >
+  > **@jetblackstar**：This is fecking amazing.<br>I&#39;m building a voron 2.4 and was sad to think my old ender 3 might not be very useful anymore.<br>But this project is perfect as it still needs marlin.<br><br>I&#39;m very likely to grab this kit after my voron is tuned. It sounds very early and I&#39;d love to get involved.
+  >
+  > **@RichardSats-e5l**：Incredible. So much proof of work here in this project. Would be incredible to incorporate into Klipper with a python script somehow. All in due time.
+  >
+  > **@CorvusCorps**：Sweet tech!
+  >
+  > **@arklanuthoslin**：Incredible. A ways to go for ease of use and color saturation, but WOW. This will change SO much for me, who doesn&#39;t really like painting or using filament for multicolor prints cause there&#39;s not enough colors to do it &quot;right.&quot; With this I could, in theory, make the model, print it, then just get on with the post processing and weathering.
+  >
+  > **@darkalleywaystudio3975**：Very cool. It definitely gives a softer look but I think it is just another tool in the basket and another way of printing multicolor. I don’t think this would replace current ways of multicolor but is another way of going about it. I will probably give it a try later this year for fun. Great job by the creator 👍
+  >
+  > **@EntrE01**：jet adhesives between the layers and finally print isotropically!
+  >
+  > **@angeldelvax7219**：It&#39;s about time that this becomes a thing :p I do understand that this takes a LOT of research, and costs a small fortune to get it working, and to get it to the user market at an affordable price.
+  >
+  > **@ziffer90**：i can see stratasys fuming in rage from here
+  >
+  > **@jasonh4534**：Ok... This is cool!
+  >
+  > **@leonardoalbuquerque9375**：Nice flamengo FC t-shirt you got there
+  >
+  > **@Ankky22**：I had no idea plastic absorbs ink so well
+  >
+  > **@lego_minifig**：This could be a cool project for my old Ender 3
+  >
+  > **@Rawstock92**：Same principle as the full color ABS powder systems, going back to Z-Corp (before Stratasys acquired them); those machines used HP cartridges as well. Very cool to see the application here!
+  >
+  > **@Led_Icaurs**：cool project
+  >
+  > **@GDM1787**：This is vastly superior to using different colors of plastic spools.
+  >
+  > **@zo0ot404**：Incredible
+  >
+  > **@JensRoland**：I saw something similar 20 years ago on a powder bed fusion machine, where the powder was fused with inkjet ink instead of heat or adhesive, then after extraction you had to harden it in some sort of epoxy fume chamber. It was not terribly practical for home use, but it did produce full color prints (albeit rather muted/pastel looking) . I probably still have the demo print in a box somewhere.
+  >
+  > **@coledavidson5630**：<a href="https://www.youtube.com/watch?v=J1wz8S9rTI8&amp;t=782">13:02</a> this is absolutely unbelievable. Especially the images. And so cheap! I really hope this becomes more polished and accessible in the near future
+  >
+  > **@zen123w**：Amazing!
+  >
+  > **@porcorosso4330**：Of course someone had this idea before me.
+  >
+  > **@autumn_leaves0**：the work the dude has done is awesome. Glad i only print mechanical parts.
+  >
+  > **@NergeN**：that&#39;s amazing!<br>I&#39;d love to see how it will work with lithophanes
+  >
+  > **@bobrowles43**：very cool!
+  >
+  > **@jrodrigo1984**：Very nice.
+  >
+  > **@ElizabethGreene**：In inkjet printers, each print starts by spraying a bunch of ink into a waste bucket to purge and wiping over a rubber wiper a number of times.  Between prints, the printhead parks onto a sealed pad to prevent evaporation.  A clever inventor could make a snap in/snap out mechanism that is triggered by bumping to cover/uncover this printhead in a similar way.
+  >
+  > **@Rebar77_real**：Taking the permanent markers idea to the year 3000! So cool.
+  >
+  > **@natecus4926**：I love this idea! And if it is ever available to use with something like the ecotank inks rather than a cartridge, I would buy it. I have a hard enough time keeping up with the ink in my 2d printer to want to do this too
+  >
+  > **@aspensareprettyneat4002**：This is really awesome. Want to try it, but not willing to un-klipper my Neptune 3 for it. Will look forward to a solution that works with Klipper in the future :D
+  >
+  > **@IvanJakesevic**：Next step in 3d printing.
+  >
+  > **@IIBLANKII**：Now imagine this with multi color 3d printing. The level of detail would be crazy.
+  >
+  > **@ethansdad3d**：Interesting!
+  >
+  > **@agsup**：Looks like I have a project to contribute to once I graduate with my CS degree. I think Klipper compatibility would really make this project take off
+  >
+  > **@imacmill**：I wondered when we&#39;d start seeing this.
+  >
+  > **@nkumar1**：It&#39;s such an awesome project, just happy with watching the video another time
+  >
+
 ---
