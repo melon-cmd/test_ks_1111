@@ -1,17 +1,17 @@
 # YouTube 视频分析报告（Score >= 30）
 
-**生成时间：** 2026-03-10T11:02:03.263222
+**生成时间：** 2026-03-10T11:07:28.567828
 **搜索来源：** UCdPk4IC7aqxjHTm0aKN4rpg, iNew3D
-**总收集：** 26 | **排除不相关：** 12 | **最终保留：** 14
-**有字幕(API)：** 1/14
+**总收集：** 32 | **排除不相关：** 20 | **最终保留：** 12
+**有字幕(API)：** 1/12
 
 ---
 
 ## 1. This Desktop 3D Printer Can Print 500,000+ Colors l inew3d QC2A
 
 - **频道：** Sami Luo Tech
-- **观看数：** 18,455
-- **点赞数：** 345
+- **观看数：** 18,463
+- **点赞数：** 348
 - **评论数：** 52
 - **时长：** 6:48
 - **发布日期：** 2026-03-05T13:46:32Z
@@ -164,52 +164,10 @@
 
 ---
 
-## 3. Post-processing — optional, not required.
-
-- **频道：** inew3d
-- **观看数：** 1,077
-- **点赞数：** 19
-- **评论数：** 1
-- **时长：** 1:07
-- **发布日期：** 2026-02-25T09:20:41Z
-- **链接：** https://www.youtube.com/watch?v=lG9vZvWQ8yQ
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/lG9vZvWQ8yQ/hqdefault.jpg
-- **热门评论（1 条）：**
-
-  > **@gregoryamer**：Why sandblasting?
-  >
-
----
-
-## 4. Full-Color Bird Model — Post-Processing
-
-- **频道：** inew3d
-- **观看数：** 318
-- **点赞数：** 5
-- **评论数：** 2
-- **时长：** 1:29
-- **发布日期：** 2026-02-25T09:18:30Z
-- **链接：** https://www.youtube.com/watch?v=DQ8qTy2E_a4
-- **来源：** search&channel
-- **有字幕：** 否
-- **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/DQ8qTy2E_a4/hqdefault.jpg
-- **热门评论（2 条）：**
-
-  > **@SilvanKofmehl**：would love to test one for dental modells. <br>or is it possible to get some models testprintes somewhere
-  >
-  > **@esther1577**：Cuado compras la impresora también vienen todos esos accesorios? La máquina para lavar, la cápsula de limpiado, etc???
-  >
-
----
-
-## 5. Full-Color 3D Printer | inew3d’s QC2A | Is This Real or Fake?
+## 3. Full-Color 3D Printer | inew3d’s QC2A | Is This Real or Fake?
 
 - **频道：** CoshTech
-- **观看数：** 5,133
+- **观看数：** 5,132
 - **点赞数：** 51
 - **评论数：** 44
 - **时长：** 8:23
@@ -298,6 +256,48 @@
   > **@johnchase7667**：This is a resin printer. And this is not new tech, other companies have the same process already
   >
   > **@jerryasapjliu6882**：it is not some new technology at all. Basically a 3D version of UV printer. The issue is still the consistency of printing, which involves software, material, hardware perfectly integrated as one. Of course, the printer head is another thing. As most people know, the UV printing heads are still controlled by several big brands. Even China side can mass produce cheaper UV printer, they still haven&#39;t hacked the way to make the head. A head normally costs $1000+. So think about how many color ink catridges you need, that&#39;s bascially what you need the cost to have a reliable printing head system.
+  >
+
+---
+
+## 4. Post-processing — optional, not required.
+
+- **频道：** inew3d
+- **观看数：** 1,077
+- **点赞数：** 19
+- **评论数：** 1
+- **时长：** 1:07
+- **发布日期：** 2026-02-25T09:20:41Z
+- **链接：** https://www.youtube.com/watch?v=lG9vZvWQ8yQ
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/lG9vZvWQ8yQ/hqdefault.jpg
+- **热门评论（1 条）：**
+
+  > **@gregoryamer**：Why sandblasting?
+  >
+
+---
+
+## 5. Full-Color Bird Model — Post-Processing
+
+- **频道：** inew3d
+- **观看数：** 318
+- **点赞数：** 5
+- **评论数：** 2
+- **时长：** 1:29
+- **发布日期：** 2026-02-25T09:18:30Z
+- **链接：** https://www.youtube.com/watch?v=DQ8qTy2E_a4
+- **来源：** channel
+- **有字幕：** 否
+- **语言：** en
+- **缩略图：** https://i.ytimg.com/vi/DQ8qTy2E_a4/hqdefault.jpg
+- **热门评论（2 条）：**
+
+  > **@SilvanKofmehl**：would love to test one for dental modells. <br>or is it possible to get some models testprintes somewhere
+  >
+  > **@esther1577**：Cuado compras la impresora también vienen todos esos accesorios? La máquina para lavar, la cápsula de limpiado, etc???
   >
 
 ---
@@ -408,552 +408,76 @@
 
 ---
 
-## 11. MORE new 3D printers for 2026 @ TCT SHENZHEN!
+## 11. What Can a Full-color 3D Printer DO? Sailner J402 Plus
 
-- **频道：** The Next Layer
-- **观看数：** 44,276
-- **点赞数：** 1,235
-- **评论数：** 47
-- **时长：** 2:36
-- **发布日期：** 2025-09-11T09:54:07Z
-- **链接：** https://www.youtube.com/watch?v=_3ngtzbnbBU
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en-US
-- **缩略图：** https://i.ytimg.com/vi/_3ngtzbnbBU/hqdefault.jpg
-- **热门评论（22 条）：**
-
-  > **@HeathFoster1** [👍51]：Really wish Formlabs didn&#39;t buy up that start up for SLS Printing
-  >
-  > **@4473021** [👍42]：Bruh the TPU Air handle bar grips at the end are killing me, people are definitely gonna print some &quot;creative&quot; things with it 💀
-  >
-  > **@AshianShinn** [👍18]：Snapmaker guys in TCT said the U1 shipping has queued into 2026😂
-  >
-  > **@Deneteus** [👍7]：She started laughing at his handling of that tpu.
-  >
-  > **@RooBars** [👍4]：Your camera pisses me off, and I am not even at the event.
-  >
-  > **@JacobYT2406** [👍2]：Thank you, love the content and coverage 🥰
-  >
-  > **@hu5116** [👍2]：Love what you are doing and showing.  HOWEVER, could you introduce what we are looking at before you describe it. You went from resin to metal to extruded all in one swipe, and not being a 3D printing guru, I am still not sure what I was really looking at for most of the video. Otherwise great videos and thanks for the intros!
-  >
-  > **@GrayeWilliams** [👍1]：I was so close to kickstarting the Arco. Glad to see the full system out into the world.<br><br><br>‘
-  >
-  > **@nadir3D**：Crazy!
-  >
-  > **@jmanTxKy**：Nice 👍🎉
-  >
-  > **@Myrblyl**：Vision Miner already uses the Formlabs SLS ecosystem. And that&#39;s freaking cool.<br>That&#39;s the kind of technology we&#39;re not going to see at consumer level. For good reasons.
-  >
-  > **@br3nz3l**：Wait, what? I thought I already saw the Formlabs Fusion SLS printer on Adam Savage&#39;s channel awhile ago?
-  >
-  > **@xpim3d**：Damn.. it’s 2025 and this is what you selected to show?! 🥶
-  >
-  > **@bez_glaza**：lol, arkfly beniz
-  >
-  > **@maoryehezkely1526**：אני אשמח מאוד לעזרה קצת יותר צמודה בדרי עם מדפסות תלת מימד ותהייתי עם אפשר אולי לעשות שיתוף פעולה או משהו דומה כי יש לי שטח ויש לי ידע בתחומים האחרים כמו טיהור אוויר אבל אין לי ניסיון עסקי או במידול
-  >
-  > **@TimDavies1955**：Form labs cost to much in everything
-  >
-  > **@chipped**：Thanks for the info! What camera was this filmed on? Thanks 😊
-  >
-  > **@ryanmazza1233**：What camera are you using? How far away is it from you to get these clean shots? On another note  I&#39;ve been watching form labs, I love the idea of medical devices and technology specialized to the specific patient not just the patient type.
-  >
-  > **@Thunderstryk**：F formlabs, keeping SLS out of the hands of the common person
-  >
-  > **@RazorBucks**：@<a href="https://www.youtube.com/watch?v=_3ngtzbnbBU&amp;t=125">2:05</a> the woman on the right let bad thoughts enter her mind.
-  >
-  > **@krollmond7544**：Definitely interested in the SLS, im sure it only cost a few fortunes
-  >
-  > **@PimpinNProgress**：Hey hey.... ho ho.... These generative selfie stick cams have got to go....
-  >
-
----
-
-## 12. New 3D Printers for 2026 @ TCT Shenzhen
-
-- **频道：** The Next Layer
-- **观看数：** 43,838
-- **点赞数：** 1,657
-- **评论数：** 55
-- **时长：** 2:58
-- **发布日期：** 2025-09-10T07:19:35Z
-- **链接：** https://www.youtube.com/watch?v=_m-rzrfdbJI
-- **来源：** search
-- **有字幕：** 否
-- **语言：** en-US
-- **缩略图：** https://i.ytimg.com/vi/_m-rzrfdbJI/hqdefault.jpg
-- **热门评论（31 条）：**
-
-  > **@fabianluethi03** [👍33]：I think the way you use the 360° camera is really cool, thanks for the insight
-  >
-  > **@No_Worries83** [👍12]：If you can ask FLSUN if they ever intend to do a multi material system, that would be great!  Also, we gotta see the H2C in action!
-  >
-  > **@waggy401** [👍5]：Was Wondermaker there? Their 4-tool printer was on Kickstarter before the U1. They are a newcomer to the space.
-  >
-  > **@Pollyfab_official** [👍3]：Your video is absolutely amazing! Looking forward to seeing you again next year!
-  >
-  > **@ivanmelnikovabramov2177** [👍3]：We want to know ir elegoo will release the multicolor system
-  >
-  > **@thirtythreeeyes8624** [👍3]：No way those shoes are comfy for the whole day haha!
-  >
-  > **@soul_in_a_fishbowl** [👍2]：I love the HT PLA GF. Prints always look amazing. Super useful for desiccant containers for spools.
-  >
-  > **@racingrosso** [👍2]：Dude, love your videos, keep it up!!!
-  >
-  > **@G.U.P.** [👍2]：So no Elegoo AFSS😢😢
-  >
-  > **@GiacomoGarosi** [👍2]：Bambu Lab H2C?
-  >
-  > **@AxolotlsKeeper** [👍1]：Any info from elegoo about their &quot;AMS&quot;? :)
-  >
-  > **@user-bt9ek2dv2y** [👍1]：I doubt it by any chance of Bambu Lab having anything new coming out in the next 3-4 months? I plan on purchasing a P1S Combo but wondering if i should hold off a few months to see if anything new comes out?
-  >
-  > **@jamesocker5235** [👍1]：Is bondtech there
-  >
-  > **@Foreign_Tropical**：We want to see more everything!!!!!  So exiting!  Awesome content!
-  >
-  > **@zulhilmibinzaphil6727**：I was there earlier, saw you!! Will be there for 2 more days, great to see you explaining on these!!
-  >
-  > **@rodiculous9464**：The stick cam is cool
-  >
-  > **@blendervendor2220**：I bought a u1. I cannot wait to have one in hand.
-  >
-  > **@2spark631**：I&#39;d be interested to see if the glass fiber filaments are bound to cause irritation like carbon fiber filaments
-  >
-  > **@Guy_Sa**：I haven&#39;t heard of raise 3d in years
-  >
-  > **@kctechsg**：Great stuff, keep up the good work. Would you mind sharing what 360 camera you use?
-  >
-  > **@leoneraulino9468**：Topppp
-  >
-  > **@Myrblyl**：Polymaker finally releasing ASA-CF ^^ Since FormFutura did released ApolloX CF10 and ApolloX Kevlar quite a long time ago by now, that&#39;s a good news.<br>Still, I&#39;m wondering what kind of use could have PLA-GF ...<br><br>What I&#39;d love to see some day is a multi-toolhead Delta from FLSun ... With or without a multi-material add-on.
-  >
-  > **@DerekSmort**：Cloudy with a Chance of Meatballs shoes
-  >
-  > **@Cart_of_a_Jon**：@thenextlayer<br>Are you going to Formnext in Frankfurt, Germany?
-  >
-  > **@Barbasnoo**：The window on the rear of the u1 baffles me. But I like it! Great coverage of this event btw
-  >
-  > **@feymysic9811**：Awesome video! Now that you&#39;ve had time to wear them, what&#39;s your take on the all-day comfort? We&#39;re so excited to hear your thoughts!
-  >
-  > **@wink5792**：WONDERMAKER ULTRA-S!!!!!
-  >
-  > **@EXSHAL265**：Are there any high performance polymers printers? (Ultem, Peek)
-  >
-  > **@mastalock**：V500? Theyve been calling it V400 Max
-  >
-  > **@TigraZ**：just get the damm elegoo boot no one cares bout shoues or snakes
-  >
-  > **@Gounesh**：Oh look, nobody cares for the artisan!
-  >
-
----
-
-## 13. The COST of FULL COLOR 3D Printing!
-
-- **频道：** 3D Printing Nerd
-- **观看数：** 47,754
-- **点赞数：** 1,542
-- **评论数：** 235
-- **时长：** 18:02
-- **发布日期：** 2025-05-16T13:00:30Z
-- **链接：** https://www.youtube.com/watch?v=A9J5D7SlGz4
+- **频道：** Sailner3D_Official
+- **观看数：** 20,464
+- **点赞数：** 0
+- **评论数：** 28
+- **时长：** 1:15
+- **发布日期：** 2025-09-17T08:30:18Z
+- **链接：** https://www.youtube.com/watch?v=UpccNT2aWsg
 - **来源：** search
 - **有字幕：** 否
 - **语言：** en
-- **缩略图：** https://i.ytimg.com/vi/A9J5D7SlGz4/hqdefault.jpg
-- **标签：** 3d printing nerd, joel telling, joeltelling, 3d printing, 3dpn, mimaki, mimaki cost, mimaki material cost, wekster, printed obsession, chelsey creates things
+- **缩略图：** https://i.ytimg.com/vi/UpccNT2aWsg/hqdefault.jpg
+- **标签：** 3D print, 3D scanner, 3D Printer, full-color 3D printer, 3d printing, 3d printed, sailner, sailner 3d, sailner 3d printer, full color 3d printer, full color 3d printer 2025, what can a 3d printer do, what can a 3d printer make, technology, sailner j402 plus, how to make money, how to make money with 3d printing, 3d printing nerd, 3d printing ideas, top 3d prints, best full color 3d printer, best 3d printer, color 3d printing, 3d scanner for 3d printing, 3d printing business
 - **简介：**
 
-  > FULL COLOR PRINTS from the Mimaki 3d printer! They look amazing, but come at a cost!
+  > Start creating amazing full-color 3D printed objects with the Sailner J402 Plus! This printer allows full-color and multi-material creations, perfect for both commercial and personal projects. See how this resin printing solution can redefine your creative boundaries. 
+  > Create it. Print it. Own it. 创意随心，打印随行。
   > 
-  > Mimaki 3DUJ-2207 ▶ https:/bit.ly/mimaki
-  > Printed Obsession ▶ https://www.patreon.com/printedobsession
-  > Chelsey Creates Things ▶ https://www.patreon.com/c/chelscct
-  > Wekster ▶ https://www.patreon.com/c/wekster
+  > ✅ All products support OEM customization—contact us via the official email in the comments.
   > 
-  > 00:00 - MONTAGE!
-  > 00:30 - The Machine
-  > 00:58 - Printed Obsession
-  > 01:32 - Price of Machine & Materials
-  > 05:23 - Chelsey Creates Things aka CCT
-  > 09:44 - Wekster
-  > 16:58 - The Line Up!
+  > -- Chapters --
+  > 00:00 Intro
+  > 00:05 Equipment Performance
+  > 00:17 White Jet Process
+  > 00:42 Printer Applications 
+  > 01:01 Summary
   > 
-  > 3D Printing Nerd Studios POWERED by PCBWay
-  > 8% off using code 3DPN ▶ https://3d.pn/pcbway
-  > REDEEM COUPON HERE ▶ https://member.pcbway.com/Member/coupons
+  > #sailner #sailner3d #3dprinting #3dprinter #fullcolor3dprinter #3dresin  #3dprintingbusiness #customfigure #rapidprototyping #additivemanufacturing 
   > 
-  > MERCH! ▶ https://the3dprintingnerd.com/merch
-  > Patreon ▶ https://3d.pn/patreon
-  > FloatPlane ▶ https://www.floatplane.com/channel/3dprintingnerd
+  > ====================================================================
   > 
-  > Bambu ▶ https://bit.ly/bambulab
-  > Glowforge ▶ https://3d.pn/glowforge
-  > Prusa ▶ https://3d.pn/prusa
-  > Puget Systems ▶ https://3d.pn/pugetsystems
-  > Slice Engineering ▶ https://3d.pn/slice
+  > ✉️Official Email Address：marketing@sailner.comCompany Info： Zhuhai Sailner 3D Technology Co., Ltd., a high-tech enterprise under the renowned printing technology group "Seine Technology," specializes in additive manufacturing R&D and application solutions. With a complete industrial ecosystem covering technology development, material innovation, equipment production, and after-sales service, it is a global leader in full-color 3D printing technology.
   > 
-  > MATERIALS 🦇
-  > Polymaker ▶ https://3d.pn/polymaker (aff)
-  > Printed Solid ▶ https://3d.pn/printedsolid
-  > Amazon ▶ https://geni.us/shopatamazon (aff)
-  > Matterhackers ▶ https://3d.pn/matterhackers (aff)
-  > Proto Pasta ▶ http://3d.pn/protopasta (aff)
+  > ==============================================================
   > 
-  > Nikko Industries 3D Printable Models ▶ https://bit.ly/3lK0WHi
-  > 
-  > THE TEAM! 🤟 
-  > Host: Joel Telling ▶ https://www.instagram.com/joeltelling
-  > Executive Producer: David Tobin ▶ https://www.instagram.com/david_tobin
-  > The Website ▶ https://the3dprintingnerd.com
-  > 
-  > --------------------------------
-  > Find Me Socially!
-  > --------------------------------
-  > Twitch: https://twitch.tv/joeltelling
-  > Twitter: https://twitter.com/joeltelling
-  > Twitter 3DPN: https://twitter.com/3dprintingnerd
-  > Facebook: https://facebook.com/3dprintingnerd
-  > Instagram: https://instagram.com/joeltelling
-  > Instagram 3DPN: https://instagram.com/3dprintingnerd
-  > Discord: https://discord.gg/GGZQgnh
-  > 
-  > --------------------------------
-  > Want to send me something?
-  > --------------------------------
-  > 3D Printing Nerd
-  > PO Box 55532
-  > Shoreline, WA 98155
-  > USA
-  > 
-  > Music in Episodes Comes From:
-  > Epidemic Sound - http://3d.pn/epidemicsound
-  > Future Vega - https://futurevega.sourceaudio.com
-  > Audio Micro - http://www.audiomicro.com/royalty-free-music
-  > 
-  > FTC Disclaimer: A percentage of sales is made through Affiliate links
+  > 📘Facebook：https://www.facebook.com/share/16kgQEUo7K/?mibextid=wwXIfr
+  > 🌸Ins: https://www.instagram.com/sailner3d_offical
+  > 🎵TikTok: https://www.tiktok.com/@sailner3dprinter?_r=1&_t=ZP-92pru3obq0s
+  > 💼LinkedIn： https://www.linkedin.com/company/sailner-3d/?viewAsMember=true
 
-- **热门评论（155 条）：**
+- **热门评论（10 条）：**
 
-  > **@Pr0t0typeSky** [👍150]：If I ever win the lottery I wouldn’t tell anyone… but this would be one of the signs
+  > **@neonblowfish** [👍8]：Lose the music!
   >
-  > **@IrocZIV** [👍61]：At these prices it still leaves room for people to print in resin and hand paint.
+  > **@marcusphsuwandi** [👍4]：how much ?
   >
-  > **@See-essEll** [👍51]：So, say you&#39;re $50,652 to buy the machine, (I&#39;m not including tools to run, cleaning supplies, etc). Using Chelsey&#39;s dragon as a benchmark and rounding a bit let&#39;s say it&#39;s going through $50 of ink per day, and let&#39;s also assume that cleanup of the model and prep/reset of the machine for each machine takes an hour of that day. One employee would then be kept occupied by running eight of these machines, and the machines would be kept productive all day. If you&#39;re doing models with less than 23 hours print time, there is wasted machine time, but we&#39;re looking at a potential best-case scenario here:<br><br>$50,652 * 8 machines = $405,216 (though it looks $8,000 cheaper direclty from mimaki)<br>$15/hr operator * 8hrs * 5 days * 52 weeks = $31,200<br>$50 ink/day * 5 days * 52 weeks * 8 machines = $104,000<br>= $540,416<br><br>So, for the machines to pay for themselves after a year, you&#39;re going to need to be pricing those models at more than 5x materials cost, as these estimates don&#39;t account for rent or any other kind of overhead like shipping, taxes, insurance.<br><br>Anyway, the reason for this is that if anyone looks at the $50 dragon and thinks it should be sold for like $60? Sorry. Even at 2x materials cost the operator is taking a big risk that the machines will keep operating for 5-6 years without needing further investment.
+  > **@AlienZ..** [👍2]：Is it a copy of Stratasys?
   >
-  > **@lucky13toys** [👍30]：You mention it in the video, but it’s important to remember that material cost is only one part of the retail price of an item. Suppose you run this $50k machine on two shifts for 10 years - that still works out to more than a dollar per hour of print time. Plus paying for operators and post processors and maintenance and production overhead and keeping the lights on in the shop. And, you know, a profit margin so you can actually buy groceries at the end of the day.<br><br>I see this more as a prototyping tool for design firms than something I would have spitting out retail products. This is a super cool machine but it is a serious investment :)
+  > **@barokara3254** [👍2]：I am beggin Sailner please make commercial/private use version of this printer that is more affordable smaller size version. Wonderfull technology but TOO expensive. 100k dollar is no joke for private use.
   >
-  > **@greenscarpdx** [👍29]：I&#39;m glad that thing is so expensive. Otherwise I&#39;&#39;d have ordered the moment you showed WEKSTER&#39;s work.
+  > **@ryans600** [👍2]：I feel like this is one of those things where if you ask how much it costs, you can&#39;t afford it.
   >
-  > **@RocketCityTim** [👍18]：Is it possible to hollow the objects to save material and time?
+  > **@mymie6104** [👍2]：the price?
   >
-  > **@chuckthetekkie** [👍12]：Way more expensive than I was expecting, Hopefully this becomes cheaper over time or an open source solution comes out for us hobbyists. I know some people are working on using inkjet cartridges to color prints. Very cool nonetheless just way too expensive for most people.
+  > **@Sailner3D.Official** [👍1]：Contact us to get a quote: marketing@<a href="http://sailner.com/">sailner.com</a>
   >
-  > **@arklanuthoslin** [👍11]：I wasn&#39;t super shocked by the prices - ziodberg especially - then we got the the Chinese dragon. THAT was a price spike. Holy crap. And then Wekster&#39;s dragon at 110. Yikes. The models look <b>amazing.</b> The coloring, the shading and all that, very impressive. But the cost is really prohibitive, for consumers, anyway.
+  > **@marcelodeniz3932**：Incredible!
   >
-  > **@ÜberSlashBeans** [👍10]：3d printing has come so far in the last few years. Looking forward to having this kind of thing as a consumer tech in like 10 years.
+  > **@gabicosmin895**：price please?
   >
-  > **@DanielFQEvo** [👍10]：I actually think the price is fine if you take into account how long it would take to paint something like that to the same level of detail, my time is worth a lot more.
-  >
-  > **@bricehoogenboom6483** [👍6]：This takes &quot;Failed print&quot; to a new meaning...
-  >
-  > **@vcvracarkad** [👍5]：<a href="https://www.youtube.com/watch?v=A9J5D7SlGz4&amp;t=67">1:07</a> Hello, Potion Seller, I am going into battle and I want your strongest potions.
-  >
-  > **@wekster** [👍5]：Who else made a Woop, Woop, Woop sound at <a href="https://www.youtube.com/watch?v=A9J5D7SlGz4&amp;t=345">5:45</a>?
-  >
-  > **@ryandowney9383** [👍4]：This is really cool. The colors being printed on the edges of each layer reminds me of the 3D printers a few years ago like the Mcor Arke that used layers of paper and they printed full color on the edges.
-  >
-  > **@scarfa21** [👍4]：Learn how to paint, and the results are always better.  Simple.   200 bucks for an airbrush, 100 for paint, 150 for compressor.  50k for a color printer, tons of money for supplies...Yeah I like painting
-  >
-  > **@Millin3dStudio** [👍3]：I would never leave the house again!! Touch grass??? id just print grass :P
-  >
-  > **@hippiemcfake6364** [👍3]：The cost of the machine itself, maintenance, failure rate (as a multiplier to the other costs), etc. would all be great to consider, too.
-  >
-  > **@Nadesican** [👍3]：Joel, are you hollowing those models out at all? Back when I was making stuff for Shapeways, they would advise you to hollow out your models and leave a channel for the excess material to escape, and save you cost by only &#39;sealing&#39; the outer layers. Not sure if this uses the exact same process though.
-  >
-  > **@alien13ufo** [👍3]：Awesome video Joel! I have a question though. Is there any efficiency benefit for printing multiple models at once like there is with a multi-color FDM print? If I printed 10 of those at once, is the price per model still the same as if I printed one?
-  >
-  > **@hed420** [👍3]：The &quot;ink&quot; is way too expensive. It&#39;s basically overpriced uv resin. Should be $20 - $30 a litter.
-  >
-  > **@gfixler** [👍2]：I wonder if anyone remembers the old Z-Corp printers, from the early 2000s, which made quite similar things, with a bit less resolution, but with full color, with a volume of starch powder, built up in layers, each solidified and colored with an XY inkjet head. It would rake out a thin layer of starch powder, print a 2D image in binder, with just the edges in full-color, printed in literal inkjet ink, and sink down a tiny bit into the tub for the next layer. You dug it out of the starch at the end, used the built-in vacuum hose to suck up the excess powder for reuse, and soaked the part in an infiltrant, to make it stronger. They came out like full-color sandstone sculptures. The resolution felt a bit like 90s-2000s low res poly art, but it was amazing. They had an infiltrant that rubberized the print, and I had a tube with an accordioned middle section, and it compressed, and felt like a sandstone textured latex rubber. I found it 20 years later, and it had hardened quite a bit, though. Anyway, I think they were initially $40k USD, but I think that eventually kept dropping, I want to say down to $18k, though I could be confusing it with the Dimension printer, which was the first filament printer I had ever seen, back during that same time period. I have a bunch of pics from SIGGRAPH, I think 2005, of the machines and beautiful example prints, up on Flickr.
-  >
-  > **@LostXD787** [👍2]：I suverly underestimatet the rare Material Costs
-  >
-  > **@smilertoo** [👍2]：very nice but very expensive.
-  >
-  > **@ozcanison** [👍2]：The failed dragon highlights something, why are the prints solid, why cant they be hollow? Surely that would save on cost, and you dont need to worry about liquid resin like a normal resin printer.
-  >
-  > **@AIIZREVIEWS** [👍2]：This takes high brow, bougie 3d printing to a whole new level
-  >
-  > **@TheReverend64** [👍1]：Those are some amazing prints by very talented artists!
-  >
-  > **@Machine_NZ** [👍1]：5 years and we&#39;ll have these at home sitting on the desk (when the price gets more realistic). Great technology and thanks for showing us Joel
-  >
-  > **@Toni_Toaster** [👍1]：Awesome video and beautiful models and prints. 👍<br><a href="https://www.youtube.com/watch?v=A9J5D7SlGz4&amp;t=310">5:10</a> It&#39;s actually a lot more expensive than I thought. I expected the price of the material to be similar to our normal UV resins.
-  >
-  > **@Sunbound77** [👍1]：. Im really interested to see how the cost and design of this technology/type of 3d printing changes over the next few years.
-  >
-  > **@edd4431** [👍1]：Hi Joel, I am curious on your cleaning regiment for these. I use to work with one of Mimaki&#39;s large resin 3d color printers, and cleaning the models was such a pain. Beautiful colors after it was all done though. Also print something cool and big on this please. 😁
-  >
-  > **@KenDilas01** [👍1]：The costs seem cheaper than I expected. How are the models colored, prior to printing?
-  >
-  > **@Rawstock92** [👍1]：Joel, did you ever use a Zcorp full-color printer? (They were bought by 3D Systems.) ABS powder bed machines have been around for 20 years now … There was (once) a Seattle company printing World of Warcraft customs in full color; I think they were about $100 for an 8” model.
-  >
-  > **@OneSolidCube** [👍1]：Why does the Adam bomb price jump so much - is it supports or some other reason?<br><br>why don’t they do hollow infill?
-  >
-  > **@NorgenSolutionsLLC** [👍1]：Does the price include energy used? 27hr print will use quite a bit of electricity
-  >
-  > **@shanematthews1985** [👍1]：So what are the costs to run the machine and the time taken to clean the model and the machine after?<br><br>Because those material costs seem fair, but i&#39;m assuming those other costs are going to ruin the pricing on these models
-  >
-  > **@reprinted3D** [👍1]：This machine, and the prints are magnificent! I do wonder if the prints could be &quot;hollowed&quot; the way you would is printing them on a regular resin printer, to save on the ink costs?
-  >
-  > **@elchavode6479** [👍1]：I&#39;m sure of you hollow them out a bit or had some support structure in the inside they&#39;ll probably reduce the cost. Or is this not feasible with those type of machines.
-  >
-  > **@YourBuddyDinec** [👍1]：I mean you&#39;re technically correct about Futurama being one of the top 3 shows....which is the best kind of correct...
-  >
-  > **@TrippLilley** [👍1]：I can&#39;t believe y&#39;all missed the opportunity to call it the Spice Marine...
-  >
-  > **@poepflater** [👍1]：You can easily reattch the flame with a soldering iron using some filament as solder....
-  >
-  > **@xtianor** [👍1]：amazing printer, sadly the prices are ridiculous. you can think of investing if the prices for the materials were maybe a fifth of what it actually is, but i feel it is a very delicate machine
-  >
-  > **@exxodas** [👍1]：Prices are way too crazy
-  >
-  > **@marty1765** [👍1]：Joel! This stuff looks great!it looks like the main issue with the cost / time to make these is actually: how long and how much skill is required to actually apply the color coding to the 3d model itself? Even with just 4 colors it takes me an eternity to paint large models to print in bambu studio. I guess it helps if the print files come with it baked in, but without it, it looks like it could take a long time and tons of skill to get the colors down on some uncolored models.<br><br>The costs for mats seem to be in line though, especially for smaller prints.
-  >
-  > **@Ddddddddddd381** [👍1]：I would have loved to hear why certain models cost more than other rather than &quot;this model is really cool&quot;. the only gauge I can see is longer print costs more because time. I don&#39;t know how large any of these models are so I can&#39;t really see what differentiates the model&#39;s cost
-  >
-  > **@Titanieon** [👍1]：Áhhh cost to much look nice and good i dont need to airbrush it but this cost and print time is .. :D Easyer to buy normal Resin printer then paint it :D
-  >
-  > **@username9774** [👍1]：How is jlc cheaper than printing it yourself
-  >
-  > **@peaceorpieces8343** [👍1]：Can&#39;t understand why you would spend so much money and waste so much time printing. <br><br>I can do all these models on my ender 3 with a 0.8mm nozzle in a quarter of the time, 10x the quality and 20,000 colours all while using cheap filament from temu 😂
-  >
-  > **@RonsTwo** [👍1]：What garbage pail kids models ? Where where where???
-  >
-  > **@rolfathan** [👍1]：Most of these prices seem really good for what they are. If you think about how much blind bag vinyl figures tend to cost, it&#39;s like those prices, but you get to choose basically anything. But, I&#39;m kinda surprised at just how much the price shot up for those detailed prints. I&#39;m trying to wrap my head around what does and doesn&#39;t change the price by so much. Pumpkin Spice Warrior is so cool, but that price is.... wow. A lot.
-  >
-  > **@ByGrafer**：i went crazy when saw the firewolf effect with the light
-  >
-  > **@Mike-mu7tk**：Getting Home Shopping Network vibes
-  >
-  > **@carsondial2**：What&#39;s the cleaning process like?
-  >
-  > **@MrGerhardGrobler**：Print all the things... In full colour!<br>Love it!<br>I am already winching at the lost filament from colour printing with a material system.<br>FYI I encountered something strange.<br>Colour swapping with an AMS causes colour bleeding, yet joining different colours with the Mosaic palette and the Sunlu FC01 does not.<br>I theorised that this is due to continuous feed and not having waste blobs in the hot end/nozzle
-  >
-  > **@Repkord**：How dare Mimaki doubt the 3D Printing prowess of the Nerd! Of course you can get the detail! 😅<br><br>Such a cool breakdown and amazing tech... what a time to be alive!
-  >
-  > **@skelingtonrick**：joel, I thought your learned from Frank, a lil Clear varnish on the print after the cleaning! I feel like if someone was running a company and offering prints at cost plus a small markup it could be a tempting thing to order a model, but no regular person is ever gonna own or even see one of these machines in person lol
-  >
-  > **@charlesschneider7079**：The cost is about what I expected.
-  >
-  > **@chrisdixon5241**：Those prints are amazing. The wolf was definitely my favourite, and the skeleton mode gives astounding results.<br><br>I can&#39;t wait to see this technology trickle down into machines at a more hobbiest price point!
-  >
-  > **@markymark3d**：now would the cost go down printing more on the build plate like typical fdm printing
-  >
-  > **@AngelVenomous**：I wonder about the layer height. Seems close to 0.1mm. Also is there no way to make the parts hollow? Or at least have an infill material that is a lot cheaper than the other ones just for the inside of the part.
-  >
-  > **@clutch2827**：I think Joel got flagged by the IRS with this business expense. Lol!
-  >
-  > **@DerBen0487**：Bondtech INDX might change the way we print cheap color models :)
-  >
-  > **@izzuanadnan**：i want to know the weight of the items
-  >
-  > **@Myrblyl**：Yay ! I had a correct rough guess for the Fantastic 4 bundle !<br><br>My favorite, besides the Dragon which is absolutely stunning, is &quot;Adam Bomb&quot;. It&#39;s so darn good, I may collect them all if possible ! 🤩<br>i&#39;m not very familiar with the process used with the Mimaki printers, besides being ink-based. I don&#39;t know if you already did dwelve into the details about how it&#39;s functioning in video, from the model to the actual prop. If not, that&#39;s something that sounds very interesting and you may do ?
-  >
-  > **@CanilGigantesdoMoenda**：Congratulations on the post. One curiosity, there was no 3D file of a real person made with scanning, so we could see the quality and the cost of printing?
-  >
-  > **@realgoose**：Is there a way to save some money and time by printing multiple copies of a model all at once? I’m thinking the multi material systems we have today where one copy takes x amount of material, but adding 5 copies only adds x+1 amount of material, bringing the overall cost down.
-  >
-  > **@dorrinbrown7310**：I noticed a bunch of copyright material  or should  say intellectual property in those prints is that something added in production cost , related to license to use .
-  >
-  > **@IcedForce**：Considering what some minis cost and you often need to spend hours to hand paint them by yourself. Even when you would add the price of electricity and someone to be around overseeing the print (while doing something productive), it&#39;s probably still cheaper than some GamesWorkshop minis when time spend painting them is added to the calculation.<br>Considering what kind of business you could be running on that printer, it can be super cheap compared to the alternatives (mostly skilled artisan work). It&#39;s pretty much the same as metal SLS printing, I had one project with a company that was on the verge to get one but that few hundreds of thousands price tag was a problem for the accounting. Running the numbers for ordering prototype and test molds (they do injection molding) from machine shops and the time waiting for those molds, the printer (in comparison) instantly getting either test molds or just a more durable part as master to get molds that can last couple runs paid itself back in just a year, two at most to really cut down the development costs and turn into profit.
-  >
-  > **@rescuemethod**：What is the material and does it have any decent mechanical properties? Max build size? Special facility requirements for lasers or venting or handling of toxic materials?
-  >
-  > **@HunterG-f2i**：This is super cool
-  >
-  > **@CdoGtheGreat**：What is the commercial use case for this? I know high quality prototyping is one, but isn&#39;t there other technologies that are more cost effective? How are actual injection molded action figures made in full color?
-  >
-  > **@hargert**：Great video, would love to see a similar breakdown once you get the Flashforge CJ270 and how their material costs will compare. I am looking forward to seeing this tech/materials come down just like mono color resin printing did.
-  >
-  > **@hueforging**：It seems like print time is almost directly related to cost.  I&#39;m assuming this is because print time is all about the volume being printed and each layer is fairly constant time.  Is that accurate?
-  >
-  > **@TinkerDad3D**：i&#39;d love to build a machine similar to this.  i&#39;d need a lot more space than i have now, though, &amp; raw materials would probably require that i win the lottery, considering iterations.  as interesting as it&#39;d be to own one professionally made, i&#39;d rather build my own - i used to be a hp authorized technician, so guess where the colorization would come from....  😋
-  >
-  > **@JTB3112**：I figured it be expensive. $40 for that small adam bomb is crazy!
-  >
-  > **@LincolnWorld**：Thanks for showing us the prints and explaining the material costs. To a degree, the prices were sort of what I expected. That being, way more than I would currently want to spend, but understandable considering it&#39;s all proprietary and it&#39;s not like there are 50 different companies selling the &quot;ink&quot; on amazon all competing for our business. <br>Definitely not something for all the people selling keychains for $5 at local crafts fairs. It&#39;s a high-end machine for situations where money is no object and you just need something to look like that.<br><br>I wonder if it&#39;s practical to at least hollow out the models a little bit to save on material. Even if the walls had to be 2 mm thick for strength, I&#39;d bet you could cut down the material cost by 50% or more, depending on the size of the model. Is that something you can do on this printer?
-  >
-  > **@greyjedi4794**：This would be an amazing way to get people into TTRPGs. You could probably also do historical uniforms, lkke Napoleonics 😮
-  >
-  > **@Fortizar**：This is neat but I&#39;ll stick to resin printing and use some Army painter speed paint. cheaper and looks better imo
-  >
-  > **@Asathehun**：Woo hoo!
-  >
-  > **@MechsandMead**：Why not Zoidberg?
-  >
-  > **@toufans**：Why the doesnt look such as injection material look as you visited the gentle giant Mickey mouse texture ?
-  >
-  > **@chrisdera**：the print is so expensive if i want to print them and sell them.
-  >
-  > **@iwantosavemoney**：Seem a little expensive but they are cool as all get out I would pay it
-  >
-  > **@Donnis32**：They would have to reduce the equipment and material costs by a lot to make this a practical printer outside of specialized industries.
-  >
-  > **@ImaginationToForm**：Can we order color prints from you on this?
-  >
-  > **@Reds3DP**：Joel, if I had the chance to buy one for these for like 25k would you??
-  >
-  > **@roystevens4333**：I run a 3D printing service and to make things simple I sell at material cost x10. So these super cool color prints become very expensive at retail. Even at that I&#39;m not sure I&#39;d be able to amortize the cost of the machine.
-  >
-  > **@matsv201**：I know a way to do something simular on a basically normal resin printer, with far higher printspeed and larger models.<br><br>If someone want to build one. That would be cool
-  >
-  > **@PencilParasite**：But but but Flashforge guys ? Where are they ?
-  >
-  > **@JonS**：Beautiful prints, but those material costs are a lot higher than I was expecting. Some third-party inks are needed to drive down prices. Of course, that comes with risks.
-  >
-  > **@SirLANsalot**：ya that would be something you would have to finance to own, but it would make its money back and pay for itself with HOW FUCKING AMAZING THOSE DETAILS ARE!!!!!!!
-  >
-  > **@stevesloan6775**：I’d like to see this tech used for stop motion animation designed characters. <br>At least they’d be functional! <br>You could  3d print a series that adds up to say a running cycle of a character. It could be a new genre in film production.
-  >
-  > **@C-M-E**：Cutting my printing teeth on resin, the cost isn&#39;t as eye-popping as the time these are taking to print, an inherent process constraint to the Mimaki machine as it works now. <br>Comparatively to models that are hand painted like a Hot Toy, Sideshow or similar high end , you can get a lot more resolution out of consumer-grade machines, but the trade off is the time and/or ability to do a 1st rate paint job sucks up and enormous amount of time in itself, hence why I have boxes and boxes of proof prints awaiting paint, some of which are nearing seven and eight years of waiting. Ugh... I enjoy the creating process a lot more than the painting side. That&#39;s my story and I&#39;m sticking to it! 😁
-  >
-  > **@volttherobot**：Any reason not to &#39;hollow&#39; them out a bit? I guess it would only shave off about 5 bucks or so...
-  >
-  > **@SaishiYT**：I&#39;ll admit I had no interest in watching this when I saw the pumpkin print/cost thumbnail, but today after seeing the hot demon lady that changed my mind 😆
-  >
-  > **@fursphere2**：Add in machine cost and post processing, and this gets down right ridiculous.
-  >
-  > **@MortisNuntius**：Full color dynamic 3d printer is hitting Kickstarter in March!! Price will be 7k (ish)
-  >
-  > **@BrutalkhaosStudios**：The models look insane and amazing but no chance you could use that machine to print figures lol it would have to have a bigger commercial use in order to justify the price of everything
-  >
-  > **@havacomment**：Anyone else getting flashbacks to 1979&#39;s The Jerk? I kept hoping for a model to cost one dollar and NINE CENTS!!! 🤣
-  >
-  > **@Yeliscreativeart**：Its cool what the machine can handle and do but for 50k printer it should print crispy and material cost is in my opinion to expensive and is only good for protoypes . But i can’t see why they can’t make it smaller like a 3 printer they would sell like butter
-  >
-  > **@crowguy506**：Your print is finished. Just saying. I wonder what it would be on let’s say a 17 color H2D to run these prints material wise in filament saving mode. Obviously several weeks of printing.
-  >
-  > **@rickseiden1**：The prices that were under $20 would be great for an etsy shop. The $50+ not so much.
-  >
-  > **@Dragonited**：Maybe when the patent have expired and other manufacturers can start to use it to compete the price down then it will be a good value. As it is now there is no way that it will be affordable even for big corporations. Those prices for the ink is insane. Would like to se a FDM printer that can color the filament when it goes through the heater or something.
-  >
-  > **@Northsidedesign3D**：This would be great if the materials were less pricey.
-  >
-  > **@sherizaahd**：Some of these are probably out of reach for the cost.  That Rocketeer bust is pretty, but to make money on it you&#39;d have to sell it for over $200, which seems unreasonably expensive to me.  maybe someone would want it, and I guess made to order it would be OK.
-  >
-  > **@clapsnacks**：Hey Joel. How would you figure out how much your time is worth when spending time preparing and post processing prints?
-  >
-  > **@santiagoricoy1313**：Perhaps I missed it, but could you explain how Wekster prepared the files? <br>Or more directly: if I purchased a model off of his Patreon, would I be able to send it to someone with a Mimaki and they would have all they need to print it?
-  >
-  > **@3DJapan**：The tricky part for most people would be finding full color models to print.
-  >
-  > **@bnielsen44**：Thanks for those samples. Do you know who offers Mimaki 3D printing as a service in the United States? I guess Shapeways is no longer.
-  >
-  > **@tinmole9032**：Very cool but costly, I&#39;ll stick to my Enders
-  >
-  > **@40cycleradio**：Love the video. BUT!<br>Where<br>Is<br>The<br>Framework <br>Laptop!<br><br>Also sue store in skeleton color would be amazing as she can fade
-  >
-  > **@MrOrionpax**：I think the warhammer community would have to be on your side. Being able to print an already painted army  might sell well If you can get it running in that area
-  >
-  > **@Whgfghfhg**：I think the painting is the part that worth the price. With file you can print but without painting skill it will like child work.
-  >
-  > **@greyjedi4794**：Do you think full color print will ever be as affordable as regular 3d printing?  The reason i ask, is because i cannot tell you the number of times I&#39;ve tried to get aomeone into DnD or ww2 historicals and the person said they&#39;d love to but didn&#39;t have time to paint.
-  >
-  > **@edwardstephens936**：Question; does the cost decrease with filling the build area with a bunch of the same models kinda like we can with FDM printing?
-  >
-  > **@JonathanB822**：It&#39;s very impressive but the details aren&#39;t sharp enough to warrant a 50k price tag! Still really cool though!
-  >
-  > **@nopenope5598**：Tech is interesting but those print times and costs are NOT cost effective or &quot;worth it&quot; since you could easily find comparable stuff much cheaper.
-  >
-  > **@gc2276**：Overpriced printer and overpriced supplies results in very expensive products that are made very slow. But still there will be someone to buy that .
-  >
-  > **@Bigguns761**：is the resolutiona as good as resin ?
-  >
-  > **@abruzzibill4704**：Did they come out painted from the 3D printer, or were they painted afterwards?<br><br>If they came out like that from a 3D printer, what brand/model?
-  >
-  > **@maugseros8347**：Very cool, but I can only see this for printing small things.   Because start to get 8&quot;+ tall and forget about it.   Double the size is about 8 times the material.   So imagine doubling the size of that $144 print would cost closer to $1152 in material!!      Might be chump change to large corporations doing prototyping, but you really don&#39;t need color for most prototyping, your just looking for overall form/function, and you could print it on a mirad of other 3D printer technology for a fraction of the cost.<br><br>So looks like a very cool proof of concept printer, but I can&#39;t imagine this catching on unless it drops and order of magnitude in cost.
-  >
-  > **@CreatingWithJackPines**：These costs would have meaning if they were compared with the rest of what FDM can do, both single nozzle with the waste, and with multi-nozzle.<br><br>Then I went and looked at the price of the printer. Material cost is irrelevant to anyone who can cough up $55k+ after taxes.
-  >
-  > **@ausfoodgarden**：Yeah, paint seems super cheap now doesn&#39;t it?<br>Sure, you invest time and effort which many see as making it unique.<br>It&#39;s fantastic to see how 3d printing is advancing though.
-  >
-  > **@rockjano**：The price of these machines will go waaay down...also material cost.....
-  >
-  > **@networkg**：Now amortize the 50k machine.  Pricey toy!
-  >
-  > **@damo666**：Takes away all the fun of painting
-  >
-  > **@rtruth7002**：For 50k something still taking more than 2 hours to print is not worth it
-  >
-  > **@excitedbox5705**：If printhead manufacturers like Epson and Ricoh didn&#39;t have monopolies, these machines would cost almost nothing, just like the scam with printer ink. These things use Ricoh Gen5 printheads that cost ~$3k from Ricoh but the BS licenses attached by the ~5 printhead manufacturers make it really expensive to get access to them. They hold the patents, and that means instead of costing as much as your regular desktop printer, it costs $50k. Once the patents run out we will see prices come down rapidly, just like PLA etc. There is a lower-resolution UV 3D printer like this one that uses printheads from an old HP cartridge that has been reverse engineered.
-  >
-  > **@feverdream2661**：This is insane. Those super tiny prints taking that long and costing that much?!
-  >
-  > **@CriaMesh**：Hey, I’m CriaMesh 😄<br>I turn images or text into 3D models — kinda like modern wizardry, but faster and without needing a wand 😅<br>If you’re into this stuff already, give me a shot… I promise I rarely freeze up (almost never 😂)
-  >
-  > **@dragonmares59110**：THis is actually quite cheap. I mean, coming from someone who paid quite a lot for a custom status.
-  >
-  > **@a1yca7z**：The base price would be fine for a normal person but they cant realistically afford the machine. For a business its too much not including the cost of cleanup, cost of the machine, cost of the power, the margin cor profit and then shipping. Just wayyyyyyyy too much
-  >
-  > **@griffn1**：I&#39;m not going to bother with the math as others have already done that. But a serious question, what is the actual use case for this machine? I can see that it is capable of making very cool things but it seems that the cost of materials is far too great to make any kind of a profit. I can&#39;t see there being a huge market that is willing to buy a 3d printed dragon the size of a coffee mug for $200.00 which I doubt even at that price it could cover costs.
-  >
-  > **@kforrisw9148**：waiting for the Chinese to bring the price down...
-  >
-  > **@HeathFoster1**：Those are amazing.  The Fantastic 4 are incredible.
-  >
-  > **@CanuckCreator**：i though PEAK was expensive....
-  >
-  > **@diepurpledino**：Did you know Garbage Pail Kids are illegal in Mexico?
-  >
-  > **@nghtguy13**：Insanely expensive on top of a machine that&#39;s already financially unattainable by 99.99% of the world. Sure, the models look great, but dang. O.o one hell of a business expense. The price you would have to charge to make any money off of this would be astronomical lol. Crazy
-  >
-  > **@Grunty_Thirst**：Nice prints. but doesn&#39;t it make more sense to learn how to airbrush/paint the models? vs spending all money on a devices thats 50k. i don&#39;t understand how you would make any money at that point.... unless its for personal use, then thats a different story.
-  >
-  > **@NonStick872**：I absolutely love this printer and what it can do, but how many people would pay upwards of $144 pushing $200 for the punkin spice model ? <br><br>I printed an articulated Skeleton Godzilla on my Kickstarter BamBu and was asking about $26 for it and although someone liked it though it was too much ..     I&#39;m like, that&#39;s what it costs ...<br><br>Granted the Pumpkin Spice model is only at cost value for the inks then there&#39;s the other costs like print time, power and cleaning...   Let&#39;s say $200 total cost then the profit to continue doing it.... <br><br>As someone said before the time for them is precious and would be better than painting it by hand time wise...  But still they aren&#39;t exactly big models.   I like them, but how many others would be willing to spend that on a relatively small size model outside of shops?<br><br>I made about a $10 profit on a model that was articulated and the size of my BamBu bed plate .... And someone said it was too much lol <br><br>Again, if I could afford the machine I&#39;d want to have one 😜. <br>Does anyone else agree or disagree?   <br><br>I&#39;m genuinely curious of others thoughts, on this .
-  >
-  > **@NonStick872**：ZOIDBERG!!! 🙏 he is so misunderstood
-  >
-  > **@GamesJames**：If it wasn&#39;t being sold by matter hackers the price would be 10,000$ less. I hate matter hackers for anything not filament.
-  >
-  > **@Vaynexx_**：That is cool and all, but who is this for? Thats too expensive for large scale manufacturing, too complicated for normal consumers, and why would I choose this for engineering? <br>Do not get me wrong, the printer is amazing. You could never get this with FDM, SLA, SLS etc...
-  >
-  > **@rockjano**：And the quality is not as nice as a hand painted model...it is kind of blurry... one thing is sure you can colou those parts which are hard to get into...
-  >
-  > **@GLight_8D**：I don&#39;t see any reason to have that kind of printer.. I don&#39;t see reaspn to buy/make/have miniature figures as well.. if this is a point of that printer to exist, it is just useless and expensive gadget.. there are cheaper ways to print and prototype things on the market.. and seriously did we really need more dust collectors on our shelfs?
-  >
-  > **@Pleumel**：&quot;these 5 figures are just under 200 dollars.. but i mean... look at them!&quot;<br>this is stupid expensive for some home printed funny looking f4 figures.<br>The tech is what makes this impressive. Not the figures or their look.
-  >
-  > **@nylonstringninja**：Truly incredible. Would have been neat to see something other than figurines, more like a real world business use case example. But it is good to see that this is not a case of &quot;results might vary&quot; and that you are able to actually get these out of the machine.  It is amazing what gifted people can 3d Model.  Also the Rocketeer is a classic that deserves more recognition!
-  >
-  > **@gsestream**：what cost. I thought it was free. all the way. why so expensive. diy for nothing. actually 3d print same printer for nothing. ahem, you say people cost money. gotcha. what if not paid or traded. then it does not cost anything, in all cases. why would you need an agreement for human to be paid.
-  >
-  > **@us3rnam3number**：Paint looks very chalky or dull.  This really doesn&#39;t include having an initial artist do all the sculpting and digital painting. This is extremely expensive and limited but eventually the tech will come to consumers level machines. For those who make a living painting figures or minis they&#39;ll eventually be replaced by this tech. Replace every creative career with AI and robots and i guess we&#39;ll all be working for mcdonalds or just homeless. I do not look forward to the future
-  >
-  > **@JustLocal**：I don’t print..
-  >
-  > **@Erebus_DE**：Mimaki has no future, sorry to say that. The competitors: Stratasys - best but more expensive, Sailner3D - much cheaper and middle class.<br>About Printer price: if Mimaki = 1.0, Sailer3D = 0.5, Stratasys = 2.0<br>About Material price: if Mimaki = 1.0, Sailer3D = 0.75, Stratasys = 1.25
-  >
-  > **@moorevfr**：Sorry Joel this just seems like an infomercial to something that well out of my reach for the cost!<br><br>However thanks for still sharing something like this but this is one of the rare that’s I give a thumbs down 👎 to.
-  >
-  > **@hershmergersh6733**：It&#39;s amazing how we continue to take the fun and challenge out of our hobbies
-  >
-  > **@eastofeden11**：cool but pointless.It&#39;s not something anyone here can afford .
-  >
-  > **@blackwildlin**：<a href="https://www.youtube.com/watch?v=A9J5D7SlGz4&amp;t=517">8:37</a> I am curious about the light bleach, which kind of fluorescent light is exactly you refer to?🥹🥹🥹 <br><br>The word you mentioned is “some” fluorescent light….😂😂😂 there are so many different types fluorescent 😂<br><br>I really want to know the answer~~~please ~~~~~~thank you Joel❤
-  >
-  > **@markade**：Solid prints are cool with multicolor, but i wonder if it could do a practical print, like an action figure with moveable limbs, you could scan a persons face and print them as an action figure. That would be a money maker. 🤙💰🪙💸
+  > **@Wilfredo-z7m9q**：Price?
   >
 
 ---
 
-## 14. Full colour 3D printing at home with PolyDye - Open Source Inkjet integration
+## 12. Full colour 3D printing at home with PolyDye - Open Source Inkjet integration
 
 - **频道：** Teaching Tech
-- **观看数：** 300,501
+- **观看数：** 300,499
 - **点赞数：** 11,349
 - **评论数：** 806
 - **时长：** 15:56
